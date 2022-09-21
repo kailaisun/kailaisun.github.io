@@ -49,21 +49,20 @@ I have published more than 10 papers at top international journals, including *B
 </div>
 
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2016</div><img src='/images/paper/HONEYCOMB.tif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2016</div><img src='/images/paper/HONEYCOMB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - Honeycomb: An open-source distributed system for smart buildings.  Tian Xing*, Hu Yan*, **Kailai Sun**\*, Qianchuan Zhao, et al. **Cell Patterns** (2022).(in press)
-
   
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2016</div><img src='/images/paper/Dbf.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2016</div><img src='/images/paper/DBF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- A Fusion Framework of Vision-based Indoor Occupancy Estimation. **Kailai Sun**\*, Peng Liu\*, Tian Xing, Qianchuan Zhao and Xinwei Wang. *Building and Environment* (**BAE**). 222 (2022): 109354.(in press)
+- A Fusion Framework of Vision-based Indoor Occupancy Estimation. \\
+  **Kailai Sun**\*, Peng Liu\*, Tian Xing, Qianchuan Zhao and Xinwei Wang. *Building and Environment* (**BAE**). 222 (2022): 109354.(in press)
   
 </div>
 </div>
