@@ -38,7 +38,7 @@ I have published more than 10 papers at top international journals, including *B
 -->
 ## Journal Paper
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2016</div><img src='images/paper/2.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2016</div><img src='images/paper/2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [FastSpeech: Fast, Robust and Controllable Text to Speech](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
