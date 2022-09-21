@@ -37,6 +37,12 @@ I have published more than 10 papers at top international journals, including *B
 <div class='paper-box-text' markdown="1">
 -->
 ## Journal Paper
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2016</div><img src='/images/show/2.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
+[FastSpeech: Fast, Robust and Controllable Text to Speech](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
+**Yi Ren**, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
+  
 - [A review of building occupancy measurement systems](https://www.sciencedirect.com/science/article/abs/pii/S0378778819332918). **Kailai Sun**, Qianchuan Zhao, Jianhong Zou. *Energy and Buildings* (**ENB**). 216 (2020): 109965.
 
 - [Indoor occupancy measurement by the fusion of motion detection and static estimation](https://www.sciencedirect.com/science/article/abs/pii/S037877882100877X). **Kailai Sun**, Qianchuan Zhao, Ziyou Zhang, and Xinyuan Hu. *Energy and Buildings* (**ENB**). 254 (2022): 111593.
