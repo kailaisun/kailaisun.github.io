@@ -38,7 +38,7 @@ I have published more than 10 papers at top international journals, including *B
 -->
 ## Journal Paper
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2016</div><img src='/images/paper/2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2020</div><img src='/images/paper/2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [A review of building occupancy measurement systems](https://www.sciencedirect.com/science/article/abs/pii/S0378778819332918). \\
@@ -49,20 +49,20 @@ I have published more than 10 papers at top international journals, including *B
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2016</div><img src='/images/paper/HONEYCOMB.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2022</div><img src='/images/paper/HONEYCOMB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Honeycomb: An open-source distributed system for smart buildings.  Tian Xing*, Hu Yan*, **Kailai Sun**\*, Qianchuan Zhao, et al. **Cell Patterns** (2022).(in press)
+- Honeycomb: An open-source distributed system for smart buildings.  Tian Xing*, Hu Yan*, **Kailai Sun**\*, Qianchuan Zhao, et al. **Cell Patterns** (2022).
   
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2016</div><img src='/images/paper/DBF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2022</div><img src='/images/paper/DBF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - A Fusion Framework of Vision-based Indoor Occupancy Estimation. \\
-  **Kailai Sun**\*, Peng Liu\*, Tian Xing, Qianchuan Zhao and Xinwei Wang. *Building and Environment* (**BAE**). 222 (2022): 109354.(in press)
+  **Kailai Sun**\*, Peng Liu\*, Tian Xing, Qianchuan Zhao and Xinwei Wang. *Building and Environment* (**BAE**). 222 (2022): 109354.
   
 </div>
 </div>
@@ -102,7 +102,7 @@ I have published more than 10 papers at top international journals, including *B
 
 - [A multi-objective optimization of PV/ST-GSHP system based on office buildings](https://www.sciencedirect.com/science/article/pii/S1876610218306052). Yu Fu, Haiyang Lin, **Kailai Sun**, Qie Sun, Ronald Wennersten. *Energy Procedia*. 152 (2018): pp. 71-76.
 
-- Research on Multi-temporal Cloud Removal using D-S Evidence Theory and Cloud Segmentation Model. Xinwei Wang\*, **Kailai Sun**\*, Qianchuan Zhao, and Jianhong Zou. *The CAAI International Conference on Artificial Intelligence* (**CICAI**). 2022.(in press)
+- Research on Multi-temporal Cloud Removal using D-S Evidence Theory and Cloud Segmentation Model. Xinwei Wang\*, **Kailai Sun**\*, Qianchuan Zhao, and Jianhong Zou. *The CAAI International Conference on Artificial Intelligence* (**CICAI**). 2022.
 
 
 
