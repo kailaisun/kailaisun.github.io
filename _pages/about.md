@@ -52,7 +52,7 @@ I have published more than 10 papers at top international journals, including *B
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2022</div><img src='/images/paper/HONEYCOMB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Honeycomb: An open-source distributed system for smart buildings.  Tian Xing*, Hu Yan*, **Kailai Sun**\*, Yifan Wang, Xuetao Wang and Qianchuan Zhao. **Cell Patterns** (2022).
+- Honeycomb: An open-source distributed system for smart buildings.  Tian Xing\*, Hu Yan\*, **Kailai Sun**\*, Yifan Wang, Xuetao Wang and Qianchuan Zhao. **Cell Patterns** (2022).
   
 </div>
 </div>
@@ -106,7 +106,7 @@ I have published more than 10 papers at top international journals, including *B
 - Satellite remote sensing image interpretation technology and system based on artificial intelligence (2019 Major Science and Technology Program for the Strategic Emerging Industries of Fuzhou, Grant BNR2019TD01009)
 - 
 
-# ![0C7D3B64](https://user-images.githubusercontent.com/40592892/191537832-382d2b15-31e3-4aba-8635-f31e346ac6d1.png) Internships
+# ✈ Internships
 - *2021.06 - 2021.08*, Harbin Institute of Technology Robotics Research Institute Co., Ltd， Yangzhou. 
 
 
