@@ -42,7 +42,7 @@ I have published more than 10 papers at top international journals, including *B
 <div class='paper-box-text' markdown="1">
 
 - [A review of building occupancy measurement systems](https://www.sciencedirect.com/science/article/abs/pii/S0378778819332918). \\
- **Kailai Sun**, Qianchuan Zhao, Jianhong Zou. *Energy and Buildings* (**ENB**). 216 (2020): 109965. (**Top** , SCI&EI, IF:**7.093**, citations:**64**).  \\
+ **Kailai Sun**, Qianchuan Zhao, Jianhong Zou. *Energy and Buildings* (**ENB**). 216 (2020): 109965. (**Top** , SCI&EI, IF:**7.093**, citations:**64**).  
   
   
 </div>
@@ -104,7 +104,10 @@ I have published more than 10 papers at top international journals, including *B
 - New generation intelligent building platform (National Key Research and Development Project of China under Grant 2017YFC0704100)
 - Energy Internet Planning, Operation and Trading (National Key Research and Development Project of China under Grant 2016YFB0901900）
 - Satellite remote sensing image interpretation technology and system based on artificial intelligence (2019 Major Science and Technology Program for the Strategic Emerging Industries of Fuzhou, Grant BNR2019TD01009)
+- 
 
+# ![0C7D3B64](https://user-images.githubusercontent.com/40592892/191537832-382d2b15-31e3-4aba-8635-f31e346ac6d1.png) Internships
+- *2021.06 - 2021.08*, Harbin Institute of Technology Robotics Research Institute Co., Ltd， Yangzhou. 
 
 
 # 🎖 Honors and Awards
@@ -122,7 +125,7 @@ I have published more than 10 papers at top international journals, including *B
 
 # 📖 Educations
 - *2018.09 - present*, Ph.D., Department of Automation, Tsinghua University.
-- *2015.09 - 2018.06*,Ye Peida experimental class, Beijing University of Posts and Telecommunications (BUPT).
+- *2015.09 - 2018.06*,Ye Peida lab, Beijing University of Posts and Telecommunications (BUPT).
 - *2014.09 - 2018.06*, Bachelor, Department of Automation, Beijing University of Posts and Telecommunications (BUPT).
 
 <!--
