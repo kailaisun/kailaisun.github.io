@@ -109,14 +109,21 @@ I have published more than 10 papers at top international journals, including *B
 
 # 🎖 Honors and Awards
 
-- *2019.10* First-class Comprehensive Excellent Scholarship of Tsinghua University
-- *2018.06*	Outstanding Graduate of Beijing University of Posts and Telecommunications
-- *2015.10*	Second prize in Mathematics Competition for Chinese College students
+- *2019.10* The first prize of Tsinghua University Comprehensive Excellent Scholarship
+- *2018.06*	Outstanding graduates of Beijing ordinary colleges and universities (Top 1%)
+- *2015.11*	The second prize of the 7th National College Students Mathematics Competition
+- *2016.06* The first prize in the Beijing Division of the 2016 National Mathematical Contest in Modeling for College Students
+- *2015.11* The first prize of the first engineering design expression competition of BUPT (Top 1%)
+- *2015.06/2016.06* Haohan company Scholarship (Top 1%)
+- *2016.07* The second prize in the Beijing Division of the 2016 National Undergraduate Electronic Design Competition
+- *2017* American Undergraduate Mathematical Contest in Modeling Honorable Mention 
+
 
 
 # 📖 Educations
 - *2018.09 - present*, Ph.D., Department of Automation, Tsinghua University.
-- *2014.09 - 2018.06*, Bachelor, Department of Automation, Beijing University of Posts and Telecommunications (BUPT) .
+- *2015.09 - 2018.06*,Ye Peida experimental class, Beijing University of Posts and Telecommunications (BUPT).
+- *2014.09 - 2018.06*, Bachelor, Department of Automation, Beijing University of Posts and Telecommunications (BUPT).
 
 <!--
 # 💬 Invited Talks
