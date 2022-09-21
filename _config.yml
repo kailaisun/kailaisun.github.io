@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Kailai Sun (孙开来)"
+title                    : "Kailai Sun "
 description              : "Ph.D. candidate at Tsinghua University. Focusing on smart building and deep learning. "
 repository               : "kailaisun/kailaisun.github.io"
 google_scholar_stats_use_cdn : true
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Kailai Sun"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/show/android-chrome-512x512.png"
   bio              : "Tsinghua University"
   location         : "Beijing, China"
   employer         :
