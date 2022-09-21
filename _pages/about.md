@@ -52,7 +52,7 @@ I have published more than 10 papers at top international journals, including *B
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2022</div><img src='/images/paper/HONEYCOMB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Honeycomb: An open-source distributed system for smart buildings.  Tian Xing*, Hu Yan*, **Kailai Sun**\*, Qianchuan Zhao, et al. **Cell Patterns** (2022).
+- Honeycomb: An open-source distributed system for smart buildings.  Tian Xing*, Hu Yan*, **Kailai Sun**\*, Yifan Wang, Xuetao Wang and Qianchuan Zhao. **Cell Patterns** (2022).
   
 </div>
 </div>
