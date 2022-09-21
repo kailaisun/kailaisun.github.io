@@ -47,6 +47,28 @@ I have published more than 10 papers at top international journals, including *B
   
 </div>
 </div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2016</div><img src='/images/paper/HONEYCOMB.tif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- Honeycomb: An open-source distributed system for smart buildings.  Tian Xing*, Hu Yan*, **Kailai Sun**\*, Qianchuan Zhao, et al. **Cell Patterns** (2022).(in press)
+
+  
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2016</div><img src='/images/paper/Dbf.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- A Fusion Framework of Vision-based Indoor Occupancy Estimation. **Kailai Sun**\*, Peng Liu\*, Tian Xing, Qianchuan Zhao and Xinwei Wang. *Building and Environment* (**BAE**). 222 (2022): 109354.(in press)
+  
+</div>
+</div>
+
+
 [FastSpeech: Fast, Robust and Controllable Text to Speech](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
 **Yi Ren**, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
 
@@ -57,6 +79,9 @@ I have published more than 10 papers at top international journals, including *B
 - **Industry Impact**: FastSpeech has been deployed in [Microsoft Azure TTS service](https://techcommunity.microsoft.com/t5/azure-ai/neural-text-to-speech-extends-support-to-15-more-languages-with/ba-p/1505911) and supports 49 more languages with state-of-the-art AI quality. It was also shown as a text-to-speech system acceleration example in [NVIDIA GTC2020](https://resources.nvidia.com/events/GTC2020s21420).
   
 - [A review of building occupancy measurement systems](https://www.sciencedirect.com/science/article/abs/pii/S0378778819332918). **Kailai Sun**, Qianchuan Zhao, Jianhong Zou. *Energy and Buildings* (**ENB**). 216 (2020): 109965.
+
+
+
 
 - [Indoor occupancy measurement by the fusion of motion detection and static estimation](https://www.sciencedirect.com/science/article/abs/pii/S037877882100877X). **Kailai Sun**, Qianchuan Zhao, Ziyou Zhang, and Xinyuan Hu. *Energy and Buildings* (**ENB**). 254 (2022): 111593.
 
