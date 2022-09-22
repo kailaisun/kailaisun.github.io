@@ -54,7 +54,7 @@ I have published more than 10 papers at top international journals, including *B
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cell Patterns 2022</div><img src='/images/paper/HONEYCOMB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Honeycomb: An open-source distributed system for smart buildings.  Tian Xing\*, Hu Yan\*, **Kailai Sun**\*, Yifan Wang, Xuetao Wang and Qianchuan Zhao. **Cell Patterns** (2022).
+- Honeycomb: An open-source distributed system for smart buildings.  Tian Xing\*, Hu Yan\*, **Kailai Sun**\*, Yifan Wang, Xuetao Wang and Qianchuan Zhao. **Cell Patterns** (2022).[Data link.](https://zenodo.org/record/7047167#.Yyu0AqRBzD4) [Code link.](https://zenodo.org/record/7047159#.Yyuz-KRBzD4)
 - A bee-inspired, fully distributed, and open-source building IoT solution, has strong flexibility and robustness, multiple functionalities.
 - Proposed vision-based deep-learning occupancy measurement.
 - High user acceptance during long-term stable operation.
@@ -80,7 +80,7 @@ I have published more than 10 papers at top international journals, including *B
 <div class='paper-box-text' markdown="1">
  
 
-- [MPSN: Motion-aware Pseudo-Siamese Network for Indoor Video Head Detection in Buildings](https://www.sciencedirect.com/science/article/abs/pii/S036013232200587X). **Kailai Sun**\*, Xiaoteng Ma\*, Peng Liu\*, Qianchuan Zhao. *Building and Environment* (**BAE**). 222 (2022): 109354.(**Top** , SCI, IF:**7.201**).
+- [MPSN: Motion-aware Pseudo-Siamese Network for Indoor Video Head Detection in Buildings](https://www.sciencedirect.com/science/article/abs/pii/S036013232200587X). **Kailai Sun**\*, Xiaoteng Ma\*, Peng Liu\*, Qianchuan Zhao. *Building and Environment* (**BAE**). 222 (2022): 109354.(**Top** , SCI, IF:**7.201**).[Code link.](https://github.com/pl-share/MPSN)
 - The first work to jointly train the current frame and the pixel-level motion information into an end-to-end CNN network in head detection.
 - We validate its robustness through adversarial experiments with a mathematical solution of small perturbations.
   
@@ -92,7 +92,7 @@ I have published more than 10 papers at top international journals, including *B
 - [Indoor occupancy measurement by the fusion of motion detection and static estimation](https://www.sciencedirect.com/science/article/abs/pii/S037877882100877X). **Kailai Sun**, Qianchuan Zhao, Ziyou Zhang, and Xinyuan Hu. *Energy and Buildings* (**ENB**). 254 (2022): 111593.(**Top** , SCI, IF:**7.093**, citations:10).
 
 
-- [Using knowledge inference to suppress the lamp disturbance for fire detection](https://www.sciencedirect.com/science/article/pii/S266644962100027X). **Kailai Sun**, Qianchuan Zhao, and Xinwei Wang. *Journal of Safety Science and Resilience* (**JSSR**). 2.3 (2021): 124-130.
+- [Using knowledge inference to suppress the lamp disturbance for fire detection](https://www.sciencedirect.com/science/article/pii/S266644962100027X). **Kailai Sun**, Qianchuan Zhao, and Xinwei Wang. *Journal of Safety Science and Resilience* (**JSSR**). 2.3 (2021): 124-130.[Code link.](https://github.com/kailaisun/fire-detection-without-lamp)
 
 - [Integrating Machine Learning and Mathematical Optimization for Job Shop Scheduling](https://www.techrxiv.org/articles/preprint/Integrating_Machine_Learning_and_Mathematical_Optimization_for_Job_Shop_Scheduling/20510841). Anbang Liu, Peter B. Luh, **Kailai Sun**. *IEEE Transactions on Automation Science and Engineering* (**TASE**). (2022).(**Top** , SCI, IF:6.636). (under review)
 
@@ -100,7 +100,7 @@ I have published more than 10 papers at top international journals, including *B
 ## Conference Paper
 - [Attendance and security system based on building video surveillance](https://drive.google.com/file/d/15HeVSLDb8vI0WaSrlMJJu7kj2qGIlVk4/view). **Kailai Sun**, Qianchuan Zhao, Jianhong Zou, Xiaoteng Ma. *International Conference on Smart City and Intelligent Building* (**ICSCIB**). Springer, Singapore, 2018. (citations:10).
 
-- [Visual feedback system for traditional chinese medical massage robot](https://ieeexplore.ieee.org/abstract/document/8866076). **Kailai Sun**, Qianchuan Zhao, Zhenming Yang, Xiuwei Xu. *In 2019 Chinese Control Conference* (**CCC**). pp. 6379-6385. IEEE, 2019.
+- [Visual feedback system for traditional chinese medical massage robot](https://ieeexplore.ieee.org/abstract/document/8866076). **Kailai Sun**, Qianchuan Zhao, Zhenming Yang, Xiuwei Xu. *In 2019 Chinese Control Conference* (**CCC**). pp. 6379-6385. IEEE, 2019.[Code link.](https://github.com/kailaisun/New-two-dimensional-code_QR-code)
 
 - [A multi-objective optimization of PV/ST-GSHP system based on office buildings](https://www.sciencedirect.com/science/article/pii/S1876610218306052). Yu Fu, Haiyang Lin, **Kailai Sun**, Qie Sun, Ronald Wennersten. *Energy Procedia*. 152 (2018): pp. 71-76.
 
