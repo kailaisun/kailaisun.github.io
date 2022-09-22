@@ -56,7 +56,7 @@ I have published more than 10 papers at top international journals, including *B
 
 - Honeycomb: An open-source distributed system for smart buildings.  Tian Xing\*, Hu Yan\*, **Kailai Sun**\*, Yifan Wang, Xuetao Wang and Qianchuan Zhao. **Cell Patterns** (2022).
 - A bee-inspired, fully distributed, and open-source building IoT solution, has strong flexibility and robustness, multiple functionalities.
-- Proposed vision-based deep-learning occupancy measurement with superior performance.
+- Proposed vision-based deep-learning occupancy measurement.
 - High user acceptance during long-term stable operation.
 
   
@@ -76,7 +76,7 @@ I have published more than 10 papers at top international journals, including *B
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cell Patterns 2022</div><img src='/images/paper/MPSN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BAE 2022</div><img src='/images/paper/MPSN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
  
 
