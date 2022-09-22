@@ -54,7 +54,7 @@ I have published more than 10 papers at top international journals, including *B
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cell Patterns 2022</div><img src='/images/paper/HONEYCOMB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Honeycomb: An open-source distributed system for smart buildings.  Tian Xing\*, Hu Yan\*, **Kailai Sun**\*, Yifan Wang, Xuetao Wang and Qianchuan Zhao. **Cell Patterns** (2022).[Data link.](https://zenodo.org/record/7047167#.Yyu0AqRBzD4) [Code link.](https://zenodo.org/record/7047159#.Yyuz-KRBzD4)
+- Honeycomb: An open-source distributed system for smart buildings.  Tian Xing\*, Hu Yan\*, **Kailai Sun**\*, Yifan Wang, Xuetao Wang and Qianchuan Zhao. **Cell Patterns** (2022). Accepted. [Data link.](https://zenodo.org/record/7047167#.Yyu0AqRBzD4) [Code link.](https://zenodo.org/record/7047159#.Yyuz-KRBzD4)
 - A bee-inspired, fully distributed, and open-source building IoT solution, has strong flexibility and robustness, multiple functionalities.
 - Proposed vision-based deep-learning occupancy measurement system.
 - High user acceptance during long-term stable operation.
@@ -68,7 +68,7 @@ I have published more than 10 papers at top international journals, including *B
 <div class='paper-box-text' markdown="1">
 
 - A Fusion Framework of Vision-based Indoor Occupancy Estimation. \\
-  **Kailai Sun**\*, Peng Liu\*, Tian Xing, Qianchuan Zhao and Xinwei Wang. *Building and Environment* (**BAE**). 222 (2022): 109354.(**Top** , SCI, IF:**7.201**).
+  **Kailai Sun**\*, Peng Liu\*, Tian Xing, Qianchuan Zhao and Xinwei Wang. *Building and Environment* (**BAE**). 222 (2022): 109354.(**Top** , SCI, IF:**7.201**，accepted). 
 - The first work to develop a three-level fusion framework in vision-based indoor occupancy estimation.
 - Our framework achieves state-of-the-art (SOTA) performance through ablation studies on practical building surveillance videos.
   
@@ -104,7 +104,7 @@ I have published more than 10 papers at top international journals, including *B
 
 - [A multi-objective optimization of PV/ST-GSHP system based on office buildings](https://www.sciencedirect.com/science/article/pii/S1876610218306052). Yu Fu, Haiyang Lin, **Kailai Sun**, Qie Sun, Ronald Wennersten. *Energy Procedia*. 152 (2018): pp. 71-76.
 
-- Research on Multi-temporal Cloud Removal using D-S Evidence Theory and Cloud Segmentation Model. Xinwei Wang\*, **Kailai Sun**\*, Qianchuan Zhao, and Jianhong Zou. *The CAAI International Conference on Artificial Intelligence* (**CICAI**). 2022.
+- Research on Multi-temporal Cloud Removal using D-S Evidence Theory and Cloud Segmentation Model. Xinwei Wang\*, **Kailai Sun**\*, Qianchuan Zhao, and Jianhong Zou. *The CAAI International Conference on Artificial Intelligence* (**CICAI**). 2022. Accepted. 
 
 
 
