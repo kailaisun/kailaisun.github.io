@@ -43,11 +43,8 @@ I have published more than 10 papers at top international journals, including *B
 
 - [A review of building occupancy measurement systems](https://www.sciencedirect.com/science/article/abs/pii/S0378778819332918). \\
  **Kailai Sun**, Qianchuan Zhao, Jianhong Zou. *Energy and Buildings* (**ENB**). 216 (2020): 109965. (**Top** , SCI&EI, IF:**7.093**, citations:**64**).  
-- We focus on building occupancy information measurement for energy control and building performance, and review many recent especially five-years studies.
-- Many occupancy measurement systems based on different sensors, cameras, WiFi, PIR sensors, CO2 sensors, electricity sensors are analyzed and discussed.
-- Due to the rapid development of occupancy measurement based on cameras, we conduct a comprehensive analysis based on different types (non-depth or depth cameras) and different installed locations (the room entrance or interior) of cameras.
-- Some future trends are presented, including sensor fusion methods, cloud computing platform, and deep learning technologies.
-
+- Five-years occupancy measurement systems based on different sensors, cameras, WiFi, PIR sensors, CO2 sensors, electricity sensors are analyzed and discussed.
+- The first comprehensive analysis based on different types and installed locations of camera was conducted for energy control and building performance.
   
   
 </div>
@@ -58,6 +55,10 @@ I have published more than 10 papers at top international journals, including *B
 <div class='paper-box-text' markdown="1">
 
 - Honeycomb: An open-source distributed system for smart buildings.  Tian Xing\*, Hu Yan\*, **Kailai Sun**\*, Yifan Wang, Xuetao Wang and Qianchuan Zhao. **Cell Patterns** (2022).
+- A bee-inspired, fully distributed, and open-source building IoT solution, has strong flexibility and robustness, multiple functionalities, and easy deployment.
+- Proposed vision-based deep-learning occupancy measurement with superior performance.
+- High user acceptance during long-term stable operation.
+
   
 </div>
 </div>
