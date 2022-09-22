@@ -56,7 +56,7 @@ I have published more than 10 papers at top international journals, including *B
 
 - Honeycomb: An open-source distributed system for smart buildings.  Tian Xing\*, Hu Yan\*, **Kailai Sun**\*, Yifan Wang, Xuetao Wang and Qianchuan Zhao. **Cell Patterns** (2022).[Data link.](https://zenodo.org/record/7047167#.Yyu0AqRBzD4) [Code link.](https://zenodo.org/record/7047159#.Yyuz-KRBzD4)
 - A bee-inspired, fully distributed, and open-source building IoT solution, has strong flexibility and robustness, multiple functionalities.
-- Proposed vision-based deep-learning occupancy measurement.
+- Proposed vision-based deep-learning occupancy measurement system.
 - High user acceptance during long-term stable operation.
 
   
@@ -124,10 +124,10 @@ I have published more than 10 papers at top international journals, including *B
 - New generation intelligent building platform (National Key Research and Development Project of China under Grant 2017YFC0704100)
 - Energy Internet Planning, Operation and Trading (National Key Research and Development Project of China under Grant 2016YFB0901900）
 - Satellite remote sensing image interpretation technology and system based on artificial intelligence (2019 Major Science and Technology Program for the Strategic Emerging Industries of Fuzhou, Grant BNR2019TD01009)
-- 
+
 
 # ✈ Internships
-- *2021.06 - 2021.08*, Harbin Institute of Technology Robotics Research Institute Co., Ltd， Yangzhou. 
+- *2021.06 - 2021.08*, Harbin Institute of Technology Robotics Research Institute Co., Ltd, Yangzhou. 
 
 
 # 🎖 Honors and Awards
