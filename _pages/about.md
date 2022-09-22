@@ -89,7 +89,7 @@ I have published more than 10 papers at top international journals, including *B
 
   
 
-- [Indoor occupancy measurement by the fusion of motion detection and static estimation](https://www.sciencedirect.com/science/article/abs/pii/S037877882100877X). **Kailai Sun**, Qianchuan Zhao, Ziyou Zhang, and Xinyuan Hu. *Energy and Buildings* (**ENB**). 254 (2022): 111593.(**Top** , SCI, IF:**7.093**, citations:10).
+- [Indoor occupancy measurement by the fusion of motion detection and static estimation](https://www.sciencedirect.com/science/article/abs/pii/S037877882100877X). **Kailai Sun**, Qianchuan Zhao, Ziyou Zhang, and Xinyuan Hu. *Energy and Buildings* (**ENB**). 254 (2022): 111593.(**Top** , SCI, IF:**7.093**, citations:8).
 
 
 - [Using knowledge inference to suppress the lamp disturbance for fire detection](https://www.sciencedirect.com/science/article/pii/S266644962100027X). **Kailai Sun**, Qianchuan Zhao, and Xinwei Wang. *Journal of Safety Science and Resilience* (**JSSR**). 2.3 (2021): 124-130.[Code link.](https://github.com/kailaisun/fire-detection-without-lamp)
