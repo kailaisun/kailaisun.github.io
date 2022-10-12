@@ -67,7 +67,7 @@ I have published more than 10 papers at top international journals, including *B
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BAE 2022</div><img src='/images/paper/DBF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- A Fusion Framework of Vision-based Indoor Occupancy Estimation. \\
+- [A Fusion Framework of Vision-based Indoor Occupancy Estimation](https://www.sciencedirect.com/science/article/pii/S0360132322008617). \\
   **Kailai Sun**\*, Peng Liu\*, Tian Xing, Qianchuan Zhao and Xinwei Wang. *Building and Environment* (**BAE**). 222 (2022): 109354.(**Top** , SCI, IF:**7.201**，accepted). [Code link.](https://github.com/kailaisun/FFO)
 - The first work to develop a three-level fusion framework in vision-based indoor occupancy estimation.
 - Our framework achieves state-of-the-art (SOTA) performance through ablation studies on practical building surveillance videos.
