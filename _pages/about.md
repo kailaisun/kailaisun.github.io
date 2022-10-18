@@ -42,7 +42,7 @@ I have published more than 10 papers at top international journals, including *B
 <div class='paper-box-text' markdown="1">
 
 - [A review of building occupancy measurement systems](https://www.sciencedirect.com/science/article/abs/pii/S0378778819332918). \\
- **Kailai Sun**, Qianchuan Zhao, Jianhong Zou. *Energy and Buildings* (**ENB**). 216 (2020): 109965. (**Top** , SCI, IF:**7.093**, citations:**64**).  
+ **Kailai Sun**, Qianchuan Zhao, Jianhong Zou. *Energy and Buildings* (**ENB**). 216 (2020): 109965. (**Top** , SCI, IF:**7.093**, citations:**67**).  
 - Five-years occupancy measurement systems based on cameras, WiFi, PIR sensors, CO2 sensors, electricity sensors are analyzed and discussed.
 - The first comprehensive analysis based on different types and installed locations of camera.
   
@@ -68,7 +68,7 @@ I have published more than 10 papers at top international journals, including *B
 <div class='paper-box-text' markdown="1">
 
 - [A Fusion Framework of Vision-based Indoor Occupancy Estimation](https://www.sciencedirect.com/science/article/pii/S0360132322008617). \\
-  **Kailai Sun**\*, Peng Liu\*, Tian Xing, Qianchuan Zhao and Xinwei Wang. *Building and Environment* (**BAE**). 222 (2022): 109354.(**Top** , SCI, IF:**7.201**，accepted). [Code link.](https://github.com/kailaisun/FFO)
+  **Kailai Sun**\*, Peng Liu\*, Tian Xing, Qianchuan Zhao and Xinwei Wang. *Building and Environment* (**BAE**). 222 (2022): 109354.(**Top** , SCI, IF:**7.201**). [Code link.](https://github.com/kailaisun/FFO)
 - The first work to develop a three-level fusion framework in vision-based indoor occupancy estimation.
 - Our framework achieves state-of-the-art (SOTA) performance through ablation studies on practical building surveillance videos.
   
@@ -89,7 +89,7 @@ I have published more than 10 papers at top international journals, including *B
 
   
 
-- [Indoor occupancy measurement by the fusion of motion detection and static estimation](https://www.sciencedirect.com/science/article/abs/pii/S037877882100877X). **Kailai Sun**, Qianchuan Zhao, Ziyou Zhang, and Xinyuan Hu. *Energy and Buildings* (**ENB**). 254 (2022): 111593.(**Top** , SCI, IF:**7.093**, citations:8).
+- [Indoor occupancy measurement by the fusion of motion detection and static estimation](https://www.sciencedirect.com/science/article/abs/pii/S037877882100877X). **Kailai Sun**, Qianchuan Zhao, Ziyou Zhang, and Xinyuan Hu. *Energy and Buildings* (**ENB**). 254 (2022): 111593.(**Top** , SCI, IF:**7.093**, citations:10).
 
 
 - [Using knowledge inference to suppress the lamp disturbance for fire detection](https://www.sciencedirect.com/science/article/pii/S266644962100027X). **Kailai Sun**, Qianchuan Zhao, and Xinwei Wang. *Journal of Safety Science and Resilience* (**JSSR**). 2.3 (2021): 124-130.[Code link.](https://github.com/kailaisun/fire-detection-without-lamp)
@@ -134,6 +134,7 @@ I have published more than 10 papers at top international journals, including *B
 
 - *2019.10* The first prize of Tsinghua University Comprehensive Excellent Scholarship
 - *2018.06*	Outstanding graduates of Beijing ordinary colleges and universities (Top 1%)
+- *2022* Best Researcher Award for the contribution and honourable achievement in innovative research. International Research Awards on New Science Inventions NESIN 2022 Awards.
 - *2015.11*	The second prize of the 7th National College Students Mathematics Competition
 - *2016.06* The first prize in the Beijing Division of the 2016 National Mathematical Contest in Modeling for College Students
 - *2015.11* The first prize of the first engineering design expression competition of BUPT (Top 1%)
