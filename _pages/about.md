@@ -131,8 +131,11 @@ I have published more than 10 papers at top international journals, including *B
 
 # 💻 Projects
 - New generation intelligent building platform (National Key Research and Development Project of China under Grant 2017YFC0704100)
-- Energy Internet Planning, Operation and Trading (National Key Research and Development Project of China under Grant 2016YFB0901900）
+- Energy Internet Planning, Operation and Trading (National Key Research and Development Project of China under Grant 2016YFB0901900)
+- National Natural Science Foundation of China under Grant No. 62192751 and 61425024
+- The 111 International Collaboration Program of China under Grant No. BP2018006
 - Satellite remote sensing image interpretation technology and system based on artificial intelligence (2019 Major Science and Technology Program for the Strategic Emerging Industries of Fuzhou, Grant BNR2019TD01009)
+- The National Innovation Center of High Speed Train R&D project (CX/KJ-2020-0006)
 
 
 # ✈ Internships
@@ -140,7 +143,8 @@ I have published more than 10 papers at top international journals, including *B
 
 # 👨🏽‍🤝‍👨🏼 Collaborators
 - [Qianchuan Zhao](http://cfins.au.tsinghua.edu.cn/personalhg/zhaoqc/) -  Professor, Department of Automation, Tsinghua University. 
-- [Peter Luh](https://www.ee.uconn.edu/peter-b-luh/) - Professor, Board of Trustees Distinguished Professor Emeritus, University of Connecticut
+- [Peter Luh](https://www.ee.uconn.edu/peter-b-luh/) - Professor, Board of Trustees Distinguished Professor Emeritus, University of Connecticut.
+- Shaobo Liu -   Associate Professor, Intelligent Transportation Systems Research Center, Wuhan University of Technology.
 - [Xiaoteng Ma](https://xtma.github.io/) -  Ph.D. candidate , Department of Automation, Tsinghua University. 
 - Anbang Liu -  Ph.D. candidate , Department of Automation, Tsinghua University. 
 
