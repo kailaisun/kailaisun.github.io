@@ -24,11 +24,12 @@ I am a Ph.D. candidate in the Department of Automation, Tsinghua University. As 
 My research interest lies in smart building and deep learning, including building occupancy detection/estimation, computer vision and generative model. 
 I have published more than 10 papers at top international journals, including *Building and environment, Energy and buildings, Cell Patterns*.
 
-<!--
+
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
--->
+- *2022.11*: 🎉🎉  Cell Press reported our work.[Report link](https://mp.weixin.qq.com/s/jDRYjovXeBpyaED2dH1z2Q).
+- *2022.12*: 🎉🎉  Our large head tracking datset (includs 2 millions head boxes) is completed, and will be open soon.  **Kailai Sun**, Shaobo Liu, Gao Huang, Qianchuan Zhao. A large vision dataset for head tracking in dense crowd.
+- *2022.12*: Our invited article will be completed. Protocol for Honeycomb: Application and Validation. Tian Xing\*, Hu Yan\*, **Kailai Sun**\*, Qianchuan Zhao. Star Protocols(Cell Sub-publication)
+
 
 # 📝 Publications 
 
@@ -38,9 +39,10 @@ I have published more than 10 papers at top international journals, including *B
 -->
 
 ## Under-review Paper
-- [Integrating Machine Learning and Mathematical Optimization for Job Shop Scheduling](https://www.techrxiv.org/articles/preprint/Integrating_Machine_Learning_and_Mathematical_Optimization_for_Job_Shop_Scheduling/20510841). Anbang Liu, Peter B. Luh, **Kailai Sun**. *IEEE Transactions on Automation Science and Engineering* (**TASE**). (2022).(**Top** , SCI, IF:6.636). (under review)
+- [Integrating Machine Learning and Mathematical Optimization for Job Shop Scheduling](https://www.techrxiv.org/articles/preprint/Integrating_Machine_Learning_and_Mathematical_Optimization_for_Job_Shop_Scheduling/20510841). Anbang Liu, Peter B. Luh, **Kailai Sun**. *IEEE Transactions on Automation Science and Engineering* (**TASE**). (2022).(**Top** , SCI, IF:6.636). 
 
-- A Comprehensive Review of AIoT-based Edge Devices and Lightweight Deployment. **Kailai Sun**, Xinwei Wang\*, Qianchuan Zhao. *IEEE Internet of Things Journal* (**IoTJ**). (2022).(**Top** , SCI, IF:11.043). (under review)
+- A Comprehensive Review of AIoT-based Edge Devices and Lightweight Deployment. **Kailai Sun**, Xinwei Wang\*, Qianchuan Zhao. *IEEE Internet of Things Journal* (**IoTJ**). (2022).(**Top** , SCI, IF:**11.043**).
+- MITP-Net: a Deep-learning Framework for Short-term Indoor Temperature Predictions in Multi-zone Buildings. Tian Xing,**Kailai Sun**, Qianchuan Zhao.*Building and Environment* (**BAE**). (2022).(**Top** , SCI, IF:**7.201**).
 
 
 ## Journal Paper
@@ -61,7 +63,7 @@ I have published more than 10 papers at top international journals, including *B
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cell Patterns 2022</div><img src='/images/paper/HONEYCOMB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [Honeycomb: An open-source distributed system for smart buildings](https://www.sciencedirect.com/science/article/pii/S2666389922002306).  Tian Xing\*, Hu Yan\*, **Kailai Sun**\*, Yifan Wang, Xuetao Wang and Qianchuan Zhao. **Cell Patterns** (2022). [Data link.](https://zenodo.org/record/7047167#.Yyu0AqRBzD4) [Code link.](https://zenodo.org/record/7047159#.Yyuz-KRBzD4)
+- [Honeycomb: An open-source distributed system for smart buildings](https://www.sciencedirect.com/science/article/pii/S2666389922002306).  Tian Xing\*, Hu Yan\*, **Kailai Sun**\*, Yifan Wang, Xuetao Wang and Qianchuan Zhao. **Cell Patterns**(Cell Sub-publication)(2022). [Data link.](https://zenodo.org/record/7047167#.Yyu0AqRBzD4) [Code link.](https://zenodo.org/record/7047159#.Yyuz-KRBzD4)
 - A bee-inspired, fully distributed, and open-source building IoT solution, has strong flexibility and robustness, multiple functionalities.
 - Proposed vision-based deep-learning occupancy measurement system.
 - High user acceptance during long-term stable operation.
@@ -140,7 +142,7 @@ I have published more than 10 papers at top international journals, including *B
 - [Qianchuan Zhao](http://cfins.au.tsinghua.edu.cn/personalhg/zhaoqc/) -  Professor, Department of Automation, Tsinghua University. 
 - [Peter Luh](https://www.ee.uconn.edu/peter-b-luh/) - Professor, Board of Trustees Distinguished Professor Emeritus, University of Connecticut
 - [Xiaoteng Ma](https://xtma.github.io/) -  Ph.D. candidate , Department of Automation, Tsinghua University. 
-- [Anbang Liu] -  Ph.D. candidate , Department of Automation, Tsinghua University. 
+- Anbang Liu -  Ph.D. candidate , Department of Automation, Tsinghua University. 
 
 
 # 🎖 Honors and Awards
