@@ -136,6 +136,13 @@ I have published more than 10 papers at top international journals, including *B
 - The 111 International Collaboration Program of China under Grant No. BP2018006
 - Satellite remote sensing image interpretation technology and system based on artificial intelligence (2019 Major Science and Technology Program for the Strategic Emerging Industries of Fuzhou, Grant BNR2019TD01009)
 - The National Innovation Center of High Speed Train R&D project (CX/KJ-2020-0006)
+- Huawei company-Control security issue literature research project
+- Qiyuan Lab xxx project
+- Ridar-based road vehicle counting and intelligent video surveillance system project 
+
+
+
+
 
 
 # ✈ Internships
