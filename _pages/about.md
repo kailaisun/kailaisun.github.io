@@ -36,6 +36,13 @@ I have published more than 10 papers at top international journals, including *B
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 -->
+
+## Under-review Paper
+- [Integrating Machine Learning and Mathematical Optimization for Job Shop Scheduling](https://www.techrxiv.org/articles/preprint/Integrating_Machine_Learning_and_Mathematical_Optimization_for_Job_Shop_Scheduling/20510841). Anbang Liu, Peter B. Luh, **Kailai Sun**. *IEEE Transactions on Automation Science and Engineering* (**TASE**). (2022).(**Top** , SCI, IF:6.636). (under review)
+
+- A Comprehensive Review of AIoT-based Edge Devices and Lightweight Deployment. **Kailai Sun**, Xinwei Wang\*, Qianchuan Zhao. *IEEE Internet of Things Journal* (**IoTJ**). (2022).(**Top** , SCI, IF:11.043). (under review)
+
+
 ## Journal Paper
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ENB 2020</div><img src='/images/paper/2.jpg' alt="sym" width="100%"></div></div>
@@ -94,7 +101,7 @@ I have published more than 10 papers at top international journals, including *B
 
 - [Using knowledge inference to suppress the lamp disturbance for fire detection](https://www.sciencedirect.com/science/article/pii/S266644962100027X). **Kailai Sun**, Qianchuan Zhao, and Xinwei Wang. *Journal of Safety Science and Resilience* (**JSSR**). 2.3 (2021): 124-130.[Code link.](https://github.com/kailaisun/fire-detection-without-lamp)
 
-- [Integrating Machine Learning and Mathematical Optimization for Job Shop Scheduling](https://www.techrxiv.org/articles/preprint/Integrating_Machine_Learning_and_Mathematical_Optimization_for_Job_Shop_Scheduling/20510841). Anbang Liu, Peter B. Luh, **Kailai Sun**. *IEEE Transactions on Automation Science and Engineering* (**TASE**). (2022).(**Top** , SCI, IF:6.636). (under review)
+
 
  
 ## Conference Paper
@@ -129,10 +136,16 @@ I have published more than 10 papers at top international journals, including *B
 # ✈ Internships
 - *2021.06 - 2021.08*, Harbin Institute of Technology Robotics Research Institute Co., Ltd, Yangzhou. 
 
+# 👨🏽‍🤝‍👨🏼 Collaborators
+- [Qianchuan Zhao](http://cfins.au.tsinghua.edu.cn/personalhg/zhaoqc/) -  Professor, Department of Automation, Tsinghua University. 
+- [Peter Luh](https://www.ee.uconn.edu/peter-b-luh/) - Professor, Board of Trustees Distinguished Professor Emeritus, University of Connecticut
+- [Xiaoteng Ma](https://xtma.github.io/) -  Ph.D. candidate , Department of Automation, Tsinghua University. 
+- [Anbang Liu] -  Ph.D. candidate , Department of Automation, Tsinghua University. 
+
 
 # 🎖 Honors and Awards
-- *2022.11* The first prize of Tsinghua University Comprehensive Excellent Scholarship
-- *2019.10* The first prize of Tsinghua University Comprehensive Excellent Scholarship
+- *2022.11* Tsinghua University - Lingjun Pilot Scholarship
+- *2019.10* The first prize of Tsinghua University Comprehensive Excellent Scholarship (Top 1%)
 - *2018.06*	Outstanding graduates of Beijing ordinary colleges and universities (Top 1%)
 - *2022* Best Researcher Award for the contribution and honourable achievement in innovative research. International Research Awards on New Science Inventions NESIN 2022 Awards.
 - *2015.11*	The second prize of the 7th National College Students Mathematics Competition
