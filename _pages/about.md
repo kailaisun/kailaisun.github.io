@@ -28,7 +28,6 @@ I have published more than 10 papers at top international journals, including *B
 # 🔥 News
 - *2022.11*: 🎉🎉  Cell Press reported our work.[Report link](https://mp.weixin.qq.com/s/jDRYjovXeBpyaED2dH1z2Q).
 - *2022.12*: 🎉🎉  Our large head tracking dataset (includs 2 millions head boxes) is completed, and will be available soon: **Kailai Sun**, Shaobo Liu, Gao Huang, Qianchuan Zhao. A large vision dataset for head tracking in dense crowd.
-- *2022.12*: Our invited article will be completed. Protocol for Honeycomb: Application and Validation. Tian Xing\*, Hu Yan\*, **Kailai Sun**\*, Qianchuan Zhao. Star Protocols(Cell Sub-publication)
 
 
 # 📝 Publications 
@@ -41,6 +40,8 @@ I have published more than 10 papers at top international journals, including *B
 ## Under-review Paper
 
 - [A Comprehensive Review of AIoT-based Edge Devices and Lightweight Deployment](https://www.techrxiv.org/articles/preprint/A_Comprehensive_Review_of_AIoT-based_Edge_Devices_and_Lightweight_Deployment/21687248/1). **Kailai Sun**\*, Xinwei Wang\*, Qianchuan Zhao. *IEEE Internet of Things Journal* (**IoTJ**). (2022).(**Top** , SCI, IF:**11.043**).
+
+- Protocol for a distributed smart building solution using semi-physical simulation. Hu Yan\*, Tian Xing\*, **Kailai Sun**\*, and Qianchuan Zhao. **Star Protocols**.(Cell sub journal)(2022)(Invited article).
 
 - [Integrating Machine Learning and Mathematical Optimization for Job Shop Scheduling](https://www.techrxiv.org/articles/preprint/Integrating_Machine_Learning_and_Mathematical_Optimization_for_Job_Shop_Scheduling/20510841). Anbang Liu, Peter B. Luh, **Kailai Sun**. *IEEE Transactions on Automation Science and Engineering* (**TASE**). (2022).(**Top** , SCI, IF:6.636). 
 
@@ -65,7 +66,7 @@ I have published more than 10 papers at top international journals, including *B
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cell Patterns 2022</div><img src='/images/paper/HONEYCOMB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [Honeycomb: An open-source distributed system for smart buildings](https://www.sciencedirect.com/science/article/pii/S2666389922002306).  Tian Xing\*, Hu Yan\*, **Kailai Sun**\*, Yifan Wang, Xuetao Wang and Qianchuan Zhao. **Cell Patterns**(Cell Sub-publication)(2022). [Data link.](https://zenodo.org/record/7047167#.Yyu0AqRBzD4) [Code link.](https://zenodo.org/record/7047159#.Yyuz-KRBzD4)
+- [Honeycomb: An open-source distributed system for smart buildings](https://www.sciencedirect.com/science/article/pii/S2666389922002306).  Tian Xing\*, Hu Yan\*, **Kailai Sun**\*, Yifan Wang, Xuetao Wang and Qianchuan Zhao. **Patterns**.(Cell sub journal)(2022). [Data link.](https://zenodo.org/record/7047167#.Yyu0AqRBzD4) [Code link.](https://zenodo.org/record/7047159#.Yyuz-KRBzD4)
 - A bee-inspired, fully distributed, and open-source building IoT solution, has strong flexibility and robustness, multiple functionalities.
 - Proposed vision-based deep-learning occupancy measurement system.
 - High user acceptance during long-term stable operation.
@@ -115,7 +116,7 @@ I have published more than 10 papers at top international journals, including *B
 
 - [A multi-objective optimization of PV/ST-GSHP system based on office buildings](https://www.sciencedirect.com/science/article/pii/S1876610218306052). Yu Fu, Haiyang Lin, **Kailai Sun**, Qie Sun, Ronald Wennersten. *Energy Procedia*. 152 (2018): pp. 71-76.
 
-- Research on Multi-temporal Cloud Removal using D-S Evidence Theory and Cloud Segmentation Model. Xinwei Wang\*, **Kailai Sun**\*, Qianchuan Zhao, and Jianhong Zou. *The CAAI International Conference on Artificial Intelligence* (**CICAI**). 2022. Accepted. 
+- [Research on Multi-temporal Cloud Removal using D-S Evidence Theory and Cloud Segmentation Model](https://link.springer.com/chapter/10.1007/978-3-031-20497-5_14). Xinwei Wang\*, **Kailai Sun**\*, Qianchuan Zhao, and Jianhong Zou. *The CAAI International Conference on Artificial Intelligence* (**CICAI**). 2022. 
 
 
 
