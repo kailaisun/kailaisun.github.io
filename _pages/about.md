@@ -41,7 +41,7 @@ I have published more than 10 papers at top international journals, including *B
 
 - [A Comprehensive Review of AIoT-based Edge Devices and Lightweight Deployment](https://www.techrxiv.org/articles/preprint/A_Comprehensive_Review_of_AIoT-based_Edge_Devices_and_Lightweight_Deployment/21687248/1). **Kailai Sun**\*, Xinwei Wang\*, Qianchuan Zhao. *IEEE Internet of Things Journal* (**IoTJ**). (2022).(**Top** , SCI, IF:**11.043**).
 
-- Protocol for a distributed smart building solution using semi-physical simulation. Hu Yan\*, Tian Xing\*, **Kailai Sun**\*, and Qianchuan Zhao. **Star Protocols**.(Cell sub journal)(2022)(Invited article).
+- Protocol for a distributed smart building solution using semi-physical simulation. Hu Yan\*, Tian Xing\*, **Kailai Sun**\*, and Qianchuan Zhao. **Star Protocols**.(Cell sub journal).(2022).(Invited article).
 
 - [Integrating Machine Learning and Mathematical Optimization for Job Shop Scheduling](https://www.techrxiv.org/articles/preprint/Integrating_Machine_Learning_and_Mathematical_Optimization_for_Job_Shop_Scheduling/20510841). Anbang Liu, Peter B. Luh, **Kailai Sun**. *IEEE Transactions on Automation Science and Engineering* (**TASE**). (2022).(**Top** , SCI, IF:6.636). 
 
