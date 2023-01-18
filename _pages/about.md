@@ -26,6 +26,7 @@ I have published more than 10 papers at top international journals, including *B
 
 
 # 🔥 News
+- *2023.01*: 🎉🎉  My work has been accepted by the [AHFE 2023 Conference](https://ahfe.org/):Multi-Source Information Fusion network for building occupancy estimation.
 - *2022.11*: 🎉🎉  Cell Press reported our work.[Report link](https://mp.weixin.qq.com/s/jDRYjovXeBpyaED2dH1z2Q).
 - *2022.12*: 🎉🎉  Our large head tracking dataset (includs 2 millions head boxes) is completed, and will be available soon: **Kailai Sun**, Shaobo Liu, Gao Huang, Qianchuan Zhao. A large vision dataset for head tracking in dense crowd.
 
