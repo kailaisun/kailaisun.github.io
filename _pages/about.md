@@ -162,6 +162,7 @@ I have published more than 10 papers at top international journals, including *B
 
 # 🎖 Honors and Awards
 - *2022.11* Tsinghua University - Lingjun Pilot Scholarship
+- *2022.12* The first prize of Tsinghua University Weimin Zheng Scholarship (Top 1%)
 - *2019.10* The first prize of Tsinghua University Comprehensive Excellent Scholarship (Top 1%)
 - *2018.06*	Outstanding graduates of Beijing ordinary colleges and universities (Top 1%)
 - *2022* Best Researcher Award for the contribution and honourable achievement in innovative research. International Research Awards on New Science Inventions NESIN 2022 Awards.
