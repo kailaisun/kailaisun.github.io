@@ -40,7 +40,7 @@ I have published more than 10 papers at top international journals, including *B
 
 ## Under-review Paper
 
-- [A Comprehensive Review of AIoT-based Edge Devices and Lightweight Deployment](https://www.techrxiv.org/articles/preprint/A_Comprehensive_Review_of_AIoT-based_Edge_Devices_and_Lightweight_Deployment/21687248/1). **Kailai Sun**\*, Xinwei Wang\*, Qianchuan Zhao. *IEEE Internet of Things Journal* (**IoTJ**). (2022).(**Top** , SCI, IF:**11.043**).
+- [A Review of AIoT-based Edge Devices and Lightweight Deployment](https://www.techrxiv.org/articles/preprint/A_Comprehensive_Review_of_AIoT-based_Edge_Devices_and_Lightweight_Deployment/21687248/1). **Kailai Sun**\*, Xinwei Wang\*, Qianchuan Zhao. *ACM computing surveys*. (2023).(**Top** , SCI, IF:**11.324**).
 
 - Protocol for a distributed smart building solution using semi-physical simulation. Hu Yan\*, Tian Xing\*, **Kailai Sun**\*, and Qianchuan Zhao. **Star Protocols**.(Cell sub journal).(2022).(Invited article).
 
@@ -48,6 +48,7 @@ I have published more than 10 papers at top international journals, including *B
 
 - [MITP-Net: a Deep-learning Framework for Short-term Indoor Temperature Predictions in Multi-zone Buildings.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4289282) Tian Xing,**Kailai Sun**, Qianchuan Zhao.*Building and Environment* (**BAE**). (2022).(**Top** , SCI, IF:**7.201**).
 
+- [A Goal-conditioned Reinforcement Learning Algorithm with Environment Modeling.] Zhe yu\*, **Kailai Sun**\*, Chenghao Li, Dianyu Zhong, Yang Yiqin, Qianchuan Zhao.Chinese Control Conference.(2023).
 
 ## Journal Paper
 
@@ -55,7 +56,7 @@ I have published more than 10 papers at top international journals, including *B
 <div class='paper-box-text' markdown="1">
 
 - [A review of building occupancy measurement systems](https://www.sciencedirect.com/science/article/abs/pii/S0378778819332918). \\
- **Kailai Sun**, Qianchuan Zhao, Jianhong Zou. *Energy and Buildings* (**ENB**). 216 (2020): 109965. (**Top** , SCI, IF:**7.093**, citations:**69**).  
+ **Kailai Sun**, Qianchuan Zhao, Jianhong Zou. *Energy and Buildings* (**ENB**). 216 (2020): 109965. (**Top** , SCI, IF:**7.093**, citations:**79**).  
 - Five-years occupancy measurement systems based on cameras, WiFi, PIR sensors, CO2 sensors, electricity sensors are analyzed and discussed.
 - The first comprehensive analysis based on different types and installed locations of camera.
   
