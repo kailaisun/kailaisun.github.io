@@ -48,7 +48,7 @@ I have published more than 10 papers at top international journals, including *B
 
 - [MITP-Net: a Deep-learning Framework for Short-term Indoor Temperature Predictions in Multi-zone Buildings.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4289282) Tian Xing,**Kailai Sun**, Qianchuan Zhao.*Building and Environment* (**BAE**). (2022).(**Top** , SCI, IF:**7.201**).
 
-- A Goal-conditioned Reinforcement Learning Algorithm with Environment Modeling. Zhe yu\*, **Kailai Sun**\*, Chenghao Li, Dianyu Zhong, Yang Yiqin, Qianchuan Zhao.Chinese Control Conference.(2023).
+
 
 ## Journal Paper
 
@@ -120,7 +120,7 @@ I have published more than 10 papers at top international journals, including *B
 
 - [Research on Multi-temporal Cloud Removal using D-S Evidence Theory and Cloud Segmentation Model](https://link.springer.com/chapter/10.1007/978-3-031-20497-5_14). Xinwei Wang\*, **Kailai Sun**\*, Qianchuan Zhao, and Jianhong Zou. *The CAAI International Conference on Artificial Intelligence* (**CICAI**). 2022. 
 
-
+- A Goal-conditioned Reinforcement Learning Algorithm with Environment Modeling. Zhe yu\*, **Kailai Sun**\*, Chenghao Li, Dianyu Zhong, Yang Yiqin, Qianchuan Zhao.Chinese Control Conference.(2023).(accepted)
 
 
 <!--
