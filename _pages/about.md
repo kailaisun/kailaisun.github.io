@@ -44,7 +44,6 @@ I have published more than 10 papers at top international journals, including *B
 
 - Protocol for a distributed smart building solution using semi-physical simulation. Hu Yan\*, Tian Xing\*, **Kailai Sun**\*, and Qianchuan Zhao. **Star Protocols**.(Cell sub journal).(2022).(Invited article).
 
-- [Integrating Machine Learning and Mathematical Optimization for Job Shop Scheduling](https://www.techrxiv.org/articles/preprint/Integrating_Machine_Learning_and_Mathematical_Optimization_for_Job_Shop_Scheduling/20510841). Anbang Liu, Peter B. Luh, **Kailai Sun**. *IEEE Transactions on Automation Science and Engineering* (**TASE**). (2022).(**Top** , SCI, IF:6.636). 
 
 - [MITP-Net: a Deep-learning Framework for Short-term Indoor Temperature Predictions in Multi-zone Buildings.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4289282) Tian Xing,**Kailai Sun**, Qianchuan Zhao.*Building and Environment* (**BAE**). (2022).(**Top** , SCI, IF:**7.201**).
 
@@ -103,16 +102,18 @@ I have published more than 10 papers at top international journals, including *B
 
   
 
-- [Indoor occupancy measurement by the fusion of motion detection and static estimation](https://www.sciencedirect.com/science/article/abs/pii/S037877882100877X). **Kailai Sun**, Qianchuan Zhao, Ziyou Zhang, and Xinyuan Hu. *Energy and Buildings* (**ENB**). 254 (2022): 111593.(**Top** , SCI, IF:**7.093**, citations:10).
+- [Indoor occupancy measurement by the fusion of motion detection and static estimation](https://www.sciencedirect.com/science/article/abs/pii/S037877882100877X). **Kailai Sun**, Qianchuan Zhao, Ziyou Zhang, and Xinyuan Hu. *Energy and Buildings* (**ENB**). 254 (2022): 111593.(**Top** , SCI, IF:**7.093**).
 
 
 - [Using knowledge inference to suppress the lamp disturbance for fire detection](https://www.sciencedirect.com/science/article/pii/S266644962100027X). **Kailai Sun**, Qianchuan Zhao, and Xinwei Wang. *Journal of Safety Science and Resilience* (**JSSR**). 2.3 (2021): 124-130.[Code link.](https://github.com/kailaisun/fire-detection-without-lamp)
+
+- [Integrating Machine Learning and Mathematical Optimization for Job Shop Scheduling](https://www.techrxiv.org/articles/preprint/Integrating_Machine_Learning_and_Mathematical_Optimization_for_Job_Shop_Scheduling/20510841). Anbang Liu, Peter B. Luh, **Kailai Sun**. *IEEE Transactions on Automation Science and Engineering* (**TASE**). (2022).(**Top** , SCI, IF:6.636). (accepted).
 
 
 
  
 ## Conference Paper
-- [Attendance and security system based on building video surveillance](https://drive.google.com/file/d/15HeVSLDb8vI0WaSrlMJJu7kj2qGIlVk4/view). **Kailai Sun**, Qianchuan Zhao, Jianhong Zou, Xiaoteng Ma. *International Conference on Smart City and Intelligent Building* (**ICSCIB**). Springer, Singapore, 2018. (citations:11).
+- [Attendance and security system based on building video surveillance](https://drive.google.com/file/d/15HeVSLDb8vI0WaSrlMJJu7kj2qGIlVk4/view). **Kailai Sun**, Qianchuan Zhao, Jianhong Zou, Xiaoteng Ma. *International Conference on Smart City and Intelligent Building* (**ICSCIB**). Springer, Singapore, 2018.
 
 - [Visual feedback system for traditional chinese medical massage robot](https://ieeexplore.ieee.org/abstract/document/8866076). **Kailai Sun**, Qianchuan Zhao, Zhenming Yang, Xiuwei Xu. *In 2019 Chinese Control Conference* (**CCC**). pp. 6379-6385. IEEE, 2019.[Code link.](https://github.com/kailaisun/New-two-dimensional-code_QR-code)
 
