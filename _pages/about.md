@@ -121,7 +121,7 @@ I have published more than 10 papers at top international journals, including *B
 
 - [Research on Multi-temporal Cloud Removal using D-S Evidence Theory and Cloud Segmentation Model](https://link.springer.com/chapter/10.1007/978-3-031-20497-5_14). Xinwei Wang\*, **Kailai Sun**\*, Qianchuan Zhao, and Jianhong Zou. *The CAAI International Conference on Artificial Intelligence* (**CICAI**). 2022. 
 
-- A Goal-conditioned Reinforcement Learning Algorithm with Environment Modeling. Zhe yu\*, **Kailai Sun**\*, Chenghao Li, Dianyu Zhong, Yang Yiqin, Qianchuan Zhao.Chinese Control Conference.(2023).(accepted)
+- [A Goal-conditioned Reinforcement Learning Algorithm with Environment Modeling](https://www.researchgate.net/publication/370561219_A_Goal-conditioned_Reinforcement_Learning_Algorithm_with_Environment_Modeling). Zhe yu\*, **Kailai Sun**\*, Chenghao Li, Dianyu Zhong, Yang Yiqin, Qianchuan Zhao.Chinese Control Conference.(2023).(accepted)
 
 
 <!--
