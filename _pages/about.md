@@ -26,6 +26,8 @@ I have published more than 10 papers at top international journals, including *B
 
 
 # 🔥 News
+- *2023.05*: 🎉🎉  Our invited article has been accepted by the Cell sub journal of *Star Protocols*: Protocol for a distributed smart building solution using semi-physical simulation. Hu Yan\*, Tian Xing\*, **Kailai Sun**\*, and Qianchuan Zhao. 
+- *2023.04*: 🎉🎉  Our work has been accepted by the *Building and Environment* :[MITP-Net: a Deep-learning Framework for Short-term Indoor Temperature Predictions in Multi-zone Buildings.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4289282) .
 - *2023.01*: 🎉🎉  My work has been accepted by the [AHFE 2023 Conference](https://ahfe.org/):Multi-Source Information Fusion network for building occupancy estimation.
 - *2022.11*: 🎉🎉  Cell Press reported our work.[Report link](https://mp.weixin.qq.com/s/jDRYjovXeBpyaED2dH1z2Q).
 - *2022.12*: 🎉🎉  Our large head tracking dataset (includs 1 million head boxes) is completed, and will be available soon: **Kailai Sun**, Shaobo Liu, Gao Huang, Qianchuan Zhao. A large vision dataset for head tracking in dense crowd.
@@ -41,13 +43,6 @@ I have published more than 10 papers at top international journals, including *B
 ## Under-review Paper
 
 - [A Review of AIoT-based Edge Devices and Lightweight Deployment](https://www.techrxiv.org/articles/preprint/A_Comprehensive_Review_of_AIoT-based_Edge_Devices_and_Lightweight_Deployment/21687248/1). **Kailai Sun**\*, Xinwei Wang\*, Qianchuan Zhao. *ACM computing surveys*. (2023).(**Top** , SCI, IF:**14.324**).
-
-- Protocol for a distributed smart building solution using semi-physical simulation. Hu Yan\*, Tian Xing\*, **Kailai Sun**\*, and Qianchuan Zhao. **Star Protocols**.(Cell sub journal).(2022).(Invited article).
-
-
-- [MITP-Net: a Deep-learning Framework for Short-term Indoor Temperature Predictions in Multi-zone Buildings.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4289282) Tian Xing,**Kailai Sun**, Qianchuan Zhao.*Building and Environment* (**BAE**). (2022).(**Top** , SCI, IF:**7.201**).
-
-
 
 ## Journal Paper
 
@@ -105,6 +100,12 @@ I have published more than 10 papers at top international journals, including *B
 - [Indoor occupancy measurement by the fusion of motion detection and static estimation](https://www.sciencedirect.com/science/article/abs/pii/S037877882100877X). **Kailai Sun**, Qianchuan Zhao, Ziyou Zhang, and Xinyuan Hu. *Energy and Buildings* (**ENB**). 254 (2022): 111593.(**Top** , SCI, IF:**7.093**).
 
 
+
+- Protocol for a distributed smart building solution using semi-physical simulation. Hu Yan\*, Tian Xing\*, **Kailai Sun**\*, and Qianchuan Zhao. **Star Protocols**.(Cell sub journal).(2023).(accepted).
+
+
+- [MITP-Net: a Deep-learning Framework for Short-term Indoor Temperature Predictions in Multi-zone Buildings.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4289282) Tian Xing,**Kailai Sun**, Qianchuan Zhao.*Building and Environment* (**BAE**). (2023).(**Top** , SCI, IF:**7.201**).
+- 
 - [Using knowledge inference to suppress the lamp disturbance for fire detection](https://www.sciencedirect.com/science/article/pii/S266644962100027X). **Kailai Sun**, Qianchuan Zhao, and Xinwei Wang. *Journal of Safety Science and Resilience* (**JSSR**). 2.3 (2021): 124-130.[Code link.](https://github.com/kailaisun/fire-detection-without-lamp)
 
 - [Integrating Machine Learning and Mathematical Optimization for Job Shop Scheduling](https://www.techrxiv.org/articles/preprint/Integrating_Machine_Learning_and_Mathematical_Optimization_for_Job_Shop_Scheduling/20510841). Anbang Liu, Peter B. Luh, **Kailai Sun**. *IEEE Transactions on Automation Science and Engineering* (**TASE**). (2022).(**Top** , SCI, IF:6.636). (accepted).
