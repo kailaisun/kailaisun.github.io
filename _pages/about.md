@@ -26,9 +26,11 @@ I have published more than 10 papers at top international journals, including *B
 
 
 # 🔥 News
+- *2023.04*: 🎉🎉  Our work has been accepted by a Cell sub journal, named [Star Protocols](https://www.cell.com/star-protocols/home):Protocol for a distributed smart building solution using semi-physical simulation. Hu Yan\*, Tian Xing\*, **Kailai Sun**\*, and Qianchuan Zhao.(Invited article).
+- *2023.04*: 🎉🎉  Our work has been accepted by [Building and Environment](https://www.sciencedirect.com/journal/building-and-environment) journal: [MITP-Net: a Deep-learning Framework for Short-term Indoor Temperature Predictions in Multi-zone Buildings](https://www.sciencedirect.com/science/article/pii/S0360132323004158).
 - *2023.01*: 🎉🎉  My work has been accepted by the [AHFE 2023 Conference](https://ahfe.org/):Multi-Source Information Fusion network for building occupancy estimation.
 - *2022.11*: 🎉🎉  Cell Press reported our work.[Report link](https://mp.weixin.qq.com/s/jDRYjovXeBpyaED2dH1z2Q).
-- *2022.12*: 🎉🎉  Our large head tracking dataset (includs 1 million head boxes) is completed, and will be available soon: **Kailai Sun**, Shaobo Liu, Gao Huang, Qianchuan Zhao. A large vision dataset for head tracking in dense crowd.
+- *2023.04*: 🎉🎉  Our large head tracking dataset (includs 1 million head boxes) is completed, and will be available soon: **Kailai Sun**, Shaobo Liu, Gao Huang, Qianchuan Zhao. A large vision dataset for head tracking in dense crowd.
 
 
 # 📝 Publications 
@@ -111,9 +113,9 @@ I have published more than 10 papers at top international journals, including *B
 ## Conference Paper
 
 - Multi-Source Information Fusion network for building occupancy estimation.**Kailai Sun**, Tian Xing, Xinwei Wang, Zhou Yang, and Qianchuan Zhao.  14th International Conference on Applied Human Factors and Ergonomics.(accepted)
-- 
+
 - [A Goal-conditioned Reinforcement Learning Algorithm with Environment Modeling](https://www.researchgate.net/profile/Yu_Zhe10/publication/370561219_A_Goal-conditioned_Reinforcement_Learning_Algorithm_with_Environment_Modeling/links/645602a44af78873525fb2e5/A-Goal-conditioned-Reinforcement-Learning-Algorithm-with-Environment-Modeling.pdf). Zhe yu\*, **Kailai Sun**\*, Chenghao Li, Dianyu Zhong, Yang Yiqin, Qianchuan Zhao.Chinese Control Conference.(2023).(accepted)
-- 
+
 - [Research on Multi-temporal Cloud Removal using D-S Evidence Theory and Cloud Segmentation Model](https://link.springer.com/chapter/10.1007/978-3-031-20497-5_14). Xinwei Wang\*, **Kailai Sun**\*, Qianchuan Zhao, and Jianhong Zou. *The CAAI International Conference on Artificial Intelligence* (**CICAI**). 2022. 
 
 - [Attendance and security system based on building video surveillance](https://drive.google.com/file/d/15HeVSLDb8vI0WaSrlMJJu7kj2qGIlVk4/view). **Kailai Sun**, Qianchuan Zhao, Jianhong Zou, Xiaoteng Ma. *International Conference on Smart City and Intelligent Building* (**ICSCIB**). Springer, Singapore, 2018.
