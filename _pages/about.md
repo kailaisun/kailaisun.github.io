@@ -176,8 +176,10 @@ I have published more than 10 papers at top international journals, including *B
 - *2022* Best Researcher Award for the contribution and honourable achievement in innovative research. International Research Awards on New Science Inventions NESIN 2022 Awards.
 - *2015.11*	The second prize of the 7th National College Students Mathematics Competition
 - *2016.06* The first prize in the Beijing Division of the 2016 National Mathematical Contest in Modeling for College Students
+<!--
 - *2015.11* The first prize of the first engineering design expression competition of BUPT (Top 1%)
 - *2015.06/2016.06* Haohan company Scholarship (Top 1%)
+-->
 - *2016.07* The second prize in the Beijing Division of the 2016 National Undergraduate Electronic Design Competition
 - *2017* American Undergraduate Mathematical Contest in Modeling Honorable Mention 
 
