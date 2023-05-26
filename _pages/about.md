@@ -185,8 +185,10 @@ I have published more than 10 papers at top international journals, including *B
 
 # 📖 Educations
 - *2018.09 - present*, Ph.D., Department of Automation, Tsinghua University.
+<!--
 - *2015.09 - 2018.06*,Ye Peida lab, Beijing University of Posts and Telecommunications (BUPT).
 - *2014.09 - 2018.06*, Bachelor, Department of Automation, Beijing University of Posts and Telecommunications (BUPT).
+-->
 
 <!--
 # 💬 Invited Talks
