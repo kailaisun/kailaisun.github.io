@@ -144,16 +144,7 @@ I have published more than 10 papers at top international journals, including *B
 # 💻 Projects
 
 - National Natural Science Foundation of China under Grant No. 62192751 and 61425024
-<!--
-- The 111 International Collaboration Program of China under Grant No. BP2018006
-- New generation intelligent building platform (National Key Research and Development Project of China under Grant 2017YFC0704100)
-- Energy Internet Planning, Operation and Trading (National Key Research and Development Project of China under Grant 2016YFB0901900)
-- Satellite remote sensing image interpretation technology and system based on artificial intelligence (2019 Major Science and Technology Program for the Strategic Emerging Industries of Fuzhou, Grant BNR2019TD01009)
-- The National Innovation Center of High Speed Train R&D project (CX/KJ-2020-0006)
-- Huawei company-Control security issue literature research project
-- Qiyuan Lab xxx project
-- Ridar-based road vehicle counting and intelligent video surveillance system project 
--->
+
 
 
 
@@ -178,10 +169,7 @@ I have published more than 10 papers at top international journals, including *B
 - *2022* Best Researcher Award for the contribution and honourable achievement in innovative research. International Research Awards on New Science Inventions NESIN 2022 Awards.
 - *2015.11*	The second prize of the 7th National College Students Mathematics Competition
 - *2016.06* The first prize in the Beijing Division of the 2016 National Mathematical Contest in Modeling for College Students
-<!--
-- *2015.11* The first prize of the first engineering design expression competition of BUPT (Top 1%)
-- *2015.06/2016.06* Haohan company Scholarship (Top 1%)
--->
+
 - *2016.07* The second prize in the Beijing Division of the 2016 National Undergraduate Electronic Design Competition
 - *2017* American Undergraduate Mathematical Contest in Modeling Honorable Mention 
 
@@ -189,14 +177,30 @@ I have published more than 10 papers at top international journals, including *B
 
 # 📖 Educations
 - *2018.09 - present*, Ph.D., Department of Automation, Tsinghua University.
-<!--
-- *2015.09 - 2018.06*,Ye Peida lab, Beijing University of Posts and Telecommunications (BUPT).
-- *2014.09 - 2018.06*, Bachelor, Department of Automation, Beijing University of Posts and Telecommunications (BUPT).
--->
+
 
 <!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- *2015.11* The first prize of the first engineering design expression competition of BUPT (Top 1%)
+- *2015.06/2016.06* Haohan company Scholarship (Top 1%)
+
+- *2015.09 - 2018.06*,Ye Peida lab, Beijing University of Posts and Telecommunications (BUPT).
+- *2014.09 - 2018.06*, Bachelor, Department of Automation, Beijing University of Posts and Telecommunications (BUPT).
+
+
+- The 111 International Collaboration Program of China under Grant No. BP2018006
+- New generation intelligent building platform (National Key Research and Development Project of China under Grant 2017YFC0704100)
+- Energy Internet Planning, Operation and Trading (National Key Research and Development Project of China under Grant 2016YFB0901900)
+- Satellite remote sensing image interpretation technology and system based on artificial intelligence (2019 Major Science and Technology Program for the Strategic Emerging Industries of Fuzhou, Grant BNR2019TD01009)
+- The National Innovation Center of High Speed Train R&D project (CX/KJ-2020-0006)
+- Huawei company-Control security issue literature research project
+- Qiyuan Lab xxx project
+- Ridar-based road vehicle counting and intelligent video surveillance system project 
+
+
+
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
 
