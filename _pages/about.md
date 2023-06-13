@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
 
-I am a Ph.D. candidate in the Department of Automation, Tsinghua University. As a member of [CFINS](http://cfins.au.tsinghua.edu.cn/en/), I'm supervised by [Prof. Qianchuan Zhao](http://cfins.au.tsinghua.edu.cn/personalhg/zhaoqc/). I received my Bachelor of Engineering degree from Department of Automation, Beijing University of Posts and Telecommunications (BUPT)  in 2018. 
+I am a Ph.D. in the Department of Automation, Tsinghua University. As a member of [CFINS](http://cfins.au.tsinghua.edu.cn/en/), I'm supervised by [Prof. Qianchuan Zhao](http://cfins.au.tsinghua.edu.cn/personalhg/zhaoqc/). I received my Bachelor of Engineering degree from Department of Automation, Beijing University of Posts and Telecommunications (BUPT)  in 2018. 
 
 My research interest lies in smart building and deep learning, including building occupancy detection/estimation, computer vision and generative model. 
 I have published more than 10 papers at top international journals, including *Building and environment, Energy and buildings, Cell Patterns*.
@@ -113,11 +113,13 @@ I have published more than 10 papers at top international journals, including *B
  
 ## Conference Paper
 
-- Multi-Source Information Fusion network for building occupancy estimation.**Kailai Sun**, Tian Xing, Xinwei Wang, Zhou Yang, and Qianchuan Zhao.  14th International Conference on Applied Human Factors and Ergonomics.(accepted)
+- Multi-Source Information Fusion network for building occupancy estimation.**Kailai Sun**, Tian Xing, Xinwei Wang, Zhou Yang, and Qianchuan Zhao.  14th International Conference on Applied Human Factors and Ergonomics.(Acceptance rate:34%)
+
+- [Research on Multi-temporal Cloud Removal using D-S Evidence Theory and Cloud Segmentation Model](https://link.springer.com/chapter/10.1007/978-3-031-20497-5_14). Xinwei Wang\*, **Kailai Sun**\*, Qianchuan Zhao, and Jianhong Zou. *The CAAI International Conference on Artificial Intelligence* (**CICAI**). 2022. (Acceptance rate:34%) 
 
 - [A Goal-conditioned Reinforcement Learning Algorithm with Environment Modeling](https://www.researchgate.net/profile/Yu_Zhe10/publication/370561219_A_Goal-conditioned_Reinforcement_Learning_Algorithm_with_Environment_Modeling/links/645602a44af78873525fb2e5/A-Goal-conditioned-Reinforcement-Learning-Algorithm-with-Environment-Modeling.pdf). Zhe yu\*, **Kailai Sun**\*, Chenghao Li, Dianyu Zhong, Yang Yiqin, Qianchuan Zhao.Chinese Control Conference.(2023).(accepted)
 
-- [Research on Multi-temporal Cloud Removal using D-S Evidence Theory and Cloud Segmentation Model](https://link.springer.com/chapter/10.1007/978-3-031-20497-5_14). Xinwei Wang\*, **Kailai Sun**\*, Qianchuan Zhao, and Jianhong Zou. *The CAAI International Conference on Artificial Intelligence* (**CICAI**). 2022. 
+
 
 - [Attendance and security system based on building video surveillance](https://drive.google.com/file/d/15HeVSLDb8vI0WaSrlMJJu7kj2qGIlVk4/view). **Kailai Sun**, Qianchuan Zhao, Jianhong Zou, Xiaoteng Ma. *International Conference on Smart City and Intelligent Building* (**ICSCIB**). Springer, Singapore, 2018.
 
