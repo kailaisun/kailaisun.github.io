@@ -46,6 +46,8 @@ I have published more than 10 papers at top international journals, including *B
 - [A Review of AIoT-based Edge Devices and Lightweight Deployment](https://www.techrxiv.org/articles/preprint/A_Comprehensive_Review_of_AIoT-based_Edge_Devices_and_Lightweight_Deployment/21687248/1). **Kailai Sun**\*, Xinwei Wang\*, Qianchuan Zhao. *ACM computing surveys*. (2023).(**Top** , SCI, IF:**14.324**).
 
 
+- [Multi-sensor Based Occupancy Prediction in a Multi-zone Office Building with Transformer](https://github.com/kailaisun/occupancy-prediction-binary).Irfan Qaisar\*, **Kailai Sun**\*, Qianchuan Zhao, Tian Xing, Hu Yan. *Buildings*. (2023).( SCI, IF:**3.324**).
+
 ## Journal Paper
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ENB 2020</div><img src='/images/paper/2.jpg' alt="sym" width="100%"></div></div>
