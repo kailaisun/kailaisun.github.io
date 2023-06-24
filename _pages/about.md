@@ -166,6 +166,7 @@ I have published more than 10 papers at top international journals, including *B
 
 
 # 🎖 Honors and Awards
+- *2023.06*	Outstanding graduates of Dept. Automation Tsinghua University 
 - *2022.11* Tsinghua University - Lingjun Pilot Scholarship
 - *2022.12* The first prize of Tsinghua University Weimin Zheng Scholarship (Top 1%)
 - *2019.10* The first prize of Tsinghua University Comprehensive Excellent Scholarship (Top 1%)
@@ -202,6 +203,8 @@ I have published more than 10 papers at top international journals, including *B
 - Huawei company-Control security issue literature research project
 - Qiyuan Lab xxx project
 - Ridar-based road vehicle counting and intelligent video surveillance system project 
+
+(Top 17%) 	Outstanding graduates of Dept. Automation Tsinghua University 
 
 
 
