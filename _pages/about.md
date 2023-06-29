@@ -43,22 +43,22 @@ I have published more than 10 papers at top international journals, including *B
 
 ## Under-review Paper
 
-- [A Review of AIoT-based Edge Devices and Lightweight Deployment](https://www.techrxiv.org/articles/preprint/A_Comprehensive_Review_of_AIoT-based_Edge_Devices_and_Lightweight_Deployment/21687248/1). **Kailai Sun**\1, Xinwei Wang\1, Qianchuan Zhao. *ACM computing surveys*. (2023).(**Top** , SCI, IF:**14.324**).
+- [A Review of AIoT-based Edge Devices and Lightweight Deployment](https://www.techrxiv.org/articles/preprint/A_Comprehensive_Review_of_AIoT-based_Edge_Devices_and_Lightweight_Deployment/21687248/1). **Kailai Sun**<sup>1,\*</sup>, Xinwei Wang<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>. *ACM computing surveys*. (2023).(**Top** , SCI, IF:**14.324**).
 
 
-- [Multi-sensor Based Occupancy Prediction in a Multi-zone Office Building with Transformer](https://www.preprints.org/manuscript/202306.1808/v1).Irfan Qaisar\*, **Kailai Sun**\*, Qianchuan Zhao, Tian Xing, Hu Yan. *Buildings*. (2023).( SCI, IF:**3.324**).
+- [Multi-sensor Based Occupancy Prediction in a Multi-zone Office Building with Transformer](https://www.preprints.org/manuscript/202306.1808/v1).Irfan Qaisar<sup>1</sup> **Kailai Sun**<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>, Tian Xing, Hu Yan. *Buildings*. (2023).( SCI, IF:**3.324**).
 
-- Bridging the Gap Between Indoor Depth Completion and Masked Autoencoders. Zhou Yang\*, **Kailai Sun**\*, Qianchuan Zhao. *IEEE Transactions on Image Processing*.(2023).( **Top** , SCI, IF:**11.041**).
+- Bridging the Gap Between Indoor Depth Completion and Masked Autoencoders. Zhou Yang<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qianchuan Zhao<sup>\*</sup>. *IEEE Transactions on Image Processing*.(2023).( **Top** , SCI, IF:**11.041**).
 
 
-- Building occupancy prediction based on multi-sensor information using Transformer and machine learning approaches. Irfan Qaisar\*, **Kailai Sun**\*, Qianchuan Zhao, Tian Xing, Hu Yan, and Zhe Yu. *AHFE 2023 Hawaii Conference*.
+- Building occupancy prediction based on multi-sensor information using Transformer and machine learning approaches. Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qianchuan Zhao<sup>\*</sup>, Tian Xing, Hu Yan, and Zhe Yu. *AHFE 2023 Hawaii Conference*.
 ## Journal Paper
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ENB 2020</div><img src='/images/paper/2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [A review of building occupancy measurement systems](https://www.sciencedirect.com/science/article/abs/pii/S0378778819332918). \\
- **Kailai Sun**, Qianchuan Zhao, Jianhong Zou. *Energy and Buildings* (**ENB**). 216 (2020): 109965. (**Top** , SCI, IF:**7.093**, citations:**79**).  
+ **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, Jianhong Zou. *Energy and Buildings* (**ENB**). 216 (2020): 109965. (**Top** , SCI, IF:**7.093**, citations:**79**).  
 - Five-years occupancy measurement systems based on cameras, WiFi, PIR sensors, CO2 sensors, electricity sensors are analyzed and discussed.
 - The first comprehensive analysis based on different types and installed locations of camera.
   
@@ -70,7 +70,7 @@ I have published more than 10 papers at top international journals, including *B
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cell Patterns 2022</div><img src='/images/paper/HONEYCOMB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [Honeycomb: An open-source distributed system for smart buildings](https://www.sciencedirect.com/science/article/pii/S2666389922002306).  Tian Xing\*, Hu Yan\*, **Kailai Sun**\*, Yifan Wang, Xuetao Wang and Qianchuan Zhao. **Patterns**.(Cell sub journal)(2022). [Data link.](https://zenodo.org/record/7047167#.Yyu0AqRBzD4) [Code link.](https://zenodo.org/record/7047159#.Yyuz-KRBzD4)
+- [Honeycomb: An open-source distributed system for smart buildings](https://www.sciencedirect.com/science/article/pii/S2666389922002306).  Tian Xing<sup>1</sup>, Hu Yan<sup>1</sup>, **Kailai Sun**<sup>1</sup>, Yifan Wang, Xuetao Wang and Qianchuan Zhao<sup>\*</sup>. **Patterns**.(Cell sub journal)(2022). [Data link.](https://zenodo.org/record/7047167#.Yyu0AqRBzD4) [Code link.](https://zenodo.org/record/7047159#.Yyuz-KRBzD4)
 - A bee-inspired, fully distributed, and open-source building IoT solution, has strong flexibility and robustness, multiple functionalities.
 - Proposed vision-based deep-learning occupancy measurement system.
 - High user acceptance during long-term stable operation.
