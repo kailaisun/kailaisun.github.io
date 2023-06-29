@@ -35,6 +35,9 @@ I have published more than 10 papers at top international journals, including *B
 
 
 # 📝 Publications 
+<sup>1</sup>:Co-first authors
+
+<sup>\*</sup>:Corresponding authors
 
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
