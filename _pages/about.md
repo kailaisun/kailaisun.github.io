@@ -26,7 +26,7 @@ I have published more than 10 papers at top international journals, including *B
 
 
 # 🔥 News
-- *2023.05*: 🎉🎉  Our work has been accepted by IEEE Robotics and Automation Letters (RA-L):A Learning-based Method for Computing Control Barrier Functions of Nonlinear Systems with Control Constraints.  Ziyou Zhang, Qianchuan Zhao,  **Kailai Sun**.
+- *2023.05*: 🎉🎉  Our work has been accepted by IEEE Robotics and Automation Letters (RA-L):A Learning-based Method for Computing Control Barrier Functions of Nonlinear Systems with Control Constraints.  Ziyou Zhang, Qianchuan Zhao<sup>\*</sup>,  **Kailai Sun**.
 - *2023.04*: 🎉🎉  Our work has been accepted by a Cell sub journal, named [Star Protocols](https://www.cell.com/star-protocols/home):Protocol for a distributed smart building solution using semi-physical simulation. Hu Yan<sup>1</sup>, Tian Xing<sup>1</sup>, **Kailai Sun**<sup>1</sup>, and Qianchuan Zhao<sup>\*</sup>.(Invited article).
 - *2023.04*: 🎉🎉  Our work has been accepted by [Building and Environment](https://www.sciencedirect.com/journal/building-and-environment) journal: [MITP-Net: a Deep-learning Framework for Short-term Indoor Temperature Predictions in Multi-zone Buildings](https://www.sciencedirect.com/science/article/pii/S0360132323004158).
 - *2023.01*: 🎉🎉  My work has been accepted by the [AHFE 2023 Conference](https://ahfe.org/):Multi-Source Information Fusion network for building occupancy estimation.
