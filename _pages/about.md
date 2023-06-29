@@ -43,7 +43,7 @@ I have published more than 10 papers at top international journals, including *B
 
 ## Under-review Paper
 
-- [A Review of AIoT-based Edge Devices and Lightweight Deployment](https://www.techrxiv.org/articles/preprint/A_Comprehensive_Review_of_AIoT-based_Edge_Devices_and_Lightweight_Deployment/21687248/1). **Kailai Sun**\*, Xinwei Wang\*, Qianchuan Zhao. *ACM computing surveys*. (2023).(**Top** , SCI, IF:**14.324**).
+- [A Review of AIoT-based Edge Devices and Lightweight Deployment](https://www.techrxiv.org/articles/preprint/A_Comprehensive_Review_of_AIoT-based_Edge_Devices_and_Lightweight_Deployment/21687248/1). **Kailai Sun**\1, Xinwei Wang\1, Qianchuan Zhao. *ACM computing surveys*. (2023).(**Top** , SCI, IF:**14.324**).
 
 
 - [Multi-sensor Based Occupancy Prediction in a Multi-zone Office Building with Transformer](https://www.preprints.org/manuscript/202306.1808/v1).Irfan Qaisar\*, **Kailai Sun**\*, Qianchuan Zhao, Tian Xing, Hu Yan. *Buildings*. (2023).( SCI, IF:**3.324**).
