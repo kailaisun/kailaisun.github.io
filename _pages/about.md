@@ -48,8 +48,10 @@ I have published more than 10 papers at top international journals, including *B
 
 - [Multi-sensor Based Occupancy Prediction in a Multi-zone Office Building with Transformer](https://www.preprints.org/manuscript/202306.1808/v1).Irfan Qaisar\*, **Kailai Sun**\*, Qianchuan Zhao, Tian Xing, Hu Yan. *Buildings*. (2023).( SCI, IF:**3.324**).
 
-- [Bridging the Gap Between Indoor Depth Completion and Masked Autoencoders]. Zhou Yang\*, **Kailai Sun**\*, Qianchuan Zhao. *IEEE Transactions on Image Processing*.(2023).( **Top** , SCI, IF:**11.041**).
+- Bridging the Gap Between Indoor Depth Completion and Masked Autoencoders. Zhou Yang\*, **Kailai Sun**\*, Qianchuan Zhao. *IEEE Transactions on Image Processing*.(2023).( **Top** , SCI, IF:**11.041**).
 
+
+- Building occupancy prediction based on multi-sensor information using Transformer and machine learning approaches. Irfan Qaisar\*, **Kailai Sun**\*, Qianchuan Zhao, Tian Xing, Hu Yan, and Zhe Yu. *AHFE 2023 Hawaii Conference*.
 ## Journal Paper
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ENB 2020</div><img src='/images/paper/2.jpg' alt="sym" width="100%"></div></div>
