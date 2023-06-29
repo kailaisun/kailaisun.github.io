@@ -215,20 +215,20 @@ I have published more than 10 papers at top international journals, including *B
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
 
-## ✒️ Reviewer
+# ✒️ Reviewer
 
 Journal: IEEE Transactions on Control Systems Technology, Results in Control and Optimizationm, Scientific Programming, Journal of Process Mechanical Engineering, etc.
 
 
 Conference:IEEE International Conference on Robotics and Automation, The World Congress of the International Federation of Automatic Control, etc.
 
-## 📚 Book
+# 📚 Book
 Participated in the translation of the book: Bertsekas, Dimitri. Convex optimization algorithms. Athena Scientific. 2015.
 
-## 👨‍🏫 Teaching
+# 👨‍🏫 Teaching
 Teaching assistant for "automatic control theory" for 8 times (4 years).
 
-## 📞 Contact
+# 📞 Contact
 
 [Department of Automation](https://www.au.tsinghua.edu.cn/) \
 [Tsinghua University](https://www.tsinghua.edu.cn/en/) \
