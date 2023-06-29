@@ -158,9 +158,6 @@ I have published more than 10 papers at top international journals, including *B
 
 
 
-
-
-
 # ✈ Internships
 - *2021.06 - 2021.08*, Harbin Institute of Technology Robotics Research Institute Co., Ltd, Yangzhou. 
 
@@ -217,6 +214,7 @@ I have published more than 10 papers at top international journals, including *B
 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
+
 ## ✒️ Reviewer
 
 Journal: IEEE Transactions on Control Systems Technology, Results in Control and Optimizationm, Scientific Programming, Journal of Process Mechanical Engineering, etc.
