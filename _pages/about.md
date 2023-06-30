@@ -56,6 +56,8 @@ I have published more than 10 papers at top international journals, including *B
 
 
 - Building occupancy prediction based on multi-sensor information using Transformer and machine learning approaches. Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qianchuan Zhao<sup>\*</sup>, Tian Xing, Hu Yan, and Zhe Yu. *AHFE 2023 Hawaii Conference*.
+
+
 ## Journal Paper
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ENB 2020</div><img src='/images/paper/2.jpg' alt="sym" width="100%"></div></div>
