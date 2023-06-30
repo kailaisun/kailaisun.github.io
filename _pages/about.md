@@ -45,6 +45,99 @@ I have published more than 10 papers at top international journals, including *B
 -->
 
 
+## Under-review Paper
+
+- [A Review of AIoT-based Edge Devices and Lightweight Deployment](https://www.techrxiv.org/articles/preprint/A_Comprehensive_Review_of_AIoT-based_Edge_Devices_and_Lightweight_Deployment/21687248/1). **Kailai Sun**<sup>1,\*</sup>, Xinwei Wang<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>. *ACM computing surveys*. (2023).(**Top** , SCI, IF:**14.324**).
+
+
+- [Multi-sensor Based Occupancy Prediction in a Multi-zone Office Building with Transformer](https://www.preprints.org/manuscript/202306.1808/v1).Irfan Qaisar<sup>1</sup> **Kailai Sun**<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>, Tian Xing, Hu Yan. *Buildings*. (2023).( SCI, IF:**3.324**).
+
+- Bridging the Gap Between Indoor Depth Completion and Masked Autoencoders. Zhou Yang<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qianchuan Zhao<sup>\*</sup>. *IEEE Transactions on Image Processing*.(2023).( **Top** , SCI, IF:**11.041**).
+
+
+- Building occupancy prediction based on multi-sensor information using Transformer and machine learning approaches. Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qianchuan Zhao<sup>\*</sup>, Tian Xing, Hu Yan, and Zhe Yu. *AHFE 2023 Hawaii Conference*.
+## Journal Paper
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ENB 2020</div><img src='/images/paper/2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- [A review of building occupancy measurement systems](https://www.sciencedirect.com/science/article/abs/pii/S0378778819332918). \\
+ **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, Jianhong Zou. *Energy and Buildings* (**ENB**). 216 (2020): 109965. (**Top** , SCI, IF:**7.093**, citations:**87**).  
+- Five-years occupancy measurement systems based on cameras, WiFi, PIR sensors, CO2 sensors, electricity sensors are analyzed and discussed.
+- The first comprehensive analysis based on different types and installed locations of camera.
+  
+  
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cell Patterns 2022</div><img src='/images/paper/HONEYCOMB.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- [Honeycomb: An open-source distributed system for smart buildings](https://www.sciencedirect.com/science/article/pii/S2666389922002306).  Tian Xing<sup>1</sup>, Hu Yan<sup>1</sup>, **Kailai Sun**<sup>1</sup>, Yifan Wang, Xuetao Wang and Qianchuan Zhao<sup>\*</sup>. **Patterns**.(Cell sub journal)(2022). [Data link.](https://zenodo.org/record/7047167#.Yyu0AqRBzD4) [Code link.](https://zenodo.org/record/7047159#.Yyuz-KRBzD4)
+- A bee-inspired, fully distributed, and open-source building IoT solution, has strong flexibility and robustness, multiple functionalities.
+- Proposed vision-based deep-learning occupancy measurement system.
+- High user acceptance during long-term stable operation.
+
+  
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BAE 2022</div><img src='/images/paper/DBF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- [A Fusion Framework of Vision-based Indoor Occupancy Estimation](https://www.sciencedirect.com/science/article/pii/S0360132322008617). \\
+  **Kailai Sun**<sup>1</sup>, Peng Liu<sup>1</sup>, Tian Xing, Qianchuan Zhao<sup>\*</sup> and Xinwei Wang. *Building and Environment* (**BAE**). 222 (2022): 109354.(**Top** , SCI, IF:**7.201**). [Code link.](https://github.com/kailaisun/FFO)
+- The first work to develop a three-level fusion framework in vision-based indoor occupancy estimation.
+- Our framework achieves state-of-the-art (SOTA) performance through ablation studies on practical building surveillance videos.
+  
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BAE 2022</div><img src='/images/paper/MPSN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+ 
+
+- [MPSN: Motion-aware Pseudo-Siamese Network for Indoor Video Head Detection in Buildings](https://www.sciencedirect.com/science/article/abs/pii/S036013232200587X). **Kailai Sun**, Xiaoteng Ma, Peng Liu, Qianchuan Zhao<sup>\*</sup>. *Building and Environment* (**BAE**). 222 (2022): 109354.(**Top** , SCI, IF:**7.201**).[Code link.](https://github.com/pl-share/MPSN)
+- The first work to jointly train the current frame and the pixel-level motion information into an end-to-end CNN network in head detection.
+- We validate its robustness through adversarial experiments with a mathematical solution of small perturbations.
+  
+</div>
+</div>
+
+  
+
+- [Indoor occupancy measurement by the fusion of motion detection and static estimation](https://www.sciencedirect.com/science/article/abs/pii/S037877882100877X). **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, Ziyou Zhang, and Xinyuan Hu. *Energy and Buildings* (**ENB**). 254 (2022): 111593.(**Top** , SCI, IF:**7.093**).
+
+
+- [Using knowledge inference to suppress the lamp disturbance for fire detection](https://www.sciencedirect.com/science/article/pii/S266644962100027X). **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, and Xinwei Wang. *Journal of Safety Science and Resilience* (**JSSR**). 2.3 (2021): 124-130.[Code link.](https://github.com/kailaisun/fire-detection-without-lamp)
+
+- [Integrating Machine Learning and Mathematical Optimization for Job Shop Scheduling](https://www.techrxiv.org/articles/preprint/Integrating_Machine_Learning_and_Mathematical_Optimization_for_Job_Shop_Scheduling/20510841). Anbang Liu, Peter B. Luh<sup>\*</sup>, **Kailai Sun**. *IEEE Transactions on Automation Science and Engineering* (**TASE**). (2022).(**Top** , SCI, IF:6.636). (accepted).
+
+- Protocol for a distributed smart building solution using semi-physical simulation. Hu Yan<sup>1</sup>, Tian Xing<sup>1</sup>, **Kailai Sun**<sup>1</sup>, and Qianchuan Zhao<sup>\*</sup>. **Star Protocols**.(Cell sub journal).(2023).(Invited article,accepted).
+
+- [MITP-Net: a Deep-learning Framework for Short-term Indoor Temperature Predictions in Multi-zone Buildings.](https://www.sciencedirect.com/science/article/pii/S0360132323004158) Tian Xing,**Kailai Sun**, Qianchuan Zhao<sup>\*</sup>.*Building and Environment* (**BAE**). (2023).(**Top** , SCI, IF:**7.201**,accepted).
+
+ 
+## Conference Paper
+
+- Multi-Source Information Fusion network for building occupancy estimation.**Kailai Sun**, Tian Xing, Xinwei Wang, Zhou Yang, and Qianchuan Zhao<sup>\*</sup>.  14th International Conference on Applied Human Factors and Ergonomics.(Acceptance rate:34%)
+
+- [Research on Multi-temporal Cloud Removal using D-S Evidence Theory and Cloud Segmentation Model](https://link.springer.com/chapter/10.1007/978-3-031-20497-5_14). Xinwei Wang<sup>1</sup>, **Kailai Sun**<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>, and Jianhong Zou. *The CAAI International Conference on Artificial Intelligence* (**CICAI**). 2022. (Acceptance rate:34%) 
+
+- [A Goal-conditioned Reinforcement Learning Algorithm with Environment Modeling](https://www.researchgate.net/profile/Yu_Zhe10/publication/370561219_A_Goal-conditioned_Reinforcement_Learning_Algorithm_with_Environment_Modeling/links/645602a44af78873525fb2e5/A-Goal-conditioned-Reinforcement-Learning-Algorithm-with-Environment-Modeling.pdf). Zhe yu<sup>1</sup>, **Kailai Sun**<sup>1</sup>, Chenghao Li, Dianyu Zhong, Yang Yiqin, Qianchuan Zhao<sup>\*</sup>.Chinese Control Conference.(2023).(accepted)
+
+
+
+- [Attendance and security system based on building video surveillance](https://drive.google.com/file/d/15HeVSLDb8vI0WaSrlMJJu7kj2qGIlVk4/view). **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, Jianhong Zou, Xiaoteng Ma. *International Conference on Smart City and Intelligent Building* (**ICSCIB**). Springer, Singapore, 2018.
+
+- [Visual feedback system for traditional chinese medical massage robot](https://ieeexplore.ieee.org/abstract/document/8866076). **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, Zhenming Yang, Xiuwei Xu. *In 2019 Chinese Control Conference* (**CCC**). pp. 6379-6385. IEEE, 2019.[Code link.](https://github.com/kailaisun/New-two-dimensional-code_QR-code)
+
+- [A multi-objective optimization of PV/ST-GSHP system based on office buildings](https://www.sciencedirect.com/science/article/pii/S1876610218306052). Yu Fu, Haiyang Lin, **Kailai Sun**, Qie Sun<sup>\*</sup>, Ronald Wennersten. *Energy Procedia*. 152 (2018): pp. 71-76.
+
+
 
 
 
