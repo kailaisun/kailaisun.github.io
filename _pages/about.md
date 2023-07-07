@@ -118,14 +118,14 @@ I have published more than 10 papers at top international journals, including *B
 
 - [Integrating Machine Learning and Mathematical Optimization for Job Shop Scheduling](https://www.techrxiv.org/articles/preprint/Integrating_Machine_Learning_and_Mathematical_Optimization_for_Job_Shop_Scheduling/20510841). Anbang Liu, Peter B. Luh<sup>\*</sup>, **Kailai Sun**. *IEEE Transactions on Automation Science and Engineering* (**TASE**). (2022).(**Top** , SCI, IF:6.636). (accepted).
 
-- Protocol for a distributed smart building solution using semi-physical simulation. Hu Yan<sup>1</sup>, Tian Xing<sup>1</sup>, **Kailai Sun**<sup>1</sup>, and Qianchuan Zhao<sup>\*</sup>. **Star Protocols**.(Cell sub journal).(2023).(Invited article,accepted).
+- [Protocol for a distributed smart building solution using semi-physical simulation](https://www.sciencedirect.com/science/article/pii/S266616672300357X). Hu Yan<sup>1</sup>, Tian Xing<sup>1</sup>, **Kailai Sun**<sup>1</sup>, and Qianchuan Zhao<sup>\*</sup>. **Star Protocols**.(Cell sub journal).(2023).(Invited article,accepted).
 
 - [MITP-Net: a Deep-learning Framework for Short-term Indoor Temperature Predictions in Multi-zone Buildings.](https://www.sciencedirect.com/science/article/pii/S0360132323004158) Tian Xing,**Kailai Sun**, Qianchuan Zhao<sup>\*</sup>.*Building and Environment* (**BAE**). (2023).(**Top** , SCI, IF:**7.201**,accepted).
 
- 
+ Kailai, S., Zhao, Q., Wang, X., Xing, T., Yang, Z.  (2023). Multi-Source Information Fusion network for building occupancy estimation. 
 ## Conference Paper
 
-- Multi-Source Information Fusion network for building occupancy estimation.**Kailai Sun**, Tian Xing, Xinwei Wang, Zhou Yang, and Qianchuan Zhao<sup>\*</sup>.  14th International Conference on Applied Human Factors and Ergonomics.(Acceptance rate:34%)
+- [Multi-Source Information Fusion network for building occupancy estimation](https://openaccess.cms-conferences.org/publications/book/978-1-958651-65-0/article/978-1-958651-65-0_14).**Kailai Sun**, Tian Xing, Xinwei Wang, Zhou Yang, and Qianchuan Zhao<sup>\*</sup>.  In: Alicja Maciejko (eds) Human Factors in Architecture, Sustainable Urban Planning and Infrastructure. AHFE (2023) International Conference. AHFE Open Access, vol 89. AHFE International, USA. http://doi.org/10.54941/ahfe1003687.(Acceptance rate:34%)
 
 - [Research on Multi-temporal Cloud Removal using D-S Evidence Theory and Cloud Segmentation Model](https://link.springer.com/chapter/10.1007/978-3-031-20497-5_14). Xinwei Wang<sup>1</sup>, **Kailai Sun**<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>, and Jianhong Zou. *The CAAI International Conference on Artificial Intelligence* (**CICAI**). 2022. (Acceptance rate:34%) 
 
