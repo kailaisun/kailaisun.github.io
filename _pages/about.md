@@ -26,6 +26,7 @@ I have published more than 10 papers at top international journals, including *B
 
 
 # 🔥 News
+- *2023.06*: 🎉🎉  My abstract has been accepted by the [AHFE  Hawaii Conference 2023](https://ahfe.org/):Building occupancy prediction based on multi-sensor information using Transformer and machine learning approaches.
 - *2023.05*: 🎉🎉  Our work has been accepted by IEEE Robotics and Automation Letters (RA-L):A Learning-based Method for Computing Control Barrier Functions of Nonlinear Systems with Control Constraints.  Ziyou Zhang, Qianchuan Zhao<sup>\*</sup>,  **Kailai Sun**.
 - *2023.04*: 🎉🎉  Our work has been accepted by a Cell sub journal, named [Star Protocols](https://www.cell.com/star-protocols/home):Protocol for a distributed smart building solution using semi-physical simulation. Hu Yan<sup>1</sup>, Tian Xing<sup>1</sup>, **Kailai Sun**<sup>1</sup>, and Qianchuan Zhao<sup>\*</sup>.(Invited article).
 - *2023.04*: 🎉🎉  Our work has been accepted by [Building and Environment](https://www.sciencedirect.com/journal/building-and-environment) journal: [MITP-Net: a Deep-learning Framework for Short-term Indoor Temperature Predictions in Multi-zone Buildings](https://www.sciencedirect.com/science/article/pii/S0360132323004158).
@@ -53,6 +54,8 @@ I have published more than 10 papers at top international journals, including *B
 - [Multi-sensor Based Occupancy Prediction in a Multi-zone Office Building with Transformer](https://www.preprints.org/manuscript/202306.1808/v1).Irfan Qaisar<sup>1</sup> **Kailai Sun**<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>, Tian Xing, Hu Yan. *Buildings*. (2023).( SCI, IF:**3.324**).
 
 - Bridging the Gap Between Indoor Depth Completion and Masked Autoencoders. Zhou Yang<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qianchuan Zhao<sup>\*</sup>. *IEEE Transactions on Image Processing*.(2023).( **Top** , SCI, IF:**11.041**).
+
+- Building occupancy number prediction: A Transformer approach. **Kailai Sun**<sup>1,\*</sup>, Irfan Qaisar<sup>1</sup>,Muhammad Arslan Khan, Qianchuan Zhao<sup>\*</sup>. *Building and Environment* (**BAE**). (2023).(**Top** , SCI, IF:**7.201**).
 
 
 - Building occupancy prediction based on multi-sensor information using Transformer and machine learning approaches. Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qianchuan Zhao<sup>\*</sup>, Tian Xing, Hu Yan, and Zhe Yu. *AHFE 2023 Hawaii Conference*.
