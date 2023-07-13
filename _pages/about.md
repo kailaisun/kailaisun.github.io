@@ -19,14 +19,14 @@ redirect_from:
 
 <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
 
-I am a Ph.D. in the Department of Automation, Tsinghua University. As a member of [CFINS](http://cfins.au.tsinghua.edu.cn/en/), I'm supervised by [Prof. Qianchuan Zhao](http://cfins.au.tsinghua.edu.cn/personalhg/zhaoqc/). I received my Bachelor of Engineering degree from Department of Automation, Beijing University of Posts and Telecommunications (BUPT)  in 2018. 
+I am a Research Fellow in the Department of the Built Environment, National University of Singapore. I received my Ph.D. degree in the Department of Automation, Tsinghua University. As a member of [CFINS](http://cfins.au.tsinghua.edu.cn/en/), I'm supervised by [Prof. Qianchuan Zhao](http://cfins.au.tsinghua.edu.cn/personalhg/zhaoqc/). I received my Bachelor of Engineering degree from Department of Automation, Beijing University of Posts and Telecommunications (BUPT)  in 2018. 
 
 My research interest lies in smart building and deep learning, including building occupancy detection/estimation, computer vision and generative model. 
 I have published more than 10 papers at top international journals, including *Building and environment, Energy and buildings, Cell Patterns*.
 
 
 # 🔥 News
-- *2023.06*: 🎉🎉  My abstract has been accepted by the [AHFE  Hawaii Conference 2023](https://ahfe.org/):Building occupancy prediction based on multi-sensor information using Transformer and machine learning approaches.
+- *2023.06*: 🎉🎉  My abstract has been accepted by the [AHFE Hawaii Conference 2023](https://ahfe.org/):Building occupancy prediction based on multi-sensor information using Transformer and machine learning approaches.
 - *2023.05*: 🎉🎉  Our work has been accepted by IEEE Robotics and Automation Letters (RA-L):A Learning-based Method for Computing Control Barrier Functions of Nonlinear Systems with Control Constraints.  Ziyou Zhang, Qianchuan Zhao<sup>\*</sup>,  **Kailai Sun**.
 - *2023.04*: 🎉🎉  Our work has been accepted by a Cell sub journal, named [Star Protocols](https://www.cell.com/star-protocols/home):Protocol for a distributed smart building solution using semi-physical simulation. Hu Yan<sup>1</sup>, Tian Xing<sup>1</sup>, **Kailai Sun**<sup>1</sup>, and Qianchuan Zhao<sup>\*</sup>.(Invited article).
 - *2023.04*: 🎉🎉  Our work has been accepted by [Building and Environment](https://www.sciencedirect.com/journal/building-and-environment) journal: [MITP-Net: a Deep-learning Framework for Short-term Indoor Temperature Predictions in Multi-zone Buildings](https://www.sciencedirect.com/science/article/pii/S0360132323004158).
@@ -125,7 +125,7 @@ I have published more than 10 papers at top international journals, including *B
 
 - [MITP-Net: a Deep-learning Framework for Short-term Indoor Temperature Predictions in Multi-zone Buildings.](https://www.sciencedirect.com/science/article/pii/S0360132323004158) Tian Xing,**Kailai Sun**, Qianchuan Zhao<sup>\*</sup>.*Building and Environment* (**BAE**). (2023).(**Top** , SCI, IF:**7.201**,accepted).
 
- Kailai, S., Zhao, Q., Wang, X., Xing, T., Yang, Z.  (2023). Multi-Source Information Fusion network for building occupancy estimation. 
+
 ## Conference Paper
 
 - [Multi-Source Information Fusion network for building occupancy estimation](https://openaccess.cms-conferences.org/publications/book/978-1-958651-65-0/article/978-1-958651-65-0_14).**Kailai Sun**, Tian Xing, Xinwei Wang, Zhou Yang, and Qianchuan Zhao<sup>\*</sup>.  In: Alicja Maciejko (eds) Human Factors in Architecture, Sustainable Urban Planning and Infrastructure. AHFE (2023) International Conference. AHFE Open Access, vol 89. AHFE International, USA. http://doi.org/10.54941/ahfe1003687.(Acceptance rate:34%)
@@ -160,8 +160,15 @@ I have published more than 10 papers at top international journals, including *B
 # 💻 Projects
 
 - National Natural Science Foundation of China under Grant No. 62192751 and 61425024
-
-
+- New generation intelligent building platform (National Key Research and Development Project of China under Grant 2017YFC0704100)
+- Energy Internet Planning, Operation and Trading (National Key Research and Development Project of China under Grant 2016YFB0901900)
+- National Science Foundation of China (Grant No. 52172308), Department of Transport of Hubei Province
+- The 111 International Collaboration Program of China under Grant No. BP2018006
+- The National Innovation Center of High Speed Train R&D project (CX/KJ-2020-0006)
+- Satellite remote sensing image interpretation technology and system based on artificial intelligence (2019 Major Science and Technology Program for the Strategic Emerging Industries of Fuzhou, Grant BNR2019TD01009)
+- Huawei company-Control security issue literature research project
+- Qiyuan Lab xxx project
+- Ridar-based road vehicle counting and intelligent video surveillance system project 
 
 # ✈ Internships
 - *2021.06 - 2021.08*, Harbin Institute of Technology Robotics Research Institute Co., Ltd, Yangzhou. 
@@ -183,38 +190,26 @@ I have published more than 10 papers at top international journals, including *B
 - *2022* Best Researcher Award for the contribution and honourable achievement in innovative research. International Research Awards on New Science Inventions NESIN 2022 Awards.
 - *2015.11*	The second prize of the 7th National College Students Mathematics Competition
 - *2016.06* The first prize in the Beijing Division of the 2016 National Mathematical Contest in Modeling for College Students
-
+- *2015.11* The first prize of the first engineering design expression competition of BUPT (Top 1%)
+- *2015.06/2016.06* Haohan company Scholarship (Top 1%)
 - *2016.07* The second prize in the Beijing Division of the 2016 National Undergraduate Electronic Design Competition
 - *2017* American Undergraduate Mathematical Contest in Modeling Honorable Mention 
 
 
 
 # 📖 Educations
-- *2018.09 - present*, Ph.D., Department of Automation, Tsinghua University.
-
+- *2023.07 - present*, Research Fellow, Department of the Built Environment, National University of Singapore.
+- *2018.09 - 2023.06*, Ph.D., Department of Automation, Tsinghua University.
+- *2015.09 - 2018.06*,Ye Peida lab, Beijing University of Posts and Telecommunications (BUPT).
+- *2014.09 - 2018.06*, Bachelor, Department of Automation, Beijing University of Posts and Telecommunications (BUPT).
 
 <!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-- *2015.11* The first prize of the first engineering design expression competition of BUPT (Top 1%)
-- *2015.06/2016.06* Haohan company Scholarship (Top 1%)
 
-- *2015.09 - 2018.06*,Ye Peida lab, Beijing University of Posts and Telecommunications (BUPT).
-- *2014.09 - 2018.06*, Bachelor, Department of Automation, Beijing University of Posts and Telecommunications (BUPT).
-
-
-- The 111 International Collaboration Program of China under Grant No. BP2018006
-- New generation intelligent building platform (National Key Research and Development Project of China under Grant 2017YFC0704100)
-- Energy Internet Planning, Operation and Trading (National Key Research and Development Project of China under Grant 2016YFB0901900)
-- Satellite remote sensing image interpretation technology and system based on artificial intelligence (2019 Major Science and Technology Program for the Strategic Emerging Industries of Fuzhou, Grant BNR2019TD01009)
-- The National Innovation Center of High Speed Train R&D project (CX/KJ-2020-0006)
-- Huawei company-Control security issue literature research project
-- Qiyuan Lab xxx project
-- Ridar-based road vehicle counting and intelligent video surveillance system project 
 
 (Top 17%) 	Outstanding graduates of Dept. Automation Tsinghua University 
-
 
 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
@@ -239,6 +234,6 @@ Teaching assistant for "automatic control theory" for 8 times (4 years).
 [Tsinghua University](https://www.tsinghua.edu.cn/en/) \
 FIT Building 3-624 \
 Beijing, China, 100084 \
-E-mail: <skl18@mails.tsinghua.edu.cn> &emsp;<18813126518@163.com>\
+E-mail:  <skl23@nus.edu.sg> &emsp;<skl.2018@tsinghua.org.cn> &emsp;<18813126518@163.com>\
      &emsp;  
 
