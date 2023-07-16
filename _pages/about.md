@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
 
-I am a Research Fellow in the Department of the Built Environment, National University of Singapore. I received my Ph.D. degree in the Department of Automation, Tsinghua University. As a member of [CFINS](http://cfins.au.tsinghua.edu.cn/en/), I'm supervised by [Prof. Qianchuan Zhao](http://cfins.au.tsinghua.edu.cn/personalhg/zhaoqc/). I received my Bachelor of Engineering degree from Department of Automation, Beijing University of Posts and Telecommunications (BUPT)  in 2018. 
+I am a Research Fellow in the Department of the Built Environment, National University of Singapore, working with Prof. [Yang Miang Goh](https://discovery.nus.edu.sg/3499-yang-miang-goh/about). I received my Ph.D. degree in the Department of Automation, Tsinghua University. As a member of [CFINS](http://cfins.au.tsinghua.edu.cn/en/), I'm supervised by [Prof. Qianchuan Zhao](http://cfins.au.tsinghua.edu.cn/personalhg/zhaoqc/). I received my Bachelor of Engineering degree from Department of Automation, Beijing University of Posts and Telecommunications (BUPT)  in 2018. 
 
 My research interest lies in smart building and deep learning, including building occupancy detection/estimation, computer vision and generative model. 
 I have published more than 10 papers at top international journals, including *Building and environment, Energy and buildings, Cell Patterns*.
@@ -67,7 +67,7 @@ I have published more than 10 papers at top international journals, including *B
 <div class='paper-box-text' markdown="1">
 
 - [A review of building occupancy measurement systems](https://www.sciencedirect.com/science/article/abs/pii/S0378778819332918). \\
- **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, Jianhong Zou. *Energy and Buildings* (**ENB**). 216 (2020): 109965. (**Top** , SCI, IF:**7.093**, citations:**87**).  
+ **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, Jianhong Zou. *Energy and Buildings* (**ENB**). 216 (2020): 109965. (**Top** , SCI, IF:**7.093**, citations:**90**).  
 - Five-years occupancy measurement systems based on cameras, WiFi, PIR sensors, CO2 sensors, electricity sensors are analyzed and discussed.
 - The first comprehensive analysis based on different types and installed locations of camera.
   
@@ -167,7 +167,6 @@ I have published more than 10 papers at top international journals, including *B
 - The National Innovation Center of High Speed Train R&D project (CX/KJ-2020-0006)
 - Satellite remote sensing image interpretation technology and system based on artificial intelligence (2019 Major Science and Technology Program for the Strategic Emerging Industries of Fuzhou, Grant BNR2019TD01009)
 - Huawei company-Control security issue literature research project
-- Qiyuan Lab xxx project
 - Ridar-based road vehicle counting and intelligent video surveillance system project 
 
 # ✈ Internships
@@ -176,9 +175,12 @@ I have published more than 10 papers at top international journals, including *B
 # 👨🏽‍🤝‍👨🏼 Collaborators
 - [Qianchuan Zhao](http://cfins.au.tsinghua.edu.cn/personalhg/zhaoqc/) -  Professor, Department of Automation, Tsinghua University. 
 - [Peter Luh](https://www.ee.uconn.edu/peter-b-luh/) - Professor, Board of Trustees Distinguished Professor Emeritus, University of Connecticut.
-- Shaobo Liu -   Associate Professor, Intelligent Transportation Systems Research Center, Wuhan University of Technology.
-- [Xiaoteng Ma](https://xtma.github.io/) -  Ph.D. candidate , Department of Automation, Tsinghua University. 
-- Anbang Liu -  Ph.D. candidate , Department of Automation, Tsinghua University. 
+- [Huang Gao](https://www.gaohuang.net/)-Associate Professor, Department of Automation, Tsinghua University. 
+- Shaobo Liu - Associate Professor, Intelligent Transportation Systems Research Center, Wuhan University of Technology.
+- [Bing Yan](https://www.rit.edu/directory/bxyeee-bing-yan)-Assistant Professor, Department of Electrical and Microelectronic Engineering, Rochester Institute of Technology.
+- [Xiaoteng Ma](https://xtma.github.io/) -  Ph.D., Department of Automation, Tsinghua University. 
+- Anbang Liu -  Ph.D. candidate , Department of Automation, Tsinghua University.
+
 
 
 # 🎖 Honors and Awards
