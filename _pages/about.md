@@ -48,6 +48,9 @@ I have published more than 10 papers at top international journals, including *B
 
 ## Under-review Paper
 
+
+- Toward Pedestrian Head Tracking: A Benchmark Dataset and an Information Fusion Network. **Kailai Sun**<sup>1</sup>, Xinwei Wang, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao<sup>\*</sup>, Gao Huang, Chang Liu. *International Journal of Computer Vision*. (2023).(**Top** , SCI, IF:**19.5**).
+
 - [A Review of AIoT-based Edge Devices and Lightweight Deployment](https://www.techrxiv.org/articles/preprint/A_Comprehensive_Review_of_AIoT-based_Edge_Devices_and_Lightweight_Deployment/21687248/1). **Kailai Sun**<sup>1,\*</sup>, Xinwei Wang<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>. *ACM computing surveys*. (2023).(**Top** , SCI, IF:**14.324**).
 
 
