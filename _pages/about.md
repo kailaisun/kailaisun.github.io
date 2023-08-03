@@ -26,13 +26,14 @@ I have published more than 10 papers at top international journals, including *B
 
 
 # 🔥 News
+- *2023.07*: 🎉🎉  Our large head tracking dataset (including 10 diverse scenes of 50,528 frames with over 2,366,249 heads and 2,358 tracks) is completed. The paper has been submitted to *International Journal of Computer Vision*. Visualization videos: https://drive.google.com/drive/folders/1BLmzCRx3MbOzVUITw0-RCpRqTHJ2JXYQ?usp=sharing. Our dataset will be available public after review. 
 - *2023.06*: 🎉🎉  My abstract has been accepted by the [AHFE Hawaii Conference 2023](https://ahfe.org/):Building occupancy prediction based on multi-sensor information using Transformer and machine learning approaches.
 - *2023.05*: 🎉🎉  Our work has been accepted by IEEE Robotics and Automation Letters (RA-L):A Learning-based Method for Computing Control Barrier Functions of Nonlinear Systems with Control Constraints.  Ziyou Zhang, Qianchuan Zhao<sup>\*</sup>,  **Kailai Sun**.
 - *2023.04*: 🎉🎉  Our work has been accepted by a Cell sub journal, named [Star Protocols](https://www.cell.com/star-protocols/home):Protocol for a distributed smart building solution using semi-physical simulation. Hu Yan<sup>1</sup>, Tian Xing<sup>1</sup>, **Kailai Sun**<sup>1</sup>, and Qianchuan Zhao<sup>\*</sup>.(Invited article).
 - *2023.04*: 🎉🎉  Our work has been accepted by [Building and Environment](https://www.sciencedirect.com/journal/building-and-environment) journal: [MITP-Net: a Deep-learning Framework for Short-term Indoor Temperature Predictions in Multi-zone Buildings](https://www.sciencedirect.com/science/article/pii/S0360132323004158).
 - *2023.01*: 🎉🎉  My work has been accepted by the [AHFE 2023 Conference](https://ahfe.org/):Multi-Source Information Fusion network for building occupancy estimation.
 - *2022.11*: 🎉🎉  Cell Press reported our work.[Report link](https://mp.weixin.qq.com/s/jDRYjovXeBpyaED2dH1z2Q).
-- *2023.04*: 🎉🎉  Our large head tracking dataset (includs 1 million head boxes) is completed, and will be available soon: **Kailai Sun**, Shaobo Liu, Gao Huang, Qianchuan Zhao. A large vision dataset for head tracking in dense crowd.
+
 
 
 # 📝 Publications 
