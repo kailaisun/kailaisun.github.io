@@ -54,8 +54,6 @@ I have published more than 10 papers at top international journals, including *B
 - [A Review of AIoT-based Edge Devices and Lightweight Deployment](https://www.techrxiv.org/articles/preprint/A_Comprehensive_Review_of_AIoT-based_Edge_Devices_and_Lightweight_Deployment/21687248/1). **Kailai Sun**<sup>1,\*</sup>, Xinwei Wang<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>. *ACM computing surveys*. (2023).(**Top** , SCI, IF:**14.324**).
 
 
-- [Multi-sensor Based Occupancy Prediction in a Multi-zone Office Building with Transformer](https://www.preprints.org/manuscript/202306.1808/v1).Irfan Qaisar<sup>1</sup> **Kailai Sun**<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>, Tian Xing, Hu Yan. *Buildings*. (2023).( SCI, IF:**3.324**).
-
 - Bridging the Gap Between Indoor Depth Completion and Masked Autoencoders. Zhou Yang<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qianchuan Zhao<sup>\*</sup>. *IEEE Transactions on Image Processing*.(2023).( **Top** , SCI, IF:**11.041**).
 
 - Building occupancy number prediction: A Transformer approach. **Kailai Sun**<sup>1,\*</sup>, Irfan Qaisar<sup>1</sup>,Muhammad Arslan Khan, Qianchuan Zhao<sup>\*</sup>. *Building and Environment* (**BAE**). (2023).(**Top** , SCI, IF:**7.201**).
@@ -126,6 +124,8 @@ I have published more than 10 papers at top international journals, including *B
 
 - [Protocol for a distributed smart building solution using semi-physical simulation](https://www.sciencedirect.com/science/article/pii/S266616672300357X). Hu Yan<sup>1</sup>, Tian Xing<sup>1</sup>, **Kailai Sun**<sup>1</sup>, and Qianchuan Zhao<sup>\*</sup>. **Star Protocols**.(Cell sub journal).(2023).(Invited article,accepted).
 
+- [Multi-sensor Based Occupancy Prediction in a Multi-zone Office Building with Transformer](https://www.preprints.org/manuscript/202306.1808/v1).Irfan Qaisar<sup>1</sup> **Kailai Sun**<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>, Tian Xing, Hu Yan. *Buildings*. (2023).( SCI, IF:**3.324**,accepted).
+- 
 - [MITP-Net: a Deep-learning Framework for Short-term Indoor Temperature Predictions in Multi-zone Buildings.](https://www.sciencedirect.com/science/article/pii/S0360132323004158) Tian Xing,**Kailai Sun**, Qianchuan Zhao<sup>\*</sup>.*Building and Environment* (**BAE**). (2023).(**Top** , SCI, IF:**7.201**,accepted).
 
 
