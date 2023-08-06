@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
 
-I am a Research Fellow in the Department of the Built Environment, National University of Singapore, working with Prof. [Yang Miang Goh](https://discovery.nus.edu.sg/3499-yang-miang-goh/about). I received my Ph.D. degree in the Department of Automation, Tsinghua University. As a member of [CFINS](http://cfins.au.tsinghua.edu.cn/en/), I'm supervised by [Prof. Qianchuan Zhao](http://cfins.au.tsinghua.edu.cn/personalhg/zhaoqc/). I received my Bachelor of Engineering degree from Department of Automation, Beijing University of Posts and Telecommunications (BUPT)  in 2018. 
+I am a Research Fellow in the Department of the Built Environment, National University of Singapore, working with Prof. [Yang Miang Goh](https://discovery.nus.edu.sg/3499-yang-miang-goh/about). I received my Ph.D. degree in the Department of Automation, Tsinghua University in 2023. As a member of [CFINS](http://cfins.au.tsinghua.edu.cn/en/), I'm supervised by [Prof. Qianchuan Zhao](http://cfins.au.tsinghua.edu.cn/personalhg/zhaoqc/). I received my Bachelor of Engineering degree from Department of Automation, Beijing University of Posts and Telecommunications (BUPT)  in 2018. 
 
 My research interest lies in smart building and deep learning, including building occupancy detection/estimation, computer vision and generative model. 
 I have published more than 10 papers at top international journals, including *Building and environment, Energy and buildings, Cell Patterns*.
@@ -28,13 +28,10 @@ I have published more than 10 papers at top international journals, including *B
 # 🔥 News
 - *2023.07*: 🎉🎉  Our large head tracking dataset (including 10 diverse scenes of 50,528 frames with over 2,366,249 heads and 2,358 tracks) is completed. The paper has been submitted to *International Journal of Computer Vision*. [Visualization videos](https://drive.google.com/drive/folders/1BLmzCRx3MbOzVUITw0-RCpRqTHJ2JXYQ?usp=sharing). Our dataset will be available public after review. 
 - *2023.06*: 🎉🎉  My abstract has been accepted by the [AHFE Hawaii Conference 2023](https://ahfe.org/):Building occupancy prediction based on multi-sensor information using Transformer and machine learning approaches.
-- *2023.05*: 🎉🎉  Our work has been accepted by IEEE Robotics and Automation Letters (RA-L):A Learning-based Method for Computing Control Barrier Functions of Nonlinear Systems with Control Constraints.  Ziyou Zhang, Qianchuan Zhao<sup>\*</sup>,  **Kailai Sun**.
+- *2023.06*: 🎉🎉  Our abstract has been accepted by the [2023 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/phoenix2023/):Learn to Solve Large-scale Job Shop Scheduling by Integrating Machine Learning and Mathematical Optimization.
 - *2023.04*: 🎉🎉  Our work has been accepted by a Cell sub journal, named [Star Protocols](https://www.cell.com/star-protocols/home):Protocol for a distributed smart building solution using semi-physical simulation. Hu Yan<sup>1</sup>, Tian Xing<sup>1</sup>, **Kailai Sun**<sup>1</sup>, and Qianchuan Zhao<sup>\*</sup>.(Invited article).
-- *2023.04*: 🎉🎉  Our work has been accepted by [Building and Environment](https://www.sciencedirect.com/journal/building-and-environment) journal: [MITP-Net: a Deep-learning Framework for Short-term Indoor Temperature Predictions in Multi-zone Buildings](https://www.sciencedirect.com/science/article/pii/S0360132323004158).
-- *2023.01*: 🎉🎉  My work has been accepted by the [AHFE 2023 Conference](https://ahfe.org/):Multi-Source Information Fusion network for building occupancy estimation.
 - *2022.11*: 🎉🎉  Cell Press reported our work.[Report link](https://mp.weixin.qq.com/s/jDRYjovXeBpyaED2dH1z2Q).
-
-
+- *2023.07*: 🎉🎉  Our work has been accepted by Buildings journal: [Multi-sensor Based Occupancy Prediction in a Multi-zone Office Building with Transformer](https://www.mdpi.com/2075-5309/13/8/2002).Irfan Qaisar<sup>1</sup> **Kailai Sun**<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>, Tian Xing, Hu Yan. *Buildings*. (2023).( SCI, IF:**3.324**).
 
 # 📝 Publications 
 <sup>1</sup>:Co-first authors
@@ -125,8 +122,8 @@ I have published more than 10 papers at top international journals, including *B
 
 - [Protocol for a distributed smart building solution using semi-physical simulation](https://www.sciencedirect.com/science/article/pii/S266616672300357X). Hu Yan<sup>1</sup>, Tian Xing<sup>1</sup>, **Kailai Sun**<sup>1</sup>, and Qianchuan Zhao<sup>\*</sup>. **Star Protocols**.(Cell sub journal).(2023).(Invited article,accepted).
 
-- [Multi-sensor Based Occupancy Prediction in a Multi-zone Office Building with Transformer](https://www.preprints.org/manuscript/202306.1808/v1).Irfan Qaisar<sup>1</sup> **Kailai Sun**<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>, Tian Xing, Hu Yan. *Buildings*. (2023).( SCI, IF:**3.324**,accepted).
-- 
+- [Multi-sensor Based Occupancy Prediction in a Multi-zone Office Building with Transformer](https://www.mdpi.com/2075-5309/13/8/2002).Irfan Qaisar<sup>1</sup> **Kailai Sun**<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>, Tian Xing, Hu Yan. *Buildings*. (2023).( SCI, IF:**3.324**).
+
 - [MITP-Net: a Deep-learning Framework for Short-term Indoor Temperature Predictions in Multi-zone Buildings.](https://www.sciencedirect.com/science/article/pii/S0360132323004158) Tian Xing,**Kailai Sun**, Qianchuan Zhao<sup>\*</sup>.*Building and Environment* (**BAE**). (2023).(**Top** , SCI, IF:**7.201**,accepted).
 
 
@@ -188,18 +185,29 @@ I have published more than 10 papers at top international journals, including *B
 
 
 # 🎖 Honors and Awards
-- *2023.06*	Outstanding graduates of Dept. Automation Tsinghua University 
-- *2022.11* Tsinghua University - Lingjun Pilot Scholarship
+
+## Scholarship
 - *2022.12* The first prize of Tsinghua University Weimin Zheng Scholarship (Top 1%)
-- *2019.10* The first prize of Tsinghua University Comprehensive Excellent Scholarship (Top 1%)
-- *2018.06*	Outstanding graduates of Beijing ordinary colleges and universities (Top 1%)
+- *2022.11* Tsinghua University - Lingjun Pilot Scholarship
+- *2019.10* The first prize of Tsinghua University Comprehensive Scholarship (Top 1%)
+- *2015.06 & 2016.06* Haohan company Scholarship (Top 1%)
+- *2015.09 & 2016.09 & 2017.09* National Encouragement Scholarship (Top 3%)
+
+## Student
+- *2023.06* Outstanding graduates of Department of Automation Tsinghua University
+- *2018.06* Outstanding graduates of Beijing ordinary colleges and universities (Top 1%)
+- *2023.06* Academic Excellence Award in System Engineering Institution, Department of Automation, Tsinghua University
+- *2018.06* Excellent Student Cadre (Top 3%)
+- *2015.09 & 2016.09 & 2017.09* Merit Student (Top 3%)
+
+## Competition
+- *2015.11* The second prize of the Chinese National Undergraduate Mathematical Contest
+- *2016.06* The first prize in the Beijing Division of the Chinese National Undergraduate Mathematical Contest in Modeling
+- *2015.11* The first prize of the engineering design expression competition of BUPT (Top 1%)
+- *2016.07* The second prize in the Beijing Division of the National Undergraduate Electronic Design Competition
+- *2017* American Undergraduate Mathematical Contest in Modeling Honorable Mention
 - *2022* Best Researcher Award for the contribution and honourable achievement in innovative research. International Research Awards on New Science Inventions NESIN 2022 Awards.
-- *2015.11*	The second prize of the 7th National College Students Mathematics Competition
-- *2016.06* The first prize in the Beijing Division of the 2016 National Mathematical Contest in Modeling for College Students
-- *2015.11* The first prize of the first engineering design expression competition of BUPT (Top 1%)
-- *2015.06/2016.06* Haohan company Scholarship (Top 1%)
-- *2016.07* The second prize in the Beijing Division of the 2016 National Undergraduate Electronic Design Competition
-- *2017* American Undergraduate Mathematical Contest in Modeling Honorable Mention 
+
 
 
 
