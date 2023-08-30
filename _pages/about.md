@@ -31,7 +31,6 @@ I have published more than 10 papers at top international journals, including *B
 - *2023.06*: 🎉🎉  Our abstract has been accepted by the [2023 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/phoenix2023/):Learn to Solve Large-scale Job Shop Scheduling by Integrating Machine Learning and Mathematical Optimization.
 - *2023.04*: 🎉🎉  Our work has been accepted by a Cell sub journal, named [Star Protocols](https://www.cell.com/star-protocols/home):Protocol for a distributed smart building solution using semi-physical simulation. Hu Yan<sup>1</sup>, Tian Xing<sup>1</sup>, **Kailai Sun**<sup>1</sup>, and Qianchuan Zhao<sup>\*</sup>.(Invited article).
 - *2022.11*: 🎉🎉  Cell Press reported our work.[Report link](https://mp.weixin.qq.com/s/jDRYjovXeBpyaED2dH1z2Q).
-- *2023.07*: 🎉🎉  Our work has been accepted by Buildings journal: [Multi-sensor Based Occupancy Prediction in a Multi-zone Office Building with Transformer](https://www.mdpi.com/2075-5309/13/8/2002).Irfan Qaisar<sup>1</sup> **Kailai Sun**<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>, Tian Xing, Hu Yan. *Buildings*. (2023).( SCI, IF:**3.324**).
 
 # 📝 Publications 
 <sup>1</sup>:Co-first authors
@@ -47,17 +46,16 @@ I have published more than 10 papers at top international journals, including *B
 ## Under-review Paper
 
 
-- Toward Pedestrian Head Tracking: A Benchmark Dataset and an Information Fusion Network. **Kailai Sun**<sup>1</sup>, Xinwei Wang, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao<sup>\*</sup>, Gao Huang, Chang Liu. *International Journal of Computer Vision*. (2023).(**Top** , SCI, IF:**19.5**).
+- [Toward Pedestrian Head Tracking: A Benchmark Dataset and an Information Fusion Network](https://drive.google.com/file/d/1d5L6fhAOnLfeVEVSum6Lrds89BPkkmhh/view?usp=sharing). **Kailai Sun**<sup>1</sup>, Xinwei Wang, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao<sup>\*</sup>, Gao Huang, Chang Liu. *International Journal of Computer Vision*. (2023).(**Top** , SCI, IF:**19.5**).
 
 - [A Review of AIoT-based Edge Devices and Lightweight Deployment](https://www.techrxiv.org/articles/preprint/A_Comprehensive_Review_of_AIoT-based_Edge_Devices_and_Lightweight_Deployment/21687248/1). **Kailai Sun**<sup>1,\*</sup>, Xinwei Wang<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>. *ACM computing surveys*. (2023).(**Top** , SCI, IF:**14.324**).
 
 
-- Bridging the Gap Between Indoor Depth Completion and Masked Autoencoders. Zhou Yang<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qianchuan Zhao<sup>\*</sup>. *IEEE Transactions on Image Processing*.(2023).( **Top** , SCI, IF:**11.041**).
+- [Bridging the Gap Between Indoor Depth Completion and Masked Autoencoders](https://www.techrxiv.org/articles/preprint/Bridging_the_Gap_Between_Indoor_Depth_Completion_and_Masked_Autoencoders/24014946). Zhou Yang<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qianchuan Zhao<sup>\*</sup>. *IEEE Transactions on Image Processing*.(2023).( **Top** , SCI, IF:**11.041**).
 
-- Building occupancy number prediction: A Transformer approach. **Kailai Sun**<sup>1,\*</sup>, Irfan Qaisar<sup>1</sup>,Muhammad Arslan Khan, Qianchuan Zhao<sup>\*</sup>. *Building and Environment* (**BAE**). (2023).(**Top** , SCI, IF:**7.201**).
+- Building occupancy number prediction: A Transformer approach. **Kailai Sun**<sup>1,\*</sup>, Irfan Qaisar<sup>1</sup>,Muhammad Arslan Khan, Qianchuan Zhao<sup>\*</sup>. *Building and Environment* (**BAE**). (2023).(**Top** , SCI, IF:**7.201**). Minor revision (first round).
 
 
-- Building occupancy prediction based on multi-sensor information using Transformer and machine learning approaches. Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qianchuan Zhao<sup>\*</sup>, Tian Xing, Hu Yan, and Zhe Yu. *AHFE 2023 Hawaii Conference*.
 
 
 ## Journal Paper
@@ -169,6 +167,9 @@ I have published more than 10 papers at top international journals, including *B
 - Satellite remote sensing image interpretation technology and system based on artificial intelligence (2019 Major Science and Technology Program for the Strategic Emerging Industries of Fuzhou, Grant BNR2019TD01009)
 - Huawei company-Control security issue literature research project
 - Ridar-based road vehicle counting and intelligent video surveillance system project 
+- Intelligent detection and control aircraft system from Tongfang Intelligent Technology Co., ltd
+- Evaluation of (Singapore Changi Airport Group) CAG’s safety model for profiling construction contractors’ safety performance; Ref No.: 2023-0492
+- Computer Vision for Housekeeping on Construction Site; Award No.: AISG2-100E-2021-084
 
 # ✈ Internships
 - *2021.06 - 2021.08*, Harbin Institute of Technology Robotics Research Institute Co., Ltd, Yangzhou. 
@@ -189,6 +190,7 @@ I have published more than 10 papers at top international journals, including *B
 ## Scholarship
 - *2022.12* The first prize of Tsinghua University Weimin Zheng Scholarship (Top 1%)
 - *2022.11* Tsinghua University - Lingjun Pilot Scholarship
+- *2021.11* Tsinghua Scholarship for Overseas Graduate Studies
 - *2019.10* The first prize of Tsinghua University Comprehensive Scholarship (Top 1%)
 - *2015.06 & 2016.06* Haohan company Scholarship (Top 1%)
 - *2015.09 & 2016.09 & 2017.09* National Encouragement Scholarship (Top 3%)
@@ -212,7 +214,7 @@ I have published more than 10 papers at top international journals, including *B
 
 
 # 📖 Educations
-- *2023.07 - present*, Research Fellow, Department of the Built Environment, National University of Singapore.
+- *2023.08 - present*, Research Fellow, Department of the Built Environment, National University of Singapore.
 - *2018.09 - 2023.06*, Ph.D., Department of Automation, Tsinghua University.
 - *2015.09 - 2018.06*,Ye Peida lab, Beijing University of Posts and Telecommunications (BUPT).
 - *2014.09 - 2018.06*, Bachelor, Department of Automation, Beijing University of Posts and Telecommunications (BUPT).
@@ -231,7 +233,7 @@ I have published more than 10 papers at top international journals, including *B
 
 # ✒️ Reviewer
 
-Journal: IEEE Transactions on Control Systems Technology, Results in Control and Optimizationm, Scientific Programming, Journal of Process Mechanical Engineering, etc.
+Journal: IEEE Transactions on Control Systems Technology, IEEE Internet of Things Journal, Results in Control and Optimizationm, Scientific Programming, Journal of Process Mechanical Engineering, etc.
 
 
 Conference:IEEE International Conference on Robotics and Automation, The World Congress of the International Federation of Automatic Control, etc.
