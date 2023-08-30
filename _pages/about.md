@@ -124,7 +124,7 @@ I have published more than 10 papers at top international journals, including *B
 - [Multi-sensor Based Occupancy Prediction in a Multi-zone Office Building with Transformer](https://www.mdpi.com/2075-5309/13/8/2002).Irfan Qaisar<sup>1</sup> **Kailai Sun**<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>, Tian Xing, Hu Yan. *Buildings*. (2023).( SCI, IF:**3.324**).
 
 - [Integrating Machine Learning and Mathematical Optimization for Job Shop Scheduling](https://ieeexplore.ieee.org/document/10227334). Anbang Liu, Peter B. Luh<sup>\*</sup>, **Kailai Sun**. *IEEE Transactions on Automation Science and Engineering* (**TASE**). (2022).(**Top** , SCI, IF:6.636).
-- 
+
 - [MITP-Net: a Deep-learning Framework for Short-term Indoor Temperature Predictions in Multi-zone Buildings.](https://www.sciencedirect.com/science/article/pii/S0360132323004158) Tian Xing,**Kailai Sun**, Qianchuan Zhao<sup>\*</sup>.*Building and Environment* (**BAE**). (2023).(**Top** , SCI, IF:**7.201**,accepted).
 
 
