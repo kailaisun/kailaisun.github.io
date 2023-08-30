@@ -120,6 +120,8 @@ I have published more than 10 papers at top international journals, including *B
 
 - [Protocol for a distributed smart building solution using semi-physical simulation](https://www.sciencedirect.com/science/article/pii/S266616672300357X). Hu Yan<sup>1</sup>, Tian Xing<sup>1</sup>, **Kailai Sun**<sup>1</sup>, and Qianchuan Zhao<sup>\*</sup>. **Star Protocols**.(Cell sub journal).(2023).(Invited article,accepted).
 
+- [A Succinct Summary of Vision-based Building Occupancy Estimation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9GsK1_IAAAAJ&citation_for_view=9GsK1_IAAAAJ:Se3iqnhoufwC). Kailai Sun. Advancements in Civil Engineering & Technology 5 (3). (2023) (IF: 4.982)
+
 - [Multi-sensor Based Occupancy Prediction in a Multi-zone Office Building with Transformer](https://www.mdpi.com/2075-5309/13/8/2002).Irfan Qaisar<sup>1</sup> **Kailai Sun**<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>, Tian Xing, Hu Yan. *Buildings*. (2023).( SCI, IF:**3.324**).
 
 - [MITP-Net: a Deep-learning Framework for Short-term Indoor Temperature Predictions in Multi-zone Buildings.](https://www.sciencedirect.com/science/article/pii/S0360132323004158) Tian Xing,**Kailai Sun**, Qianchuan Zhao<sup>\*</sup>.*Building and Environment* (**BAE**). (2023).(**Top** , SCI, IF:**7.201**,accepted).
