@@ -53,9 +53,6 @@ I have published more than 10 papers at top international journals, including *B
 
 - [Bridging the Gap Between Indoor Depth Completion and Masked Autoencoders](https://www.techrxiv.org/articles/preprint/Bridging_the_Gap_Between_Indoor_Depth_Completion_and_Masked_Autoencoders/24014946). Zhou Yang<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qianchuan Zhao<sup>\*</sup>. *IEEE Transactions on Image Processing*.(2023).( **Top** , SCI, IF:**11.041**).
 
-- Building occupancy number prediction: A Transformer approach. **Kailai Sun**<sup>1,\*</sup>, Irfan Qaisar<sup>1</sup>,Muhammad Arslan Khan, Qianchuan Zhao<sup>\*</sup>. *Building and Environment* (**BAE**). (2023).(**Top** , SCI, IF:**7.201**). Minor revision (first round).
-
-
 
 
 ## Journal Paper
@@ -109,7 +106,7 @@ I have published more than 10 papers at top international journals, including *B
 </div>
 </div>
 
-  
+- [Building occupancy number prediction: A Transformer approach]. **Kailai Sun**<sup>1,\*</sup>, Irfan Qaisar<sup>1</sup>,Muhammad Arslan Khan, Qianchuan Zhao<sup>\*</sup>. *Building and Environment* (**BAE**). (2023).(**Top** , SCI, IF:**7.201**). Accepted with a first-round Minor revision.
 
 - [Indoor occupancy measurement by the fusion of motion detection and static estimation](https://www.sciencedirect.com/science/article/abs/pii/S037877882100877X). **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, Ziyou Zhang, and Xinyuan Hu. *Energy and Buildings* (**ENB**). 254 (2022): 111593.(**Top** , SCI, IF:**7.093**).
 
