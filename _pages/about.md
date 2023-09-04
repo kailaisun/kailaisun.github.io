@@ -73,7 +73,7 @@ I have published more than 10 papers at top international journals, including *B
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cell Patterns 2022</div><img src='/images/paper/HONEYCOMB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [Honeycomb: An open-source distributed system for smart buildings](https://www.sciencedirect.com/science/article/pii/S2666389922002306).  Tian Xing<sup>1</sup>, Hu Yan<sup>1</sup>, **Kailai Sun**<sup>1</sup>, Yifan Wang, Xuetao Wang and Qianchuan Zhao<sup>\*</sup>. **Patterns**.(Cell sub journal)(2022). [Data link.](https://zenodo.org/record/7047167#.Yyu0AqRBzD4) [Code link.](https://zenodo.org/record/7047159#.Yyuz-KRBzD4)
+- [Honeycomb: An open-source distributed system for smart buildings](https://www.sciencedirect.com/science/article/pii/S2666389922002306).  Tian Xing<sup>1</sup>, Hu Yan<sup>1</sup>, **Kailai Sun**<sup>1</sup>, Yifan Wang, Xuetao Wang and Qianchuan Zhao<sup>\*</sup>. **Patterns**.(Cell sub journal)(SCI,IF:**6.5** )(2022). [Data link.](https://zenodo.org/record/7047167#.Yyu0AqRBzD4) [Code link.](https://zenodo.org/record/7047159#.Yyuz-KRBzD4)
 - A bee-inspired, fully distributed, and open-source building IoT solution, has strong flexibility and robustness, multiple functionalities.
 - Proposed vision-based deep-learning occupancy measurement system.
 - High user acceptance during long-term stable operation.
