@@ -106,7 +106,7 @@ I have published more than 10 papers at top international journals, including *B
 </div>
 </div>
 
-- [Building occupancy number prediction: A Transformer approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4517384). **Kailai Sun**<sup>1,\*</sup>, Irfan Qaisar<sup>1</sup>,Muhammad Arslan Khan, Qianchuan Zhao<sup>\*</sup>. *Building and Environment* (**BAE**). (2023).(**Top** , SCI, IF:**7.201**). Accepted with a first-round Minor revision.
+- [Building occupancy number prediction: A Transformer approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4517384). **Kailai Sun**<sup>1,\*</sup>, Irfan Qaisar<sup>1</sup>,Muhammad Arslan Khan, Qianchuan Zhao<sup>\*</sup>. *Building and Environment* (**BAE**). (2023).(**Top** , SCI, IF:**7.201**). **Accepted with a first-round Minor revision**.
 
 - [Indoor occupancy measurement by the fusion of motion detection and static estimation](https://www.sciencedirect.com/science/article/abs/pii/S037877882100877X). **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, Ziyou Zhang, and Xinyuan Hu. *Energy and Buildings* (**ENB**). 254 (2022): 111593.(**Top** , SCI, IF:**7.093**).
 
