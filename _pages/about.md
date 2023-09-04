@@ -26,6 +26,7 @@ I have published more than 10 papers at top international journals, including *B
 
 
 # 🔥 News
+- *2023.09*: 🎉🎉  My paper is accepted with a first-round Minor revision.:[Building occupancy number prediction: A Transformer approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4517384). **Kailai Sun**<sup>\*</sup>, Irfan Qaisar<sup></sup>,Muhammad Arslan Khan, Qianchuan Zhao<sup>\*</sup>. *Building and Environment* (**BAE**). (2023).(**Top** , SCI, IF:**7.201**). 
 - *2023.07*: 🎉🎉  Our large head tracking dataset (including 10 diverse scenes of 50,528 frames with over 2,366,249 heads and 2,358 tracks) is completed. The paper has been submitted to *International Journal of Computer Vision*. [Visualization videos](https://drive.google.com/drive/folders/1BLmzCRx3MbOzVUITw0-RCpRqTHJ2JXYQ?usp=sharing). [Our dataset](https://github.com/kailaisun/Cchead) and [paper](https://drive.google.com/file/d/1d5L6fhAOnLfeVEVSum6Lrds89BPkkmhh/view) will be available public after review. 
 - *2023.06*: 🎉🎉  My abstract has been accepted by the [AHFE Hawaii Conference 2023](https://ahfe.org/):Building occupancy prediction based on multi-sensor information using Transformer and machine learning approaches.
 - *2023.06*: 🎉🎉  Our abstract has been accepted by the [2023 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/phoenix2023/):Learn to Solve Large-scale Job Shop Scheduling by Integrating Machine Learning and Mathematical Optimization.
