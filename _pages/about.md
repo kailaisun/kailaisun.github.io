@@ -176,9 +176,10 @@ I have published more than 10 papers at top international journals, including *B
 - *2021.06 - 2021.08*, Harbin Institute of Technology Robotics Research Institute Co., Ltd, Yangzhou. 
 
 # 👨🏽‍🤝‍👨🏼 Collaborators
-- [Qianchuan Zhao](http://cfins.au.tsinghua.edu.cn/personalhg/zhaoqc/) -  Professor, Department of Automation, Tsinghua University. 
+- [Qianchuan Zhao](http://cfins.au.tsinghua.edu.cn/personalhg/zhaoqc/) -  Professor, Department of Automation, Tsinghua University.
 - [Peter Luh](https://www.ee.uconn.edu/peter-b-luh/) - Professor, Board of Trustees Distinguished Professor Emeritus, University of Connecticut.
-- [Huang Gao](https://www.gaohuang.net/)-Associate Professor, Department of Automation, Tsinghua University. 
+- [Yang Miang Goh](https://discovery.nus.edu.sg/3499-yang-miang-goh/about)　－Associate Professor, Department of the Built Environment, National University of Singapore.
+- [Huang Gao](https://www.gaohuang.net/)-Associate Professor, Department of Automation, Tsinghua University.
 - Shaobo Liu - Associate Professor, Intelligent Transportation Systems Research Center, Wuhan University of Technology.
 - [Bing Yan](https://www.rit.edu/directory/bxyeee-bing-yan)-Assistant Professor, Department of Electrical and Microelectronic Engineering, Rochester Institute of Technology.
 - [Xiaoteng Ma](https://xtma.github.io/) -  Ph.D., Department of Automation, Tsinghua University. 
