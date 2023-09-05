@@ -178,7 +178,7 @@ I have published more than 10 papers at top international journals, including *B
 # 👨🏽‍🤝‍👨🏼 Collaborators
 - [Qianchuan Zhao](http://cfins.au.tsinghua.edu.cn/personalhg/zhaoqc/) -  Professor, Department of Automation, Tsinghua University.
 - [Peter Luh](https://www.ee.uconn.edu/peter-b-luh/) - Professor, Board of Trustees Distinguished Professor Emeritus, University of Connecticut.
-- [Yang Miang Goh](https://discovery.nus.edu.sg/3499-yang-miang-goh/about)　－Associate Professor, Department of the Built Environment, National University of Singapore.
+- [Yang Miang Goh](https://discovery.nus.edu.sg/3499-yang-miang-goh/about)－Associate Professor, Department of the Built Environment, National University of Singapore.
 - [Huang Gao](https://www.gaohuang.net/)-Associate Professor, Department of Automation, Tsinghua University.
 - Shaobo Liu - Associate Professor, Intelligent Transportation Systems Research Center, Wuhan University of Technology.
 - [Bing Yan](https://www.rit.edu/directory/bxyeee-bing-yan)-Assistant Professor, Department of Electrical and Microelectronic Engineering, Rochester Institute of Technology.
