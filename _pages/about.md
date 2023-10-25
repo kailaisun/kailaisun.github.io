@@ -48,6 +48,7 @@ I have published more than 10 papers at top international journals, including *B
 
 ## Under-review Paper
 
+- An interpretable clustering approach to safety climate analysis: examining driver group distinction in safety climate perceptions.  **Kailai Sun**<sup>1</sup>, Tianxiang Lan, Yang Miang Goh<sup>\*</sup>, Sufiana Safiena, Yueng-Hsiang Huang, Bailey Lytle, Yimin He. *Accident Analysis and Prevention*.(2023).(**Top** , SCI, IF:**5.9**).
 
 - [Toward Pedestrian Head Tracking: A Benchmark Dataset and an Information Fusion Network](https://drive.google.com/file/d/1d5L6fhAOnLfeVEVSum6Lrds89BPkkmhh/view?usp=sharing). **Kailai Sun**<sup>1</sup>, Xinwei Wang, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao<sup>\*</sup>, Gao Huang, Chang Liu. *International Journal of Computer Vision*. (2023).(**Top** , SCI, IF:**19.5**).
 
