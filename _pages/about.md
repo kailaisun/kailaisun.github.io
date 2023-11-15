@@ -34,7 +34,8 @@ I have published more than 10 papers at top international journals, including *B
 - *2023.06*: 🎉🎉  Our abstract has been accepted by the [2023 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/phoenix2023/):Learn to Solve Large-scale Job Shop Scheduling by Integrating Machine Learning and Mathematical Optimization.
 - *2023.04*: 🎉🎉  Our work has been accepted by a Cell sub journal, named [Star Protocols](https://www.cell.com/star-protocols/home):Protocol for a distributed smart building solution using semi-physical simulation. Hu Yan<sup>1</sup>, Tian Xing<sup>1</sup>, **Kailai Sun**<sup>1</sup>, and Qianchuan Zhao<sup>\*</sup>.(Invited article).
 - *2022.11*: 🎉🎉  Cell Press reported our work.[Report link](https://mp.weixin.qq.com/s/jDRYjovXeBpyaED2dH1z2Q).
-
+- *2023.11*: I was recognized by ElsevierConnect as a top #OpenAccess contributor! Between 2020–2022, I published 2 open access articles with Elsevier. 1 of my articles was linked to the United Nations Sustainable Development Goals.
+ 
 # 📝 Publications 
 <sup>1</sup>:Co-first authors
 
