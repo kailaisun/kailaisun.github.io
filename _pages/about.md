@@ -145,7 +145,7 @@ I have published more than 10 papers at top international journals, including *B
 - [Visual feedback system for traditional chinese medical massage robot](https://ieeexplore.ieee.org/abstract/document/8866076). **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, Zhenming Yang, Xiuwei Xu. *In 2019 Chinese Control Conference* (**CCC**). pp. 6379-6385. IEEE, 2019.[Code link.](https://github.com/kailaisun/New-two-dimensional-code_QR-code)
 
 
-
+- [A multi-objective optimization of PV/ST-GSHP system based on office buildings](https://www.sciencedirect.com/science/article/pii/S1876610218306052). Yu Fu, Haiyang Lin, **Kailai Sun**, Qie Sun<sup>\*</sup>, Ronald Wennersten. *Energy Procedia*. 152 (2018): pp. 71-76.
 
 <!--
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -159,8 +159,16 @@ I have published more than 10 papers at top international journals, including *B
 -->
 
 # 💻 Projects
-
-
+- National Natural Science Foundation of China under Grant No. 62192751 and 61425024
+- New generation intelligent building platform (National Key Research and Development Project of China under Grant 2017YFC0704100)
+- Energy Internet Planning, Operation and Trading (National Key Research and Development Project of China under Grant 2016YFB0901900)
+- National Science Foundation of China (Grant No. 52172308), Department of Transport of Hubei Province
+- The 111 International Collaboration Program of China under Grant No. BP2018006
+- The National Innovation Center of High Speed Train R&D project (CX/KJ-2020-0006)
+- Satellite remote sensing image interpretation technology and system based on artificial intelligence (2019 Major Science and Technology Program for the Strategic Emerging Industries of Fuzhou, Grant BNR2019TD01009)
+- Huawei company-Control security issue literature research project
+- Ridar-based road vehicle counting and intelligent video surveillance system project 
+- Intelligent detection and control aircraft system from Tongfang Intelligent Technology Co., ltd
 - Evaluation of (Singapore Changi Airport Group) CAG’s safety model for profiling construction contractors’ safety performance; Ref No.: 2023-0492
 - Computer Vision for Housekeeping on Construction Site; Award No.: AISG2-100E-2021-084
 
@@ -193,13 +201,14 @@ I have published more than 10 papers at top international journals, including *B
 - *2023.06* Outstanding graduates of Department of Automation Tsinghua University
 - *2018.06* Outstanding graduates of Beijing ordinary colleges and universities (Top 1%)
 - *2023.06* Academic Excellence Award in System Engineering Institution, Department of Automation, Tsinghua University
+- *2023.06* Outstanding graduates of Dept. Automation Tsinghua University (Top 17%) 	
 - *2018.06* Excellent Student Cadre (Top 3%)
 - *2015.09 & 2016.09 & 2017.09* Merit Student (Top 3%)
 
 ## Competition
 - *2015.11* The second prize of the Chinese National Undergraduate Mathematical Contest
 - *2016.06* The first prize in the Beijing Division of the Chinese National Undergraduate Mathematical Contest in Modeling
-
+- *2015.11* The first prize of the engineering design expression competition of BUPT (Top 1%)
 - *2016.07* The second prize in the Beijing Division of the National Undergraduate Electronic Design Competition
 - *2017* American Undergraduate Mathematical Contest in Modeling Honorable Mention
 - *2022* Best Researcher Award for the contribution and honourable achievement in innovative research. International Research Awards on New Science Inventions NESIN 2022 Awards.
@@ -210,32 +219,23 @@ I have published more than 10 papers at top international journals, including *B
 # 📖 Educations
 - *2023.08 - present*, Research Fellow, Department of the Built Environment, National University of Singapore.
 - *2018.09 - 2023.06*, Ph.D., Department of Automation, Tsinghua University.
-
+- *2015.09 - 2018.06*,Ye Peida lab, Beijing University of Posts and Telecommunications (BUPT).
+- *2014.09 - 2018.06*, Bachelor, Department of Automation, Beijing University of Posts and Telecommunications (BUPT).
 
 <!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 I received my Bachelor of Engineering degree from Department of Automation, Beijing University of Posts and Telecommunications (BUPT)  in 2018. 
-- [A multi-objective optimization of PV/ST-GSHP system based on office buildings](https://www.sciencedirect.com/science/article/pii/S1876610218306052). Yu Fu, Haiyang Lin, **Kailai Sun**, Qie Sun<sup>\*</sup>, Ronald Wennersten. *Energy Procedia*. 152 (2018): pp. 71-76.
-
-- National Natural Science Foundation of China under Grant No. 62192751 and 61425024
-- New generation intelligent building platform (National Key Research and Development Project of China under Grant 2017YFC0704100)
-- Energy Internet Planning, Operation and Trading (National Key Research and Development Project of China under Grant 2016YFB0901900)
-- National Science Foundation of China (Grant No. 52172308), Department of Transport of Hubei Province
-- The 111 International Collaboration Program of China under Grant No. BP2018006
-- The National Innovation Center of High Speed Train R&D project (CX/KJ-2020-0006)
-- Satellite remote sensing image interpretation technology and system based on artificial intelligence (2019 Major Science and Technology Program for the Strategic Emerging Industries of Fuzhou, Grant BNR2019TD01009)
-- Huawei company-Control security issue literature research project
-- Ridar-based road vehicle counting and intelligent video surveillance system project 
-- Intelligent detection and control aircraft system from Tongfang Intelligent Technology Co., ltd
 
 
-- *2015.11* The first prize of the engineering design expression competition of BUPT (Top 1%)
-- *2015.09 - 2018.06*,Ye Peida lab, Beijing University of Posts and Telecommunications (BUPT).
-- *2014.09 - 2018.06*, Bachelor, Department of Automation, Beijing University of Posts and Telecommunications (BUPT).
 
-(Top 17%) 	Outstanding graduates of Dept. Automation Tsinghua University 
+
+
+
+
+
+
 
 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
