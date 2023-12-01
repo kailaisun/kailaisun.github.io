@@ -30,9 +30,7 @@ I have published more than 10 papers at top international journals, including *B
 # 🔥 News
 - *2023.09*: 🎉🎉  My paper is accepted with a first-round Minor revision.:[Building occupancy number prediction: A Transformer approach](https://www.sciencedirect.com/science/article/pii/S036013232300834X). **Kailai Sun**<sup>\*</sup>, Irfan Qaisar<sup></sup>,Muhammad Arslan Khan, Qianchuan Zhao. *Building and Environment* (**BAE**). (2023).(**Top** , SCI, IF:**7.201**). 
 - *2023.07*: 🎉🎉  Our large head tracking dataset (including 10 diverse scenes of 50,528 frames with over 2,366,249 heads and 2,358 tracks) is completed. The paper has been submitted to *International Journal of Computer Vision*. [Visualization videos](https://drive.google.com/drive/folders/1BLmzCRx3MbOzVUITw0-RCpRqTHJ2JXYQ?usp=sharing). [Our dataset](https://github.com/kailaisun/Cchead) and [paper](https://drive.google.com/file/d/1d5L6fhAOnLfeVEVSum6Lrds89BPkkmhh/view) will be available public after review. 
-- *2023.06*: 🎉🎉  My abstract has been accepted by the [AHFE Hawaii Conference 2023](https://ahfe.org/):Building occupancy prediction based on multi-sensor information using Transformer and machine learning approaches.
 - *2023.06*: 🎉🎉  Our abstract has been accepted by the [2023 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/phoenix2023/):Learn to Solve Large-scale Job Shop Scheduling by Integrating Machine Learning and Mathematical Optimization.
-- *2023.04*: 🎉🎉  Our work has been accepted by a Cell sub journal, named [Star Protocols](https://www.cell.com/star-protocols/home):Protocol for a distributed smart building solution using semi-physical simulation. Hu Yan<sup>1</sup>, Tian Xing<sup>1</sup>, **Kailai Sun**<sup>1</sup>, and Qianchuan Zhao<sup>\*</sup>.(Invited article).
 - *2022.11*: 🎉🎉  Cell Press reported our work.[Report link](https://mp.weixin.qq.com/s/jDRYjovXeBpyaED2dH1z2Q).
 - *2023.11*: I was recognized by ElsevierConnect as a top #OpenAccess contributor! Between 2020–2022, I published 2 open access articles with Elsevier. 1 of my articles was linked to the United Nations Sustainable Development Goals. [link](https://drive.google.com/file/d/1ZND-tEO6bjRP42D0mZSvUoi-RW8dIjdS/view?usp=sharing)
  
@@ -198,10 +196,9 @@ I have published more than 10 papers at top international journals, including *B
 - *2015.09 & 2016.09 & 2017.09* National Encouragement Scholarship (Top 3%)
 
 ## Student
-- *2023.06* Outstanding graduates of Department of Automation Tsinghua University
+- *2023.06* Outstanding graduates of Department of Automation Tsinghua University (Top 17%) 
 - *2018.06* Outstanding graduates of Beijing ordinary colleges and universities (Top 1%)
-- *2023.06* Academic Excellence Award in System Engineering Institution, Department of Automation, Tsinghua University
-- *2023.06* Outstanding graduates of Dept. Automation Tsinghua University (Top 17%) 	
+- *2023.06* Academic Excellence Award in System Engineering Institution, Department of Automation, Tsinghua University	
 - *2018.06* Excellent Student Cadre (Top 3%)
 - *2015.09 & 2016.09 & 2017.09* Merit Student (Top 3%)
 
@@ -219,7 +216,7 @@ I have published more than 10 papers at top international journals, including *B
 # 📖 Educations
 - *2023.08 - present*, Research Fellow, Department of the Built Environment, National University of Singapore.
 - *2018.09 - 2023.06*, Ph.D., Department of Automation, Tsinghua University.
-- *2015.09 - 2018.06*,Ye Peida lab, Beijing University of Posts and Telecommunications (BUPT).
+- *2015.09 - 2018.06*, Bachelor, Ye Peida lab, Beijing University of Posts and Telecommunications (BUPT).
 - *2014.09 - 2018.06*, Bachelor, Department of Automation, Beijing University of Posts and Telecommunications (BUPT).
 
 <!--
