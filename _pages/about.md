@@ -49,10 +49,16 @@ I have published more than 10 papers at top international journals, including *B
 
 - [An interpretable clustering approach to safety climate analysis: examining driver group distinction in safety climate perceptions](https://arxiv.org/abs/2310.19841).  **Kailai Sun**<sup>1</sup>, Tianxiang Lan, Yang Miang Goh<sup>\*</sup>, Sufiana Safiena, Yueng-Hsiang Huang, Bailey Lytle, Yimin He. *Accident Analysis and Prevention*.(2023).(**Top** , SCI, IF:**5.9**).
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2023</div><img src='/images/paper/mifn1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 - [Toward Pedestrian Head Tracking: A Benchmark Dataset and an Information Fusion Network](https://drive.google.com/file/d/1d5L6fhAOnLfeVEVSum6Lrds89BPkkmhh/view?usp=sharing). **Kailai Sun**<sup>1</sup>, Xinwei Wang, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao<sup>\*</sup>, Gao Huang, Chang Liu. *International Journal of Computer Vision*. (2023).(**Top** , SCI, IF:**19.5**).
 
+</div>
+</div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ENB 2020</div><img src='/images/paper/overview.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM 2023</div><img src='/images/paper/overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 - [A Review of AIoT-based Edge Devices and Lightweight Deployment](https://www.techrxiv.org/articles/preprint/A_Comprehensive_Review_of_AIoT-based_Edge_Devices_and_Lightweight_Deployment/21687248/1). **Kailai Sun**<sup>1,\*</sup>, Xinwei Wang<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>. *ACM computing surveys*. (2023).(**Top** , SCI, IF:**14.324**).
