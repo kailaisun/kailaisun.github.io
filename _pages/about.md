@@ -125,6 +125,8 @@ I have published more than 10 papers at top international journals, including *B
 
 - [Building occupancy number prediction: A Transformer approach](https://www.sciencedirect.com/science/article/pii/S036013232300834X). **Kailai Sun**<sup>1,\*</sup>, Irfan Qaisar<sup>1</sup>,Muhammad Arslan Khan, Qianchuan Zhao. *Building and Environment* (**BAE**). (2023).(**Top** , SCI, IF:**7.201**). **Accepted with a first-round Minor revision**. (Acceptance Rate: 20%) 
 
+- [An interpretable clustering approach to safety climate analysis: examining driver group distinction in safety climate perceptions](https://arxiv.org/abs/2310.19841).  **Kailai Sun**<sup>1</sup>, Tianxiang Lan, Yang Miang Goh<sup>\*</sup>, Sufiana Safiena, Yueng-Hsiang Huang, Bailey Lytle, Yimin He. *Accident Analysis and Prevention*.(2023).(**Top** , SCI, IF:**5.9**).(Acceptance Rate: 13%)
+
 - [Indoor occupancy measurement by the fusion of motion detection and static estimation](https://www.sciencedirect.com/science/article/abs/pii/S037877882100877X). **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, Ziyou Zhang, and Xinyuan Hu. *Energy and Buildings* (**ENB**). 254 (2022): 111593.(**Top** , SCI, IF:**7.093**). (Acceptance Rate: 22%) 
 
 
