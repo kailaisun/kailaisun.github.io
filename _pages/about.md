@@ -28,11 +28,11 @@ I have published more than 10 papers at top international journals, including *B
 
 
 # 🔥 News
-- *2023.12*: 🎉🎉 Our paper is accepted with a first-round revision. [An interpretable clustering approach to safety climate analysis: examining driver group distinction in safety climate perceptions](https://arxiv.org/abs/2310.19841).  **Kailai Sun**<sup>1</sup>, Tianxiang Lan, Yang Miang Goh<sup>\*</sup>, Sufiana Safiena, Yueng-Hsiang Huang, Bailey Lytle, Yimin He. *Accident Analysis and Prevention*.(2023).(**Top** , SCI, IF:**5.9**).(Acceptance Rate: 13%)
-- *2023.09*: 🎉🎉  My paper is accepted with a first-round Minor revision.:[Building occupancy number prediction: A Transformer approach](https://www.sciencedirect.com/science/article/pii/S036013232300834X). **Kailai Sun**<sup>\*</sup>, Irfan Qaisar<sup></sup>,Muhammad Arslan Khan, Qianchuan Zhao. *Building and Environment* (**BAE**). (2023).(**Top** , SCI, IF:**7.201**).  (Acceptance Rate: 20%)
-- *2023.07*: 🎉🎉  Our large head tracking dataset (including 10 diverse scenes of 50,528 frames with over 2,366,249 heads and 2,358 tracks) is completed. The paper has been submitted to *International Journal of Computer Vision*. [Visualization videos](https://drive.google.com/drive/folders/1BLmzCRx3MbOzVUITw0-RCpRqTHJ2JXYQ?usp=sharing). [Our dataset](https://github.com/kailaisun/Cchead) and [paper](https://drive.google.com/file/d/1d5L6fhAOnLfeVEVSum6Lrds89BPkkmhh/view) will be available public after review. 
+- *2023.12*: 🎉🎉 Our paper is accepted with a first-round revision. [An interpretable clustering approach to safety climate analysis: examining driver group distinction in safety climate perceptions](https://arxiv.org/abs/2310.19841).  **Kailai Sun**<sup>1</sup>, Tianxiang Lan, Yang Miang Goh<sup>\*</sup>, Sufiana Safiena, Yueng-Hsiang Huang, Bailey Lytle, Yimin He. *Accident Analysis and Prevention*.(2023).(**Top** , SCI, IF:**5.9**).(Acceptance Rate: **13**%)
+- *2023.09*: 🎉🎉  My paper is accepted with a first-round Minor revision.:[Building occupancy number prediction: A Transformer approach](https://www.sciencedirect.com/science/article/pii/S036013232300834X). **Kailai Sun**<sup>\*</sup>, Irfan Qaisar<sup></sup>,Muhammad Arslan Khan, Qianchuan Zhao. *Building and Environment* (**BAE**). (2023).(**Top** , SCI, IF:**7.201**).  (Acceptance Rate: **20**%)
+- *2023.07*: 🎉🎉🎉  Our large head tracking dataset (including 10 diverse scenes of 50,528 frames with over 2,366,249 heads and 2,358 tracks) is completed. The paper has been submitted to *International Journal of Computer Vision*. [Visualization videos](https://drive.google.com/drive/folders/1BLmzCRx3MbOzVUITw0-RCpRqTHJ2JXYQ?usp=sharing). [Our dataset](https://github.com/kailaisun/Cchead) and [paper](https://drive.google.com/file/d/1d5L6fhAOnLfeVEVSum6Lrds89BPkkmhh/view) will be available public after review. 
 - *2023.06*: 🎉🎉  Our abstract has been accepted by the [2023 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/phoenix2023/):Learn to Solve Large-scale Job Shop Scheduling by Integrating Machine Learning and Mathematical Optimization.
-- *2022.11*: 🎉🎉  Cell Press reported our work.[Report link](https://mp.weixin.qq.com/s/jDRYjovXeBpyaED2dH1z2Q).
+- *2022.11*: 🎉🎉🎉  Cell Press reported our work.[Report link](https://mp.weixin.qq.com/s/jDRYjovXeBpyaED2dH1z2Q).
 - *2023.11*: I was recognized by ElsevierConnect as a top #OpenAccess contributor! Between 2020–2022, I published 2 open access articles with Elsevier. 1 of my articles was linked to the United Nations Sustainable Development Goals. [link](https://drive.google.com/file/d/1ZND-tEO6bjRP42D0mZSvUoi-RW8dIjdS/view?usp=sharing)
  
 # 📝 Publications 
@@ -47,8 +47,6 @@ I have published more than 10 papers at top international journals, including *B
 
 
 ## Under-review Paper
-
-- [An interpretable clustering approach to safety climate analysis: examining driver group distinction in safety climate perceptions](https://arxiv.org/abs/2310.19841).  **Kailai Sun**, Tianxiang Lan, Yang Miang Goh<sup>\*</sup>, Sufiana Safiena, Yueng-Hsiang Huang, Bailey Lytle, Yimin He. *Accident Analysis and Prevention*.(2023).(**Top** , SCI, IF:**5.9**).
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2023</div><img src='/images/paper/mifn1.png' alt="sym" width="100%"></div></div>
@@ -78,7 +76,7 @@ I have published more than 10 papers at top international journals, including *B
 <div class='paper-box-text' markdown="1">
 
 - [A review of building occupancy measurement systems](https://www.sciencedirect.com/science/article/abs/pii/S0378778819332918). \\
- **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, Jianhong Zou. *Energy and Buildings* (**ENB**). 216 (2020): 109965. (**Top** , SCI, IF:**7.093**, citations:**100**).  (Acceptance Rate: 22%) 
+ **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, Jianhong Zou. *Energy and Buildings* (**ENB**). 216 (2020): 109965. (**Top** , SCI, IF:**7.093**, citations:**100**).  (Acceptance Rate: **22**%) 
 - Five-years occupancy measurement systems based on cameras, WiFi, PIR sensors, CO2 sensors, electricity sensors are analyzed and discussed.
 - The first comprehensive analysis based on different types and installed locations of camera.
   
@@ -104,7 +102,7 @@ I have published more than 10 papers at top international journals, including *B
 <div class='paper-box-text' markdown="1">
 
 - [A Fusion Framework of Vision-based Indoor Occupancy Estimation](https://www.sciencedirect.com/science/article/pii/S0360132322008617). \\
-  **Kailai Sun**<sup>1</sup>, Peng Liu<sup>1</sup>, Tian Xing, Qianchuan Zhao<sup>\*</sup> and Xinwei Wang. *Building and Environment* (**BAE**). 222 (2022): 109354.(**Top** , SCI, IF:**7.201**). [Code link.](https://github.com/kailaisun/FFO) (Acceptance Rate: 20%) 
+  **Kailai Sun**<sup>1</sup>, Peng Liu<sup>1</sup>, Tian Xing, Qianchuan Zhao<sup>\*</sup> and Xinwei Wang. *Building and Environment* (**BAE**). 222 (2022): 109354.(**Top** , SCI, IF:**7.201**). [Code link.](https://github.com/kailaisun/FFO) (Acceptance Rate: **20**%) 
 - The first work to develop a three-level fusion framework in vision-based indoor occupancy estimation.
 - Our framework achieves state-of-the-art (SOTA) performance through ablation studies on practical building surveillance videos.
   
@@ -116,24 +114,24 @@ I have published more than 10 papers at top international journals, including *B
 <div class='paper-box-text' markdown="1">
  
 
-- [MPSN: Motion-aware Pseudo-Siamese Network for Indoor Video Head Detection in Buildings](https://www.sciencedirect.com/science/article/abs/pii/S036013232200587X). **Kailai Sun**, Xiaoteng Ma, Peng Liu, Qianchuan Zhao<sup>\*</sup>. *Building and Environment* (**BAE**). 222 (2022): 109354.(**Top** , SCI, IF:**7.201**).[Code link.](https://github.com/pl-share/MPSN) (Acceptance Rate: 20%) 
+- [MPSN: Motion-aware Pseudo-Siamese Network for Indoor Video Head Detection in Buildings](https://www.sciencedirect.com/science/article/abs/pii/S036013232200587X). **Kailai Sun**, Xiaoteng Ma, Peng Liu, Qianchuan Zhao<sup>\*</sup>. *Building and Environment* (**BAE**). 222 (2022): 109354.(**Top** , SCI, IF:**7.201**).[Code link.](https://github.com/pl-share/MPSN) (Acceptance Rate: **20**%) 
 - The first work to jointly train the current frame and the pixel-level motion information into an end-to-end CNN network in head detection.
 - We validate its robustness through adversarial experiments with a mathematical solution of small perturbations.
   
 </div>
 </div>
 
-- [Building occupancy number prediction: A Transformer approach](https://www.sciencedirect.com/science/article/pii/S036013232300834X). **Kailai Sun**<sup>1,\*</sup>, Irfan Qaisar<sup>1</sup>,Muhammad Arslan Khan, Qianchuan Zhao. *Building and Environment* (**BAE**). (2023).(**Top** , SCI, IF:**7.201**). **Accepted with a first-round Minor revision**. (Acceptance Rate: 20%) 
+- [Building occupancy number prediction: A Transformer approach](https://www.sciencedirect.com/science/article/pii/S036013232300834X). **Kailai Sun**<sup>1,\*</sup>, Irfan Qaisar<sup>1</sup>,Muhammad Arslan Khan, Qianchuan Zhao. *Building and Environment* (**BAE**). (2023).(**Top** , SCI, IF:**7.201**). **Accepted with a first-round Minor revision**. (Acceptance Rate: **20**%) 
 
-- [An interpretable clustering approach to safety climate analysis: examining driver group distinction in safety climate perceptions](https://arxiv.org/abs/2310.19841).  **Kailai Sun**<sup>1</sup>, Tianxiang Lan, Yang Miang Goh<sup>\*</sup>, Sufiana Safiena, Yueng-Hsiang Huang, Bailey Lytle, Yimin He. *Accident Analysis and Prevention*.(2023).(**Top** , SCI, IF:**5.9**).(Acceptance Rate: 13%)
+- [An interpretable clustering approach to safety climate analysis: examining driver group distinction in safety climate perceptions](https://arxiv.org/abs/2310.19841).  **Kailai Sun**<sup>1</sup>, Tianxiang Lan, Yang Miang Goh<sup>\*</sup>, Sufiana Safiena, Yueng-Hsiang Huang, Bailey Lytle, Yimin He. *Accident Analysis and Prevention*.(2023).(**Top** , SCI, IF:**5.9**).(Acceptance Rate: **13**%)
 
-- [Indoor occupancy measurement by the fusion of motion detection and static estimation](https://www.sciencedirect.com/science/article/abs/pii/S037877882100877X). **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, Ziyou Zhang, and Xinyuan Hu. *Energy and Buildings* (**ENB**). 254 (2022): 111593.(**Top** , SCI, IF:**7.093**). (Acceptance Rate: 22%) 
+- [Indoor occupancy measurement by the fusion of motion detection and static estimation](https://www.sciencedirect.com/science/article/abs/pii/S037877882100877X). **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, Ziyou Zhang, and Xinyuan Hu. *Energy and Buildings* (**ENB**). 254 (2022): 111593.(**Top** , SCI, IF:**7.093**). (Acceptance Rate: **22**%) 
 
 
 - [Using knowledge inference to suppress the lamp disturbance for fire detection](https://www.sciencedirect.com/science/article/pii/S266644962100027X). **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, and Xinwei Wang. *Journal of Safety Science and Resilience* (**JSSR**). 2.3 (2021): 124-130.[Code link.](https://github.com/kailaisun/fire-detection-without-lamp)
 
 
-- [Protocol for a distributed smart building solution using semi-physical simulation](https://www.sciencedirect.com/science/article/pii/S266616672300357X). Hu Yan<sup>1</sup>, Tian Xing<sup>1</sup>, **Kailai Sun**<sup>1</sup>, and Qianchuan Zhao<sup>\*</sup>. **Star Protocols**.(Cell sub journal).(2023).(Invited article,accepted).
+- [Protocol for a distributed smart building solution using semi-physical simulation](https://www.sciencedirect.com/science/article/pii/S266616672300357X). Hu Yan<sup>1</sup>, Tian Xing<sup>1</sup>, **Kailai Sun**<sup>1</sup>, and Qianchuan Zhao<sup>\*</sup>. **Star Protocols**.(Cell sub journal).(2023).(Invited article).
 
 - [A Succinct Summary of Vision-based Building Occupancy Estimation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9GsK1_IAAAAJ&citation_for_view=9GsK1_IAAAAJ:Se3iqnhoufwC). Kailai Sun. Advancements in Civil Engineering & Technology 5 (3). (2023) (IF: 4.982)
 
@@ -141,16 +139,16 @@ I have published more than 10 papers at top international journals, including *B
 
 - [Integrating Machine Learning and Mathematical Optimization for Job Shop Scheduling](https://ieeexplore.ieee.org/document/10227334). Anbang Liu, Peter B. Luh<sup>\*</sup>, **Kailai Sun**. *IEEE Transactions on Automation Science and Engineering* (**TASE**). (2022).(**Top** , SCI, IF:6.636).
 
-- [MITP-Net: a Deep-learning Framework for Short-term Indoor Temperature Predictions in Multi-zone Buildings.](https://www.sciencedirect.com/science/article/pii/S0360132323004158) Tian Xing,**Kailai Sun**, Qianchuan Zhao<sup>\*</sup>.*Building and Environment* (**BAE**). (2023).(**Top** , SCI, IF:**7.201**). (Acceptance Rate: 20%) 
+- [MITP-Net: a Deep-learning Framework for Short-term Indoor Temperature Predictions in Multi-zone Buildings.](https://www.sciencedirect.com/science/article/pii/S0360132323004158) Tian Xing,**Kailai Sun**, Qianchuan Zhao<sup>\*</sup>.*Building and Environment* (**BAE**). (2023).(**Top** , SCI, IF:**7.201**). (Acceptance Rate: **20**%) 
 
 
 ## Conference Paper
 
-- [Multi-Source Information Fusion network for building occupancy estimation](https://openaccess.cms-conferences.org/publications/book/978-1-958651-65-0/article/978-1-958651-65-0_14).**Kailai Sun**, Tian Xing, Xinwei Wang, Zhou Yang, and Qianchuan Zhao<sup>\*</sup>.  In: Alicja Maciejko (eds) Human Factors in Architecture, Sustainable Urban Planning and Infrastructure. AHFE (2023) International Conference. AHFE Open Access, vol 89. AHFE International, USA. http://doi.org/10.54941/ahfe1003687.(Acceptance rate:34%)
+- [Multi-Source Information Fusion network for building occupancy estimation](https://openaccess.cms-conferences.org/publications/book/978-1-958651-65-0/article/978-1-958651-65-0_14).**Kailai Sun**, Tian Xing, Xinwei Wang, Zhou Yang, and Qianchuan Zhao<sup>\*</sup>.  In: Alicja Maciejko (eds) Human Factors in Architecture, Sustainable Urban Planning and Infrastructure. AHFE (2023) International Conference. AHFE Open Access, vol 89. AHFE International, USA. http://doi.org/10.54941/ahfe1003687.(Acceptance rate:**34**%)
 
-- [Research on Multi-temporal Cloud Removal using D-S Evidence Theory and Cloud Segmentation Model](https://link.springer.com/chapter/10.1007/978-3-031-20497-5_14). Xinwei Wang<sup>1</sup>, **Kailai Sun**<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>, and Jianhong Zou. *The CAAI International Conference on Artificial Intelligence* (**CICAI**). 2022. (Acceptance rate:34%) 
+- [Research on Multi-temporal Cloud Removal using D-S Evidence Theory and Cloud Segmentation Model](https://link.springer.com/chapter/10.1007/978-3-031-20497-5_14). Xinwei Wang<sup>1</sup>, **Kailai Sun**<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>, and Jianhong Zou. *The CAAI International Conference on Artificial Intelligence* (**CICAI**). 2022. (Acceptance rate:**34**%) 
 
-- [A Goal-conditioned Reinforcement Learning Algorithm with Environment Modeling](https://www.researchgate.net/profile/Yu_Zhe10/publication/370561219_A_Goal-conditioned_Reinforcement_Learning_Algorithm_with_Environment_Modeling/links/645602a44af78873525fb2e5/A-Goal-conditioned-Reinforcement-Learning-Algorithm-with-Environment-Modeling.pdf). Zhe yu<sup>1</sup>, **Kailai Sun**<sup>1</sup>, Chenghao Li, Dianyu Zhong, Yang Yiqin, Qianchuan Zhao<sup>\*</sup>.Chinese Control Conference.(2023).(accepted)
+- [A Goal-conditioned Reinforcement Learning Algorithm with Environment Modeling](https://ieeexplore.ieee.org/document/10240963/). Zhe yu<sup>1</sup>, **Kailai Sun**<sup>1</sup>, Chenghao Li, Dianyu Zhong, Yang Yiqin, Qianchuan Zhao<sup>\*</sup>.Chinese Control Conference.(2023).
 
 
 
