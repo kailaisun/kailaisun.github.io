@@ -49,6 +49,10 @@ I have published more than 10 papers at top international journals, including *B
 ## Under-review Paper
 
 
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2023</div><img src='/images/paper/mifn1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - [Toward Pedestrian Head Tracking: A Benchmark Dataset and an Information Fusion Network](https://drive.google.com/file/d/1d5L6fhAOnLfeVEVSum6Lrds89BPkkmhh/view?usp=sharing). **Kailai Sun**, Xinwei Wang, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao<sup>\*</sup>, Gao Huang, Chang Liu. *International Journal of Computer Vision*. (2023).(**Top** , SCI, IF:**19.5**).
@@ -66,9 +70,13 @@ I have published more than 10 papers at top international journals, including *B
 </div>
 
 
-- [Bridging the Gap Between Indoor Depth Completion and Masked Autoencoders](https://www.techrxiv.org/articles/preprint/Bridging_the_Gap_Between_Indoor_Depth_Completion_and_Masked_Autoencoders/24014946). Zhou Yang<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qianchuan Zhao<sup>\*</sup>. *IEEE Transactions on Image Processing*.(2023).( **Top** , SCI, IF:**11.041**).
+- DMFF: Deep Multimodel Feature Fusion for Building Occupancy Detection. **Kailai Sun**<sup>\*</sup>. *Building and Environment* (**BAE**). (2024).(**Top** , SCI, IF:**7.201**). **Invited**.
 
 
+
+- [Bridging the Gap Between Indoor Depth Completion and Masked Autoencoders](https://www.techrxiv.org/articles/preprint/Bridging_the_Gap_Between_Indoor_Depth_Completion_and_Masked_Autoencoders/24014946). Zhou Yang<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qianchuan Zhao<sup>\*</sup>. *2024 IEEE International Conference on Robotics and Automation (ICRA 2024)*.(2024).
+
+- AFSA: Adaptive Modal-Temporal Fusion via Sparse Attention. Ruoyu Wang, Qianchuan Zhao, Jiaolong Xu, Kailai Sun.*CVPR 2024*.
 
 ## Journal Paper
 
