@@ -23,8 +23,8 @@ I am a Research Fellow in the Department of the Built Environment, National Univ
 
 
 
-My research interest lies in smart building and deep learning, including building occupancy detection/estimation, computer vision and generative model. 
-I have published more than 10 papers at top international journals, including *Building and environment, Energy and buildings, Cell Patterns*.
+My research interest lies in smart building and deep learning, including building occupancy detection/estimation, computer vision and generative models. 
+I have published more than 10 papers in top international journals, including *Building and Environment, Energy and Buildings, Cell Patterns*.
 
 
 # 🔥 News
@@ -136,7 +136,7 @@ I have published more than 10 papers at top international journals, including *B
 - [Indoor occupancy measurement by the fusion of motion detection and static estimation](https://www.sciencedirect.com/science/article/abs/pii/S037877882100877X). **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, Ziyou Zhang, and Xinyuan Hu. *Energy and Buildings* (**ENB**). 254 (2022): 111593.(**Top** , SCI, IF:**7.093**). (Acceptance Rate: **22**%) 
 
 
-- [Using knowledge inference to suppress the lamp disturbance for fire detection](https://www.sciencedirect.com/science/article/pii/S266644962100027X). **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, and Xinwei Wang. *Journal of Safety Science and Resilience* (**JSSR**). 2.3 (2021): 124-130.[Code link.](https://github.com/kailaisun/fire-detection-without-lamp)
+- [Using knowledge inference to suppress the lamp disturbance for fire detection](https://www.sciencedirect.com/science/article/pii/S266644962100027X). **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, and Xinwei Wang. *Journal of Safety Science and Resilience* (**JSSR**, SCI). 2.3 (2021): 124-130.[Code link.](https://github.com/kailaisun/fire-detection-without-lamp)
 
 
 - [Protocol for a distributed smart building solution using semi-physical simulation](https://www.sciencedirect.com/science/article/pii/S266616672300357X). Hu Yan<sup>1</sup>, Tian Xing<sup>1</sup>, **Kailai Sun**<sup>1</sup>, and Qianchuan Zhao<sup>\*</sup>. **Star Protocols**.(Cell sub journal).(2023).(Invited article).
@@ -184,12 +184,12 @@ I have published more than 10 papers at top international journals, including *B
 - Energy Internet Planning, Operation and Trading (National Key Research and Development Project of China under Grant 2016YFB0901900)
 - National Science Foundation of China (Grant No. 52172308), Department of Transport of Hubei Province
 - The 111 International Collaboration Program of China under Grant No. BP2018006
-- The National Innovation Center of High Speed Train R&D project (CX/KJ-2020-0006)
+- The National Innovation Center of High-Speed Train R&D project (CX/KJ-2020-0006)
 - Satellite remote sensing image interpretation technology and system based on artificial intelligence (2019 Major Science and Technology Program for the Strategic Emerging Industries of Fuzhou, Grant BNR2019TD01009)
 - Huawei company-Control security issue literature research project
 - Ridar-based road vehicle counting and intelligent video surveillance system project 
 - Intelligent detection and control aircraft system from Tongfang Intelligent Technology Co., ltd
-- Evaluation of (Singapore Changi Airport Group) CAG’s safety model for profiling construction contractors’ safety performance; Ref No.: 2023-0492
+- Evaluation of (Singapore Changi Airport Group and Hua Wei Singapore Company) CAG’s safety model for profiling construction contractors’ safety performance; Ref No.: 2023-0492
 - Computer Vision for Housekeeping on Construction Site; Award No.: AISG2-100E-2021-084
 
 # ✈ Internships
@@ -200,6 +200,7 @@ I have published more than 10 papers at top international journals, including *B
 - [Peter Luh](https://www.ee.uconn.edu/peter-b-luh/) - Professor, Board of Trustees Distinguished Professor Emeritus, University of Connecticut.
 - [Yang Miang Goh](https://discovery.nus.edu.sg/3499-yang-miang-goh/about)－Associate Professor, Department of the Built Environment, National University of Singapore.
 - [Huang Gao](https://www.gaohuang.net/)-Associate Professor, Department of Automation, Tsinghua University.
+- [Yueng-hsiang Huang](https://www.ohsu.edu/people/emily-yueng-hsiang-huang-phd)-Associate Professor, Oregon Institute of Occupational Health Sciences, Oregon Health and Sciences University.
 - Shaobo Liu - Associate Professor, Intelligent Transportation Systems Research Center, Wuhan University of Technology.
 - [Bing Yan](https://www.rit.edu/directory/bxyeee-bing-yan)-Assistant Professor, Department of Electrical and Microelectronic Engineering, Rochester Institute of Technology.
 - [Xiaoteng Ma](https://xtma.github.io/) -  Ph.D., Department of Automation, Tsinghua University. 
