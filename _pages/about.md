@@ -284,8 +284,21 @@ Singapore, 117566 \
 
 [Department of Automation](https://www.au.tsinghua.edu.cn/) \
 [Tsinghua University](https://www.tsinghua.edu.cn/en/) \
+
 FIT Building 3-624 \
 Beijing, China, 100084 \
 E-mail:  <skl23@nus.edu.sg> &emsp;<skl.2018@tsinghua.org.cn> &emsp;<18813126518@163.com>\
      &emsp;  
 
+
+# 👨‍🏫 Co-supervised students at Tsinghua:
+Irfan Qaisar (2022-;Ph.D.)\
+Muhammad Arslan Khan (2023-;Ph.D.)\
+Xinwei Wang  (2020-;Master; Gewu Tech. company)\
+Peng Liu (2021-2023; Master)\
+Zhou Yang (2021-2023; Master; BYD)\
+Guanyi Wang (2023-;Master; Huawei)\
+Zhe Yu (2022-2023; Master)\
+Zaixian Han (2020; Bachelor; Korea)\
+Meiling Piao (2019; Bachelor; Korea)\
+Xi Miao (2023-;Bachelor; U.S)
