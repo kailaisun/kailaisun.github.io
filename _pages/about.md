@@ -70,7 +70,16 @@ I have published more than 10 papers in top international journals, including *B
 </div>
 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM 2023</div><img src='/images/paper/overviewcc.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 - DMFF: Deep Multimodel Feature Fusion for Building Occupancy Detection. **Kailai Sun**<sup>\*</sup>. *Building and Environment* (**BAE**). (2024).(**Top** , SCI, IF:**7.201**). **Invited**.
+
+</div>
+</div>
+
+
 
 
 
