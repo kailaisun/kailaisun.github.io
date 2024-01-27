@@ -215,7 +215,7 @@ I have published more than 10 papers in top international journals, including *B
   
 # 🧑‍💻 Workshops
 
-- Poster presentation. *2024.01-26*. AI for Climate, AI for Science, and Quantum Workshop by NVIDIA. National University of Singapore.
+- (Poster presentation)[https://github.com/kailaisun/kailaisun.github.io/blob/main/images/presentation/poster.PNG]. *2024.01-26*. AI for Climate, AI for Science, and Quantum Workshop by NVIDIA. National University of Singapore.
 
 # 👨🏽‍🤝‍👨🏼 Collaborators
 - [Qianchuan Zhao](http://cfins.au.tsinghua.edu.cn/personalhg/zhaoqc/) -  Professor, Department of Automation, Tsinghua University.
