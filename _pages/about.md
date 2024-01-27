@@ -211,7 +211,11 @@ I have published more than 10 papers in top international journals, including *B
 - Computer Vision for Housekeeping on Construction Site; Award No.: AISG2-100E-2021-084
 
 # ✈ Internships
-- *2021.06 - 2021.08*, Harbin Institute of Technology Robotics Research Institute Co., Ltd, Yangzhou. 
+- *2021.06 - 2021.08*, Harbin Institute of Technology Robotics Research Institute Co., Ltd, Yangzhou.
+  
+# 🧑‍💻 Workshops
+
+- Poster presentation. *2024.01-26*. AI for Climate, AI for Science, and Quantum Workshop by NVIDIA. National University of Singapore.
 
 # 👨🏽‍🤝‍👨🏼 Collaborators
 - [Qianchuan Zhao](http://cfins.au.tsinghua.edu.cn/personalhg/zhaoqc/) -  Professor, Department of Automation, Tsinghua University.
