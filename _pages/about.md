@@ -94,7 +94,7 @@ I have published more than 10 papers in top international journals, including *B
 <div class='paper-box-text' markdown="1">
 
 - [A review of building occupancy measurement systems](https://www.sciencedirect.com/science/article/abs/pii/S0378778819332918). \\
- **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, Jianhong Zou. *Energy and Buildings* (**ENB**). 216 (2020): 109965. (**Top** , SCI, IF:**7.093**, citations:**100**).  (Acceptance Rate: **22**%) 
+ **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, Jianhong Zou. *Energy and Buildings* (**ENB**). 216 (2020): 109965. (**Top** , SCI, IF:**7.093**, citations:**110**).  (Acceptance Rate: **22**%) 
 - Five-years occupancy measurement systems based on cameras, WiFi, PIR sensors, CO2 sensors, electricity sensors are analyzed and discussed.
 - The first comprehensive analysis based on different types and installed locations of camera.
   
@@ -166,8 +166,9 @@ I have published more than 10 papers in top international journals, including *B
 
 - [Integrating Machine Learning and Mathematical Optimization for Job Shop Scheduling](https://ieeexplore.ieee.org/document/10227334). Anbang Liu, Peter B. Luh<sup>\*</sup>, **Kailai Sun**. *IEEE Transactions on Automation Science and Engineering* (**TASE**). (2022).(**Top** , SCI, IF:6.636).
 
-- [MITP-Net: a Deep-learning Framework for Short-term Indoor Temperature Predictions in Multi-zone Buildings.](https://www.sciencedirect.com/science/article/pii/S0360132323004158) Tian Xing,**Kailai Sun**, Qianchuan Zhao<sup>\*</sup>.*Building and Environment* (**BAE**). (2023).(**Top** , SCI, IF:**7.201**). (Acceptance Rate: **20**%) 
+- [MITP-Net: a Deep-learning Framework for Short-term Indoor Temperature Predictions in Multi-zone Buildings.](https://www.sciencedirect.com/science/article/pii/S0360132323004158) Tian Xing,**Kailai Sun**, Qianchuan Zhao<sup>\*</sup>.*Building and Environment* (**BAE**). (2023).(**Top** , SCI, IF:**7.201**). (Acceptance Rate: **20**%)
 
+- [A Learning-Based Method for Computing Control Barrier Functions of Nonlinear Systems With Control Constraints.] Ziyou Zhang, Qianchuan Zhao*, **Kailai Sun**.  IEEE Robotics and Automation Letters. 2023.
 
 ## Conference Paper
 
