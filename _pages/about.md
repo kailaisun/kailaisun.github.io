@@ -205,7 +205,7 @@ I have published more than 10 papers in top international journals, including *B
 - *2022.05*, visiting student, Electrical & Computer Engineering, University of Illinois Urbana-Champaign.  [Prof. Tamer Basar](http://tamerbasar.csl.illinois.edu/)
 - *2015.09 - 2018.06*, Bachelor, Ye Peida lab, Beijing University of Posts and Telecommunications (BUPT).
 - *2014.09 - 2018.06*, Bachelor, Department of Automation, Beijing University of Posts and Telecommunications (BUPT).
-- 
+
 # 💻 Projects
 - National Natural Science Foundation of China under Grant No. 62192751 and 61425024
 - New generation intelligent building platform (National Key Research and Development Project of China under Grant 2017YFC0704100)
