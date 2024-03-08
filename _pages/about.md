@@ -291,7 +291,7 @@ I received my Bachelor of Engineering degree from Department of Automation, Beij
 
 # ✒️ Reviewer
 
-Journal: IEEE Transactions on Control Systems Technology, IEEE Internet of Things Journal, Building and Environment, Results in Control and Optimizationm, Scientific Programming, Journal of Process Mechanical Engineering, etc.
+Journal: IEEE Transactions on Control Systems Technology, IEEE Internet of Things Journal, Building and Environment, Results in Control and Optimizationm, Scientific Programming, Scientific Reports, The Journal of Supercomputing, Journal of Process Mechanical Engineering, etc.
 
 
 Conference:IEEE International Conference on Robotics and Automation, The World Congress of the International Federation of Automatic Control, etc.
