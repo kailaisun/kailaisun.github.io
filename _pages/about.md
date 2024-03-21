@@ -77,9 +77,7 @@ I have published more than 10 papers in top international journals, including *B
 
 
 
-- [Bridging the Gap Between Indoor Depth Completion and Masked Autoencoders](https://www.techrxiv.org/articles/preprint/Bridging_the_Gap_Between_Indoor_Depth_Completion_and_Masked_Autoencoders/24014946). Zhou Yang<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qianchuan Zhao<sup>\*</sup>. *2024 IEEE International Conference on Robotics and Automation (ICRA 2024)*.(2024).
-
-- AFSA: Adaptive Modal-Temporal Fusion via Sparse Attention. Ruoyu Wang, Qianchuan Zhao, Jiaolong Xu, Kailai Sun.*CVPR 2024*.
+- AFSA: Adaptive Modal-Temporal Fusion via Sparse Attention. Ruoyu Wang, Qianchuan Zhao, Jiaolong Xu, Kailai Sun.*ECCV 2024*.
 
 ## Journal Paper
 
