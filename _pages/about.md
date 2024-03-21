@@ -73,14 +73,14 @@ I have published more than 10 papers in top international journals, including *B
 
 - [Bridging the Gap Between Indoor Depth Completion and Masked Autoencoders](https://www.techrxiv.org/doi/full/10.36227/techrxiv.24014946.v1). Zhou Yang,**Kailai Sun**<sup>1,\*</sup>, Qianchuan Zhao.
 
-- Overcoming Imbalanced Safety Data Using Extended Accident Triangle. Kailai Sun, Tianxiang Lan, Yang Miang Goh, Yueng-Hsiang Huang.
+- Overcoming Imbalanced Safety Data Using Extended Accident Triangle. **Kailai Sun**, Tianxiang Lan, Yang Miang Goh, Yueng-Hsiang Huang.
 
-- Accurate indoor occupancy counting at crowded entrances. Kailai Sun, Xinwei Wang, Shaobo Liu.
+- Accurate indoor occupancy counting at crowded entrances. **Kailai Sun**, Xinwei Wang, Shaobo Liu.
   
-- [Predicting trucking accidents with truck drivers' safety climate perception across companies: A transfer learning approach](https://arxiv.org/abs/2402.12417). Kailai Sun, Tianxiang Lan, Say Hong Kam, Yang Miang Goh, Yueng-Hsiang Huang
+- [Predicting trucking accidents with truck drivers' safety climate perception across companies: A transfer learning approach](https://arxiv.org/abs/2402.12417). **Kailai Sun**, Tianxiang Lan, Say Hong Kam, Yang Miang Goh, Yueng-Hsiang Huang
 
 
-- AFSA: Adaptive Modal-Temporal Fusion via Sparse Attention. Ruoyu Wang, Qianchuan Zhao, Jiaolong Xu, Kailai Sun.*ECCV 2024*.
+- AFSA: Adaptive Modal-Temporal Fusion via Sparse Attention. Ruoyu Wang, Jiaolong Xu, **Kailai Sun**, Qianchuan Zhao.*ECCV 2024*.
 
 ## Journal Paper
 
