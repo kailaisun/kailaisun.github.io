@@ -55,9 +55,9 @@ I have published more than 10 papers in top international journals, including *B
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2023</div><img src='/images/paper/mifn1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='/images/paper/mifn1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- [Toward Pedestrian Head Tracking: A Benchmark Dataset and an Information Fusion Network](https://drive.google.com/file/d/1d5L6fhAOnLfeVEVSum6Lrds89BPkkmhh/view?usp=sharing). **Kailai Sun**, Xinwei Wang, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao<sup>\*</sup>, Gao Huang, Chang Liu. *International Journal of Computer Vision*. (2023).(**Top** , SCI, IF:**19.5**).
+- [Toward Pedestrian Head Tracking: A Benchmark Dataset and an Information Fusion Network](https://drive.google.com/file/d/1d5L6fhAOnLfeVEVSum6Lrds89BPkkmhh/view?usp=sharing). **Kailai Sun**, Xinwei Wang, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao<sup>\*</sup>, Gao Huang, Chang Liu. 
 
 </div>
 </div>
@@ -71,10 +71,13 @@ I have published more than 10 papers in top international journals, including *B
 </div>
 </div>
 
+- [Bridging the Gap Between Indoor Depth Completion and Masked Autoencoders](https://www.techrxiv.org/doi/full/10.36227/techrxiv.24014946.v1). Zhou Yang,**Kailai Sun**<sup>1,\*</sup>, Qianchuan Zhao.
 
+- Overcoming Imbalanced Safety Data Using Extended Accident Triangle. Kailai Sun, Tianxiang Lan, Yang Miang Goh, Yueng-Hsiang Huang.
 
-
-
+- Accurate indoor occupancy counting at crowded entrances. Kailai Sun, Xinwei Wang, Shaobo Liu.
+  
+- [Predicting trucking accidents with truck drivers' safety climate perception across companies: A transfer learning approach](https://arxiv.org/abs/2402.12417). Kailai Sun, Tianxiang Lan, Say Hong Kam, Yang Miang Goh, Yueng-Hsiang Huang
 
 
 - AFSA: Adaptive Modal-Temporal Fusion via Sparse Attention. Ruoyu Wang, Qianchuan Zhao, Jiaolong Xu, Kailai Sun.*ECCV 2024*.
@@ -135,7 +138,7 @@ I have published more than 10 papers in top international journals, including *B
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BAE 2024</div><img src='/images/paper/overviewcc.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-- DMFF: Deep Multimodel Feature Fusion for Building Occupancy Detection. **Kailai Sun**<sup>\*</sup>. *Building and Environment* (**BAE**). (2024).(**Top** , SCI, IF:**7.201**). **Invited**.
+- [DMFF: Deep Multimodel Feature Fusion for Building Occupancy Detection](https://www.sciencedirect.com/science/article/pii/S0360132324001975). **Kailai Sun**<sup>\*</sup>. *Building and Environment* (**BAE**). (2024).(**Top** , SCI, IF:**7.201**). **Invited**.
 
 </div>
 </div>
@@ -167,7 +170,7 @@ I have published more than 10 papers in top international journals, including *B
 
 - [MITP-Net: a Deep-learning Framework for Short-term Indoor Temperature Predictions in Multi-zone Buildings.](https://www.sciencedirect.com/science/article/pii/S0360132323004158) Tian Xing,**Kailai Sun**, Qianchuan Zhao<sup>\*</sup>.*Building and Environment* (**BAE**). (2023).(**Top** , SCI, IF:**7.201**). (Acceptance Rate: **20**%)
 
-- [A Learning-Based Method for Computing Control Barrier Functions of Nonlinear Systems With Control Constraints.] Ziyou Zhang, Qianchuan Zhao*, **Kailai Sun**.  IEEE Robotics and Automation Letters. 2023.
+- [A Learning-Based Method for Computing Control Barrier Functions of Nonlinear Systems With Control Constraints](https://ieeexplore.ieee.org/document/10141659). Ziyou Zhang, Qianchuan Zhao*, **Kailai Sun**.  IEEE Robotics and Automation Letters. 2023.
 
 ## Conference Paper
 
