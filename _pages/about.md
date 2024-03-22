@@ -66,7 +66,7 @@ I have published more than 10 papers in top international journals, including *B
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IOTJ 2024</div><img src='/images/paper/overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-- [A Review of AIoT-based Edge Devices and Lightweight Deployment](https://www.techrxiv.org/doi/full/10.36227/techrxiv.21687248.v2). **Kailai Sun**<sup>1,\*</sup>, Xinwei Wang<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>. *IEEE Internet of Things Journal*. (2024).(**Top** , SCI, IF:**10**).
+- [A Review of AIoT-based Edge Devices and Lightweight Deployment](https://www.techrxiv.org/doi/full/10.36227/techrxiv.21687248.v2). **Kailai Sun**<sup>1,\*</sup>, Xinwei Wang<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>.
 
 </div>
 </div>
