@@ -79,6 +79,7 @@ I have published more than 10 papers in top international journals, including *B
   
 - [Predicting trucking accidents with truck drivers' safety climate perception across companies: A transfer learning approach](https://arxiv.org/abs/2402.12417). **Kailai Sun**, Tianxiang Lan, Say Hong Kam, Yang Miang Goh, Yueng-Hsiang Huang
 
+- An experimental comparative study of energy saving based on occupancy-centric control in smart buildings. Irfan Qaisar, Kailai Sun*, Tian Xing, Qianchuan Zhao. Building and Environment (BAE).
 
 - AFSA: Adaptive Modal-Temporal Fusion via Sparse Attention. Ruoyu Wang, Jiaolong Xu, **Kailai Sun**, Qianchuan Zhao.*ECCV 2024*.
 
