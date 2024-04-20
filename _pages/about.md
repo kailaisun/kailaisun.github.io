@@ -66,20 +66,20 @@ I have published more than 10 papers in top international journals, including *B
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IOTJ 2024</div><img src='/images/paper/overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-- [A Review of AIoT-based Edge Devices and Lightweight Deployment](https://www.techrxiv.org/doi/full/10.36227/techrxiv.21687248.v2). **Kailai Sun**<sup>1,\*</sup>, Xinwei Wang<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>.  Neurocomputing.
+- [A Review of AIoT-based Edge Devices and Lightweight Deployment](https://www.techrxiv.org/doi/full/10.36227/techrxiv.21687248.v2). **Kailai Sun**<sup>1,\*</sup>, Xinwei Wang<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>. *Neurocomputing*.
 
 </div>
 </div>
 
 - [Bridging the Gap Between Indoor Depth Completion and Masked Autoencoders](https://www.techrxiv.org/doi/full/10.36227/techrxiv.24014946.v1). Zhou Yang,**Kailai Sun**<sup>1,\*</sup>, Qianchuan Zhao. 
 
-- Overcoming Imbalanced Safety Data Using Extended Accident Triangle. **Kailai Sun**, Tianxiang Lan, Yang Miang Goh, Yueng-Hsiang Huang.
+- Overcoming Imbalanced Safety Data Using Extended Accident Triangle. **Kailai Sun**, Tianxiang Lan, Yang Miang Goh, Yueng-Hsiang Huang.*Accident Analysis and Prevention*.
 
-- Accurate indoor occupancy counting at crowded entrances. **Kailai Sun**, Xinwei Wang, Shaobo Liu.
+- High-accuracy occupancy counting at crowded entrances for smart buildings. **Kailai Sun**, Xinwei Wang, Tian Xing, Shaobo Liu. *Energy and Buildings*.
   
 - [Predicting trucking accidents with truck drivers' safety climate perception across companies: A transfer learning approach](https://arxiv.org/abs/2402.12417). **Kailai Sun**, Tianxiang Lan, Say Hong Kam, Yang Miang Goh, Yueng-Hsiang Huang
 
-- An experimental comparative study of energy saving based on occupancy-centric control in smart buildings. Irfan Qaisar, Kailai Sun*, Tian Xing, Qianchuan Zhao. Building and Environment (BAE).
+- An experimental comparative study of energy saving based on occupancy-centric control in smart buildings. Irfan Qaisar, Kailai Sun*, Tian Xing, Qianchuan Zhao. *Building and Environment*.
 
 - AFSA: Adaptive Modal-Temporal Fusion via Sparse Attention. Ruoyu Wang, Jiaolong Xu, **Kailai Sun**, Qianchuan Zhao.*ECCV 2024*.
 
