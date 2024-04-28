@@ -180,6 +180,8 @@ I have published more than 10 papers in top international journals, including *B
 
 - [Research on Multi-temporal Cloud Removal using D-S Evidence Theory and Cloud Segmentation Model](https://link.springer.com/chapter/10.1007/978-3-031-20497-5_14). Xinwei Wang<sup>1</sup>, **Kailai Sun**<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>, and Jianhong Zou. *The CAAI International Conference on Artificial Intelligence* (**CICAI**). 2022. (Acceptance rate:**34**%) 
 
+-A Two-Stage Masked Autoencoder Based Network for Indoor Depth Completion. **Kailai Sun**<sup>\*</sup>, Zhou Yang, Qianchuan Zhao. *The IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop 2024*.
+
 - [A Goal-conditioned Reinforcement Learning Algorithm with Environment Modeling](https://ieeexplore.ieee.org/document/10240963/). Zhe yu<sup>1</sup>, **Kailai Sun**<sup>1</sup>, Chenghao Li, Dianyu Zhong, Yang Yiqin, Qianchuan Zhao<sup>\*</sup>.Chinese Control Conference.(2023).
 
 
