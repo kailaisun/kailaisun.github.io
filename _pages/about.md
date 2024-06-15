@@ -208,9 +208,10 @@ I have published more than 10 papers in top international journals, including *B
 - *2023.08 - present*, Research Fellow, Department of the Built Environment, National University of Singapore. Prof. [Yang Miang Goh](https://discovery.nus.edu.sg/3499-yang-miang-goh/about)
 - *2018.09 - 2023.06*, Ph.D., Department of Automation, Tsinghua University. [Prof. Qianchuan Zhao](http://cfins.au.tsinghua.edu.cn/personalhg/zhaoqc/)
 - *2022.05*, visiting student, Electrical & Computer Engineering, University of Illinois Urbana-Champaign.  [Prof. Tamer Basar](http://tamerbasar.csl.illinois.edu/)
+<!--
 - *2015.09 - 2018.06*, Bachelor, Ye Peida lab, Beijing University of Posts and Telecommunications (BUPT).
 - *2014.09 - 2018.06*, Bachelor, Department of Automation, Beijing University of Posts and Telecommunications (BUPT).
-
+-->
 # 💻 Projects
 - National Natural Science Foundation of China under Grant No. 62192751 and 61425024
 - New generation intelligent building platform (National Key Research and Development Project of China under Grant 2017YFC0704100)
@@ -263,16 +264,15 @@ I have published more than 10 papers in top international journals, including *B
 - *2015.09 & 2016.09 & 2017.09* Merit Student (Top 3%)
 
 ## Competition
+- *2017* American Undergraduate Mathematical Contest in Modeling Honorable Mention
 - *2015.11* The second prize of the Chinese National Undergraduate Mathematical Contest
 - *2016.06* The first prize in the Beijing Division of the Chinese National Undergraduate Mathematical Contest in Modeling
-- *2015.11* The first prize of the engineering design expression competition of BUPT (Top 1%)
 - *2016.07* The second prize in the Beijing Division of the National Undergraduate Electronic Design Competition
-- *2017* American Undergraduate Mathematical Contest in Modeling Honorable Mention
 - *2022* Best Researcher Award for the contribution and honourable achievement in innovative research. International Research Awards on New Science Inventions NESIN 2022 Awards.
 
 
 
-
+<!-- - *2015.11* The first prize of the engineering design expression competition of BUPT (Top 1%)-->
 
 
 <!--
@@ -322,7 +322,7 @@ Beijing, China, 100084 \
 E-mail:  <skl23@nus.edu.sg> &emsp;<skl.2018@tsinghua.org.cn> &emsp;<18813126518@163.com>\
      &emsp;  
 
-
+<!--
 # 👨‍🏫 Co-supervised students at Tsinghua:
 Irfan Qaisar (2022-;Ph.D.)\
 Muhammad Arslan Khan (2023-;Ph.D.)\
@@ -334,3 +334,4 @@ Zhe Yu (2022-2023; Master)\
 Zaixian Han (2020; Bachelor; Korea)\
 Meiling Piao (2019; Bachelor; Korea)\
 Xi Miao (2023-;Bachelor; U.S)
+-->
