@@ -248,7 +248,7 @@ I have published more than 10 papers in top international journals, including *B
 - [Poster presentation](https://github.com/kailaisun/kailaisun.github.io/blob/main/images/presentation/poster.PNG). *2024.01-26*. AI for Climate, AI for Science, and Quantum Workshop by NVIDIA. National University of Singapore.
 
 - [Oral Presentation](https://github.com/kailaisun/kailaisun.github.io/blob/main/images/presentation/CV4AEC-kailaisun.pdf). [Poster Presentation](https://github.com/kailaisun/kailaisun.github.io/blob/main/images/presentation/CVPR2024-CV4AEC-2.pdf).
- *2024.06-27*. [Computer Vision in the Built Environment](https://cv4aec.github.io/). Seattle, USA.
+ *2024.06-17*. [Computer Vision in the Built Environment](https://cv4aec.github.io/). Seattle, USA.
 
 # 👨🏽‍🤝‍👨🏼 Collaborators
 - [Qianchuan Zhao](http://cfins.au.tsinghua.edu.cn/personalhg/zhaoqc/) -  Professor, Department of Automation, Tsinghua University.
