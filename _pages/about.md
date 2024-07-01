@@ -178,9 +178,24 @@ I have published more than 10 papers in top international journals, including *B
 
 - [Multi-Source Information Fusion network for building occupancy estimation](https://openaccess.cms-conferences.org/publications/book/978-1-958651-65-0/article/978-1-958651-65-0_14).**Kailai Sun**, Tian Xing, Xinwei Wang, Zhou Yang, and Qianchuan Zhao<sup>\*</sup>.  In: Alicja Maciejko (eds) Human Factors in Architecture, Sustainable Urban Planning and Infrastructure. AHFE (2023) International Conference. AHFE Open Access, vol 89. AHFE International, USA. http://doi.org/10.54941/ahfe1003687.(Acceptance rate:**34**%)
 
-- [Research on Multi-temporal Cloud Removal using D-S Evidence Theory and Cloud Segmentation Model](https://link.springer.com/chapter/10.1007/978-3-031-20497-5_14). Xinwei Wang<sup>1</sup>, **Kailai Sun**<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>, and Jianhong Zou. *The CAAI International Conference on Artificial Intelligence* (**CICAI**). 2022. (Acceptance rate:**34**%)  [Poster Presentation](https://github.com/kailaisun/kailaisun.github.io/blob/main/images/presentation/Poster_CICAI.pdf).
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='/images/presentation/CVPR-show.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 - [A Two-Stage Masked Autoencoder Based Network for Indoor Depth Completion.](https://arxiv.org/abs/2406.09792) **Kailai Sun**<sup>\*</sup>, Zhou Yang, Qianchuan Zhao. *The IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop 2024*. [Oral Presentation](https://github.com/kailaisun/kailaisun.github.io/blob/main/images/presentation/CV4AEC-kailaisun.pdf). [Poster Presentation](https://github.com/kailaisun/kailaisun.github.io/blob/main/images/presentation/CVPR2024-CV4AEC-2.pdf).
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='/images/presentation/CICAI-show.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+- [Research on Multi-temporal Cloud Removal using D-S Evidence Theory and Cloud Segmentation Model](https://link.springer.com/chapter/10.1007/978-3-031-20497-5_14). Xinwei Wang<sup>1</sup>, **Kailai Sun**<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>, and Jianhong Zou. *The CAAI International Conference on Artificial Intelligence* (**CICAI**). 2022. (Acceptance rate:**34**%)  [Poster Presentation](https://github.com/kailaisun/kailaisun.github.io/blob/main/images/presentation/Poster_CICAI.pdf).
+</div>
+</div>
+
+
+
+
 
 - [A Goal-conditioned Reinforcement Learning Algorithm with Environment Modeling](https://ieeexplore.ieee.org/document/10240963/). Zhe yu<sup>1</sup>, **Kailai Sun**<sup>1</sup>, Chenghao Li, Dianyu Zhong, Yang Yiqin, Qianchuan Zhao<sup>\*</sup>.Chinese Control Conference.(2023).
 
