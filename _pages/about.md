@@ -180,7 +180,7 @@ I have published more than 10 papers in top international journals, including *B
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='/images/presentation/CVPR-show.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='/images/presentation/cvpr-show.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - [A Two-Stage Masked Autoencoder Based Network for Indoor Depth Completion.](https://arxiv.org/abs/2406.09792) **Kailai Sun**<sup>\*</sup>, Zhou Yang, Qianchuan Zhao. *The IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop 2024*. [Oral Presentation](https://github.com/kailaisun/kailaisun.github.io/blob/main/images/presentation/CV4AEC-kailaisun.pdf). [Poster Presentation](https://github.com/kailaisun/kailaisun.github.io/blob/main/images/presentation/CVPR2024-CV4AEC-2.pdf).
 </div>
@@ -192,7 +192,6 @@ I have published more than 10 papers in top international journals, including *B
 - [Research on Multi-temporal Cloud Removal using D-S Evidence Theory and Cloud Segmentation Model](https://link.springer.com/chapter/10.1007/978-3-031-20497-5_14). Xinwei Wang<sup>1</sup>, **Kailai Sun**<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>, and Jianhong Zou. *The CAAI International Conference on Artificial Intelligence* (**CICAI**). 2022. (Acceptance rate:**34**%)  [Poster Presentation](https://github.com/kailaisun/kailaisun.github.io/blob/main/images/presentation/Poster_CICAI.pdf).
 </div>
 </div>
-
 
 
 
@@ -247,6 +246,9 @@ I have published more than 10 papers in top international journals, including *B
 # 🧑‍💻 Workshops
 
 - [Poster presentation](https://github.com/kailaisun/kailaisun.github.io/blob/main/images/presentation/poster.PNG). *2024.01-26*. AI for Climate, AI for Science, and Quantum Workshop by NVIDIA. National University of Singapore.
+
+- [Oral Presentation](https://github.com/kailaisun/kailaisun.github.io/blob/main/images/presentation/CV4AEC-kailaisun.pdf). [Poster Presentation](https://github.com/kailaisun/kailaisun.github.io/blob/main/images/presentation/CVPR2024-CV4AEC-2.pdf).
+ *2024.06-27*. [Computer Vision in the Built Environment](https://cv4aec.github.io/). Seattle, USA.
 
 # 👨🏽‍🤝‍👨🏼 Collaborators
 - [Qianchuan Zhao](http://cfins.au.tsinghua.edu.cn/personalhg/zhaoqc/) -  Professor, Department of Automation, Tsinghua University.
