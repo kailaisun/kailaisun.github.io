@@ -28,6 +28,7 @@ I have published more than 10 papers in top international journals, including *B
 
 
 # 🔥 News
+- *2024.7.1*: 🎉🎉 My paper is accepted: High-accuracy occupancy counting at crowded entrances for smart buildings.  **Kailai Sun**, Xingwei Wang, Tian Xing, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao. *Energy and Buildings* (**ENB**). (2024).(**Top** , SCI, IF:**7.093**).  (Acceptance Rate: **22**%)
 - *2024.4.26*: 🎉🎉 My paper is accepted: [A Two-Stage Masked Autoencoder Based Network for Indoor Depth Completion.](https://arxiv.org/abs/2406.09792) **Kailai Sun**<sup>\*</sup>, Zhou Yang, Qianchuan Zhao. *The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024*.(**CVPR**). I presented it on Jun 17th, 2024, in Seattle, USA.    [Oral Presentation](https://github.com/kailaisun/kailaisun.github.io/blob/main/images/presentation/CV4AEC-kailaisun.pdf). [Poster Presentation](https://github.com/kailaisun/kailaisun.github.io/blob/main/images/presentation/CVPR2024-CV4AEC-2.pdf).
 - *2024.2.24*: 🎉🎉 My paper is accepted: [DMFF: Deep Multimodel Feature Fusion for Building Occupancy Detection.](https://www.sciencedirect.com/science/article/pii/S0360132324001975) **Kailai Sun**<sup>\*</sup>. *Building and Environment* (**BAE**). (2024).(**Top** , SCI, IF:**7.201**).  (Acceptance Rate: **20**%)
 - *2024.1.26*: 🎉🎉 [Presentation](https://github.com/kailaisun/kailaisun.github.io/blob/main/images/presentation/poster.PNG) on NVIDIA Workshop: AI for Climate, AI for Science, and Quantum Workshop by NVIDIA, at National University of Singapore.
