@@ -155,15 +155,6 @@ I have published more than 10 papers in top international journals, including *B
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ENB 2024</div><img src='/images/paper/oo2.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
- 
-
-- High-accuracy occupancy counting at crowded entrances for smart buildings. **Kailai Sun**, Xingwei Wang, Tian Xing, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao. *Energy and Buildings* (**ENB**). (2024).(**Top** , SCI, IF:**7.093**).  (Acceptance Rate: **22**%) [Code link.](https://github.com/kailaisun/Head-tracking-for-occupancy-counting) 
-  
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ENB 2024</div><img src='/images/paper/layout1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
  
