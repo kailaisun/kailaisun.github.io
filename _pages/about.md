@@ -140,7 +140,7 @@ I have published more than 10 papers in top international journals, including *B
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BAE 2024</div><img src='/images/paper/overviewcc.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-- [DMFF: Deep Multimodel Feature Fusion for Building Occupancy Detection](https://www.sciencedirect.com/science/article/pii/S0360132324001975). **Kailai Sun**<sup>\*</sup>. *Building and Environment* (**BAE**). (2024).(**Top** , SCI, IF:**7.201**). **Invited**.
+- [DMFF: Deep Multimodel Feature Fusion for Building Occupancy Detection](https://www.sciencedirect.com/science/article/pii/S0360132324001975). **Kailai Sun**<sup>\*</sup>. *Building and Environment* (**BAE**). (2024).(**Top** , SCI, IF:**7.201**). **Invited**. [Code link.](https://github.com/kailaisun/multimodel_occupancy)
 
 </div>
 </div>
