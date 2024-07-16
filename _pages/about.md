@@ -149,7 +149,7 @@ I have published more than 10 papers in top international journals, including *B
 <div class='paper-box-text' markdown="1">
  
 
-- [Building occupancy number prediction: A Transformer approach](https://www.sciencedirect.com/science/article/pii/S036013232300834X). **Kailai Sun**<sup>1,\*</sup>, Irfan Qaisar<sup>1</sup>,Muhammad Arslan Khan, Qianchuan Zhao. *Building and Environment* (**BAE**). (2023).(**Top** , SCI, IF:**7.201**). [Code link.](https://github.com/kailaisun/occprediction.) **Accepted with a first-round Minor revision**. (Acceptance Rate: **20**%) 
+- [Building occupancy number prediction: A Transformer approach](https://www.sciencedirect.com/science/article/pii/S036013232300834X). **Kailai Sun**<sup>1,\*</sup>, Irfan Qaisar<sup>1</sup>,Muhammad Arslan Khan, Qianchuan Zhao. *Building and Environment* (**BAE**). (2023).(**Top** , SCI, IF:**7.201**). [Code link.](https://github.com/kailaisun/occprediction) **Accepted with a first-round Minor revision**. (Acceptance Rate: **20**%) 
   
 </div>
 </div>
