@@ -167,6 +167,8 @@ I have published more than 10 papers in top international journals, including *B
 
 - [An interpretable clustering approach to safety climate analysis: examining driver group distinction in safety climate perceptions](https://www.sciencedirect.com/science/article/pii/S0001457523004670).  **Kailai Sun**<sup>1</sup>, Tianxiang Lan, Yang Miang Goh<sup>\*</sup>, Sufiana Safiena, Yueng-Hsiang Huang, Bailey Lytle, Yimin He. [Code link.](https://github.com/NUS-DBE/truck-driver-safety-climate) *Accident Analysis and Prevention*.(2023).(**Top** , SCI, IF:**5.9**).(Acceptance Rate: **13**%)
 
+- [Predicting trucking accidents with truck drivers' safety climate perception across companies: A transfer learning approach](https://arxiv.org/abs/2402.12417)  **Kailai Sun**, Tianxiang Lan, Say Hong Kam, Yang Miang Goh, Yueng-Hsiang Huang. *Transportation Research Part F: Traffic Psychology and Behaviour* (**TRF**). (2024).(JCR Q1, SSCI).  [Code link.](https://github.com/NUS-DBE/Pretrain-Finetune-safety-climate)
+- 
 - [Indoor occupancy measurement by the fusion of motion detection and static estimation](https://www.sciencedirect.com/science/article/abs/pii/S037877882100877X). **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, Ziyou Zhang, and Xinyuan Hu. *Energy and Buildings* (**ENB**). 254 (2022): 111593.(**Top** , SCI, IF:**7.093**). (Acceptance Rate: **22**%) 
 
 
