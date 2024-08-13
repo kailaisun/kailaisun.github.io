@@ -61,7 +61,7 @@ I have published more than 10 papers in top international journals, including *B
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='/images/paper/mifn1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- [Toward Pedestrian Head Tracking: A Benchmark Dataset and an Information Fusion Network](https://drive.google.com/file/d/1d5L6fhAOnLfeVEVSum6Lrds89BPkkmhh/view?usp=sharing). **Kailai Sun**, Xinwei Wang, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao<sup>\*</sup>, Gao Huang, Chang Liu. IEEE Transactions on Intelligent Transportation Systems.
+- [Toward Pedestrian Head Tracking: A Benchmark Dataset and an Information Fusion Network](https://arxiv.org/abs/2408.05877). **Kailai Sun**, Xinwei Wang, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao<sup>\*</sup>, Gao Huang, Chang Liu. IEEE Transactions on Intelligent Transportation Systems.
 
 </div>
 </div>
