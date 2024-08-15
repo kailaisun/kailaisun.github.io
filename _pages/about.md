@@ -77,7 +77,7 @@ I have published more than 10 papers in top international journals, including *B
 
 - [Bridging the Gap Between Indoor Depth Completion and Masked Autoencoders](https://www.techrxiv.org/doi/full/10.36227/techrxiv.24014946.v1). Zhou Yang,**Kailai Sun**<sup>1,\*</sup>, Qianchuan Zhao. 
 
-- Overcoming Imbalanced Safety Data Using Extended Accident Triangle. **Kailai Sun**, Tianxiang Lan, Yang Miang Goh, Yueng-Hsiang Huang.*Accident Analysis and Prevention*.
+- [Overcoming Imbalanced Safety Data Using Extended Accident Triangle](https://arxiv.org/abs/2408.07094). **Kailai Sun**, Tianxiang Lan, Yang Miang Goh, Yueng-Hsiang Huang.
 
 - An experimental comparative study of energy saving based on occupancy-centric control in smart buildings. Irfan Qaisar, Kailai Sun*, Tian Xing, Qianchuan Zhao. *Building and Environment*.
 
