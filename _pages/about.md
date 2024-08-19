@@ -62,7 +62,9 @@ I have published more than 10 papers in top international journals, including *B
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='/images/paper/mifn1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - [Toward Pedestrian Head Tracking: A Benchmark Dataset and an Information Fusion Network](https://arxiv.org/abs/2408.05877). **Kailai Sun**, Xinwei Wang, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao<sup>\*</sup>, Gao Huang, Chang Liu. IEEE Transactions on Intelligent Transportation Systems.
-
+- We collect and annotate a Chinese large-scale cross-scene dataset (Cchead) for crowded head tracking, including 10 diverse scenes of 50,528 frames with over 2,366,249 heads annotated. 
+- We present a novel solution and insight for head tracking by leveraging pseudo-multi-source information fusion, achieving SOTA performance.
+  
 </div>
 </div>
 
@@ -140,6 +142,9 @@ I have published more than 10 papers in top international journals, including *B
 <div class='paper-box-text' markdown="1">
   
 - [DMFF: Deep Multimodel Feature Fusion for Building Occupancy Detection](https://www.sciencedirect.com/science/article/pii/S0360132324001975). **Kailai Sun**<sup>\*</sup>. *Building and Environment* (**BAE**). (2024).(**Top** , SCI, IF:**7.201**). **Invited**. [Code link.](https://github.com/kailaisun/multimodel_occupancy)
+- Multi-model deep learning meets occupancy. Sound, image and environmental data are integrated to detect occupancy.
+- To transfer pre-trained AI models and domain knowledge into the building field, We introduce the
+ pretrain-finetune pipeline and propose a Transformer-based multimodel fusion algorithm for occupancy detection.
 
 </div>
 </div>
@@ -148,7 +153,9 @@ I have published more than 10 papers in top international journals, including *B
 <div class='paper-box-text' markdown="1">
  
 
-- [Building occupancy number prediction: A Transformer approach](https://www.sciencedirect.com/science/article/pii/S036013232300834X). **Kailai Sun**<sup>1,\*</sup>, Irfan Qaisar<sup>1</sup>,Muhammad Arslan Khan, Qianchuan Zhao. *Building and Environment* (**BAE**). (2023).(**Top** , SCI, IF:**7.201**). [Code link.](https://github.com/kailaisun/occprediction) **Accepted with a first-round Minor revision**. (Acceptance Rate: **20**%) 
+- [Building occupancy number prediction: A Transformer approach](https://www.sciencedirect.com/science/article/pii/S036013232300834X). **Kailai Sun**<sup>1,\*</sup>, Irfan Qaisar<sup>1</sup>,Muhammad Arslan Khan, Qianchuan Zhao. *Building and Environment* (**BAE**). (2023).(**Top** , SCI, IF:**7.201**). [Code link.](https://github.com/kailaisun/occprediction) **Accepted with a first-round Minor revision**. (Acceptance Rate: **20**%)
+- We publicly provide an actual building operating dataset for six zones.
+- Our Transformer-based occupancy prediction algorithm performs superior on our dataset than other existing deep learning algorithms
   
 </div>
 </div>
@@ -158,7 +165,10 @@ I have published more than 10 papers in top international journals, including *B
 <div class='paper-box-text' markdown="1">
  
 
-- [High-accuracy occupancy counting at crowded entrances for smart buildings.](https://www.sciencedirect.com/science/article/pii/S037877882400625X) **Kailai Sun**, Xingwei Wang, Tian Xing, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao. *Energy and Buildings* (**ENB**). (2024).(**Top** , SCI, IF:**7.093**).  (Acceptance Rate: **22**%) [Code link.](https://github.com/kailaisun/Head-tracking-for-occupancy-counting) 
+- [High-accuracy occupancy counting at crowded entrances for smart buildings.](https://www.sciencedirect.com/science/article/pii/S037877882400625X) **Kailai Sun**, Xingwei Wang, Tian Xing, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao. *Energy and Buildings* (**ENB**). (2024).(**Top** , SCI, IF:**7.093**).  (Acceptance Rate: **22**%) [Code link.](https://github.com/kailaisun/Head-tracking-for-occupancy-counting)
+-  The advanced computer vision model for sensing and tracking occupancy heads using surveillance videos.
+-  The practical occupant-centric control (OCC) for energy efficiency and occupant comfort.
+-  This research can be generalised to border domains, including building management, flow estimation, safety prevention, etc.
   
 </div>
 </div>
@@ -168,7 +178,7 @@ I have published more than 10 papers in top international journals, including *B
 - [An interpretable clustering approach to safety climate analysis: examining driver group distinction in safety climate perceptions](https://www.sciencedirect.com/science/article/pii/S0001457523004670).  **Kailai Sun**<sup>1</sup>, Tianxiang Lan, Yang Miang Goh<sup>\*</sup>, Sufiana Safiena, Yueng-Hsiang Huang, Bailey Lytle, Yimin He. [Code link.](https://github.com/NUS-DBE/truck-driver-safety-climate) *Accident Analysis and Prevention*.(2023).(**Top** , SCI, IF:**5.9**).(Acceptance Rate: **13**%)
 
 - [Predicting trucking accidents with truck drivers' safety climate perception across companies: A transfer learning approach](https://www.sciencedirect.com/science/article/pii/S1369847824002080)  **Kailai Sun**, Tianxiang Lan, Say Hong Kam, Yang Miang Goh, Yueng-Hsiang Huang. *Transportation Research Part F: Traffic Psychology and Behaviour* (**TRF**). (2024).(JCR Q1, SSCI).  [Code link.](https://github.com/NUS-DBE/Pretrain-Finetune-safety-climate)
-- 
+
 - [Indoor occupancy measurement by the fusion of motion detection and static estimation](https://www.sciencedirect.com/science/article/abs/pii/S037877882100877X). **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, Ziyou Zhang, and Xinyuan Hu. *Energy and Buildings* (**ENB**). 254 (2022): 111593.(**Top** , SCI, IF:**7.093**). (Acceptance Rate: **22**%) 
 
 
