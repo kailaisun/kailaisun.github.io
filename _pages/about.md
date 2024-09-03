@@ -366,7 +366,8 @@ E-mail:  <skl23@nus.edu.sg> &emsp;<skl.2018@tsinghua.org.cn> &emsp;<18813126518@
 # 👨‍🏫 Co-supervised students at Tsinghua:
 Irfan Qaisar (2022-;Ph.D.)\
 Muhammad Arslan Khan (2023-;Ph.D.)\
-Xinwei Wang  (2020-;Master; Gewu Tech. company)\
+Xinwei Wang  (2020-;Master; Gewu Tech. company, Xiaomi Company)\
+Ruoyu Wang (2023-; Master)\
 Peng Liu (2021-2023; Master)\
 Zhou Yang (2021-2023; Master; BYD)\
 Guanyi Wang (2023-;Master; Huawei)\
