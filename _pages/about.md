@@ -32,10 +32,10 @@ I have published more than 10 papers in top international journals, including *B
 - *2024.8.6*: 🎉🎉 My paper is accepted: [Predicting trucking accidents with truck drivers' safety climate perception across companies: A transfer learning approach](https://www.sciencedirect.com/science/article/pii/S1369847824002080)  **Kailai Sun**, Tianxiang Lan, Say Hong Kam, Yang Miang Goh, Yueng-Hsiang Huang. *Transportation Research Part F: Traffic Psychology and Behaviour* (**TRF**). (2024).(JCR Q1, SSCI).  [Code link.](https://github.com/NUS-DBE/Pretrain-Finetune-safety-climate)
 - *2024.7.1*: 🎉🎉 My paper is accepted: [High-accuracy occupancy counting at crowded entrances for smart buildings.](https://www.sciencedirect.com/science/article/pii/S037877882400625X)  **Kailai Sun**, Xingwei Wang, Tian Xing, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao. *Energy and Buildings* (**ENB**). (2024).(**Top** , SCI, IF:**7.093**).  (Acceptance Rate: **22**%) [Code link.](https://github.com/kailaisun/Head-tracking-for-occupancy-counting) 
 - *2024.4.26*: 🎉🎉 My paper is accepted: [A Two-Stage Masked Autoencoder Based Network for Indoor Depth Completion.](https://arxiv.org/abs/2406.09792) **Kailai Sun**<sup>\*</sup>, Zhou Yang, Qianchuan Zhao. *The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024*.(**CVPR**). I presented it on Jun 17th, 2024, in Seattle, USA.    [Oral Presentation](https://github.com/kailaisun/kailaisun.github.io/blob/main/images/presentation/CV4AEC-kailaisun.pdf). [Poster Presentation](https://github.com/kailaisun/kailaisun.github.io/blob/main/images/presentation/CVPR2024-CV4AEC-2.pdf). [Code link](https://github.com/kailaisun/Indoor-Depth-Completion).
-- *2024.2.24*: 🎉🎉 My paper is accepted: [DMFF: Deep Multimodel Feature Fusion for Building Occupancy Detection.](https://www.sciencedirect.com/science/article/pii/S0360132324001975) **Kailai Sun**<sup>\*</sup>. *Building and Environment* (**BAE**). (2024).(**Top** , SCI, IF:**7.201**).  (Acceptance Rate: **20**%) [Code link.](https://github.com/kailaisun/multimodel_occupancy)
+- *2024.2.24*: 🎉🎉 My paper is accepted: [DMFF: Deep Multimodel Feature Fusion for Building Occupancy Detection.](https://www.sciencedirect.com/science/article/pii/S0360132324001975) **Kailai Sun**<sup>\*</sup>. *Building and Environment* (**BAE**). (2024).(**Top** , SCI, IF:**7.201**).  (Acceptance Rate: **17**%) [Code link.](https://github.com/kailaisun/multimodel_occupancy)
 - *2024.1.26*: 🎉🎉 [Presentation](https://github.com/kailaisun/kailaisun.github.io/blob/main/images/presentation/poster.PNG) on NVIDIA Workshop: AI for Climate, AI for Science, and Quantum Workshop by NVIDIA, at National University of Singapore.
 - *2023.12*: 🎉🎉 Our paper is accepted with a first-round revision. [An interpretable clustering approach to safety climate analysis: examining driver group distinction in safety climate perceptions](https://www.sciencedirect.com/science/article/pii/S0001457523004670).  **Kailai Sun**, Tianxiang Lan, Yang Miang Goh<sup>\*</sup>, Sufiana Safiena, Yueng-Hsiang Huang, Bailey Lytle, Yimin He. *Accident Analysis and Prevention*.(2023).(**Top** , SCI, IF:**5.9**).(Acceptance Rate: **13**%)
-- *2023.09*: 🎉🎉  My paper is accepted with a first-round Minor revision.:[Building occupancy number prediction: A Transformer approach](https://www.sciencedirect.com/science/article/pii/S036013232300834X). **Kailai Sun**<sup>\*</sup>, Irfan Qaisar<sup></sup>,Muhammad Arslan Khan, Qianchuan Zhao. *Building and Environment* (**BAE**). (2023).(**Top** , SCI, IF:**7.201**).  (Acceptance Rate: **20**%)
+- *2023.09*: 🎉🎉  My paper is accepted with a first-round Minor revision.:[Building occupancy number prediction: A Transformer approach](https://www.sciencedirect.com/science/article/pii/S036013232300834X). **Kailai Sun**<sup>\*</sup>, Irfan Qaisar<sup></sup>,Muhammad Arslan Khan, Qianchuan Zhao. *Building and Environment* (**BAE**). (2023).(**Top** , SCI, IF:**7.201**).  (Acceptance Rate: )
 - *2023.07*: 🎉🎉🎉  Our large head tracking dataset (including 10 diverse scenes of 50,528 frames with over 2,366,249 heads and 2,358 tracks) is completed. The paper has been submitted to *International Journal of Computer Vision*. [Visualization videos](https://drive.google.com/drive/folders/1BLmzCRx3MbOzVUITw0-RCpRqTHJ2JXYQ?usp=sharing). [Our dataset](https://github.com/kailaisun/Cchead) and [paper](https://drive.google.com/file/d/1d5L6fhAOnLfeVEVSum6Lrds89BPkkmhh/view) will be available public after review. 
 - *2023.06*: 🎉🎉  Our abstract has been accepted by the [2023 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/phoenix2023/):Learn to Solve Large-scale Job Shop Scheduling by Integrating Machine Learning and Mathematical Optimization.
 - *2022.11*: 🎉🎉🎉  Cell Press reported our work.[Report link](https://mp.weixin.qq.com/s/jDRYjovXeBpyaED2dH1z2Q).
@@ -117,7 +117,7 @@ I have published more than 10 papers in top international journals, including *B
 <div class='paper-box-text' markdown="1">
 
 - [A Fusion Framework of Vision-based Indoor Occupancy Estimation](https://www.sciencedirect.com/science/article/pii/S0360132322008617). \\
-  **Kailai Sun**<sup>1</sup>, Peng Liu<sup>1</sup>, Tian Xing, Qianchuan Zhao<sup>\*</sup> and Xinwei Wang. *Building and Environment* (**BAE**). 222 (2022): 109354.(**Top** , SCI, IF:**7.201**). [Code link.](https://github.com/kailaisun/FFO) (Acceptance Rate: **20**%) 
+  **Kailai Sun**<sup>1</sup>, Peng Liu<sup>1</sup>, Tian Xing, Qianchuan Zhao<sup>\*</sup> and Xinwei Wang. *Building and Environment* (**BAE**). 222 (2022): 109354.(**Top** , SCI, IF:**7.201**). [Code link.](https://github.com/kailaisun/FFO) (Acceptance Rate: **17**%) 
 - The first work to develop a three-level fusion framework in vision-based indoor occupancy estimation.
 - Our framework achieves state-of-the-art (SOTA) performance through ablation studies on practical building surveillance videos.
   
@@ -129,7 +129,7 @@ I have published more than 10 papers in top international journals, including *B
 <div class='paper-box-text' markdown="1">
  
 
-- [MPSN: Motion-aware Pseudo-Siamese Network for Indoor Video Head Detection in Buildings](https://www.sciencedirect.com/science/article/abs/pii/S036013232200587X). **Kailai Sun**, Xiaoteng Ma, Peng Liu, Qianchuan Zhao<sup>\*</sup>. *Building and Environment* (**BAE**). 222 (2022): 109354.(**Top** , SCI, IF:**7.201**).[Code link.](https://github.com/pl-share/MPSN) (Acceptance Rate: **20**%) 
+- [MPSN: Motion-aware Pseudo-Siamese Network for Indoor Video Head Detection in Buildings](https://www.sciencedirect.com/science/article/abs/pii/S036013232200587X). **Kailai Sun**, Xiaoteng Ma, Peng Liu, Qianchuan Zhao<sup>\*</sup>. *Building and Environment* (**BAE**). 222 (2022): 109354.(**Top** , SCI, IF:**7.201**).[Code link.](https://github.com/pl-share/MPSN) (Acceptance Rate: **17**%) 
 - The first work to jointly train the current frame and the pixel-level motion information into an end-to-end CNN network in head detection.
 - We validate its robustness through adversarial experiments with a mathematical solution of small perturbations.
   
@@ -153,7 +153,7 @@ I have published more than 10 papers in top international journals, including *B
 <div class='paper-box-text' markdown="1">
  
 
-- [Building occupancy number prediction: A Transformer approach](https://www.sciencedirect.com/science/article/pii/S036013232300834X). **Kailai Sun**<sup>1,\*</sup>, Irfan Qaisar<sup>1</sup>,Muhammad Arslan Khan, Qianchuan Zhao. *Building and Environment* (**BAE**). (2023).(**Top** , SCI, IF:**7.201**). [Code link.](https://github.com/kailaisun/occprediction) **Accepted with a first-round Minor revision**. (Acceptance Rate: **20**%)
+- [Building occupancy number prediction: A Transformer approach](https://www.sciencedirect.com/science/article/pii/S036013232300834X). **Kailai Sun**<sup>1,\*</sup>, Irfan Qaisar<sup>1</sup>,Muhammad Arslan Khan, Qianchuan Zhao. *Building and Environment* (**BAE**). (2023).(**Top** , SCI, IF:**7.201**). [Code link.](https://github.com/kailaisun/occprediction) **Accepted with a first-round Minor revision**. (Acceptance Rate: **17**%)
 - We publicly provide an actual building operating dataset for six zones.
 - Our Transformer-based occupancy prediction algorithm performs superior on our dataset than other existing deep learning algorithms
   
@@ -193,7 +193,7 @@ I have published more than 10 papers in top international journals, including *B
 
 - [Integrating Machine Learning and Mathematical Optimization for Job Shop Scheduling](https://ieeexplore.ieee.org/document/10227334). Anbang Liu, Peter B. Luh<sup>\*</sup>, **Kailai Sun**. *IEEE Transactions on Automation Science and Engineering* (**TASE**). (2022).(**Top** , SCI, IF:6.636).
 
-- [MITP-Net: a Deep-learning Framework for Short-term Indoor Temperature Predictions in Multi-zone Buildings.](https://www.sciencedirect.com/science/article/pii/S0360132323004158) Tian Xing,**Kailai Sun**, Qianchuan Zhao<sup>\*</sup>.*Building and Environment* (**BAE**). (2023).(**Top** , SCI, IF:**7.201**). (Acceptance Rate: **20**%)
+- [MITP-Net: a Deep-learning Framework for Short-term Indoor Temperature Predictions in Multi-zone Buildings.](https://www.sciencedirect.com/science/article/pii/S0360132323004158) Tian Xing,**Kailai Sun**, Qianchuan Zhao<sup>\*</sup>.*Building and Environment* (**BAE**). (2023).(**Top** , SCI, IF:**7.201**). (Acceptance Rate: **17**%)
 
 - [A Learning-Based Method for Computing Control Barrier Functions of Nonlinear Systems With Control Constraints](https://ieeexplore.ieee.org/document/10141659). Ziyou Zhang, Qianchuan Zhao*, **Kailai Sun**.  IEEE Robotics and Automation Letters. 2023.
 
