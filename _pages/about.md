@@ -61,7 +61,7 @@ I have published more than 10 papers in top international journals, including *B
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='/images/paper/mifn1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- [Toward Pedestrian Head Tracking: A Benchmark Dataset and an Information Fusion Network](https://arxiv.org/abs/2408.05877). **Kailai Sun**, Xinwei Wang, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao<sup>\*</sup>, Gao Huang, Chang Liu. IEEE Transactions on Intelligent Transportation Systems.
+- [Toward Pedestrian Head Tracking: A Benchmark Dataset and an Information Fusion Network](https://arxiv.org/abs/2408.05877). **Kailai Sun**, Xinwei Wang, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao<sup>\*</sup>, Gao Huang, Chang Liu.
 - We collect and annotate a Chinese large-scale cross-scene dataset (Cchead) for crowded head tracking, including 10 diverse scenes of 50,528 frames with over 2,366,249 heads annotated. 
 - We present a novel solution and insight for head tracking by leveraging pseudo-multi-source information fusion, achieving SOTA performance.
   
@@ -72,8 +72,20 @@ I have published more than 10 papers in top international journals, including *B
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IOTJ 2024</div><img src='/images/paper/overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-- [A Review of AIoT-based Edge Devices and Lightweight Deployment](https://www.techrxiv.org/doi/full/10.36227/techrxiv.21687248.v2). **Kailai Sun**<sup>1,\*</sup>, Xinwei Wang<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>. *Neurocomputing*.
+- [A Review of AIoT-based Edge Devices and Lightweight Deployment](https://www.techrxiv.org/doi/full/10.36227/techrxiv.21687248.v2). **Kailai Sun**<sup>1,\*</sup>, Xinwei Wang<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>.
 
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper/AIC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- [HCDN: A Change Detection Network and Dataset for Construction Housekeeping Using Feature Fusion and Large Vision Models.] **Kailai Sun**, Zherui Shao, Yang Miang Goh*, Jing Tian, Vincent J.L. Gan. [Code link.](https://github.com/NUS-DBE/Housekeeping-CD)
+- We propose a change detection dataset to mitigate housekeeping problems in construction sites. 
+- We designed a novel Housekeeping Change Detection Network (HCDN) with Large Vision Model (LVM) and more effective features fusion, achieving superior performance than existing SOTA methods.
+- We integrate HCDN into the proposed housekeeping detection system, which shows its potential in practical construction site situations. 
 </div>
 </div>
 
