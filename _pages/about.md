@@ -82,7 +82,7 @@ I have published more than 10 papers in top international journals, including *B
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper/AIC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-- [HCDN: A Change Detection Network and Dataset for Construction Housekeeping Using Feature Fusion and Large Vision Models.] **Kailai Sun**, Zherui Shao, Yang Miang Goh*, Jing Tian, Vincent J.L. Gan. [Code link.](https://github.com/NUS-DBE/Housekeeping-CD)
+- [HCDN: A Change Detection Network and Dataset for Construction Housekeeping Using Feature Fusion and Large Vision Models.](https://arxiv.org/abs/2410.17513) **Kailai Sun**, Zherui Shao, Yang Miang Goh*, Jing Tian, Vincent J.L. Gan. [Code link.](https://github.com/NUS-DBE/Housekeeping-CD)
 - We propose a change detection dataset to mitigate housekeeping problems in construction sites. 
 - We designed a novel Housekeeping Change Detection Network (HCDN) with Large Vision Model (LVM) and more effective features fusion, achieving superior performance than existing SOTA methods.
 - We integrate HCDN into the proposed housekeeping detection system, which shows its potential in practical construction site situations. 
