@@ -114,6 +114,14 @@ I have published more than 10 papers in top international journals, including *B
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper/overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- [A review of AI edge devices and lightweight CNN and LLM deployment](https://www.sciencedirect.com/science/article/pii/S0925231224015625?dgcid=author). **Kailai Sun**<sup>1,\*</sup>, Xinwei Wang<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>. *Neurocomputing*. (2025). (SCI, JCR Q1, Top, IF:5.5).
+- Many AI edge devices with AI accelerators (Nvidia Nano, TX2, Intel NCS2, Google Coral Dev Board, Coral USB,	Baidu Edgeboard FZ3, AMD Kria K2, etc) are compared and analyzed.
+- Lightweight CNN and large language models, neural network compression, and their deployment on AI edge devices for practical applications, are reviewed.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BAE 2022</div><img src='/images/paper/DBF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -152,14 +160,7 @@ I have published more than 10 papers in top international journals, including *B
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper/overview.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-- [A review of AI edge devices and lightweight CNN and LLM deployment](https://www.sciencedirect.com/science/article/pii/S0925231224015625?dgcid=author). **Kailai Sun**<sup>1,\*</sup>, Xinwei Wang<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>. Neurocomputing. (2024). (SCI, JCR Q1, Top, IF:5.5).
-- Many AI edge devices with AI accelerators (Nvidia Nano, TX2, Intel NCS2, Google Coral Dev Board, Coral USB,	Baidu Edgeboard FZ3, AMD Kria K2, etc) are compared and analyzed.
-- Lightweight CNN and large language models, neural network compression, and their deployment on AI edge devices for practical applications, are reviewed.
-</div>
-</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BAE 2022</div><img src='/images/paper/11.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
