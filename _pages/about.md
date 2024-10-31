@@ -69,16 +69,6 @@ I have published more than 10 papers in top international journals, including *B
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IOTJ 2024</div><img src='/images/paper/overview.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-- [A Review of AIoT-based Edge Devices and Lightweight Deployment](https://www.techrxiv.org/doi/full/10.36227/techrxiv.21687248.v2). **Kailai Sun**<sup>1,\*</sup>, Xinwei Wang<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>.
-
-</div>
-</div>
-
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper/AIC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -103,7 +93,7 @@ I have published more than 10 papers in top international journals, including *B
 <div class='paper-box-text' markdown="1">
 
 - [A review of building occupancy measurement systems](https://www.sciencedirect.com/science/article/abs/pii/S0378778819332918). \\
- **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, Jianhong Zou. *Energy and Buildings* (**ENB**). 216 (2020): 109965. (**Top** , SCI,  JCR Q1, IF:**7.093**, citations:**141**, **ESI highly cited paper**).  (Acceptance Rate: **22**%) 
+ **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, Jianhong Zou. *Energy and Buildings* (**ENB**). 216 (2020): 109965. (**Top** , SCI,  JCR Q1, IF:**7.093**, citations:**148**, **ESI highly cited paper**).  (Acceptance Rate: **22**%) 
 - Five-years occupancy measurement systems based on cameras, WiFi, PIR sensors, CO2 sensors, electricity sensors are analyzed and discussed.
 - The first comprehensive analysis based on different types and installed locations of camera.
   
@@ -157,6 +147,15 @@ I have published more than 10 papers in top international journals, including *B
 - Multi-model deep learning meets occupancy. Sound, image and environmental data are integrated to detect occupancy.
 - To transfer pre-trained AI models and domain knowledge into the building field, We introduce the
  pretrain-finetune pipeline and propose a Transformer-based multimodel fusion algorithm for occupancy detection.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper/overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- [A review of AI edge devices and lightweight CNN and LLM deployment](https://www.sciencedirect.com/science/article/pii/S0925231224015625?dgcid=author). **Kailai Sun**<sup>1,\*</sup>, Xinwei Wang<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>.
 
 </div>
 </div>
