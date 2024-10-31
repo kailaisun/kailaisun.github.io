@@ -155,7 +155,7 @@ I have published more than 10 papers in top international journals, including *B
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper/overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-- [A review of AI edge devices and lightweight CNN and LLM deployment](https://www.sciencedirect.com/science/article/pii/S0925231224015625?dgcid=author). **Kailai Sun**<sup>1,\*</sup>, Xinwei Wang<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>.
+- [A review of AI edge devices and lightweight CNN and LLM deployment](https://www.sciencedirect.com/science/article/pii/S0925231224015625?dgcid=author). **Kailai Sun**<sup>1,\*</sup>, Xinwei Wang<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>. Neurocomputing. (2024).(SCI, JCR Q1,Top, IF:5.5).
 
 </div>
 </div>
