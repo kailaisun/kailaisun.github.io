@@ -30,6 +30,7 @@ I have published more than 10 papers in top international journals, including *B
 
 # 🔥 News
 - *2024.11.17*: 🎉🎉 Our paper (**Corresponding author**) is accepted: An experimental comparative study of energy saving based on occupancy-centric control in smart buildings. Irfan Qaisar, Wei Liang, **Kailai Sun**<sup>\*</sup>, Tian Xing, Qianchuan Zhao. *Building and Environment* (**BAE**). (2025).(**Top** , SCI,  JCR Q1, IF:**7.201**).  (Acceptance Rate: **17**%)
+- *2024.10.20*: 🎉🎉 Our Review paper is accepted: [A review of AI edge devices and lightweight CNN and LLM deployment](https://www.sciencedirect.com/science/article/pii/S0925231224015625?dgcid=author). **Kailai Sun**<sup>1,\*</sup>, Xinwei Wang<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>.*Neurocomputing*. (**Top** , SCI,  JCR Q1, IF:**5.5**).
 - *2024.8.6*: 🎉🎉 My paper is accepted: [Predicting trucking accidents with truck drivers' safety climate perception across companies: A transfer learning approach](https://www.sciencedirect.com/science/article/pii/S1369847824002080)  **Kailai Sun**, Tianxiang Lan, Say Hong Kam, Yang Miang Goh, Yueng-Hsiang Huang. *Transportation Research Part F: Traffic Psychology and Behaviour* (**TRF**). (2024).(JCR Q1, SSCI).  [Code link.](https://github.com/NUS-DBE/Pretrain-Finetune-safety-climate)
 - *2024.7.1*: 🎉🎉 My paper is accepted: [High-accuracy occupancy counting at crowded entrances for smart buildings.](https://www.sciencedirect.com/science/article/pii/S037877882400625X)  **Kailai Sun**, Xingwei Wang, Tian Xing, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao. *Energy and Buildings* (**ENB**). (2024).(**Top** , SCI, JCR Q1, IF:**7.093**).  (Acceptance Rate: **22**%) [Code link.](https://github.com/kailaisun/Head-tracking-for-occupancy-counting) 
 - *2024.4.26*: 🎉🎉 My paper is accepted: [A Two-Stage Masked Autoencoder Based Network for Indoor Depth Completion.](https://arxiv.org/abs/2406.09792) **Kailai Sun**<sup>\*</sup>, Zhou Yang, Qianchuan Zhao. *The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024*.(**CVPR**). I presented it on Jun 17th, 2024, in Seattle, USA.    [Oral Presentation](https://github.com/kailaisun/kailaisun.github.io/blob/main/images/presentation/CV4AEC-kailaisun.pdf). [Poster Presentation](https://github.com/kailaisun/kailaisun.github.io/blob/main/images/presentation/CVPR2024-CV4AEC-2.pdf). [Code link](https://github.com/kailaisun/Indoor-Depth-Completion).
@@ -83,8 +84,6 @@ I have published more than 10 papers in top international journals, including *B
 - [Bridging the Gap Between Indoor Depth Completion and Masked Autoencoders](https://www.techrxiv.org/doi/full/10.36227/techrxiv.24014946.v1). Zhou Yang,**Kailai Sun**<sup>1,\*</sup>, Qianchuan Zhao. 
 
 - [Overcoming Imbalanced Safety Data Using Extended Accident Triangle](https://arxiv.org/abs/2408.07094). **Kailai Sun**, Tianxiang Lan, Yang Miang Goh, Yueng-Hsiang Huang.
-
-- An experimental comparative study of energy saving based on occupancy-centric control in smart buildings. Irfan Qaisar, Kailai Sun*, Tian Xing, Qianchuan Zhao. *Building and Environment*.
 
 - AFSA: Adaptive Modal-Temporal Fusion via Sparse Attention. Ruoyu Wang, Jiaolong Xu, **Kailai Sun**, Qianchuan Zhao.
 
@@ -340,7 +339,7 @@ I received my Bachelor of Engineering degree from Department of Automation, Beij
 
 
 
-- *2024.10.20*: 🎉🎉 Our Review paper is accepted: [A review of AI edge devices and lightweight CNN and LLM deployment](https://www.sciencedirect.com/science/article/pii/S0925231224015625?dgcid=author). **Kailai Sun**<sup>1,\*</sup>, Xinwei Wang<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>.*Neurocomputing*. (**Top** , SCI,  JCR Q1, IF:**5.5**).
+
 
 
 
