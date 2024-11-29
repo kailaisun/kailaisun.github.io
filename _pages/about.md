@@ -292,12 +292,13 @@ I have published more than 10 papers in top international journals, including *B
 
 # 👨🏽‍🤝‍👨🏼 Collaborators
 - [Qianchuan Zhao](http://cfins.au.tsinghua.edu.cn/personalhg/zhaoqc/) -  Professor, Department of Automation, Tsinghua University.
-- [Peter Luh](https://www.ee.uconn.edu/peter-b-luh/) - Professor, Board of Trustees Distinguished Professor Emeritus, University of Connecticut.
 - [Yang Miang Goh](https://discovery.nus.edu.sg/3499-yang-miang-goh/about)－Associate Professor, Department of the Built Environment, National University of Singapore.
+- [Kang Jian](https://www.ucl.ac.uk/bartlett/environmental-design/people/professor-jian-kang) -  Professor, Bartlett School Env, Energy & Resources, University College London.
 - [Huang Gao](https://www.gaohuang.net/)-Associate Professor, Department of Automation, Tsinghua University.
+- [Jinhua Zhao](https://mobility.mit.edu/people/jinhua-zhao)- Professor, Department of Civil and Environmental Engineering, Massachusetts Institute of Technology.
+- [Shaobo Liu](https://its.whut.edu.cn/?jiaoshifengcai/853.html) - Associate Professor, Intelligent Transportation Systems Research Center, Wuhan University of Technology.
+- [Peter Luh](https://www.ee.uconn.edu/peter-b-luh/) - Professor, Board of Trustees Distinguished Professor Emeritus, University of Connecticut.
 - [Yueng-hsiang Huang](https://www.ohsu.edu/people/emily-yueng-hsiang-huang-phd)-Associate Professor, Oregon Institute of Occupational Health Sciences, Oregon Health and Sciences University.
-- Shaobo Liu - Associate Professor, Intelligent Transportation Systems Research Center, Wuhan University of Technology.
-- [Bing Yan](https://www.rit.edu/directory/bxyeee-bing-yan)-Assistant Professor, Department of Electrical and Microelectronic Engineering, Rochester Institute of Technology.
 - [Xiaoteng Ma](https://xtma.github.io/) -  Ph.D., Department of Automation, Tsinghua University. 
 - Anbang Liu -  Ph.D. candidate , Department of Automation, Tsinghua University.
 
