@@ -377,7 +377,7 @@ Singapore, 117566 \
 
 FIT Building 3-624 \
 Beijing, China, 100084 \
-E-mail:  <skl23@nus.edu.sg> &emsp;<skl.2018@tsinghua.org.cn> &emsp;<18813126518@163.com>\
+E-mail:  <skl.2018@tsinghua.org.cn> &emsp;<18813126518@163.com>\
      &emsp;  
 
 
