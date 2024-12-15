@@ -386,8 +386,7 @@ Singapore, 117566 \
 FIT Building 3-624 \
 Beijing, China, 100084 \
 -->
-E-mail:  <skl.2018@tsinghua.org.cn> &emsp;<18813126518@163.com>\
-     &emsp;  <kailai.sun@smart.mit.edu> .
+E-mail:  <skl.2018@tsinghua.org.cn> &emsp;<18813126518@163.com> &emsp;  <kailai.sun@smart.mit.edu> .
 
 
 # 👨‍🏫 Co-supervised students at Tsinghua:
