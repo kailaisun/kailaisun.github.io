@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Kailai Sun "
-description              : "Research Fellow in National University of Singapore. Ph.D. at Tsinghua University. Focusing on smart building and deep learning. "
+description              : "Postdoctoral associate at the Smart centre, Massachusetts Institute of Technology (MIT); Research Fellow at National University of Singapore. Ph.D. at Tsinghua University. Focusing on smart building and deep learning. "
 repository               : "kailaisun/kailaisun.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Kailai Sun"
   avatar           : "images/show/android-chrome-512x512.png"
-  bio              : "National University of Singapore, Tsinghua University"
+  bio              : "Massachusetts Institute of Technology, National University of Singapore, Tsinghua University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
