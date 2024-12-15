@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
 
-I am a postdoctoral associate at the smart centre, Massachusetts Institute of Technology (MIT), supervised by [Prof. Jinhua Zhao](https://mobility.mit.edu/people/jinhua-zhao). I was a Research Fellow in the Department of the Built Environment, National University of Singapore. I received my Ph.D. degree in the Department of Automation, Tsinghua University in 2023. As a member of [CFINS](http://cfins.au.tsinghua.edu.cn/en/), I'm supervised by [Prof. Qianchuan Zhao](http://cfins.au.tsinghua.edu.cn/personalhg/zhaoqc/). 
+I am a postdoctoral associate at the smart centre, Massachusetts Institute of Technology (MIT), supervised by [Prof. Jinhua Zhao](https://mobility.mit.edu/people/jinhua-zhao). I was a Research Fellow in the Department of the Built Environment, National University of Singapore, working with [Prof. Yangmiang Goh](https://discovery.nus.edu.sg/3499-yang-miang-goh). I received my Ph.D. degree in the Department of Automation, Tsinghua University in 2023. As a member of [CFINS](https://cfins.au.tsinghua.edu.cn/), I'm supervised by [Prof. Qianchuan Zhao](https://www.au.tsinghua.edu.cn/info/1173/2085.htm). 
 
 
 
