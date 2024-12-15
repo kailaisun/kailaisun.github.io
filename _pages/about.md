@@ -378,11 +378,12 @@ Singapore, 117566 \
 FIT Building 3-624 \
 Beijing, China, 100084 \
 E-mail:  <skl.2018@tsinghua.org.cn> &emsp;<18813126518@163.com>\
-     &emsp;  
+     &emsp;  <kailai.sun@smart.mit.edu> .
 
 
 # 👨‍🏫 Co-supervised students at Tsinghua:
 Irfan Qaisar (2022-;Ph.D.)\
+Dianyu Zhong (2023-;Ph.D.)\
 Muhammad Arslan Khan (2023-;Ph.D.)\
 Xinwei Wang  (2020-;Master; Gewu Tech. company, Xiaomi Company)\
 Ruoyu Wang (2023-; Master)\
