@@ -19,12 +19,12 @@ redirect_from:
 
 <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
 
-I am a Research Fellow in the Department of the Built Environment, National University of Singapore, working with Prof. [Yang Miang Goh](https://discovery.nus.edu.sg/3499-yang-miang-goh/about). I received my Ph.D. degree in the Department of Automation, Tsinghua University in 2023. As a member of [CFINS](http://cfins.au.tsinghua.edu.cn/en/), I'm supervised by [Prof. Qianchuan Zhao](http://cfins.au.tsinghua.edu.cn/personalhg/zhaoqc/). 
+I am a postdoctoral associate at the smart centre, Massachusetts Institute of Technology (MIT), supervised by [Prof. Jinhua Zhao](https://mobility.mit.edu/people/jinhua-zhao). I was a Research Fellow in the Department of the Built Environment, National University of Singapore. I received my Ph.D. degree in the Department of Automation, Tsinghua University in 2023. As a member of [CFINS](http://cfins.au.tsinghua.edu.cn/en/), I'm supervised by [Prof. Qianchuan Zhao](http://cfins.au.tsinghua.edu.cn/personalhg/zhaoqc/). 
 
 
 
-My research interest lies in smart building and deep learning, including building occupancy detection/estimation, computer vision and generative models. 
-I have published more than 10 papers in top international journals, including *Building and Environment, Energy and Buildings, Cell Patterns*, etc.
+My research interest lies in smart buildings and smart cities, including building occupancy detection/estimation, computer vision and generative models. 
+I have published more than 15 papers in top international journals, including *Building and Environment, Energy and Buildings, Cell Patterns*, etc.
 
 
 
