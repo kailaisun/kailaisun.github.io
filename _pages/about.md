@@ -259,10 +259,18 @@ I have published more than 15 papers in top international journals, including *B
 -->
 
 # 📖 Educations
+- *2024 - present*, Postdoctoral Associate, Smart centre, The JTL Urban Mobility Lab, Massachusetts Institute of Technology (MIT). Prof. [Jinhua Zhao](https://mobility.mit.edu/people/jinhua-zhao).
+- *2023 - 2024*, Research Fellow, Department of the Built Environment, National University of Singapore. Prof. [Yang Miang Goh](https://discovery.nus.edu.sg/3499-yang-miang-goh/about)
+- *2018- 2023*, Ph.D., Department of Automation, Tsinghua University. [Prof. Qianchuan Zhao](http://cfins.au.tsinghua.edu.cn/personalhg/zhaoqc/)
+- *2022*, visiting student, Electrical & Computer Engineering, University of Illinois Urbana-Champaign.  [Prof. Tamer Basar](http://tamerbasar.csl.illinois.edu/)
+- *2015 - 2018*, Bachelor, Ye Peida lab, Beijing University of Posts and Telecommunications (BUPT).
+- *2014 - 2018*, Bachelor, Department of Automation, Beijing University of Posts and Telecommunications (BUPT).
+
+
+<!--
 - *2023.08 - present*, Research Fellow, Department of the Built Environment, National University of Singapore. Prof. [Yang Miang Goh](https://discovery.nus.edu.sg/3499-yang-miang-goh/about)
 - *2018.09 - 2023.06*, Ph.D., Department of Automation, Tsinghua University. [Prof. Qianchuan Zhao](http://cfins.au.tsinghua.edu.cn/personalhg/zhaoqc/)
 - *2022.05*, visiting student, Electrical & Computer Engineering, University of Illinois Urbana-Champaign.  [Prof. Tamer Basar](http://tamerbasar.csl.illinois.edu/)
-<!--
 - *2015.09 - 2018.06*, Bachelor, Ye Peida lab, Beijing University of Posts and Telecommunications (BUPT).
 - *2014.09 - 2018.06*, Bachelor, Department of Automation, Beijing University of Posts and Telecommunications (BUPT).
 -->
