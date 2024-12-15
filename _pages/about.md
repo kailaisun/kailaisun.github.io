@@ -366,7 +366,7 @@ Participated in the translation of the book: Bertsekas, Dimitri. Convex optimiza
 Teaching assistant for "automatic control theory" for 8 times (4 years).
 
 # 📞 Contact
-
+<!--
 [Department of Built Environment](https://cde.nus.edu.sg/dbe/) \
 National University of Singapore \
 SDE2-02-07 \
@@ -377,6 +377,7 @@ Singapore, 117566 \
 
 FIT Building 3-624 \
 Beijing, China, 100084 \
+-->
 E-mail:  <skl.2018@tsinghua.org.cn> &emsp;<18813126518@163.com>\
      &emsp;  <kailai.sun@smart.mit.edu> .
 
