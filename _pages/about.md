@@ -41,7 +41,7 @@ I have published more than 15 papers in top international journals, including *B
 - *2023.07*: 🎉🎉🎉  Our large head tracking dataset (including 10 diverse scenes of 50,528 frames with over 2,366,249 heads and 2,358 tracks) is completed.  [Visualization videos](https://drive.google.com/drive/folders/1BLmzCRx3MbOzVUITw0-RCpRqTHJ2JXYQ?usp=sharing). [Our dataset](https://github.com/kailaisun/Cchead) and [paper](https://drive.google.com/file/d/1d5L6fhAOnLfeVEVSum6Lrds89BPkkmhh/view) will be available public after review. 
 - *2023.06*: 🎉🎉  Our abstract has been accepted by the [2023 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/phoenix2023/):Learn to Solve Large-scale Job Shop Scheduling by Integrating Machine Learning and Mathematical Optimization.
 - *2022.11*: 🎉🎉🎉  Cell Press reported our work.[Report link](https://mp.weixin.qq.com/s/jDRYjovXeBpyaED2dH1z2Q).
-- *2023.11*: I was recognized by ElsevierConnect as a top #OpenAccess contributor! Between 2020–2022, I published 2 open access articles with Elsevier. 1 of my articles was linked to the United Nations Sustainable Development Goals. [link](https://drive.google.com/file/d/1ZND-tEO6bjRP42D0mZSvUoi-RW8dIjdS/view?usp=sharing)
+- *2023.11*: I was recognized by ElsevierConnect as a top #OpenAccess contributor!  1 of my articles was linked to the United Nations Sustainable Development Goals. [link](https://drive.google.com/file/d/1ZND-tEO6bjRP42D0mZSvUoi-RW8dIjdS/view?usp=sharing)
  
 # 📝 Publications 
 <sup>1</sup>:Co-first authors
