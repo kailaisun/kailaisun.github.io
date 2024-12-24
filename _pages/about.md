@@ -274,20 +274,8 @@ I have published more than 15 papers in top international journals, including *B
 - *2015.09 - 2018.06*, Bachelor, Ye Peida lab, Beijing University of Posts and Telecommunications (BUPT).
 - *2014.09 - 2018.06*, Bachelor, Department of Automation, Beijing University of Posts and Telecommunications (BUPT).
 -->
-# 💻 Projects
-- National Natural Science Foundation of China under Grant No. 62192751 and 61425024
-- New generation intelligent building platform (National Key Research and Development Project of China under Grant 2017YFC0704100)
-- Energy Internet Planning, Operation and Trading (National Key Research and Development Project of China under Grant 2016YFB0901900)
-- National Science Foundation of China (Grant No. 52172308), Department of Transport of Hubei Province
-- The 111 International Collaboration Program of China under Grant No. BP2018006
-- The National Innovation Center of High-Speed Train R&D project (CX/KJ-2020-0006)
-- Satellite remote sensing image interpretation technology and system based on artificial intelligence (2019 Major Science and Technology Program for the Strategic Emerging Industries of Fuzhou, Grant BNR2019TD01009)
-- Huawei company-Control security issue literature research project
-- Ridar-based road vehicle counting and intelligent video surveillance system project 
-- Intelligent detection and control aircraft system from Tongfang Intelligent Technology Co., ltd
-- Evaluation of (Singapore Changi Airport Group and Hua Wei Singapore Company) CAG’s safety model for profiling construction contractors’ safety performance; Ref No.: 2023-0492
-- Computer Vision for Housekeeping on Construction Site; Award No.: AISG2-100E-2021-084
 
+  
 # ✈ Internships
 - *2021.06 - 2021.08*, Harbin Institute of Technology Robotics Research Institute Co., Ltd, Yangzhou.
   
@@ -352,14 +340,31 @@ I received my Bachelor of Engineering degree from Department of Automation, Beij
 
 
 
-
-
+**Technical Lead**
+**Significant Contributor**
 
 
 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
 
+# 💻 Projects
+- Modeling and Intelligent Design Methods for Hydrogen-Inclusive Multi-Energy Supply and Demand Systems (National Natural Science Foundation Major Project 62192751)
+- Performance Optimization and Control of Networked Dynamic Systems (National Natural Science Foundation Major Project 61425027) 
+- New generation intelligent building platform (National Key Research and Development Project of China under Grant 2017YFC0704100) 
+- Energy Internet Planning, Operation and Trading (National Key Research and Development Project of China under Grant 2016YFB0901900)
+- Research on Pedestrian "State-action" Mapping Laws for Subway Station pedestrian Flow Simulation and Inverse Reinforcement Learning Modeling (National Natural Science Foundation General Program 52172308)
+- Satellite remote sensing image interpretation technology and system based on artificial intelligence (2019 Major Science and Technology Program for the Strategic Emerging Industries of Fuzhou, Grant BNR2019TD01009) 
+- The 111 International Collaboration Program of China under Grant No. BP2018006
+- The National Innovation Center of High-Speed Train R&D project (CX/KJ-2020-0006)
+- Huawei company-Control security issue literature research project 
+- Ridar-based road vehicle counting and intelligent video surveillance system project 
+- Intelligent detection and control aircraft system from Tongfang Intelligent Technology Co., ltd
+- Evaluation of (Singapore Changi Airport Group and Hua Wei Singapore Company) CAG’s safety model for profiling construction contractors’ safety performance; Ref No.: 2023-0492 
+- Computer Vision for Housekeeping on Construction Site; Award No.: AISG2-100E-2021-084
+- Integrating Climate and Economics Models to Forecast Workplace Safety and Health for Singapore Construction Industry: A Hybrid Econometrics & Machine Learning Approach, FASS-CDE Joint Seed Grant Call (MOE-Tier 1), NUS 
+- Mens, Manus and Machina (M3S) – How AI Empowers People, Institutions and the City. National Research Foundation.
+- 
 # ✒️ Reviewer
 
 Journal: IEEE Transactions on Control Systems Technology, IEEE Internet of Things Journal, Building and Environment, Results in Control and Optimizationm, Scientific Programming, Scientific Reports, The Journal of Supercomputing, Journal of Process Mechanical Engineering, etc.
