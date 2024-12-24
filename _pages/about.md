@@ -363,8 +363,8 @@ I received my Bachelor of Engineering degree from Department of Automation, Beij
 - Evaluation of (Singapore Changi Airport Group and Hua Wei Singapore Company) CAG’s safety model for profiling construction contractors’ safety performance; Ref No.: 2023-0492 
 - Computer Vision for Housekeeping on Construction Site; Award No.: AISG2-100E-2021-084
 - Integrating Climate and Economics Models to Forecast Workplace Safety and Health for Singapore Construction Industry: A Hybrid Econometrics & Machine Learning Approach, FASS-CDE Joint Seed Grant Call (MOE-Tier 1), NUS 
-- Mens, Manus and Machina (M3S) – How AI Empowers People, Institutions and the City. National Research Foundation.
-- 
+- [Mens, Manus and Machina (M3S)](https://m3s.mit.edu/) – How AI Empowers People, Institutions and the City. National Research Foundation.
+
 # ✒️ Reviewer
 
 Journal: IEEE Transactions on Control Systems Technology, IEEE Internet of Things Journal, Building and Environment, Results in Control and Optimizationm, Scientific Programming, Scientific Reports, The Journal of Supercomputing, Journal of Process Mechanical Engineering, etc.
