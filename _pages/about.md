@@ -95,7 +95,7 @@ I have published more than 15 papers in top international journals, including *B
 <div class='paper-box-text' markdown="1">
 
 - [A review of building occupancy measurement systems](https://www.sciencedirect.com/science/article/abs/pii/S0378778819332918). \\
- **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, Jianhong Zou. *Energy and Buildings* (**ENB**). 216 (2020): 109965. (**Top** , SCI,  JCR Q1, IF:**7.093**, citations:**148**, **ESI highly cited paper**).  (Acceptance Rate: **22**%) 
+ **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, Jianhong Zou. *Energy and Buildings* (**ENB**). 216 (2020): 109965. (**Top** , SCI,  JCR Q1, IF:**7.093**, citations:**157**, **ESI highly cited paper**).  (Acceptance Rate: **22**%) 
 - Five-years occupancy measurement systems based on cameras, WiFi, PIR sensors, CO2 sensors, electricity sensors are analyzed and discussed.
 - The first comprehensive analysis based on different types and installed locations of camera.
   
@@ -119,7 +119,7 @@ I have published more than 15 papers in top international journals, including *B
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper/overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-- [A review of AI edge devices and lightweight CNN and LLM deployment](https://www.sciencedirect.com/science/article/pii/S0925231224015625?dgcid=author). **Kailai Sun**<sup>1,\*</sup>, Xinwei Wang<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>. *Neurocomputing*. (2025). (SCI, JCR Q1, Top, IF:5.5).
+- [A review of AI edge devices and lightweight CNN and LLM deployment](https://www.sciencedirect.com/science/article/pii/S0925231224015625?dgcid=author). **Kailai Sun**<sup>1,\*</sup>, Xinwei Wang<sup>1</sup>, Qianchuan Zhao. *Neurocomputing*. (2025). (SCI, JCR Q1, Top, IF:5.5).
 - Many AI edge devices with AI accelerators (Nvidia Nano, TX2, Intel NCS2, Google Coral Dev Board, Coral USB,	Baidu Edgeboard FZ3, AMD Kria K2, etc) are compared and analyzed.
 - Lightweight CNN and large language models, neural network compression, and their deployment on AI edge devices for practical applications, are reviewed.
 </div>
@@ -129,7 +129,7 @@ I have published more than 15 papers in top international journals, including *B
 <div class='paper-box-text' markdown="1">
 
 - [A Fusion Framework of Vision-based Indoor Occupancy Estimation](https://www.sciencedirect.com/science/article/pii/S0360132322008617). \\
-  **Kailai Sun**<sup>1</sup>, Peng Liu<sup>1</sup>, Tian Xing, Qianchuan Zhao<sup>\*</sup> and Xinwei Wang. *Building and Environment* (**BAE**). 222 (2022): 109354.(**Top** , SCI, JCR Q1,  IF:**7.201**). [Code link.](https://github.com/kailaisun/FFO) (Acceptance Rate: **17**%) 
+  **Kailai Sun**<sup>1</sup>, Peng Liu, Tian Xing, Qianchuan Zhao<sup>\*</sup> and Xinwei Wang. *Building and Environment* (**BAE**). 222 (2022): 109354.(**Top** , SCI, JCR Q1,  IF:**7.201**). [Code link.](https://github.com/kailaisun/FFO) (Acceptance Rate: **17**%) 
 - The first work to develop a three-level fusion framework in vision-based indoor occupancy estimation.
 - Our framework achieves state-of-the-art (SOTA) performance through ablation studies on practical building surveillance videos.
   
@@ -190,7 +190,7 @@ I have published more than 15 papers in top international journals, including *B
 
 
 
-- [An interpretable clustering approach to safety climate analysis: examining driver group distinction in safety climate perceptions](https://www.sciencedirect.com/science/article/pii/S0001457523004670).  **Kailai Sun**<sup>1</sup>, Tianxiang Lan, Yang Miang Goh<sup>\*</sup>, Sufiana Safiena, Yueng-Hsiang Huang, Bailey Lytle, Yimin He. [Code link.](https://github.com/NUS-DBE/truck-driver-safety-climate) *Accident Analysis and Prevention*.(2023).(**Top** , SCI, JCR Q1,  IF:**5.9**).(Acceptance Rate: **13**%)
+- [An interpretable clustering approach to safety climate analysis: examining driver group distinction in safety climate perceptions](https://www.sciencedirect.com/science/article/pii/S0001457523004670).  **Kailai Sun**, Tianxiang Lan, Yang Miang Goh<sup>\*</sup>, Sufiana Safiena, Yueng-Hsiang Huang, Bailey Lytle, Yimin He. [Code link.](https://github.com/NUS-DBE/truck-driver-safety-climate) *Accident Analysis and Prevention*.(2023).(**Top** , SCI, JCR Q1,  IF:**5.9**).(Acceptance Rate: **13**%)
 
 - [Predicting trucking accidents with truck drivers’ safety climate perception: An in-depth evaluation of the pretrain-then-finetune approach](https://www.sciencedirect.com/science/article/pii/S1369847824002080)  **Kailai Sun**, Tianxiang Lan, Say Hong Kam, Yang Miang Goh, Yueng-Hsiang Huang. *Transportation Research Part F: Traffic Psychology and Behaviour* (**TRF**). (2024).(SSCI, JCR Q1).  [Code link.](https://github.com/NUS-DBE/Pretrain-Finetune-safety-climate)
 
@@ -242,7 +242,7 @@ I have published more than 15 papers in top international journals, including *B
 
 - [Attendance and security system based on building video surveillance](https://drive.google.com/file/d/15HeVSLDb8vI0WaSrlMJJu7kj2qGIlVk4/view). **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, Jianhong Zou, Xiaoteng Ma. *International Conference on Smart City and Intelligent Building* (**ICSCIB**). Springer, Singapore, 2018.
 
-- [Visual feedback system for traditional chinese medical massage robot](https://ieeexplore.ieee.org/abstract/document/8866076). **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, Zhenming Yang, Xiuwei Xu. *In 2019 Chinese Control Conference* (**CCC**). pp. 6379-6385. IEEE, 2019.[Code link.](https://github.com/kailaisun/New-two-dimensional-code_QR-code)
+- [Visual feedback system for traditional Chinese medical massage robot](https://ieeexplore.ieee.org/abstract/document/8866076). **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, Zhenming Yang, Xiuwei Xu. *In 2019 Chinese Control Conference* (**CCC**). pp. 6379-6385. IEEE, 2019.[Code link.](https://github.com/kailaisun/New-two-dimensional-code_QR-code)
 
 
 - [A multi-objective optimization of PV/ST-GSHP system based on office buildings](https://www.sciencedirect.com/science/article/pii/S1876610218306052). Yu Fu, Haiyang Lin, **Kailai Sun**, Qie Sun<sup>\*</sup>, Ronald Wennersten. *Energy Procedia*. 152 (2018): pp. 71-76.
@@ -295,8 +295,8 @@ I have published more than 15 papers in top international journals, including *B
 - [Shaobo Liu](https://its.whut.edu.cn/?jiaoshifengcai/853.html) - Associate Professor, Intelligent Transportation Systems Research Center, Wuhan University of Technology.
 - [Peter Luh](https://www.ee.uconn.edu/peter-b-luh/) - Professor, Board of Trustees Distinguished Professor Emeritus, University of Connecticut.
 - [Yueng-hsiang Huang](https://www.ohsu.edu/people/emily-yueng-hsiang-huang-phd)-Associate Professor, Oregon Institute of Occupational Health Sciences, Oregon Health and Sciences University.
-- [Xiaoteng Ma](https://xtma.github.io/) -  Ph.D., Department of Automation, Tsinghua University. 
-- Anbang Liu -  Ph.D. candidate , Department of Automation, Tsinghua University.
+- [Xiaoteng Ma](https://xtma.github.io/) -  Postdoc, Department of Automation, Tsinghua University. 
+- [Anbang Liu](https://scholar.google.com/citations?user=L726TpwAAAAJ&hl=en) -  Ph.D., Department of Automation, Tsinghua University.
 
 
 
