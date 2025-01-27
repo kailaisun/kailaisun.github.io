@@ -24,7 +24,7 @@ I am a postdoc at the Smart centre, Massachusetts Institute of Technology (MIT),
 
 
 My research interest lies in smart buildings and smart cities, including building occupancy detection/estimation, computer vision and generative models. 
-I have published more than 15 papers in top international journals, including *Building and Environment, Energy and Buildings, Cell Patterns*, etc.
+I have published more than 15 first-author papers in top international journals, including *Building and Environment, Energy and Buildings, Cell Patterns*, etc.
 
 
 
@@ -86,6 +86,8 @@ I have published more than 15 papers in top international journals, including *B
 - A computer vision-based construction housekeeping monitoring system: A two-stage object detection-then-classification approach.  Zherui Shao, **Kailai Sun**, Yang Miang Goh*, Jing Tian, Vincent J.L. Gan. 
 
 - [Overcoming Imbalanced Safety Data Using Extended Accident Triangle](https://arxiv.org/abs/2408.07094). **Kailai Sun**, Tianxiang Lan, Yang Miang Goh, Yueng-Hsiang Huang.
+
+- Indoor Occupant-Centric HVAC Control for Smart Buildings: An Architecture-based Hypergraph Reinforcement Learning Approach. Dianyu Zhong, Tian Xing, **Kailai Sun**<sup>\*</sup>, Ziyou Zhang and Qianchuan Zhao.
 
 - AFSA: Adaptive Modal-Temporal Fusion via Sparse Attention. Ruoyu Wang, Jiaolong Xu, **Kailai Sun**, Qianchuan Zhao.
 
