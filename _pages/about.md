@@ -27,9 +27,25 @@ My research interest lies in smart buildings and smart cities, including buildin
 I have published more than 15 first-author papers in top international journals, including *Building and Environment, Energy and Buildings, Cell Patterns*, etc.
 
 
+# 📖 Educations
+- *2024 - present*, Postdoctoral Associate, Smart centre, Massachusetts Institute of Technology (MIT). Prof. [Jinhua Zhao](https://mobility.mit.edu/people/jinhua-zhao).
+- *2023 - 2024*, Research Fellow, Department of the Built Environment, National University of Singapore. Prof. [Yang Miang Goh](https://discovery.nus.edu.sg/3499-yang-miang-goh/about)
+- *2018- 2023*, Ph.D., Department of Automation, Tsinghua University. [Prof. Qianchuan Zhao](https://www.au.tsinghua.edu.cn/info/1173/2085.htm)
+- *2022*, visiting student, Electrical & Computer Engineering, University of Illinois Urbana-Champaign.  [Prof. Tamer Basar](http://tamerbasar.csl.illinois.edu/)
+- *2015 - 2018*, Bachelor, Ye Peida lab, Beijing University of Posts and Telecommunications (BUPT).
+- *2014 - 2018*, Bachelor, Department of Automation, Beijing University of Posts and Telecommunications (BUPT).
+
+
+<!--
+- *2023.08 - present*, Research Fellow, Department of the Built Environment, National University of Singapore. Prof. [Yang Miang Goh](https://discovery.nus.edu.sg/3499-yang-miang-goh/about)
+- *2018.09 - 2023.06*, Ph.D., Department of Automation, Tsinghua University. [Prof. Qianchuan Zhao](http://cfins.au.tsinghua.edu.cn/personalhg/zhaoqc/)
+- *2022.05*, visiting student, Electrical & Computer Engineering, University of Illinois Urbana-Champaign.  [Prof. Tamer Basar](http://tamerbasar.csl.illinois.edu/)
+- *2015.09 - 2018.06*, Bachelor, Ye Peida lab, Beijing University of Posts and Telecommunications (BUPT).
+- *2014.09 - 2018.06*, Bachelor, Department of Automation, Beijing University of Posts and Telecommunications (BUPT).
+-->
 
 # 🔥 News
-- *2025.1.31*: 🎉🎉 My paper is accepted: [Change Detection Network for Construction Housekeeping using Feature Fusion and Large Vision Models](https://arxiv.org/abs/2410.17513) **Kailai Sun**, Zherui Shao, Yang Miang Goh*, Jing Tian, Vincent J.L. Gan. [Code link.](https://github.com/NUS-DBE/Housekeeping-CD) *Automation in Construction*. (**AIC**).(**Top** , SCI,  JCR Q1, IF:**9.6**). (Acceptance Rate: **14**%)
+- *2025.1.31*: 🎉🎉 My paper is accepted: [Change Detection Network for Construction Housekeeping using Feature Fusion and Large Vision Models](https://arxiv.org/abs/2410.17513) **Kailai Sun**, Zherui Shao, Yang Miang Goh<sup>\*</sup>, Jing Tian, Vincent J.L. Gan. [Code link.](https://github.com/NUS-DBE/Housekeeping-CD) *Automation in Construction*. (**AIC**).(**Top** , SCI,  JCR Q1, IF:**9.6**). (Acceptance Rate: **14**%)
 - *2024.11.17*: 🎉🎉 Our paper (**Corresponding author**) is accepted: [An experimental comparative study of energy saving based on occupancy-centric control in smart buildings](https://www.sciencedirect.com/science/article/abs/pii/S0360132324011648). Irfan Qaisar, Wei Liang, **Kailai Sun**<sup>\*</sup>, Tian Xing, Qianchuan Zhao. *Building and Environment* (**BAE**). (2025).(**Top** , SCI,  JCR Q1, IF:**7.201**).  (Acceptance Rate: **17**%)
 - *2024.10.20*: 🎉🎉 Our Review paper is accepted: [A review of AI edge devices and lightweight CNN and LLM deployment](https://www.sciencedirect.com/science/article/pii/S0925231224015625?dgcid=author). **Kailai Sun**<sup>1,\*</sup>, Xinwei Wang<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>.*Neurocomputing*. (**Top** , SCI,  JCR Q1, IF:**5.5**).
 - *2024.8.6*: 🎉🎉 My paper is accepted: [Predicting trucking accidents with truck drivers’ safety climate perception: An in-depth evaluation of the pretrain-then-finetune approach](https://www.sciencedirect.com/science/article/pii/S1369847824002080)  **Kailai Sun**, Tianxiang Lan, Say Hong Kam, Yang Miang Goh, Yueng-Hsiang Huang. *Transportation Research Part F: Traffic Psychology and Behaviour* (**TRF**). (2024).(JCR Q1, SSCI).  [Code link.](https://github.com/NUS-DBE/Pretrain-Finetune-safety-climate)
@@ -136,7 +152,7 @@ I have published more than 15 first-author papers in top international journals,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper/AIC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-- [Change Detection Network for Construction Housekeeping using Feature Fusion and Large Vision Models.](https://arxiv.org/abs/2410.17513) **Kailai Sun**, Zherui Shao, Yang Miang Goh*, Jing Tian, Vincent J.L. Gan. [Code link.](https://github.com/NUS-DBE/Housekeeping-CD) *Automation in Construction*.(**AIC**). 2025. (**Top** , SCI,  JCR Q1, IF:**9.6**).(Acceptance Rate: **14**%)
+- [Change Detection Network for Construction Housekeeping using Feature Fusion and Large Vision Models.](https://arxiv.org/abs/2410.17513) **Kailai Sun**, Zherui Shao, Yang Miang Goh<sup>\*</sup>, Jing Tian, Vincent J.L. Gan. [Code link.](https://github.com/NUS-DBE/Housekeeping-CD) *Automation in Construction*.(**AIC**). 2025. (**Top** , SCI,  JCR Q1, IF:**9.6**).(Acceptance Rate: **14**%)
 - We propose a change detection dataset to mitigate housekeeping problems in construction sites. 
 - We designed a novel Housekeeping Change Detection Network (HCDN) with Large Vision Model (LVM) and more effective features fusion, achieving superior performance than existing SOTA methods.
 - We integrate HCDN into the proposed housekeeping detection system, which shows its potential in practical construction site situations. 
@@ -264,22 +280,6 @@ I have published more than 15 first-author papers in top international journals,
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
 
-# 📖 Educations
-- *2024 - present*, Postdoctoral Associate, Smart centre, Massachusetts Institute of Technology (MIT). Prof. [Jinhua Zhao](https://mobility.mit.edu/people/jinhua-zhao).
-- *2023 - 2024*, Research Fellow, Department of the Built Environment, National University of Singapore. Prof. [Yang Miang Goh](https://discovery.nus.edu.sg/3499-yang-miang-goh/about)
-- *2018- 2023*, Ph.D., Department of Automation, Tsinghua University. [Prof. Qianchuan Zhao](https://www.au.tsinghua.edu.cn/info/1173/2085.htm)
-- *2022*, visiting student, Electrical & Computer Engineering, University of Illinois Urbana-Champaign.  [Prof. Tamer Basar](http://tamerbasar.csl.illinois.edu/)
-- *2015 - 2018*, Bachelor, Ye Peida lab, Beijing University of Posts and Telecommunications (BUPT).
-- *2014 - 2018*, Bachelor, Department of Automation, Beijing University of Posts and Telecommunications (BUPT).
-
-
-<!--
-- *2023.08 - present*, Research Fellow, Department of the Built Environment, National University of Singapore. Prof. [Yang Miang Goh](https://discovery.nus.edu.sg/3499-yang-miang-goh/about)
-- *2018.09 - 2023.06*, Ph.D., Department of Automation, Tsinghua University. [Prof. Qianchuan Zhao](http://cfins.au.tsinghua.edu.cn/personalhg/zhaoqc/)
-- *2022.05*, visiting student, Electrical & Computer Engineering, University of Illinois Urbana-Champaign.  [Prof. Tamer Basar](http://tamerbasar.csl.illinois.edu/)
-- *2015.09 - 2018.06*, Bachelor, Ye Peida lab, Beijing University of Posts and Telecommunications (BUPT).
-- *2014.09 - 2018.06*, Bachelor, Department of Automation, Beijing University of Posts and Telecommunications (BUPT).
--->
 
   
 # ✈ Internships
