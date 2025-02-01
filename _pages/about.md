@@ -29,6 +29,7 @@ I have published more than 15 first-author papers in top international journals,
 
 
 # 🔥 News
+- *2025.1.31*: 🎉🎉 My paper is accepted: [Change Detection Network for Construction Housekeeping using Feature Fusion and Large Vision Models](https://arxiv.org/abs/2410.17513) **Kailai Sun**, Zherui Shao, Yang Miang Goh*, Jing Tian, Vincent J.L. Gan. [Code link.](https://github.com/NUS-DBE/Housekeeping-CD) *Automation in Construction*. (**AIC**).(**Top** , SCI,  JCR Q1, IF:**9.6**). (Acceptance Rate: **14**%)
 - *2024.11.17*: 🎉🎉 Our paper (**Corresponding author**) is accepted: [An experimental comparative study of energy saving based on occupancy-centric control in smart buildings](https://www.sciencedirect.com/science/article/abs/pii/S0360132324011648). Irfan Qaisar, Wei Liang, **Kailai Sun**<sup>\*</sup>, Tian Xing, Qianchuan Zhao. *Building and Environment* (**BAE**). (2025).(**Top** , SCI,  JCR Q1, IF:**7.201**).  (Acceptance Rate: **17**%)
 - *2024.10.20*: 🎉🎉 Our Review paper is accepted: [A review of AI edge devices and lightweight CNN and LLM deployment](https://www.sciencedirect.com/science/article/pii/S0925231224015625?dgcid=author). **Kailai Sun**<sup>1,\*</sup>, Xinwei Wang<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>.*Neurocomputing*. (**Top** , SCI,  JCR Q1, IF:**5.5**).
 - *2024.8.6*: 🎉🎉 My paper is accepted: [Predicting trucking accidents with truck drivers’ safety climate perception: An in-depth evaluation of the pretrain-then-finetune approach](https://www.sciencedirect.com/science/article/pii/S1369847824002080)  **Kailai Sun**, Tianxiang Lan, Say Hong Kam, Yang Miang Goh, Yueng-Hsiang Huang. *Transportation Research Part F: Traffic Psychology and Behaviour* (**TRF**). (2024).(JCR Q1, SSCI).  [Code link.](https://github.com/NUS-DBE/Pretrain-Finetune-safety-climate)
@@ -71,15 +72,6 @@ I have published more than 15 first-author papers in top international journals,
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper/AIC.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-- [HCDN: A Change Detection Network and Dataset for Construction Housekeeping Using Feature Fusion and Large Vision Models.](https://arxiv.org/abs/2410.17513) **Kailai Sun**, Zherui Shao, Yang Miang Goh*, Jing Tian, Vincent J.L. Gan. [Code link.](https://github.com/NUS-DBE/Housekeeping-CD)
-- We propose a change detection dataset to mitigate housekeeping problems in construction sites. 
-- We designed a novel Housekeeping Change Detection Network (HCDN) with Large Vision Model (LVM) and more effective features fusion, achieving superior performance than existing SOTA methods.
-- We integrate HCDN into the proposed housekeeping detection system, which shows its potential in practical construction site situations. 
-</div>
-</div>
 
 - [Bridging the Gap Between Indoor Depth Completion and Masked Autoencoders](https://www.techrxiv.org/doi/full/10.36227/techrxiv.24014946.v1). Zhou Yang,**Kailai Sun**<sup>1,\*</sup>, Qianchuan Zhao. 
 
@@ -138,6 +130,18 @@ I have published more than 15 first-author papers in top international journals,
 </div>
 </div>
 
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper/AIC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- [Change Detection Network for Construction Housekeeping using Feature Fusion and Large Vision Models.](https://arxiv.org/abs/2410.17513) **Kailai Sun**, Zherui Shao, Yang Miang Goh*, Jing Tian, Vincent J.L. Gan. [Code link.](https://github.com/NUS-DBE/Housekeeping-CD) *Automation in Construction*.(**AIC**). 2025. (**Top** , SCI,  JCR Q1, IF:**9.6**).
+- We propose a change detection dataset to mitigate housekeeping problems in construction sites. 
+- We designed a novel Housekeeping Change Detection Network (HCDN) with Large Vision Model (LVM) and more effective features fusion, achieving superior performance than existing SOTA methods.
+- We integrate HCDN into the proposed housekeeping detection system, which shows its potential in practical construction site situations. 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BAE 2022</div><img src='/images/paper/MPSN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
