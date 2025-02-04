@@ -24,7 +24,7 @@ I am a postdoc at the Smart centre, Massachusetts Institute of Technology (MIT),
 
 
 My research interest lies in smart buildings and smart cities, including building occupancy detection/estimation, computer vision and generative models. 
-I have published more than 15 first-author papers in top international journals, including *Building and Environment, Energy and Buildings, Cell Patterns*, etc.
+I have published more than 15 first-author papers in top international journals, including *Cell Patterns, Building and Environment, Automation in Construction, Energy and Buildings*, etc.
 
 
 
