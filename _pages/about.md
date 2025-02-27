@@ -26,6 +26,7 @@ I am a postdoc at the Smart centre, Massachusetts Institute of Technology (MIT),
 My research interest lies in smart buildings and smart cities, including building occupancy detection/estimation, computer vision and generative models. 
 I have published more than 15 first-author papers in top international journals, including *Cell Patterns, Building and Environment, Automation in Construction, Energy and Buildings*, etc.
 
+<a href="https://clustrmaps.com/site/1c4m1" title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=fVBZ21Ffx6OGBSgycqpY2E5ZD1nJe1BVYmN0XxW1HtM&cl=ffffff"></a>
 
 
 # 🔥 News
@@ -417,3 +418,7 @@ Zhe Yu (2022-2023; Master)\
 Zaixian Han (2020; Bachelor; Korea)\
 Meiling Piao (2019; Bachelor; Korea)\
 Xi Miao (2023-;Bachelor; U.S)
+
+<a href="https://clustrmaps.com/site/1c4m1" title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=fVBZ21Ffx6OGBSgycqpY2E5ZD1nJe1BVYmN0XxW1HtM&cl=ffffff"></a>
+
+
