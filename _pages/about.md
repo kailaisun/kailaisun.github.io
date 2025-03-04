@@ -99,9 +99,9 @@ I have published more than 15 first-author papers in top international journals,
 
 - [Overcoming Imbalanced Safety Data Using Extended Accident Triangle](https://arxiv.org/abs/2408.07094). **Kailai Sun**, Tianxiang Lan, Yang Miang Goh, Yueng-Hsiang Huang.
 
-- Indoor Occupant-Centric HVAC Control for Smart Buildings: An Architecture-based Hypergraph Reinforcement Learning Approach. Dianyu Zhong, Tian Xing, **Kailai Sun**<sup>\*</sup>, Ziyou Zhang and Qianchuan Zhao.
+- Topology-Aware Hypergraph Reinforcement Learning for Indoor Occupant-Centric HVAC Control. Dianyu Zhong, Tian Xing, **Kailai Sun**<sup>\*</sup>, Ziyou Zhang, Qianchuan Zhao and Jian Kang.
 
-- AFSA: Adaptive Modal-Temporal Fusion via Sparse Attention. Ruoyu Wang, Jiaolong Xu, **Kailai Sun**, Qianchuan Zhao.
+
 
 ## Journal Paper
 
