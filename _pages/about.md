@@ -99,6 +99,7 @@ I have published more than 15 first-author papers in top international journals,
 
 - [Overcoming Imbalanced Safety Data Using Extended Accident Triangle](https://arxiv.org/abs/2408.07094). **Kailai Sun**, Tianxiang Lan, Yang Miang Goh, Yueng-Hsiang Huang.
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='/images/paper/THQ.png' alt="sym" width="100%"></div></div>
 - Topology-Aware Hypergraph Reinforcement Learning for Indoor Occupant-Centric HVAC Control. Dianyu Zhong, Tian Xing, **Kailai Sun**<sup>\*</sup>, Ziyou Zhang, Qianchuan Zhao and **Jian Kang**.
 
 - Dynamic Occupancy Measurement for Smart Buildings: A Few-shot Large Language Model Approach. Irfan Qaisar, **Kailai Sun**<sup>\*</sup>, Ziyou Zhang, Qianchuan Zhao.
