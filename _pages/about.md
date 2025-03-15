@@ -94,8 +94,13 @@ I have published more than 15 first-author papers in top international journals,
 
 
  
-
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='/images/paper/over-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 - [Overcoming Imbalanced Safety Data Using Extended Accident Triangle](https://arxiv.org/abs/2408.07094). **Kailai Sun**, Tianxiang Lan, Yang Miang Goh, Yueng-Hsiang Huang.
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='/images/paper/THQ.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
