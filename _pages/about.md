@@ -93,17 +93,22 @@ I have published more than 15 first-author papers in top international journals,
 
 
 
-- [Bridging the Gap Between Indoor Depth Completion and Masked Autoencoders](https://www.techrxiv.org/doi/full/10.36227/techrxiv.24014946.v1). Zhou Yang,**Kailai Sun**<sup>1,\*</sup>, Qianchuan Zhao. 
-
-- A computer vision-based construction housekeeping monitoring system: A two-stage object detection-then-classification approach.  Zherui Shao, **Kailai Sun**, Yang Miang Goh*, Jing Tian, Vincent J.L. Gan. 
+ 
 
 - [Overcoming Imbalanced Safety Data Using Extended Accident Triangle](https://arxiv.org/abs/2408.07094). **Kailai Sun**, Tianxiang Lan, Yang Miang Goh, Yueng-Hsiang Huang.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='/images/paper/THQ.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 - Topology-Aware Hypergraph Reinforcement Learning for Indoor Occupant-Centric HVAC Control. Dianyu Zhong, Tian Xing, **Kailai Sun**<sup>\*</sup>, Ziyou Zhang, Qianchuan Zhao and **Jian Kang**.
+  
+</div>
+</div>
 
 - Dynamic Occupancy Measurement for Smart Buildings: A Few-shot Large Language Model Approach. Irfan Qaisar, **Kailai Sun**<sup>\*</sup>, Ziyou Zhang, Qianchuan Zhao.
 
+- [Bridging the Gap Between Indoor Depth Completion and Masked Autoencoders](https://www.techrxiv.org/doi/full/10.36227/techrxiv.24014946.v1). Zhou Yang,**Kailai Sun**<sup>1,\*</sup>, Qianchuan Zhao. 
+
+- A computer vision-based construction housekeeping monitoring system: A two-stage object detection-then-classification approach.  Zherui Shao, **Kailai Sun**, Yang Miang Goh*, Jing Tian, Vincent J.L. Gan.
 
 
 ## Journal Paper
