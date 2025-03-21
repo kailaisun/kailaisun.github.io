@@ -104,7 +104,7 @@ I have published more than 15 first-author papers in top international journals,
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='/images/paper/THQ.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- Topology-Aware Hypergraph Reinforcement Learning for Indoor Occupant-Centric HVAC Control. Dianyu Zhong, Tian Xing, **Kailai Sun**<sup>\*</sup>, Ziyou Zhang, Qianchuan Zhao and **Jian Kang**.  (**Corresponding author**)
+- Topology-Aware Hypergraph Reinforcement Learning for Indoor Occupant-Centric HVAC Control. Dianyu Zhong, Tian Xing, **Kailai Sun**<sup>\*</sup>, Ziyou Zhang, Qianchuan Zhao and [Jian Kang](https://profiles.ucl.ac.uk/66211-jian-kang).  (**Corresponding author**)
   
 </div>
 </div>
@@ -122,7 +122,7 @@ I have published more than 15 first-author papers in top international journals,
 <div class='paper-box-text' markdown="1">
 
 - [A review of building occupancy measurement systems](https://www.sciencedirect.com/science/article/abs/pii/S0378778819332918). \\
- **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, Jianhong Zou. *Energy and Buildings* (**ENB**). 216 (2020): 109965. (**Top** , SCI,  JCR Q1, IF:**7.093**, citations:**157**, **ESI highly cited paper**).  (Acceptance Rate: **22**%) 
+ **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, Jianhong Zou. *Energy and Buildings* (**ENB**). 216 (2020): 109965. (**Top** , SCI,  JCR Q1, IF:**7.093**, citations:**163**, **ESI highly cited paper**).  (Acceptance Rate: **22**%) 
 - Five-years occupancy measurement systems based on cameras, WiFi, PIR sensors, CO2 sensors, electricity sensors are analyzed and discussed.
 - The first comprehensive analysis based on different types and installed locations of camera.
   
@@ -312,8 +312,8 @@ I have published more than 15 first-author papers in top international journals,
 # 👨🏽‍🤝‍👨🏼 Collaborators
 - [Qianchuan Zhao](http://cfins.au.tsinghua.edu.cn/personalhg/zhaoqc/) -  Professor, Department of Automation, Tsinghua University.
 - [Yang Miang Goh](https://discovery.nus.edu.sg/3499-yang-miang-goh/about)－Associate Professor, Department of the Built Environment, National University of Singapore.
-- [Kang Jian](https://www.ucl.ac.uk/bartlett/environmental-design/people/professor-jian-kang) -  Professor, Bartlett School Env, Energy & Resources, University College London.
-- [Huang Gao](https://www.gaohuang.net/)-Associate Professor, Department of Automation, Tsinghua University.
+- [Jian Kang](https://profiles.ucl.ac.uk/66211-jian-kang) -  Professor, Bartlett School Env, Energy & Resources, University College London.
+- [Gao Huang](https://www.gaohuang.net/)-Associate Professor, Department of Automation, Tsinghua University.
 - [Jinhua Zhao](https://mobility.mit.edu/people/jinhua-zhao)- Professor, Department of Civil and Environmental Engineering, Massachusetts Institute of Technology.
 - [Shaobo Liu](https://its.whut.edu.cn/?jiaoshifengcai/853.html) - Associate Professor, Intelligent Transportation Systems Research Center, Wuhan University of Technology.
 - [Peter Luh](https://www.ee.uconn.edu/peter-b-luh/) - Professor, Board of Trustees Distinguished Professor Emeritus, University of Connecticut.
