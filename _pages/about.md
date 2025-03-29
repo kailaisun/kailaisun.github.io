@@ -111,7 +111,7 @@ I have published more than 15 first-author papers in top international journals,
 
 
 
-- Exploring large language models for indoor occupancy detection and estimation for smart buildings. Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Ziyou Zhang, Qianchuan Zhao.  (**Corresponding author**)
+- Exploring large language models for indoor occupancy detection and estimation for smart buildings. Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qianchuan Zhao.  (**Corresponding author**)
 
 - [Bridging the Gap Between Indoor Depth Completion and Masked Autoencoders](https://www.techrxiv.org/doi/full/10.36227/techrxiv.24014946.v1). Zhou Yang,**Kailai Sun**<sup>1,\*</sup>, Qianchuan Zhao.   (**Corresponding author**)
 
