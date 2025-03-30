@@ -240,7 +240,7 @@ I have published more than 15 first-author papers in top international journals,
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BAE 2025</div><img src='/images/paper/OCCI.png' alt="sym" style="max-width: 80%; margin: auto; display: block;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BAE 2025</div><img src='/images/paper/OCCI.png' alt="sym" style="max-width: 80%; margin:0; padding:0; display: block;"></div></div>
 <div class='paper-box-text' markdown="1">
   
 - [An experimental comparative study of energy saving based on occupancy-centric control in smart buildings](https://www.sciencedirect.com/science/article/abs/pii/S0360132324011648). Irfan Qaisar, Wei Liang, **Kailai Sun**<sup>\*</sup>, Tian Xing, Qianchuan Zhao. *Building and Environment* (**BAE**). 112322.(2025).(**Top** , SCI,  JCR Q1, IF:**7.201**).  (Acceptance Rate: **17**%)
