@@ -82,7 +82,7 @@ I have published more than 15 first-author papers in top international journals,
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='/images/paper/mifn1.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='/images/paper/mifn1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - [Toward Pedestrian Head Tracking: A Benchmark Dataset and an Information Fusion Network](https://arxiv.org/abs/2408.05877). **Kailai Sun**, Xinwei Wang, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao<sup>\*</sup>, Gao Huang, Chang Liu.
 - We collect and annotate a Chinese large-scale cross-scene dataset (Cchead) for crowded head tracking, including 10 diverse scenes of 50,528 frames with over 2,366,249 heads annotated. 
@@ -94,7 +94,7 @@ I have published more than 15 first-author papers in top international journals,
 
 
  
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='/images/paper/over-1.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='/images/paper/over-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - [Overcoming Imbalanced Safety Data Using Extended Accident Triangle](https://arxiv.org/abs/2408.07094). **Kailai Sun**, Tianxiang Lan, Yang Miang Goh, Yueng-Hsiang Huang.
 
@@ -102,7 +102,7 @@ I have published more than 15 first-author papers in top international journals,
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='/images/paper/THQ.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='/images/paper/THQ.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - Topology-Aware Hypergraph Reinforcement Learning for Indoor Occupant-Centric HVAC Control. Dianyu Zhong, Tian Xing, **Kailai Sun**<sup>\*</sup>, Ziyou Zhang, Qianchuan Zhao and [Jian Kang](https://profiles.ucl.ac.uk/66211-jian-kang).  (Corresponding author)
   
@@ -240,11 +240,27 @@ I have published more than 15 first-author papers in top international journals,
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BAE 2025</div><img src='/images/paper/OCCI.png' alt="sym" style="max-width: 80%; margin: auto; display: block;"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- [An experimental comparative study of energy saving based on occupancy-centric control in smart buildings](https://www.sciencedirect.com/science/article/abs/pii/S0360132324011648). Irfan Qaisar, Wei Liang, **Kailai Sun**<sup>\*</sup>, Tian Xing, Qianchuan Zhao. *Building and Environment* (**BAE**). 112322.(2025).(**Top** , SCI,  JCR Q1, IF:**7.201**).  (Acceptance Rate: **17**%)
+
+- Real-world 7-zone occupancy data captured via cameras for HVAC control.
+
+OCC systems improve energy efficiency and enhance occupant comfort.
+- Short HVAC control intervals fit dynamic conditions; longer ones fit stable settings.
+
+</div>
+</div>
+
+
+
+
+
+
 - [Predicting trucking accidents with truck drivers’ safety climate perception: An in-depth evaluation of the pretrain-then-finetune approach](https://www.sciencedirect.com/science/article/pii/S1369847824002080)  **Kailai Sun**, Tianxiang Lan, Say Hong Kam, Yang Miang Goh, Yueng-Hsiang Huang. *Transportation Research Part F: Traffic Psychology and Behaviour* (**TRF**). (2024).(SSCI, JCR Q1).  [Code link.](https://github.com/NUS-DBE/Pretrain-Finetune-safety-climate)
 
 - [Indoor occupancy measurement by the fusion of motion detection and static estimation](https://www.sciencedirect.com/science/article/abs/pii/S037877882100877X). **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, Ziyou Zhang, and Xinyuan Hu. *Energy and Buildings* (**ENB**). 254 (2022): 111593.(**Top** , SCI, JCR Q1,  IF:**7.093**). (Acceptance Rate: **22**%)
-
-- [An experimental comparative study of energy saving based on occupancy-centric control in smart buildings](https://www.sciencedirect.com/science/article/abs/pii/S0360132324011648). Irfan Qaisar, Wei Liang, **Kailai Sun**<sup>\*</sup>, Tian Xing, Qianchuan Zhao. *Building and Environment* (**BAE**). 112322.(2025).(**Top** , SCI,  JCR Q1, IF:**7.201**).  (Acceptance Rate: **17**%)
 
 
 - [Using knowledge inference to suppress the lamp disturbance for fire detection](https://www.sciencedirect.com/science/article/pii/S266644962100027X). **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, and Xinwei Wang. *Journal of Safety Science and Resilience* (**JSSR**, JCR Q1, SCI). 2.3 (2021): 124-130.[Code link.](https://github.com/kailaisun/fire-detection-without-lamp)
