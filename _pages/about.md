@@ -227,9 +227,18 @@ I have published more than 15 first-author papers in top international journals,
 </div>
 </div>
 
-
-
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAP 2023</div><img src='/images/paper/AAP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 - [An interpretable clustering approach to safety climate analysis: examining driver group distinction in safety climate perceptions](https://www.sciencedirect.com/science/article/pii/S0001457523004670).  **Kailai Sun**, Tianxiang Lan, Yang Miang Goh<sup>\*</sup>, Sufiana Safiena, Yueng-Hsiang Huang, Bailey Lytle, Yimin He. [Code link.](https://github.com/NUS-DBE/truck-driver-safety-climate) *Accident Analysis and Prevention*.(2023).(**Top** , SCI, JCR Q1,  IF:**5.9**).(Acceptance Rate: **13**%)
+
+- Five clustering and three interpretable algorithms were used to analyse 7,000 American truck drivers' safety climate perceptions.
+- Proposed an improved method to interpret partial dependent plots.
+
+</div>
+</div>
+
+
 
 - [Predicting trucking accidents with truck drivers’ safety climate perception: An in-depth evaluation of the pretrain-then-finetune approach](https://www.sciencedirect.com/science/article/pii/S1369847824002080)  **Kailai Sun**, Tianxiang Lan, Say Hong Kam, Yang Miang Goh, Yueng-Hsiang Huang. *Transportation Research Part F: Traffic Psychology and Behaviour* (**TRF**). (2024).(SSCI, JCR Q1).  [Code link.](https://github.com/NUS-DBE/Pretrain-Finetune-safety-climate)
 
