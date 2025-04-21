@@ -271,7 +271,9 @@ I have published more than 15 first-author papers in top international journals,
 
 - [Multi-sensor Based Occupancy Prediction in a Multi-zone Office Building with Transformer](https://www.mdpi.com/2075-5309/13/8/2002).Irfan Qaisar<sup>1</sup> **Kailai Sun**<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>, Tian Xing, Hu Yan. *Buildings*. (2023).(SCI, IF:**3.324**).
 
-- [Integrating Machine Learning and Mathematical Optimization for Job Shop Scheduling](https://ieeexplore.ieee.org/document/10227334). Anbang Liu, Peter B. Luh<sup>\*</sup>, **Kailai Sun**. *IEEE Transactions on Automation Science and Engineering* (**TASE**). (2022).(**Top** , SCI, IF:6.636).
+- [Feature weights in contractor safety performance assessment: Comparative study of expert-driven and analytics-based approaches](https://www.sciencedirect.com/science/article/abs/pii/S0926580525001827). Say Hong Kam, Tianxiang Lan, **Kailai Sun**, Yang Miang Goh . *Automation in Construction* (**AIC**). (2025).(**Top** , SCI, JCR Q1, IF:**9.6**).
+
+- [Integrating Machine Learning and Mathematical Optimization for Job Shop Scheduling](https://ieeexplore.ieee.org/document/10227334). Anbang Liu, Peter B. Luh<sup>\*</sup>, **Kailai Sun**. *IEEE Transactions on Automation Science and Engineering* (**TASE**). (2022).(**Top** , SCI, JCR Q1, IF:6.636).
 
 - [MITP-Net: a Deep-learning Framework for Short-term Indoor Temperature Predictions in Multi-zone Buildings.](https://www.sciencedirect.com/science/article/pii/S0360132323004158) Tian Xing,**Kailai Sun**, Qianchuan Zhao<sup>\*</sup>.*Building and Environment* (**BAE**). (2023).(**Top** , SCI, JCR Q1, IF:**7.201**). (Acceptance Rate: **17**%)
 
