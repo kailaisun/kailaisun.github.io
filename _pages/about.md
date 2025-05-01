@@ -110,6 +110,9 @@ I have published more than 15 first-author papers in top international journals,
 </div>
 
 
+
+- DLDC: A Dual Loop Data Cleaning Method for Fine-tuning Remote Sensing Image Generative Models. Tian Xing, Hu Yan, Xinwei Wang, **Kailai Sun**<sup>\*</sup>, Han Yu, Pinjie Li, Qianchuan Zhao.  (Corresponding author)
+
 - Exploring large language models for indoor occupancy detection and estimation for smart buildings. Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qianchuan Zhao.  (Corresponding and Co-first author)
 
 - A computer vision-based construction housekeeping monitoring system: A two-stage object detection-then-classification approach.  Zherui Shao, **Kailai Sun**, Yang Miang Goh*, Jing Tian, Vincent J.L. Gan.
