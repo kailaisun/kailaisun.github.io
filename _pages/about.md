@@ -29,6 +29,12 @@ I have published more than 15 first-author papers in top international journals,
 
 
 # 🔥 News
+
+
+- *2025.05.20*: 🎉🎉🎉  My paper is accepted:[Toward Pedestrian Head Tracking: A Benchmark Dataset and an Information Fusion Network](https://arxiv.org/abs/2408.05877).**Kailai Sun**, Xinwei Wang, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao, Gao Huang, and Chang Liu. [Code link.](https://github.com/kailaisun/Cchead) *Engineering Applications of Artificial Intelligence*. (**EAAI**).(**Top** , SCI,  JCR Q1, IF:**7.5**). Our large Chinese head tracking dataset (Cchead) has about **2,366,249** head boxes and 2,358 tracks.  [Visualization videos](https://drive.google.com/drive/folders/1BLmzCRx3MbOzVUITw0-RCpRqTHJ2JXYQ?usp=sharing).
+
+
+
 - *2025.1.31*: 🎉🎉 My paper is accepted: [Change Detection Network for Construction Housekeeping using Feature Fusion and Large Vision Models](https://www.sciencedirect.com/science/article/pii/S0926580525000780) **Kailai Sun**, Zherui Shao, Yang Miang Goh<sup>\*</sup>, Jing Tian, Vincent J.L. Gan. [Code link.](https://github.com/NUS-DBE/Housekeeping-CD) *Automation in Construction*. (**AIC**).(**Top** , SCI,  JCR Q1, IF:**9.6**). (Acceptance Rate: **14**%)
 - *2024.11.17*: 🎉🎉 Our paper (**Corresponding author**) is accepted: [An experimental comparative study of energy saving based on occupancy-centric control in smart buildings](https://www.sciencedirect.com/science/article/abs/pii/S0360132324011648). Irfan Qaisar, Wei Liang, **Kailai Sun**<sup>\*</sup>, Tian Xing, Qianchuan Zhao. *Building and Environment* (**BAE**). (2025).(**Top** , SCI,  JCR Q1, IF:**7.201**).  (Acceptance Rate: **17**%)
 - *2024.10.20*: 🎉🎉 My Review paper is accepted: [A review of AI edge devices and lightweight CNN and LLM deployment](https://www.sciencedirect.com/science/article/pii/S0925231224015625?dgcid=author). **Kailai Sun**<sup>1,\*</sup>, Xinwei Wang<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>.*Neurocomputing*. (**Top** , SCI,  JCR Q1, IF:**5.5**).
