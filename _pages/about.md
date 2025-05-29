@@ -83,13 +83,6 @@ I have published more than 15 first-author papers in top international journals,
 
 ## Under-review Paper
 
-
-
-
-
-
-
-
  
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='/images/paper/over-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -113,8 +106,6 @@ I have published more than 15 first-author papers in top international journals,
 - Exploring large language models for indoor occupancy detection and estimation for smart buildings. Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qianchuan Zhao.  (Corresponding and Co-first author)
 
 - A computer vision-based construction housekeeping monitoring system: A two-stage object detection-then-classification approach.  Zherui Shao, **Kailai Sun**, Yang Miang Goh*, Jing Tian, Vincent J.L. Gan.
-
-- Dynamic Occupancy Measurement for Smart Buildings: A Few-shot Large Language Model Approach. Irfan Qaisar, **Kailai Sun**<sup>\*</sup>, Ziyou Zhang, Qianchuan Zhao.  (Corresponding author)
 
 ## Journal Paper
 
