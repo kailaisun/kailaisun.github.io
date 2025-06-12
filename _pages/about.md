@@ -186,7 +186,7 @@ Aiming to solve practical challenges in the real world, most of my work is groun
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='/images/paper/mifn1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- [Toward Pedestrian Head Tracking: A Benchmark Dataset and an Information Fusion Network](https://arxiv.org/abs/2408.05877). **Kailai Sun**, Xinwei Wang, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao<sup>\*</sup>, Gao Huang, Chang Liu. [Code link.](https://github.com/kailaisun/Cchead) *Engineering Applications of Artificial Intelligence*. (**EAAI**).(**Top** , SCI,  JCR Q1, IF:**7.5**). 
+- [Toward Pedestrian Head Tracking: A Benchmark Dataset and an Information Fusion Network](https://authors.elsevier.com/c/1lFRU3OWJ9CU6x). **Kailai Sun**, Xinwei Wang, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao<sup>\*</sup>, Gao Huang, Chang Liu. [Cchead dataset download](https://doi.org/10.34740/kaggle/ds/7494891).[Code link.](https://github.com/kailaisun/Cchead) *Engineering Applications of Artificial Intelligence*. (**EAAI**).(**Top** , SCI,  JCR Q1, IF:**7.5**). 
 - We collect and annotate a Chinese large-scale cross-scene dataset (Cchead) for crowded head tracking, including 10 diverse scenes of 50,528 frames with over 2,366,249 heads annotated. 
 - We present a novel solution and insight for head tracking by leveraging pseudo-multi-source information fusion, achieving SOTA performance.  [Visualization videos](https://drive.google.com/drive/folders/1BLmzCRx3MbOzVUITw0-RCpRqTHJ2JXYQ?usp=sharing).
   
