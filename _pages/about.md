@@ -26,7 +26,8 @@ I am a postdoc at the SMART Centre, Massachusetts Institute of Technology (MIT),
 My research interest lies in smart buildings and smart cities, including building occupancy detection/estimation, computer vision and generative models. 
 I have published more than 15 first-author papers in top international journals, including *Cell Patterns, Building and Environment, Automation in Construction, Energy and Buildings*, etc. 
 
-Aiming to solve practical challenges in the real world, most of my work is grounded in real-world datasets (collected with collaborators) to ensure practical implications.
+Aiming to solve practical challenges in the real world, most of my work is grounded in real-world datasets (collected with collaborators). 
+
 
 
 
@@ -67,6 +68,7 @@ Aiming to solve practical challenges in the real world, most of my work is groun
 
 
 <!--
+to ensure practical implications.
 - *2023.08 - present*, Research Fellow, Department of the Built Environment, National University of Singapore. Prof. [Yang Miang Goh](https://discovery.nus.edu.sg/3499-yang-miang-goh/about)
 - *2018.09 - 2023.06*, Ph.D., Department of Automation, Tsinghua University. [Prof. Qianchuan Zhao](http://cfins.au.tsinghua.edu.cn/personalhg/zhaoqc/)
 - *2022.05*, visiting student, Electrical & Computer Engineering, University of Illinois Urbana-Champaign.  [Prof. Tamer Basar](http://tamerbasar.csl.illinois.edu/)
