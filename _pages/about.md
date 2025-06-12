@@ -33,7 +33,7 @@ Aiming to solve practical challenges in the real world, most of my work is groun
 
 # 🔥 News
 
-- *2025.06.12*: 🎉🎉🎉  Our large head tracking dataset (including 10 diverse scenes of 50,528 frames with over **2,366,249** head boxes and 2,358 tracks)  is now publicly released! Dataset Download: [Cchead](https://doi.org/10.34740/kaggle/ds/7494891). [Code link.](https://github.com/kailaisun/Cchead) [Visualization videos](https://drive.google.com/drive/folders/1BLmzCRx3MbOzVUITw0-RCpRqTHJ2JXYQ?usp=sharing). Welcome to use it and enjoy exploring for research.
+- *2025.06.12*: 🎉🎉🎉  Our large head tracking dataset (including 10 diverse scenes of 50,528 frames with over **2,366,249** head boxes and 2,358 tracks)  is now publicly released! Dataset Download: [Cchead](https://doi.org/10.34740/kaggle/ds/7494891). [Code link.](https://github.com/kailaisun/Cchead) [Visualization videos](https://drive.google.com/drive/folders/1BLmzCRx3MbOzVUITw0-RCpRqTHJ2JXYQ?usp=sharing). Welcome to use it and enjoy exploring.
 
 - *2025.05.29*: 🎉🎉  Our paper (**Corresponding author**) is accepted: Dynamic Occupancy Measurement for Smart Buildings: A Few-shot Large Language Model Approach.  Irfan Qaisar, **Kailai Sun**<sup>\*</sup>, and Qianchuan Zhao. [*2025 IEEE 21st International Conference on Automation Science and Engineering*](https://2025.ieeecase.org/). (**CASE**).
 
