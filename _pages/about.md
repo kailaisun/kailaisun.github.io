@@ -29,10 +29,11 @@ I have published more than 15 first-author papers in top international journals,
 Aiming to solve practical challenges in the real world, most of my work is grounded in real-world datasets. 
 
 
-
+ **Kailai Sun**, Tianxiang Lan, Yang Miang Goh, Yueng-Hsiang Huang.
 
 
 # 🔥 News
+- *2025.07.15*: 🎉🎉  My paper is accepted:[Overcoming Imbalanced Safety Data Using Extended Accident Triangle](https://arxiv.org/abs/2408.07094). [Code link.](https://github.com/NUS-DBE/accident) *Knowledge-based systems*. (**KBS**).(**Top** , SCI,  JCR Q1, IF:**7.6**).  
 
 - *2025.06.12*: 🎉🎉🎉  Our large head tracking dataset is now publicly released, including 10 diverse scenes of 50,528 frames with over **2,366,249** head boxes and 2,358 tracks. Dataset Download: [Cchead](https://doi.org/10.34740/kaggle/ds/7494891). [Code link.](https://github.com/kailaisun/Cchead) [Visualization videos](https://drive.google.com/drive/folders/1BLmzCRx3MbOzVUITw0-RCpRqTHJ2JXYQ?usp=sharing). Welcome to use it and enjoy exploring.
 
@@ -90,12 +91,6 @@ to ensure practical implications.
 ## Under-review Paper
 
  
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='/images/paper/over-1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- [Overcoming Imbalanced Safety Data Using Extended Accident Triangle](https://arxiv.org/abs/2408.07094). **Kailai Sun**, Tianxiang Lan, Yang Miang Goh, Yueng-Hsiang Huang.
-
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='/images/paper/THQ.png' alt="sym" width="100%"></div></div>
@@ -186,7 +181,7 @@ to ensure practical implications.
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='/images/paper/mifn1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI </div><img src='/images/paper/mifn1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - [Toward Pedestrian Head Tracking: A Benchmark Dataset and an Information Fusion Network](https://authors.elsevier.com/c/1lFRU3OWJ9CU6x). **Kailai Sun**, Xinwei Wang, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao<sup>\*</sup>, Gao Huang, Chang Liu. [Cchead dataset download](https://doi.org/10.34740/kaggle/ds/7494891).[Code link.](https://github.com/kailaisun/Cchead) *Engineering Applications of Artificial Intelligence*. (**EAAI**).(**Top** , SCI,  JCR Q1, IF:**8**). 
 - We collect and annotate a Chinese large-scale cross-scene dataset (Cchead) for crowded head tracking, including 10 diverse scenes of 50,528 frames with over 2,366,249 heads annotated. 
@@ -203,6 +198,14 @@ to ensure practical implications.
 - Multi-model deep learning meets occupancy. Sound, image and environmental data are integrated to detect occupancy.
 - To transfer pre-trained AI models and domain knowledge into the building field, We introduce the
  pretrain-finetune pipeline and propose a Transformer-based multimodel fusion algorithm for occupancy detection.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> KBS 2025 </div><img src='/images/paper/over-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+- [Overcoming Imbalanced Safety Data Using Extended Accident Triangle](https://arxiv.org/abs/2408.07094). **Kailai Sun**, Tianxiang Lan, Yang Miang Goh, Yueng-Hsiang Huang. *Knowledge-based systems*. (**KBS**).(**Top** , SCI,  JCR Q1, IF:**7.6**). [Code link.](https://github.com/NUS-DBE/accident) 
 
 </div>
 </div>
