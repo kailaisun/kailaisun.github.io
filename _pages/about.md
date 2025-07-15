@@ -29,7 +29,6 @@ I have published more than 15 first-author papers in top international journals,
 Aiming to solve practical challenges in the real world, most of my work is grounded in real-world datasets. 
 
 
- **Kailai Sun**, Tianxiang Lan, Yang Miang Goh, Yueng-Hsiang Huang.
 
 
 # 🔥 News
