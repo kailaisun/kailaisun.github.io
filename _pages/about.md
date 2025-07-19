@@ -32,7 +32,7 @@ Aiming to solve practical challenges in the real world, most of my work is groun
 
 
 # 🔥 News
-- *2025.07.15*: 🎉🎉  My paper is accepted:[Overcoming Imbalanced Safety Data Using Extended Accident Triangle](https://arxiv.org/abs/2408.07094). [Code link.](https://github.com/NUS-DBE/accident) **Kailai Sun**, Tianxiang Lan, Yang Miang Goh, Yueng-Hsiang Huang. *Knowledge-based systems*. (**KBS**).(**Top** , SCI,  JCR Q1, IF:**7.6**).  
+- *2025.07.15*: 🎉🎉  My paper is accepted:[Overcoming Imbalanced Safety Data Using Extended Accident Triangle](https://doi.org/10.1016/j.knosys.2025.114120). [Code link.](https://github.com/NUS-DBE/accident) [Dataset Link](https://data.mendeley.com/datasets/m8rwjx67bk/1). [Axriv](https://arxiv.org/abs/2408.07094).**Kailai Sun**, Tianxiang Lan, Yang Miang Goh, Yueng-Hsiang Huang. *Knowledge-based systems*. (**KBS**).(**Top** , SCI,  JCR Q1, IF:**7.6**).  
 
 - *2025.06.12*: 🎉🎉🎉  Our large head tracking dataset is now publicly released, including 10 diverse scenes of 50,528 frames with over **2,366,249** head boxes and 2,358 tracks. Dataset Download: [Cchead](https://doi.org/10.34740/kaggle/ds/7494891). [Code link.](https://github.com/kailaisun/Cchead) [Visualization videos](https://drive.google.com/drive/folders/1BLmzCRx3MbOzVUITw0-RCpRqTHJ2JXYQ?usp=sharing). Welcome to use it and enjoy exploring.
 
@@ -113,7 +113,7 @@ to ensure practical implications.
 <div class='paper-box-text' markdown="1">
 
 - [A review of building occupancy measurement systems](https://www.sciencedirect.com/science/article/abs/pii/S0378778819332918). \\
- **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, Jianhong Zou. *Energy and Buildings* (**ENB**). 216 (2020): 109965. (**Top** , SCI,  JCR Q1, IF:**7.1**, citations:**163**, **ESI highly cited paper**).  (Acceptance Rate: **20**%) 
+ **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, Jianhong Zou. *Energy and Buildings* (**ENB**). 216 (2020): 109965. (**Top** , SCI,  JCR Q1, IF:**7.1**, citations:**181**, **ESI highly cited paper**).  (Acceptance Rate: **20**%) 
 - Five-years occupancy measurement systems based on cameras, WiFi, PIR sensors, CO2 sensors, electricity sensors are analyzed and discussed.
 - The first comprehensive analysis based on different types and installed locations of camera.
   
@@ -204,7 +204,7 @@ to ensure practical implications.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> KBS 2025 </div><img src='/images/paper/over-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- [Overcoming Imbalanced Safety Data Using Extended Accident Triangle](https://arxiv.org/abs/2408.07094). **Kailai Sun**, Tianxiang Lan, Yang Miang Goh, Yueng-Hsiang Huang. *Knowledge-based systems*. (**KBS**).(**Top** , SCI,  JCR Q1, IF:**7.6**). [Code link.](https://github.com/NUS-DBE/accident) 
+- [Overcoming Imbalanced Safety Data Using Extended Accident Triangle](https://doi.org/10.1016/j.knosys.2025.114120). **Kailai Sun**, Tianxiang Lan, Yang Miang Goh, Yueng-Hsiang Huang. *Knowledge-based systems*. (**KBS**).(**Top** , SCI,  JCR Q1, IF:**7.6**). [Code link.](https://github.com/NUS-DBE/accident) [Dataset Link](https://data.mendeley.com/datasets/m8rwjx67bk/1). [Axriv](https://arxiv.org/abs/2408.07094).
 
 </div>
 </div>
