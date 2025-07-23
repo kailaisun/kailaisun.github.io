@@ -32,7 +32,7 @@ Aiming to solve practical challenges in the real world, most of my work is groun
 
 
 # 🔥 News
-- *2025.07.15*: 🎉🎉  My paper is accepted:[Overcoming Imbalanced Safety Data Using Extended Accident Triangle](https://doi.org/10.1016/j.knosys.2025.114120). [Code link.](https://github.com/NUS-DBE/accident) [Dataset Link](https://data.mendeley.com/datasets/m8rwjx67bk/1). [Axriv](https://arxiv.org/abs/2408.07094).**Kailai Sun**, Tianxiang Lan, Yang Miang Goh, Yueng-Hsiang Huang. *Knowledge-based systems*. (**KBS**).(**Top** , SCI,  JCR Q1, IF:**7.6**).  
+- *2025.07.15*: 🎉🎉  My paper is accepted:[Overcoming Imbalanced Safety Data Using Extended Accident Triangle](https://arxiv.org/abs/2408.07094). [Code link.](https://github.com/NUS-DBE/accident) [Dataset Link](https://data.mendeley.com/datasets/m8rwjx67bk/1). [Axriv](https://arxiv.org/abs/2408.07094).**Kailai Sun**, Tianxiang Lan, Yang Miang Goh, Yueng-Hsiang Huang. *Knowledge-based systems*. (**KBS**).(**Top** , SCI,  JCR Q1, IF:**7.6**).  
 
 - *2025.06.12*: 🎉🎉🎉  Our large head tracking dataset is now publicly released, including 10 diverse scenes of 50,528 frames with over **2,366,249** head boxes and 2,358 tracks. Dataset Download: [Cchead](https://doi.org/10.34740/kaggle/ds/7494891). [Code link.](https://github.com/kailaisun/Cchead) [Visualization videos](https://drive.google.com/drive/folders/1BLmzCRx3MbOzVUITw0-RCpRqTHJ2JXYQ?usp=sharing). Welcome to use it and enjoy exploring.
 
