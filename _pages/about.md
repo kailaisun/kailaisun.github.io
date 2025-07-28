@@ -93,19 +93,10 @@ to ensure practical implications.
 
 ## Under-review Paper
 
- 
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='/images/paper/THQ.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- [Topology-Aware Hypergraph Reinforcement Learning for Indoor Occupant-Centric HVAC Control](https://authors.elsevier.com/tracking/article/details.do?aid=116219&jid=ENB&surname=Sun). Dianyu Zhong, Tian Xing, **Kailai Sun**<sup>\*</sup>, Ziyou Zhang, Qianchuan Zhao and [Jian Kang](https://profiles.ucl.ac.uk/66211-jian-kang).  (Corresponding author)
-
-</div>
-</div>
-
-
 
 - DLDC: A Dual Loop Data Cleaning Method for Fine-tuning Remote Sensing Image Generative Models. Tian Xing, Hu Yan, Xinwei Wang, **Kailai Sun**<sup>\*</sup>, Han Yu, Pinjie Li, Qianchuan Zhao.  (Corresponding author)
+
+- Leveraging Ordinal Information and Deep Learning to Enhance Thermal Comfort Predictions. Chao Cen, Yingxian Zhai, **Kailai Sun**<sup>\*</sup>.  (Corresponding author)
 
 - Exploring large language models for indoor occupancy detection and estimation for smart buildings. Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qianchuan Zhao.  (Corresponding and Co-first author)
 
