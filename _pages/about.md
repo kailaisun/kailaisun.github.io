@@ -32,6 +32,10 @@ Aiming to solve practical challenges in the real world, most of my work is groun
 
 
 # 🔥 News
+
+- *2025.07.28*: 🎉🎉 Our paper (**Corresponding author**) is accepted:[Topology-Aware Hypergraph Reinforcement Learning for Indoor Occupant-Centric HVAC Control](https://authors.elsevier.com/tracking/article/details.do?aid=116219&jid=ENB&surname=Sun). Dianyu Zhong, Tian Xing, **Kailai Sun**<sup>\*</sup>, Ziyou Zhang, Qianchuan Zhao and [Jian Kang](https://profiles.ucl.ac.uk/66211-jian-kang).   *Energy and Buildings* (**ENB**). (2025).(**Top** , SCI, JCR Q1, IF:**7.1**).  (Acceptance Rate: **20**%)
+
+
 - *2025.07.15*: 🎉🎉  My paper is accepted:[Overcoming Imbalanced Safety Data Using Extended Accident Triangle](https://arxiv.org/abs/2408.07094). [Code link.](https://github.com/NUS-DBE/accident) [Dataset Link](https://data.mendeley.com/datasets/m8rwjx67bk/1). [Axriv](https://arxiv.org/abs/2408.07094).**Kailai Sun**, Tianxiang Lan, Yang Miang Goh, Yueng-Hsiang Huang. *Knowledge-based systems*. (**KBS**).(**Top** , SCI,  JCR Q1, IF:**7.6**).  
 
 - *2025.06.12*: 🎉🎉🎉  Our large head tracking dataset is now publicly released, including 10 diverse scenes of 50,528 frames with over **2,366,249** head boxes and 2,358 tracks. Dataset Download: [Cchead](https://doi.org/10.34740/kaggle/ds/7494891). [Code link.](https://github.com/kailaisun/Cchead) [Visualization videos](https://drive.google.com/drive/folders/1BLmzCRx3MbOzVUITw0-RCpRqTHJ2JXYQ?usp=sharing). Welcome to use it and enjoy exploring.
@@ -94,7 +98,7 @@ to ensure practical implications.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='/images/paper/THQ.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- Topology-Aware Hypergraph Reinforcement Learning for Indoor Occupant-Centric HVAC Control. Dianyu Zhong, Tian Xing, **Kailai Sun**<sup>\*</sup>, Ziyou Zhang, Qianchuan Zhao and [Jian Kang](https://profiles.ucl.ac.uk/66211-jian-kang).  (Corresponding author)
+- [Topology-Aware Hypergraph Reinforcement Learning for Indoor Occupant-Centric HVAC Control](https://authors.elsevier.com/tracking/article/details.do?aid=116219&jid=ENB&surname=Sun). Dianyu Zhong, Tian Xing, **Kailai Sun**<sup>\*</sup>, Ziyou Zhang, Qianchuan Zhao and [Jian Kang](https://profiles.ucl.ac.uk/66211-jian-kang).  (Corresponding author)
 
 </div>
 </div>
@@ -247,7 +251,12 @@ to ensure practical implications.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='/images/paper/THQ.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+- [Topology-Aware Hypergraph Reinforcement Learning for Indoor Occupant-Centric HVAC Control](https://authors.elsevier.com/tracking/article/details.do?aid=116219&jid=ENB&surname=Sun). Dianyu Zhong, Tian Xing, **Kailai Sun**<sup>\*</sup>, Ziyou Zhang, Qianchuan Zhao and [Jian Kang](https://profiles.ucl.ac.uk/66211-jian-kang).  (Corresponding author)  *Energy and Buildings* (**ENB**). (2025).(**Top** , SCI, JCR Q1, IF:**7.1**).  (Acceptance Rate: **20**%)
 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BAE 2025</div><img src='/images/paper/OCCI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
