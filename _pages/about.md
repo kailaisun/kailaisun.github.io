@@ -33,7 +33,7 @@ Aiming to solve practical challenges in the real world, most of my work is groun
 
 # 🔥 News
 
-- *2025.07.28*: 🎉🎉 Our paper (**Corresponding author**) is accepted:[Topology-Aware Hypergraph Reinforcement Learning for Indoor Occupant-Centric HVAC Control](https://authors.elsevier.com/tracking/article/details.do?aid=116219&jid=ENB&surname=Sun). Dianyu Zhong, Tian Xing, **Kailai Sun**<sup>\*</sup>, Ziyou Zhang, Qianchuan Zhao and [Jian Kang](https://profiles.ucl.ac.uk/66211-jian-kang).   *Energy and Buildings* (**ENB**). (2025).(**Top** , SCI, JCR Q1, IF:**7.1**).  (Acceptance Rate: **20**%)
+- *2025.07.28*: 🎉🎉 Our paper (**Corresponding author**) is accepted:[Topology-Aware Hypergraph Reinforcement Learning for Indoor Occupant-Centric HVAC Control](https://doi.org/10.1016/j.enbuild.2025.116219). Dianyu Zhong, Tian Xing, **Kailai Sun**<sup>\*</sup>, Ziyou Zhang, Qianchuan Zhao and [Jian Kang](https://profiles.ucl.ac.uk/66211-jian-kang).   *Energy and Buildings* (**ENB**). (2025).(**Top** , SCI, JCR Q1, IF:**7.1**).  (Acceptance Rate: **20**%)
 
 
 - *2025.07.15*: 🎉🎉  My paper is accepted:[Overcoming Imbalanced Safety Data Using Extended Accident Triangle](https://arxiv.org/abs/2408.07094). [Code link.](https://github.com/NUS-DBE/accident) [Dataset Link](https://data.mendeley.com/datasets/m8rwjx67bk/1). [Axriv](https://arxiv.org/abs/2408.07094).**Kailai Sun**, Tianxiang Lan, Yang Miang Goh, Yueng-Hsiang Huang. *Knowledge-based systems*. (**KBS**).(**Top** , SCI,  JCR Q1, IF:**7.6**).  
