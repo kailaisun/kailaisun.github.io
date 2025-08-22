@@ -428,7 +428,13 @@ I received my Bachelor of Engineering degree from Department of Automation, Beij
 Journal: Safety Science, IEEE Transactions on Control Systems Technology, IEEE Internet of Things Journal, Building and Environment, Results in Control and Optimizationm, Scientific Programming, Scientific Reports, The Journal of Supercomputing, Journal of Process Mechanical Engineering, etc.
 
 
-Conference:IEEE International Conference on Robotics and Automation, The World Congress of the International Federation of Automatic Control, etc.
+Conference:IEEE International Conference on Robotics and Automation, The World Congress of the International Federation of Automatic Control, ICCV, CVPR, etc.
+
+
+# ✒️ Editor
+
+Youth Editorial Board Members: [Journal of Building Design and Environment](https://sciexplor.com/jbde/editorial_board).
+Special Issue Editors: [Buildings](https://www.mdpi.com/journal/buildings/special_issues/79YFLGU6JD); [Frontiers in Built Environment](https://www.frontiersin.org/journals/built-environment).
 
 # 📚 Book
 Participated in the translation of the book: Bertsekas, Dimitri. Convex optimization algorithms. Athena Scientific. 2015.
