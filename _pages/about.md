@@ -103,11 +103,9 @@ to ensure practical implications.
 
 - Leveraging Ordinal Information and Deep Learning to Enhance Thermal Comfort Predictions. Chao Cen, Yingxian Zhai, **Kailai Sun**<sup>\*</sup>, Meng Liu,  Nyuk Hien Wong.  (Corresponding author)
 
-Reimaging Global Urban Development with Satellite Imagery. **Kailai Sun**, Yuebing Liang, Mingyi He, Shenhao Wang, Jinhua Zhao<sup>*</sup>, Alex “Sandy” Pentland. 
+- Reimaging Global Urban Development with Satellite Imagery. **Kailai Sun**, Yuebing Liang, Mingyi He, Shenhao Wang, Jinhua Zhao<sup>*</sup>, Alex “Sandy” Pentland.
 
-
-
-OCC-Mamba: A Mamba-based Deep Learning Approach for Indoor Occupancy Prediction. Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,*</sup>, Dianyu Zhong, Xu Yang, Xi Miao, Qianchuan Zhao. (Corresponding author)
+- OCC-Mamba: A Mamba-based Deep Learning Approach for Indoor Occupancy Prediction. Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,*</sup>, Dianyu Zhong, Xu Yang, Xi Miao, Qianchuan Zhao. (Corresponding author)
 
 
 - A computer vision-based construction housekeeping monitoring system: A two-stage object detection-then-classification approach.  Zherui Shao, **Kailai Sun**, Yang Miang Goh*, Jing Tian, Vincent J.L. Gan.
