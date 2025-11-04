@@ -35,7 +35,7 @@ Aiming to solve practical challenges in the real world, most of my work is groun
 
 - *2025.10.29*: 🎉🎉 Our paper (**Corresponding author**) is accepted: [DLDC: A Dual Loop Data Cleaning Method for Fine-tuning Remote Sensing Image Generative Models](https://ieeexplore.ieee.org/document/11223686). Tian Xing, Hu Yan, Xinwei Wang, **Kailai Sun**<sup>\*</sup>, Han Yu, Pinjie Li, Qianchuan Zhao. *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* (2025).(SCI,  JCR Q1, IF:**5.3**).  
   
-- *2025.10.13*: 🎉🎉 Our paper (**Corresponding author**) is accepted: [Exploring large language models for indoor occupancy measurement in smart office buildings](https://www.sciencedirect.com/science/article/abs/pii/S0360132325013307). Irfan Qaisar, **Kailai Sun**<sup>\*</sup>, Qianchuan Zhao. *Building and Environment* (**BAE**). (2025).(**Top** , SCI,  JCR Q1, IF:**7.6**).  (Acceptance Rate: **14**%)
+- *2025.10.13*: 🎉🎉 My paper (**Co-first and Corresponding author**) is accepted: [Exploring large language models for indoor occupancy measurement in smart office buildings](https://www.sciencedirect.com/science/article/abs/pii/S0360132325013307). Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qianchuan Zhao. *Building and Environment* (**BAE**). (2025).(**Top** , SCI,  JCR Q1, IF:**7.6**).  (Acceptance Rate: **14**%)
 
  
 - *2025.07.28*: 🎉🎉 Our paper (**Corresponding author**) is accepted:[Topology-Aware Hypergraph Reinforcement Learning for Indoor Occupant-Centric HVAC Control](https://doi.org/10.1016/j.enbuild.2025.116219). Dianyu Zhong, Tian Xing, **Kailai Sun**<sup>\*</sup>, Ziyou Zhang, Qianchuan Zhao and [Jian Kang](https://profiles.ucl.ac.uk/66211-jian-kang).   *Energy and Buildings* (**ENB**). (2025).(**Top** , SCI, JCR Q1, IF:**7.1**).  (Acceptance Rate: **20**%)
@@ -99,11 +99,11 @@ to ensure practical implications.
 ## Under-review Paper
 
 
-- DLDC: A Dual Loop Data Cleaning Method for Fine-tuning Remote Sensing Image Generative Models. Tian Xing, Hu Yan, Xinwei Wang, **Kailai Sun**<sup>\*</sup>, Han Yu, Pinjie Li, Qianchuan Zhao.  (Corresponding author)
+
 
 - Leveraging Ordinal Information and Deep Learning to Enhance Thermal Comfort Predictions. Chao Cen, Yingxian Zhai, **Kailai Sun**<sup>\*</sup>.  (Corresponding author)
 
-- Exploring large language models for indoor occupancy detection and estimation for smart buildings. Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qianchuan Zhao.  (Corresponding and Co-first author)
+
 
 - A computer vision-based construction housekeeping monitoring system: A two-stage object detection-then-classification approach.  Zherui Shao, **Kailai Sun**, Yang Miang Goh*, Jing Tian, Vincent J.L. Gan.
 
