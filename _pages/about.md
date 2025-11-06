@@ -38,10 +38,10 @@ Aiming to solve practical challenges in the real world, most of my work is groun
 - *2025.10.13*: 🎉🎉 My paper (**Co-first and Corresponding author**) is accepted: [Exploring large language models for indoor occupancy measurement in smart office buildings](https://www.sciencedirect.com/science/article/abs/pii/S0360132325013307). Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qianchuan Zhao. *Building and Environment* (**BAE**). (2025).(**Top** , SCI,  JCR Q1, IF:**7.6**).  (Acceptance Rate: **14**%)
 
  
-- *2025.07.28*: 🎉🎉 Our paper (**Corresponding author**) is accepted:[Topology-Aware Hypergraph Reinforcement Learning for Indoor Occupant-Centric HVAC Control](https://doi.org/10.1016/j.enbuild.2025.116219). Dianyu Zhong, Tian Xing, **Kailai Sun**<sup>\*</sup>, Ziyou Zhang, Qianchuan Zhao and [Jian Kang](https://profiles.ucl.ac.uk/66211-jian-kang).   *Energy and Buildings* (**ENB**). (2025).(**Top** , SCI, JCR Q1, IF:**7.1**).  (Acceptance Rate: **20**%)
+- *2025.07.28*: 🎉🎉 Our paper (**Corresponding author**) is accepted with a first-round revision:[Topology-Aware Hypergraph Reinforcement Learning for Indoor Occupant-Centric HVAC Control](https://doi.org/10.1016/j.enbuild.2025.116219). Dianyu Zhong, Tian Xing, **Kailai Sun**<sup>\*</sup>, Ziyou Zhang, Qianchuan Zhao and [Jian Kang](https://profiles.ucl.ac.uk/66211-jian-kang).   *Energy and Buildings* (**ENB**). (2025).(**Top** , SCI, JCR Q1, IF:**7.1**).  (Acceptance Rate: **20**%)
 
 
-- *2025.07.15*: 🎉🎉  My paper is accepted:[Overcoming Imbalanced Safety Data Using Extended Accident Triangle](https://arxiv.org/abs/2408.07094). [Code link.](https://github.com/NUS-DBE/accident) [Dataset Link](https://data.mendeley.com/datasets/m8rwjx67bk/1). [Axriv](https://arxiv.org/abs/2408.07094).**Kailai Sun**, Tianxiang Lan, Yang Miang Goh, Yueng-Hsiang Huang. *Knowledge-based systems*. (**KBS**).(**Top** , SCI,  JCR Q1, IF:**7.6**).  
+- *2025.07.15*: 🎉🎉  My paper is accepted:[Overcoming Imbalanced Safety Data Using Extended Accident Triangle](https://www.sciencedirect.com/science/article/abs/pii/S0950705125011578). [Code link.](https://github.com/NUS-DBE/accident) [Dataset Link](https://data.mendeley.com/datasets/m8rwjx67bk/1). [Axriv](https://arxiv.org/abs/2408.07094).**Kailai Sun**, Tianxiang Lan, Yang Miang Goh, Yueng-Hsiang Huang. *Knowledge-based systems*. (**KBS**).(**Top** , SCI,  JCR Q1, IF:**7.6**).  
 
 - *2025.06.12*: 🎉🎉🎉  Our large head tracking dataset is now publicly released, including 10 diverse scenes of 50,528 frames with over **2,366,249** head boxes and 2,358 tracks. Dataset Download: [Cchead](https://doi.org/10.34740/kaggle/ds/7494891). [Code link.](https://github.com/kailaisun/Cchead) [Visualization videos](https://drive.google.com/drive/folders/1BLmzCRx3MbOzVUITw0-RCpRqTHJ2JXYQ?usp=sharing). Welcome to use it and enjoy exploring.
 
@@ -370,8 +370,9 @@ to ensure practical implications.
 
 ## Scholarship
 - *2022.12* The first prize of Tsinghua University Weimin Zheng Scholarship (Top 1%)
-- *2022.11* Tsinghua University - Lingjun Pilot Scholarship
+- *2022.11* The first prize of Tsinghua University Comprehensive Scholarship (Lingjun Pilot Scholarship) (Top 1%)
 - *2021.11* Tsinghua Scholarship for Overseas Graduate Studies
+- *2022.11* Tsinghua University - National Scholarship (9/8) (Top 1%)
 - *2019.10* The first prize of Tsinghua University Comprehensive Scholarship (Top 1%)
 - *2015.06 & 2016.06* Haohan company Scholarship (Top 1%)
 - *2015.09 & 2016.09 & 2017.09* National Encouragement Scholarship (Top 3%)
@@ -469,16 +470,16 @@ E-mail:  <skl.2018@tsinghua.org.cn> &emsp;<18813126518@163.com> &emsp;<skl24@mit
 # 👨‍🏫 Co-supervised students at Tsinghua:
 Irfan Qaisar (2022-;Ph.D.)\
 Dianyu Zhong (2023-;Ph.D.)\
-Muhammad Arslan Khan (2023-;Ph.D.)\
+Xu Yang (2025-; Ph.D. )
 Xinwei Wang  (2020-;Master; Gewu Tech. company, Xiaomi Company)\
-Ruoyu Wang (2023-; Master)\
+Ruoyu Wang (2023-2024; Master)\
 Peng Liu (2021-2023; Master)\
 Zhou Yang (2021-2023; Master; BYD)\
-Guanyi Wang (2023-;Master; Huawei)\
+Guanyi Wang (2023-2025; Master; Huawei)\
 Zhe Yu (2022-2023; Master)\
 Zaixian Han (2020; Bachelor; Korea)\
 Meiling Piao (2019; Bachelor; Korea)\
-Xi Miao (2023-;Bachelor; U.S)
+Xi Miao (2023-; Bachelor; U.S)
 
 <a href="https://clustrmaps.com/site/1c4m1" title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=fVBZ21Ffx6OGBSgycqpY2E5ZD1nJe1BVYmN0XxW1HtM&cl=ffffff"></a>
 
