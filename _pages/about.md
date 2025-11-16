@@ -23,7 +23,7 @@ I am a postdoc at the SMART Centre, Massachusetts Institute of Technology (MIT),
 
 
 
-My research interest lies in smart buildings and smart cities, including building occupancy detection/estimation, computer vision and generative models. 
+My research interest lies in smart cities and buildings, including deep learning, occupancy measurement, computer vision, generative models, AIoT, remote sensing and AI for science. 
 I have published more than 15 first-author papers in top international journals, including *Cell Patterns, Building and Environment, Automation in Construction, Energy and Buildings*, etc. 
 
 Aiming to solve practical challenges in the real world, most of my work is grounded in real-world datasets. 
@@ -116,7 +116,7 @@ to ensure practical implications.
 <div class='paper-box-text' markdown="1">
 
 - [A review of building occupancy measurement systems](https://www.sciencedirect.com/science/article/abs/pii/S0378778819332918). \\
- **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, Jianhong Zou. *Energy and Buildings* (**ENB**). 216 (2020): 109965. (**Top** , SCI,  JCR Q1, IF:**7.1**, citations:**181**, **ESI highly cited paper**).  (Acceptance Rate: **20**%) 
+ **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, Jianhong Zou. *Energy and Buildings* (**ENB**). 216 (2020): 109965. (**Top** , SCI,  JCR Q1, IF:**7.1**, citations:**196**, **ESI highly cited paper**).  (Acceptance Rate: **20**%) 
 - Five-years occupancy measurement systems based on cameras, WiFi, PIR sensors, CO2 sensors, electricity sensors are analyzed and discussed.
 - The first comprehensive analysis based on different types and installed locations of camera.
   
@@ -355,9 +355,9 @@ to ensure practical implications.
 # 👨🏽‍🤝‍👨🏼 Collaborators
 - [Qianchuan Zhao](http://cfins.au.tsinghua.edu.cn/personalhg/zhaoqc/) -  Professor, Department of Automation, Tsinghua University.
 - [Yang Miang Goh](https://discovery.nus.edu.sg/3499-yang-miang-goh/about)－Associate Professor, Department of the Built Environment, National University of Singapore.
+- [Jinhua Zhao](https://mobility.mit.edu/people/jinhua-zhao)- Professor of Cities and Transportation, Massachusetts Institute of Technology.
 - [Jian Kang](https://profiles.ucl.ac.uk/66211-jian-kang) -  Professor, Bartlett School Env, Energy & Resources, University College London.
 - [Gao Huang](https://www.gaohuang.net/)-Associate Professor, Department of Automation, Tsinghua University.
-- [Jinhua Zhao](https://mobility.mit.edu/people/jinhua-zhao)- Professor, Department of Civil and Environmental Engineering, Massachusetts Institute of Technology.
 - [Shaobo Liu](https://its.whut.edu.cn/?jiaoshifengcai/853.html) - Associate Professor, Intelligent Transportation Systems Research Center, Wuhan University of Technology.
 - [Peter Luh](https://www.ee.uconn.edu/peter-b-luh/) - Professor, Board of Trustees Distinguished Professor Emeritus, University of Connecticut.
 - [Yueng-hsiang Huang](https://www.ohsu.edu/people/emily-yueng-hsiang-huang-phd)-Associate Professor, Oregon Institute of Occupational Health Sciences, Oregon Health and Sciences University.
@@ -434,10 +434,10 @@ I received my Bachelor of Engineering degree from Department of Automation, Beij
 
 # ✒️ Reviewer
 
-Journal: Safety Science, IEEE Transactions on Control Systems Technology, IEEE Internet of Things Journal, Building and Environment, Results in Control and Optimizationm, Scientific Programming, Scientific Reports, The Journal of Supercomputing, Journal of Process Mechanical Engineering, etc.
+Journal: Safety Science, IEEE Transactions on Control Systems Technology, IEEE Internet of Things Journal, Building and Environment, Results in Control and Optimizationm, Advanced Engineering Informatics, Scientific Reports, The Journal of Supercomputing, Journal of Process Mechanical Engineering, etc.
 
 
-Conference:IEEE International Conference on Robotics and Automation, The World Congress of the International Federation of Automatic Control, ICCV, CVPR, etc.
+Conference:IEEE International Conference on Robotics and Automation, The World Congress of the International Federation of Automatic Control, ICCV, CVPR, AAAI, etc.
 
 
 # ✒️ Editor
@@ -471,11 +471,11 @@ E-mail:  <skl.2018@tsinghua.org.cn> &emsp;<18813126518@163.com> &emsp;<skl24@mit
 Irfan Qaisar (2022-;Ph.D.)\
 Dianyu Zhong (2023-;Ph.D.)\
 Xu Yang (2025-; Ph.D. )
-Xinwei Wang  (2020-;Master; Gewu Tech. company, Xiaomi Company)\
-Ruoyu Wang (2023-2024; Master)\
+Xinwei Wang  (2020-2024;Master; Gewu Tech. company, Xiaomi Company)\
+Ruoyu Wang (2023-2024; Ph.D.)\
 Peng Liu (2021-2023; Master)\
 Zhou Yang (2021-2023; Master; BYD)\
-Guanyi Wang (2023-2025; Master; Huawei)\
+Guanyi Wang (2023-; Master; Huawei)\
 Zhe Yu (2022-2023; Master)\
 Zaixian Han (2020; Bachelor; Korea)\
 Meiling Piao (2019; Bachelor; Korea)\
