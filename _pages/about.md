@@ -35,7 +35,8 @@ Aiming to solve practical challenges in the real world, most of my work is groun
 
 - *2025.11.28*: 🎉🎉 My paper (**Co-first and Corresponding author**) is accepted with a first-round revision: OCC-Mamba: A Mamba-based deep learning approach for indoor occupancy prediction. Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Dianyu Zhong, Xu Yang, Xi Miao and Qianchuan Zhao. *Building and Environment* (**BAE**). (2025).(**Top** , SCI,  JCR Q1, IF:**7.6**).  (Acceptance Rate: **14**%)
 
-
+-  *2025.11.17*: 🎉🎉 My short paper is accepted: UrbanControlNet: Reimaging Global Urban Development with Satellite Imagery. **Kailai Sun**, Yuebing Liang, Mingyi He, Yunhan Zheng, Shenhao Wang, Jinhua Zhao,  Alex “Sandy” Pentland. *AAAI* Workshop on AI for Urban Planning. (2025).
+  
 - *2025.10.29*: 🎉🎉 Our paper (**Corresponding author**) is accepted: [DLDC: A Dual Loop Data Cleaning Method for Fine-tuning Remote Sensing Image Generative Models](https://ieeexplore.ieee.org/document/11223686). Tian Xing, Hu Yan, Xinwei Wang, **Kailai Sun**<sup>\*</sup>, Han Yu, Pinjie Li, Qianchuan Zhao. *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* (2025).(SCI,  JCR Q1, IF:**5.3**).  
   
 - *2025.10.13*: 🎉🎉 My paper (**Co-first and Corresponding author**) is accepted: [Exploring large language models for indoor occupancy measurement in smart office buildings](https://www.sciencedirect.com/science/article/abs/pii/S0360132325013307). Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qianchuan Zhao. *Building and Environment* (**BAE**). (2025).(**Top** , SCI,  JCR Q1, IF:**7.6**).  (Acceptance Rate: **14**%)
@@ -101,15 +102,9 @@ to ensure practical implications.
 
 ## Under-review Paper
 
-
-
-
 - Leveraging Ordinal Information and Deep Learning to Enhance Thermal Comfort Predictions. Chao Cen, Yingxian Zhai, **Kailai Sun**<sup>\*</sup>, Meng Liu,  Nyuk Hien Wong.  (Corresponding author)
 
-- Reimaging Global Urban Development with Satellite Imagery. **Kailai Sun**, Yuebing Liang, Mingyi He, Shenhao Wang, Jinhua Zhao<sup>*</sup>, Alex “Sandy” Pentland.
-
-- OCC-Mamba: A Mamba-based Deep Learning Approach for Indoor Occupancy Prediction. Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,*</sup>, Dianyu Zhong, Xu Yang, Xi Miao, Qianchuan Zhao. (Corresponding author)
-
+- BRISS: Boundary-aware Remote Sensing Images Semantic Segmentation Network with Multi-scale Fusion. Yuexi Song,  **Kailai Sun**<sup>\*</sup>, Mingyi He, Shenhao Wang, Jinhua Zhao.
 
 - A computer vision-based construction housekeeping monitoring system: A two-stage object detection-then-classification approach.  Zherui Shao, **Kailai Sun**, Yang Miang Goh*, Jing Tian, Vincent J.L. Gan.
 
@@ -119,7 +114,7 @@ to ensure practical implications.
 <div class='paper-box-text' markdown="1">
 
 - [A review of building occupancy measurement systems](https://www.sciencedirect.com/science/article/abs/pii/S0378778819332918). \\
- **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, Jianhong Zou. *Energy and Buildings* (**ENB**). 216 (2020): 109965. (**Top** , SCI,  JCR Q1, IF:**7.1**, citations:**196**, **ESI highly cited paper**).  (Acceptance Rate: **20**%) 
+ **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, Jianhong Zou. *Energy and Buildings* (**ENB**). 216 (2020): 109965. (**Top** , SCI,  JCR Q1, IF:**7.1**, citations:**198**, **ESI highly cited paper**).  (Acceptance Rate: **20**%) 
 - Five-years occupancy measurement systems based on cameras, WiFi, PIR sensors, CO2 sensors, electricity sensors are analyzed and discussed.
 - The first comprehensive analysis based on different types and installed locations of camera.
   
