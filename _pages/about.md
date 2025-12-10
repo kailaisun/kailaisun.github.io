@@ -100,11 +100,13 @@ to ensure practical implications.
 -->
 
 
-## Under-review Paper
+## Submitted Paper
 
 - Leveraging Ordinal Information and Deep Learning to Enhance Thermal Comfort Predictions. Chao Cen, Yingxian Zhai, **Kailai Sun**<sup>\*</sup>, Meng Liu,  Nyuk Hien Wong.  (Corresponding author)
 
 - BRISS: Boundary-aware Remote Sensing Images Semantic Segmentation Network with Multi-scale Fusion. Yuexi Song,  **Kailai Sun**<sup>\*</sup>, Mingyi He, Shenhao Wang, Jinhua Zhao.
+
+- Envisioning global urban development with satellite imagery and generative AI. **Kailai Sun**, Yuebing Liang, Mingyi He, Yunhan Zheng, Alok Prakash, Shenhao Wang, Jinhua Zhao,  Alex “Sandy” Pentland. 
 
 - A computer vision-based construction housekeeping monitoring system: A two-stage object detection-then-classification approach.  Zherui Shao, **Kailai Sun**, Yang Miang Goh*, Jing Tian, Vincent J.L. Gan.
 
