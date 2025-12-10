@@ -33,7 +33,7 @@ Aiming to solve practical challenges in the real world, most of my work is groun
 
 # 🔥 News
 
-- *2025.11.28*: 🎉🎉 My paper (**Co-first and Corresponding author**) is accepted with a first-round revision: OCC-Mamba: A Mamba-based deep learning approach for indoor occupancy prediction. Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Dianyu Zhong, Xu Yang, Xi Miao and Qianchuan Zhao. *Building and Environment* (**BAE**). (2025).(**Top** , SCI,  JCR Q1, IF:**7.6**).  (Acceptance Rate: **14**%)
+- *2025.11.28*: 🎉🎉 My paper (**Co-first and Corresponding author**) is accepted with a first-round revision: [OCC-Mamba: A Mamba-based deep learning approach for indoor occupancy prediction.](https://www.sciencedirect.com/science/article/abs/pii/S0360132325015513) Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Dianyu Zhong, Xu Yang, Xi Miao and Qianchuan Zhao. *Building and Environment* (**BAE**). (2025).(**Top** , SCI,  JCR Q1, IF:**7.6**).  (Acceptance Rate: **14**%)
 
 -  *2025.11.17*: 🎉🎉 My short paper is accepted: UrbanControlNet: Reimaging Global Urban Development with Satellite Imagery. **Kailai Sun**, Yuebing Liang, Mingyi He, Yunhan Zheng, Shenhao Wang, Jinhua Zhao,  Alex “Sandy” Pentland. *AAAI* Workshop on AI for Urban Planning. (2025).
   
