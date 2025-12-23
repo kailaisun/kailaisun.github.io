@@ -470,11 +470,11 @@ E-mail:  <skl24@mit.edu> &emsp;<skl.2018@tsinghua.org.cn> &emsp;<18813126518@163
 # 👨‍🏫 Co-supervised students :
 Irfan Qaisar (2022-; Tsinghua Ph.D.)\
 Dianyu Zhong (2023-; Tsinghua Ph.D.; now at QY lab)\
-Xu Yang (2025-; Tsinghua Ph.D. )
+Xu Yang (2025-; Tsinghua Ph.D. )\
 Xinwei Wang  (2020-2024; Tsinghua Master; now at Gewu Tech. company, Xiaomi Company)\
 Yuexi Song (2025-; NUS Bachelor; now at Georgia Institute of Technology)\
 Zhuoyu Wang (2025; NUS Master; now at NUS Ubicomp Lab)\
-Zherui Shao (2023-2024; NUS Master)
+Zherui Shao (2023-2024; NUS Master)\
 Ruoyu Wang (2023-2024; Tsinghua Ph.D.)\
 Peng Liu (2021-2023; Tsinghua Master； now at STMA)\
 Zhou Yang (2021-2023; Tsinghua Master; now at BYD Company)\
@@ -482,7 +482,7 @@ Guanyi Wang (2023-; Tsinghua Master; now at Huawei Company)\
 Zhe Yu (2022-2023; Tsinghua Master)\
 Zaixian Han (2020; Tsinghua Bachelor; Korea)\
 Meiling Piao (2019; Tsinghua Bachelor; Korea)\
-Xi Miao (2023-; Pennsylvania State University Bachelor; U.S)
+Xi Miao (2023-; Pennsylvania State University Bachelor; U.S)\
 
 <a href="https://clustrmaps.com/site/1c4m1" title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=fVBZ21Ffx6OGBSgycqpY2E5ZD1nJe1BVYmN0XxW1HtM&cl=ffffff"></a>
 
