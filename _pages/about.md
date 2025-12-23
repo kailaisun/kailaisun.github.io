@@ -434,7 +434,7 @@ I received my Bachelor of Engineering degree from Department of Automation, Beij
 
 # ✒️ Reviewer
 
-Journal: Safety Science, IEEE Transactions on Control Systems Technology, IEEE Internet of Things Journal, Building and Environment, Results in Control and Optimizationm, Advanced Engineering Informatics, Scientific Reports, The Journal of Supercomputing, Journal of Process Mechanical Engineering, etc.
+Journal: Building and Environment, Safety Science, IEEE Transactions on Control Systems Technology, IEEE Internet of Things Journal, Energy and Building, Journal of Building Engineering, Results in Control and Optimizationm, Advanced Engineering Informatics, Knowledge-based systems, Scientific Reports, The Journal of Supercomputing, etc.
 
 
 Conference:IEEE International Conference on Robotics and Automation, The World Congress of the International Federation of Automatic Control, ICCV, CVPR, AAAI, etc.
@@ -467,19 +467,22 @@ Beijing, China, 100084 \
 E-mail:  <skl.2018@tsinghua.org.cn> &emsp;<18813126518@163.com> &emsp;<skl24@mit.edu> &emsp; <kailai.sun@smart.mit.edu> .
 
 
-# 👨‍🏫 Co-supervised students at Tsinghua:
-Irfan Qaisar (2022-;Ph.D.)\
-Dianyu Zhong (2023-;Ph.D.)\
-Xu Yang (2025-; Ph.D. )
-Xinwei Wang  (2020-2024;Master; Gewu Tech. company, Xiaomi Company)\
-Ruoyu Wang (2023-2024; Ph.D.)\
-Peng Liu (2021-2023; Master)\
-Zhou Yang (2021-2023; Master; BYD)\
-Guanyi Wang (2023-; Master; Huawei)\
-Zhe Yu (2022-2023; Master)\
-Zaixian Han (2020; Bachelor; Korea)\
-Meiling Piao (2019; Bachelor; Korea)\
-Xi Miao (2023-; Bachelor; U.S)
+# 👨‍🏫 Co-supervised students :
+Irfan Qaisar (2022-; Tsinghua Ph.D.)\
+Dianyu Zhong (2023-; Tsinghua Ph.D.; now at QY lab)\
+Xu Yang (2025-; Tsinghua Ph.D. )
+Xinwei Wang  (2020-2024; Tsinghua Master; now at Gewu Tech. company, Xiaomi Company)\
+Yuexi Song (2025-; NUS Bachelor; now at Georgia Institute of Technology)\
+Zhuoyu Wang (2025; NUS Master; now at NUS Ubicomp Lab)\
+Zherui Shao (2023-2024; NUS Master)
+Ruoyu Wang (2023-2024; Tsinghua Ph.D.)\
+Peng Liu (2021-2023; Tsinghua Master； now at STMA)\
+Zhou Yang (2021-2023; Tsinghua Master; now at BYD Company)\
+Guanyi Wang (2023-; Tsinghua Master; now at Huawei Company)\
+Zhe Yu (2022-2023; Tsinghua Master)\
+Zaixian Han (2020; Tsinghua Bachelor; Korea)\
+Meiling Piao (2019; Tsinghua Bachelor; Korea)\
+Xi Miao (2023-; Pennsylvania State University Bachelor; U.S)
 
 <a href="https://clustrmaps.com/site/1c4m1" title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=fVBZ21Ffx6OGBSgycqpY2E5ZD1nJe1BVYmN0XxW1HtM&cl=ffffff"></a>
 
