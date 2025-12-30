@@ -271,7 +271,15 @@ to ensure practical implications.
 
 
 
+- [OCC-Mamba: A Mamba-based deep learning approach for indoor occupancy prediction.](https://www.sciencedirect.com/science/article/abs/pii/S0360132325015513) Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Dianyu Zhong, Xu Yang, Xi Miao and Qianchuan Zhao. *Building and Environment* (**BAE**). (2025).(**Top** , SCI,  JCR Q1, IF:**7.6**).  (Acceptance Rate: **14**%)  (**Co-first and Corresponding author**)
+- 
+- [Exploring large language models for indoor occupancy measurement in smart office buildings](https://www.sciencedirect.com/science/article/abs/pii/S0360132325013307). Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qianchuan Zhao. *Building and Environment* (**BAE**). (2025).(**Top** , SCI,  JCR Q1, IF:**7.6**).  (Acceptance Rate: **14**%)  (**Co-first and Corresponding author**)
 
+  
+- [DLDC: A Dual Loop Data Cleaning Method for Fine-tuning Remote Sensing Image Generative Models](https://ieeexplore.ieee.org/document/11223686). Tian Xing, Hu Yan, Xinwei Wang, **Kailai Sun**<sup>\*</sup>, Han Yu, Pinjie Li, Qianchuan Zhao. *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* (2025).(SCI,  JCR Q1, IF:**5.3**).  
+  
+
+- 
 
 
 - [Predicting trucking accidents with truck drivers’ safety climate perception: An in-depth evaluation of the pretrain-then-finetune approach](https://www.sciencedirect.com/science/article/pii/S1369847824002080)  **Kailai Sun**, Tianxiang Lan, Say Hong Kam, Yang Miang Goh, Yueng-Hsiang Huang. *Transportation Research Part F: Traffic Psychology and Behaviour* (**TRF**). (2024).(SSCI, JCR Q1, IF:4.4).  [Code link.](https://github.com/NUS-DBE/Pretrain-Finetune-safety-climate)
@@ -316,6 +324,7 @@ to ensure practical implications.
 </div>
 
 
+-  UrbanControlNet: Reimaging Global Urban Development with Satellite Imagery. **Kailai Sun**, Yuebing Liang, Mingyi He, Yunhan Zheng, Shenhao Wang, Jinhua Zhao,  Alex “Sandy” Pentland. *AAAI* Workshop on AI for Urban Planning. (2026).
 
 
 - [A Goal-conditioned Reinforcement Learning Algorithm with Environment Modeling](https://ieeexplore.ieee.org/document/10240963/). Zhe yu<sup>1</sup>, **Kailai Sun**<sup>1</sup>, Chenghao Li, Dianyu Zhong, Yang Yiqin, Qianchuan Zhao<sup>\*</sup>.Chinese Control Conference.(2023).
