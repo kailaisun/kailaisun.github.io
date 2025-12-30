@@ -106,7 +106,11 @@ to ensure practical implications.
 
 - BRISS: Boundary-aware Remote Sensing Images Semantic Segmentation Network with Multi-scale Fusion. Yuexi Song,  **Kailai Sun**<sup>\*</sup>, Mingyi He, Shenhao Wang, Jinhua Zhao.
 
-- Envisioning global urban development with satellite imagery and generative AI. **Kailai Sun**, Yuebing Liang, Mingyi He, Yunhan Zheng, Alok Prakash, Shenhao Wang, Jinhua Zhao,  Alex “Sandy” Pentland. 
+- Envisioning global urban development with satellite imagery and generative AI. **Kailai Sun**, Yuebing Liang, Mingyi He, Yunhan Zheng, Alok Prakash, Shenhao Wang, Jinhua Zhao,  Alex “Sandy” Pentland.
+
+- Towards Long-term In-the-Wild Affect Sensing: A Smartphone-Based Multimodal Dataset and Fusion Network. **Kailai Sun**, Yue Cui<sup>\*</sup>.
+
+- Experimental study on surveillance video-based indoor occupancy measurement with occupant-centric control. Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qingshan Jia,  Qianchuan Zhao.
 
 - A computer vision-based construction housekeeping monitoring system: A two-stage object detection-then-classification approach.  Zherui Shao, **Kailai Sun**, Yang Miang Goh*, Jing Tian, Vincent J.L. Gan.
 
@@ -272,14 +276,13 @@ to ensure practical implications.
 
 
 - [OCC-Mamba: A Mamba-based deep learning approach for indoor occupancy prediction.](https://www.sciencedirect.com/science/article/abs/pii/S0360132325015513) Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Dianyu Zhong, Xu Yang, Xi Miao and Qianchuan Zhao. *Building and Environment* (**BAE**). (2025).(**Top** , SCI,  JCR Q1, IF:**7.6**).  (Acceptance Rate: **14**%)  (**Co-first and Corresponding author**)
-- 
+
 - [Exploring large language models for indoor occupancy measurement in smart office buildings](https://www.sciencedirect.com/science/article/abs/pii/S0360132325013307). Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qianchuan Zhao. *Building and Environment* (**BAE**). (2025).(**Top** , SCI,  JCR Q1, IF:**7.6**).  (Acceptance Rate: **14**%)  (**Co-first and Corresponding author**)
 
   
 - [DLDC: A Dual Loop Data Cleaning Method for Fine-tuning Remote Sensing Image Generative Models](https://ieeexplore.ieee.org/document/11223686). Tian Xing, Hu Yan, Xinwei Wang, **Kailai Sun**<sup>\*</sup>, Han Yu, Pinjie Li, Qianchuan Zhao. *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* (2025).(SCI,  JCR Q1, IF:**5.3**).  
   
 
-- 
 
 
 - [Predicting trucking accidents with truck drivers’ safety climate perception: An in-depth evaluation of the pretrain-then-finetune approach](https://www.sciencedirect.com/science/article/pii/S1369847824002080)  **Kailai Sun**, Tianxiang Lan, Say Hong Kam, Yang Miang Goh, Yueng-Hsiang Huang. *Transportation Research Part F: Traffic Psychology and Behaviour* (**TRF**). (2024).(SSCI, JCR Q1, IF:4.4).  [Code link.](https://github.com/NUS-DBE/Pretrain-Finetune-safety-climate)
