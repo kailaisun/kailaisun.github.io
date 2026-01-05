@@ -110,6 +110,8 @@ to ensure practical implications.
 
 - Towards Long-term In-the-Wild Affect Sensing: A Smartphone-Based Multimodal Dataset and Fusion Network. **Kailai Sun**, Yue Cui<sup>\*</sup>.
 
+- Hierarchical Control Framework Integrating Large Language Models with Reinforcement Learning for Decarbonized HVAC Operation. Dianyu Zhong, Tian Xing, Kailai Sun<sup>\*</sup>, Xu Yang, Heye Huang, Irfan Qaisar, Tinggang Jia, Shaobo Wang, Qianchuan Zhao.
+
 - Experimental study on surveillance video-based indoor occupancy measurement with occupant-centric control. Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qingshan Jia,  Qianchuan Zhao.
 
 - A computer vision-based construction housekeeping monitoring system: A two-stage object detection-then-classification approach.  Zherui Shao, **Kailai Sun**, Yang Miang Goh*, Jing Tian, Vincent J.L. Gan.
