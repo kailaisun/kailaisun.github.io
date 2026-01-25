@@ -97,6 +97,7 @@ to ensure practical implications.
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+- Towards Long-term In-the-Wild Affect Sensing: A Smartphone-Based Multimodal Dataset and Fusion Network. **Kailai Sun**, Yue Cui<sup>\*</sup>.
 -->
 
 
@@ -104,7 +105,7 @@ to ensure practical implications.
 
 - Envisioning global urban development with satellite imagery and generative AI. **Kailai Sun**, Yuebing Liang, Mingyi He, Yunhan Zheng, Alok Prakash, Shenhao Wang, Jinhua Zhao,  Alex “Sandy” Pentland.
 - BRISS: Boundary-aware Remote Sensing Images Semantic Segmentation Network with Multi-scale Fusion. Yuexi Song,  **Kailai Sun**<sup>\*</sup>, Mingyi He, Shenhao Wang, Jinhua Zhao.
-- Towards Long-term In-the-Wild Affect Sensing: A Smartphone-Based Multimodal Dataset and Fusion Network. **Kailai Sun**, Yue Cui<sup>\*</sup>.
+
 - Leveraging Ordinal Information and Deep Learning to Enhance Thermal Comfort Predictions. Chao Cen, Yingxian Zhai, **Kailai Sun**<sup>\*</sup>, Meng Liu,  Nyuk Hien Wong.  (Corresponding author)
 - Experimental study on surveillance video-based indoor occupancy measurement with occupant-centric control. Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qingshan Jia,  Qianchuan Zhao.
 - Hierarchical Control Framework Integrating Large Language Models with Reinforcement Learning for Decarbonized HVAC Operation. Dianyu Zhong, Tian Xing, **Kailai Sun**<sup>\*</sup>, Xu Yang, Heye Huang, Irfan Qaisar, Tinggang Jia, Shaobo Wang, Qianchuan Zhao.
