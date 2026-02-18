@@ -33,6 +33,11 @@ Aiming to solve practical challenges in the real world, most of my work is groun
 
 # 🔥 News
 
+- *2026.02.17*: 🎉🎉 Our paper (**Corresponding author**) is accepted: [Leveraging Ordinal Information to Improve Thermal Comfort Prediction with Deep Learning Models](https://doi.org/10.1016/j.jobe.2026.115654). Chao Cen, Yingxian Zhai, **Kailai Sun**<sup>\*</sup>, Meng Liu,  Nyuk Hien Wong. *Journal of Building Engineering*  (**JOBE**). (2026).(**Top** , SCI,  JCR Q1, IF:**7.4**).(Acceptance Rate: **16**%)
+  
+- *2026.01.08*: 🎉🎉 Our short paper is accepted: BRISS: Boundary-aware Remote Sensing Images Semantic Segmentation Network with Multi-scale Fusion. Yuexi Song,  **Kailai Sun**<sup>\*</sup>, Mingyi He, Shenhao Wang, Jinhua Zhao. *WACV* Computer Vision for Earth Observation (CV4EO)(2026).
+
+
 - *2025.11.28*: 🎉🎉 My paper (**Co-first and Corresponding author**) is accepted with a first-round revision: [OCC-Mamba: A Mamba-based deep learning approach for indoor occupancy prediction.](https://www.sciencedirect.com/science/article/abs/pii/S0360132325015513) Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Dianyu Zhong, Xu Yang, Xi Miao and Qianchuan Zhao. *Building and Environment* (**BAE**). (2025).(**Top** , SCI,  JCR Q1, IF:**7.6**).  (Acceptance Rate: **14**%)
 
 -  *2025.11.17*: 🎉🎉 My short paper is accepted: UrbanControlNet: Reimaging Global Urban Development with Satellite Imagery. **Kailai Sun**, Yuebing Liang, Mingyi He, Yunhan Zheng, Shenhao Wang, Jinhua Zhao,  Alex “Sandy” Pentland. *AAAI* Workshop on AI for Urban Planning. (2025).
@@ -106,7 +111,6 @@ to ensure practical implications.
 - Envisioning global urban development with satellite imagery and generative AI. **Kailai Sun**, Yuebing Liang, Mingyi He, Yunhan Zheng, Alok Prakash, Shenhao Wang, Jinhua Zhao,  Alex “Sandy” Pentland.
 - SENSE: Satellite-based ENergy Synthesis for Sustainable Environment. **Kailai Sun**, Mingyi He, Heye Huang, Can Rong, Alok Prakash, Baoshen Guo, Shenhao Wang, Jinhua Zhao.
 - BRISS: Boundary-aware Remote Sensing Images Semantic Segmentation Network with Multi-scale Fusion. Yuexi Song,  **Kailai Sun**<sup>\*</sup>, Mingyi He, Shenhao Wang, Jinhua Zhao.
-- Leveraging Ordinal Information and Deep Learning to Enhance Thermal Comfort Predictions. Chao Cen, Yingxian Zhai, **Kailai Sun**<sup>\*</sup>, Meng Liu,  Nyuk Hien Wong.  (Corresponding author)
 - Experimental study on surveillance video-based indoor occupancy measurement with occupant-centric control. Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qingshan Jia,  Qianchuan Zhao.
 - Hierarchical Control Framework Integrating Large Language Models with Reinforcement Learning for Decarbonized HVAC Operation. Dianyu Zhong, Tian Xing, **Kailai Sun**<sup>\*</sup>, Xu Yang, Heye Huang, Irfan Qaisar, Tinggang Jia, Shaobo Wang, Qianchuan Zhao.
 - A computer vision-based construction housekeeping monitoring system: A two-stage object detection-then-classification approach.  Zherui Shao, **Kailai Sun**, Yang Miang Goh*, Jing Tian, Vincent J.L. Gan.
