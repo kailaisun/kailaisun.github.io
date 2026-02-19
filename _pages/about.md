@@ -77,7 +77,7 @@ Aiming to solve practical challenges in the real world, most of my work is groun
 
 
 # 📖 Educations
-- *2024 - present*, Postdoctoral Associate, Smart centre, Massachusetts Institute of Technology (MIT). Prof. [Jinhua Zhao](https://mobility.mit.edu/people/jinhua-zhao).
+- *2024 - present*, [Postdoctoral Associate](https://mobility.mit.edu/people/kailai-sun/), Smart centre, Massachusetts Institute of Technology (MIT). Prof. [Jinhua Zhao](https://mobility.mit.edu/people/jinhua-zhao).
 - *2023 - 2024*, Research Fellow, Department of the Built Environment, National University of Singapore. Prof. [Yang Miang Goh](https://discovery.nus.edu.sg/3499-yang-miang-goh/about)
 - *2018- 2023*, Ph.D., Department of Automation, Tsinghua University. [Prof. Qianchuan Zhao](https://www.au.tsinghua.edu.cn/info/1173/2085.htm)
 - *2022*, visiting student, Electrical & Computer Engineering, University of Illinois Urbana-Champaign.  [Prof. Tamer Basar](http://tamerbasar.csl.illinois.edu/)
