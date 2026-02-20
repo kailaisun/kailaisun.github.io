@@ -153,7 +153,7 @@ to ensure practical implications.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper/AIC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIC 2025</div><img src='/images/paper/AIC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 - [Change Detection Network for Construction Housekeeping using Feature Fusion and Large Vision Models.](https://www.sciencedirect.com/science/article/pii/S0926580525000780) **Kailai Sun**, Zherui Shao, Yang Miang Goh<sup>\*</sup>, Jing Tian, Vincent J.L. Gan. [Code link.](https://github.com/NUS-DBE/Housekeeping-CD) *Automation in Construction*.(**AIC**). 2025. (**Top** , SCI,  JCR Q1, IF:**11.5**).(Acceptance Rate: **14**%)
@@ -162,9 +162,6 @@ to ensure practical implications.
 - We integrate HCDN into the proposed housekeeping detection system, which shows its potential in practical construction site situations. 
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BAE 2022</div><img src='/images/paper/MPSN.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BAE 2022</div><img src='/images/paper/DBF.png' alt="sym" width="100%"></div></div>
@@ -189,6 +186,9 @@ to ensure practical implications.
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BAE 2022</div><img src='/images/paper/MPSN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 - [MPSN: Motion-aware Pseudo-Siamese Network for Indoor Video Head Detection in Buildings](https://www.sciencedirect.com/science/article/abs/pii/S036013232200587X). **Kailai Sun**, Xiaoteng Ma, Peng Liu, Qianchuan Zhao<sup>\*</sup>. *Building and Environment* (**BAE**). 222 (2022): 109354.(**Top** , SCI,  JCR Q1, IF:**7.6**).[Code link.](https://github.com/pl-share/MPSN) (Acceptance Rate: **14**%) 
 - The first work to jointly train the current frame and the pixel-level motion information into an end-to-end CNN network in head detection.
