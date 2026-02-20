@@ -138,31 +138,19 @@ to ensure practical implications.
 - Proposed vision-based deep-learning occupancy measurement system.
 - High user acceptance during long-term stable operation.
 
-  
+
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper/overview.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI 2025</div><img src='/images/paper/mifn1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
-- [A review of AI edge devices and lightweight CNN and LLM deployment](https://www.sciencedirect.com/science/article/pii/S0925231224015625?dgcid=author). **Kailai Sun**<sup>1,\*</sup>, Xinwei Wang<sup>1</sup>, Qianchuan Zhao. *Neurocomputing*. (2025). (SCI, JCR Q1, Top, IF:6.5).
-- Many AI edge devices with AI accelerators (Nvidia Nano, TX2, Intel NCS2, Google Coral Dev Board, Coral USB,	Baidu Edgeboard FZ3, AMD Kria K2, etc) are compared and analyzed.
-- Lightweight CNN and large language models, neural network compression, and their deployment on AI edge devices for practical applications, are reviewed.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BAE 2022</div><img src='/images/paper/DBF.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-- [A Fusion Framework of Vision-based Indoor Occupancy Estimation](https://www.sciencedirect.com/science/article/pii/S0360132322008617). \\
-  **Kailai Sun**<sup>1</sup>, Peng Liu, Tian Xing, Qianchuan Zhao<sup>\*</sup> and Xinwei Wang. *Building and Environment* (**BAE**). 222 (2022): 109354.(**Top** , SCI, JCR Q1,  IF:**7.6**). [Code link.](https://github.com/kailaisun/FFO) (Acceptance Rate: **14**%) 
-- The first work to develop a three-level fusion framework in vision-based indoor occupancy estimation.
-- Our framework achieves state-of-the-art (SOTA) performance through ablation studies on practical building surveillance videos.
+- [Toward Pedestrian Head Tracking: A Benchmark Dataset and an Information Fusion Network](https://authors.elsevier.com/c/1lFRU3OWJ9CU6x). **Kailai Sun**, Xinwei Wang, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao<sup>\*</sup>, Gao Huang, Chang Liu. [Cchead dataset download](https://doi.org/10.34740/kaggle/ds/7494891).[Code link.](https://github.com/kailaisun/Cchead) *Engineering Applications of Artificial Intelligence*. (**EAAI**).(**Top** , SCI,  JCR Q1, IF:**8**). 
+- We collect and annotate a Chinese large-scale cross-scene dataset (Cchead) for crowded head tracking, including 10 diverse scenes of 50,528 frames with over 2,366,249 heads annotated. 
+- We present a novel solution and insight for head tracking by leveraging pseudo-multi-source information fusion, achieving SOTA performance.  [Visualization videos](https://drive.google.com/drive/folders/1BLmzCRx3MbOzVUITw0-RCpRqTHJ2JXYQ?usp=sharing).
   
 </div>
 </div>
-
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper/AIC.png' alt="sym" width="100%"></div></div>
@@ -177,7 +165,30 @@ to ensure practical implications.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BAE 2022</div><img src='/images/paper/MPSN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
- 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BAE 2022</div><img src='/images/paper/DBF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- [A Fusion Framework of Vision-based Indoor Occupancy Estimation](https://www.sciencedirect.com/science/article/pii/S0360132322008617). \\
+  **Kailai Sun**<sup>1</sup>, Peng Liu, Tian Xing, Qianchuan Zhao<sup>\*</sup> and Xinwei Wang. *Building and Environment* (**BAE**). 222 (2022): 109354.(**Top** , SCI, JCR Q1,  IF:**7.6**). [Code link.](https://github.com/kailaisun/FFO) (Acceptance Rate: **14**%) 
+- The first work to develop a three-level fusion framework in vision-based indoor occupancy estimation.
+- Our framework achieves state-of-the-art (SOTA) performance through ablation studies on practical building surveillance videos.
+  
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper/overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- [A review of AI edge devices and lightweight CNN and LLM deployment](https://www.sciencedirect.com/science/article/pii/S0925231224015625?dgcid=author). **Kailai Sun**<sup>1,\*</sup>, Xinwei Wang<sup>1</sup>, Qianchuan Zhao. *Neurocomputing*. (2025). (SCI, JCR Q1, Top, IF:6.5).
+- Many AI edge devices with AI accelerators (Nvidia Nano, TX2, Intel NCS2, Google Coral Dev Board, Coral USB,	Baidu Edgeboard FZ3, AMD Kria K2, etc) are compared and analyzed.
+- Lightweight CNN and large language models, neural network compression, and their deployment on AI edge devices for practical applications, are reviewed.
+</div>
+</div>
+
 
 - [MPSN: Motion-aware Pseudo-Siamese Network for Indoor Video Head Detection in Buildings](https://www.sciencedirect.com/science/article/abs/pii/S036013232200587X). **Kailai Sun**, Xiaoteng Ma, Peng Liu, Qianchuan Zhao<sup>\*</sup>. *Building and Environment* (**BAE**). 222 (2022): 109354.(**Top** , SCI,  JCR Q1, IF:**7.6**).[Code link.](https://github.com/pl-share/MPSN) (Acceptance Rate: **14**%) 
 - The first work to jointly train the current frame and the pixel-level motion information into an end-to-end CNN network in head detection.
@@ -188,14 +199,7 @@ to ensure practical implications.
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI </div><img src='/images/paper/mifn1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- [Toward Pedestrian Head Tracking: A Benchmark Dataset and an Information Fusion Network](https://authors.elsevier.com/c/1lFRU3OWJ9CU6x). **Kailai Sun**, Xinwei Wang, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao<sup>\*</sup>, Gao Huang, Chang Liu. [Cchead dataset download](https://doi.org/10.34740/kaggle/ds/7494891).[Code link.](https://github.com/kailaisun/Cchead) *Engineering Applications of Artificial Intelligence*. (**EAAI**).(**Top** , SCI,  JCR Q1, IF:**8**). 
-- We collect and annotate a Chinese large-scale cross-scene dataset (Cchead) for crowded head tracking, including 10 diverse scenes of 50,528 frames with over 2,366,249 heads annotated. 
-- We present a novel solution and insight for head tracking by leveraging pseudo-multi-source information fusion, achieving SOTA performance.  [Visualization videos](https://drive.google.com/drive/folders/1BLmzCRx3MbOzVUITw0-RCpRqTHJ2JXYQ?usp=sharing).
-  
-</div>
-</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BAE 2024</div><img src='/images/paper/overviewcc.jpg' alt="sym" width="100%"></div></div>
@@ -358,12 +362,14 @@ to ensure practical implications.
 # ✈ Internships
 - *2021.06 - 2021.08*, Harbin Institute of Technology Robotics Research Institute Co., Ltd, Yangzhou.
   
-# 🧑‍💻 Workshops
+# 🧑‍💻 Workshops & Talk
 
 - [Poster presentation](https://github.com/kailaisun/kailaisun.github.io/blob/main/images/presentation/poster.PNG). *2024.01-26*. AI for Climate, AI for Science, and Quantum Workshop by NVIDIA. National University of Singapore.
 
 - [Oral Presentation](https://github.com/kailaisun/kailaisun.github.io/blob/main/images/presentation/CV4AEC-kailaisun.pdf). [Poster Presentation](https://github.com/kailaisun/kailaisun.github.io/blob/main/images/presentation/CVPR2024-CV4AEC-2.pdf).
  *2024.06-17*. [Computer Vision in the Built Environment](https://cv4aec.github.io/). Seattle, USA.
+
+- 20 mins' Presentation. *2026.01-26*. AAAI 2026's Workshop on [AI for Urban Planning](https://ai-for-urban-planning.github.io/AAAI26-workshop/). Singapore.
 
 # 👨🏽‍🤝‍👨🏼 Collaborators
 - [Qianchuan Zhao](http://cfins.au.tsinghua.edu.cn/personalhg/zhaoqc/) -  Professor, Department of Automation, Tsinghua University.
@@ -447,10 +453,10 @@ I received my Bachelor of Engineering degree from Department of Automation, Beij
 
 # ✒️ Reviewer
 
-Journal: Building and Environment, Safety Science, IEEE Transactions on Control Systems Technology, IEEE Internet of Things Journal, Energy and Building, Journal of Building Engineering, Results in Control and Optimizationm, Advanced Engineering Informatics, Knowledge-based systems, Scientific Reports, The Journal of Supercomputing, etc.
+Journal: Building and Environment, Safety Science, IEEE Transactions on Control Systems Technology, IEEE Internet of Things Journal, Energy and Building, Advanced Engineering Informatics, Measurement, Journal of Building Engineering, Results in Control and Optimizationm, , Knowledge-based systems, Results in Engineering, The Journal of Supercomputing, etc.
 
 
-Conference:IEEE International Conference on Robotics and Automation, The World Congress of the International Federation of Automatic Control, ICCV, CVPR, AAAI, etc.
+Conference: IEEE International Conference on Robotics and Automation, The World Congress of the International Federation of Automatic Control, KDD, ICCV, CVPR, AAAI, etc.
 
 
 # ✒️ Editor
