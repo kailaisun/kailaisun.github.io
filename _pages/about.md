@@ -47,7 +47,7 @@ Aiming to solve practical challenges in the real world, most of my work is groun
 - *2025.10.13*: 🎉🎉 My paper (**Co-first and Corresponding author**) is accepted: [Exploring large language models for indoor occupancy measurement in smart office buildings](https://www.sciencedirect.com/science/article/abs/pii/S0360132325013307). Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qianchuan Zhao. *Building and Environment* (**BAE**). (2025).(**Top** , SCI,  JCR Q1, IF:**7.6**).  (Acceptance Rate: **14**%)
 
  
-- *2025.07.28*: 🎉🎉 Our paper (**Corresponding author**) is accepted with a first-round revision:[Topology-Aware Hypergraph Reinforcement Learning for Indoor Occupant-Centric HVAC Control](https://doi.org/10.1016/j.enbuild.2025.116219). Dianyu Zhong, Tian Xing, **Kailai Sun**<sup>\*</sup>, Ziyou Zhang, Qianchuan Zhao and [Jian Kang](https://profiles.ucl.ac.uk/66211-jian-kang).   *Energy and Buildings* (**ENB**). (2025).(**Top** , SCI, JCR Q1, IF:**7.1**).  (Acceptance Rate: **20**%)
+- *2025.07.28*: 🎉🎉 Our paper (**Corresponding author**) is accepted with a first-round revision:[Topology-Aware Hypergraph Reinforcement Learning for Indoor Occupant-Centric HVAC Control](https://doi.org/10.1016/j.enbuild.2025.116219). Dianyu Zhong, Tian Xing, **Kailai Sun**<sup>\*</sup>, Ziyou Zhang, Qianchuan Zhao and [Jian Kang](https://profiles.ucl.ac.uk/66211-jian-kang).   *Energy and Buildings* (**ENB**). (2025).(**Top** , SCI, JCR Q1, IF:**7.1**).  (Acceptance Rate: **17**%)
 
 
 - *2025.07.15*: 🎉🎉  My paper is accepted:[Overcoming Imbalanced Safety Data Using Extended Accident Triangle](https://www.sciencedirect.com/science/article/abs/pii/S0950705125011578). [Code link.](https://github.com/NUS-DBE/accident) [Dataset Link](https://data.mendeley.com/datasets/m8rwjx67bk/1). [Axriv](https://arxiv.org/abs/2408.07094).**Kailai Sun**, Tianxiang Lan, Yang Miang Goh, Yueng-Hsiang Huang. *Knowledge-based systems*. (**KBS**).(**Top** , SCI,  JCR Q1, IF:**7.6**).  
@@ -62,7 +62,7 @@ Aiming to solve practical challenges in the real world, most of my work is groun
 - *2024.11.17*: 🎉🎉 Our paper (**Corresponding author**) is accepted: [An experimental comparative study of energy saving based on occupancy-centric control in smart buildings](https://www.sciencedirect.com/science/article/abs/pii/S0360132324011648). Irfan Qaisar, Wei Liang, **Kailai Sun**<sup>\*</sup>, Tian Xing, Qianchuan Zhao. *Building and Environment* (**BAE**). (2025).(**Top** , SCI,  JCR Q1, IF:**7.6**).  (Acceptance Rate: **14**%)
 - *2024.10.20*: 🎉🎉🎉 My Review paper is accepted: [A review of AI edge devices and lightweight CNN and LLM deployment](https://www.sciencedirect.com/science/article/pii/S0925231224015625?dgcid=author). **Kailai Sun**<sup>1,\*</sup>, Xinwei Wang<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>.*Neurocomputing*. (**Top** , SCI,  JCR Q1, IF:**6.5**).
 - *2024.8.6*: 🎉🎉 My paper is accepted: [Predicting trucking accidents with truck drivers’ safety climate perception: An in-depth evaluation of the pretrain-then-finetune approach](https://www.sciencedirect.com/science/article/pii/S1369847824002080)  **Kailai Sun**, Tianxiang Lan, Say Hong Kam, Yang Miang Goh, Yueng-Hsiang Huang. *Transportation Research Part F: Traffic Psychology and Behaviour* (**TRF**). (2024).(JCR Q1, SSCI, IF:4.4).  [Code link.](https://github.com/NUS-DBE/Pretrain-Finetune-safety-climate)
-- *2024.7.1*: 🎉🎉 My paper is accepted: [High-accuracy occupancy counting at crowded entrances for smart buildings.](https://www.sciencedirect.com/science/article/pii/S037877882400625X)  **Kailai Sun**, Xingwei Wang, Tian Xing, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao. *Energy and Buildings* (**ENB**). (2024).(**Top** , SCI, JCR Q1, IF:**7.1**).  (Acceptance Rate: **20**%) [Code link.](https://github.com/kailaisun/Head-tracking-for-occupancy-counting) 
+- *2024.7.1*: 🎉🎉 My paper is accepted: [High-accuracy occupancy counting at crowded entrances for smart buildings.](https://www.sciencedirect.com/science/article/pii/S037877882400625X)  **Kailai Sun**, Xingwei Wang, Tian Xing, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao. *Energy and Buildings* (**ENB**). (2024).(**Top** , SCI, JCR Q1, IF:**7.1**).  (Acceptance Rate: **17**%) [Code link.](https://github.com/kailaisun/Head-tracking-for-occupancy-counting) 
 - *2024.4.26*: 🎉🎉 My paper is accepted: [A Two-Stage Masked Autoencoder Based Network for Indoor Depth Completion.](https://arxiv.org/abs/2406.09792) **Kailai Sun**<sup>\*</sup>, Zhou Yang, Qianchuan Zhao. *The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024*.(**CVPR**). CV4AEC Workshop. I presented it on Jun 17th, 2024, in Seattle, USA.    [Oral Presentation](https://github.com/kailaisun/kailaisun.github.io/blob/main/images/presentation/CV4AEC-kailaisun.pdf). [Poster Presentation](https://github.com/kailaisun/kailaisun.github.io/blob/main/images/presentation/CVPR2024-CV4AEC-2.pdf). [Code link](https://github.com/kailaisun/Indoor-Depth-Completion).
 - *2024.2.24*: 🎉🎉 My paper is accepted: [DMFF: Deep Multimodel Feature Fusion for Building Occupancy Detection.](https://www.sciencedirect.com/science/article/pii/S0360132324001975) **Kailai Sun**<sup>\*</sup>. *Building and Environment* (**BAE**). (2024).(**Top** , SCI,  JCR Q1, IF:**7.6**).  (Acceptance Rate: **14**%) [Code link.](https://github.com/kailaisun/multimodel_occupancy)
 - *2024.1.26*: 🎉🎉 [Presentation](https://github.com/kailaisun/kailaisun.github.io/blob/main/images/presentation/poster.PNG) on NVIDIA Workshop: AI for Climate, AI for Science, and Quantum Workshop by NVIDIA, at National University of Singapore.
@@ -121,7 +121,7 @@ to ensure practical implications.
 <div class='paper-box-text' markdown="1">
 
 - [A review of building occupancy measurement systems](https://www.sciencedirect.com/science/article/abs/pii/S0378778819332918). \\
- **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, Jianhong Zou. *Energy and Buildings* (**ENB**). 216 (2020): 109965. (**Top** , SCI,  JCR Q1, IF:**7.1**, citations:**198**, **ESI highly cited paper**).  (Acceptance Rate: **20**%) 
+ **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, Jianhong Zou. *Energy and Buildings* (**ENB**). 216 (2020): 109965. (**Top** , SCI,  JCR Q1, IF:**7.1**, citations:**198**, **ESI highly cited paper**).  (Acceptance Rate: **17**%) 
 - Five-years occupancy measurement systems based on cameras, WiFi, PIR sensors, CO2 sensors, electricity sensors are analyzed and discussed.
 - The first comprehensive analysis based on different types and installed locations of camera.
   
@@ -236,7 +236,7 @@ to ensure practical implications.
 <div class='paper-box-text' markdown="1">
  
 
-- [High-accuracy occupancy counting at crowded entrances for smart buildings.](https://www.sciencedirect.com/science/article/pii/S037877882400625X) **Kailai Sun**, Xingwei Wang, Tian Xing, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao. *Energy and Buildings* (**ENB**). (2024).(**Top** , SCI, JCR Q1,  IF:**7.1**).  (Acceptance Rate: **20**%) [Code link.](https://github.com/kailaisun/Head-tracking-for-occupancy-counting)
+- [High-accuracy occupancy counting at crowded entrances for smart buildings.](https://www.sciencedirect.com/science/article/pii/S037877882400625X) **Kailai Sun**, Xingwei Wang, Tian Xing, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao. *Energy and Buildings* (**ENB**). (2024).(**Top** , SCI, JCR Q1,  IF:**7.1**).  (Acceptance Rate: **17**%) [Code link.](https://github.com/kailaisun/Head-tracking-for-occupancy-counting)
 -  The advanced computer vision model for sensing and tracking occupancy heads using surveillance videos.
 -  The practical occupant-centric control (OCC) for energy efficiency and occupant comfort.
 -  This research can be generalised to border domains, including building management, flow estimation, safety prevention, etc.
@@ -257,7 +257,7 @@ to ensure practical implications.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='/images/paper/THQ.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- [Topology-Aware Hypergraph Reinforcement Learning for Indoor Occupant-Centric HVAC Control](https://authors.elsevier.com/tracking/article/details.do?aid=116219&jid=ENB&surname=Sun). Dianyu Zhong, Tian Xing, **Kailai Sun**<sup>\*</sup>, Ziyou Zhang, Qianchuan Zhao and [Jian Kang](https://profiles.ucl.ac.uk/66211-jian-kang).  (Corresponding author)  *Energy and Buildings* (**ENB**). (2025).(**Top** , SCI, JCR Q1, IF:**7.1**).  (Acceptance Rate: **20**%)
+- [Topology-Aware Hypergraph Reinforcement Learning for Indoor Occupant-Centric HVAC Control](https://authors.elsevier.com/tracking/article/details.do?aid=116219&jid=ENB&surname=Sun). Dianyu Zhong, Tian Xing, **Kailai Sun**<sup>\*</sup>, Ziyou Zhang, Qianchuan Zhao and [Jian Kang](https://profiles.ucl.ac.uk/66211-jian-kang).  (Corresponding author)  *Energy and Buildings* (**ENB**). (2025).(**Top** , SCI, JCR Q1, IF:**7.1**).  (Acceptance Rate: **17**%)
 
 </div>
 </div>
@@ -288,7 +288,7 @@ to ensure practical implications.
 
 - [Predicting trucking accidents with truck drivers’ safety climate perception: An in-depth evaluation of the pretrain-then-finetune approach](https://www.sciencedirect.com/science/article/pii/S1369847824002080)  **Kailai Sun**, Tianxiang Lan, Say Hong Kam, Yang Miang Goh, Yueng-Hsiang Huang. *Transportation Research Part F: Traffic Psychology and Behaviour* (**TRF**). (2024).(SSCI, JCR Q1, IF:4.4).  [Code link.](https://github.com/NUS-DBE/Pretrain-Finetune-safety-climate)
 
-- [Indoor occupancy measurement by the fusion of motion detection and static estimation](https://www.sciencedirect.com/science/article/abs/pii/S037877882100877X). **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, Ziyou Zhang, and Xinyuan Hu. *Energy and Buildings* (**ENB**). 254 (2022): 111593.(**Top** , SCI, JCR Q1,  IF:**7.1**). (Acceptance Rate: **20**%)
+- [Indoor occupancy measurement by the fusion of motion detection and static estimation](https://www.sciencedirect.com/science/article/abs/pii/S037877882100877X). **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, Ziyou Zhang, and Xinyuan Hu. *Energy and Buildings* (**ENB**). 254 (2022): 111593.(**Top** , SCI, JCR Q1,  IF:**7.1**). (Acceptance Rate: **17**%)
 
 
 - [Using knowledge inference to suppress the lamp disturbance for fire detection](https://www.sciencedirect.com/science/article/pii/S266644962100027X). **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, and Xinwei Wang. *Journal of Safety Science and Resilience* (**JSSR**, JCR Q1, SCI). 2.3 (2021): 124-130.[Code link.](https://github.com/kailaisun/fire-detection-without-lamp)
