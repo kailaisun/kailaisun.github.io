@@ -108,11 +108,11 @@ to ensure practical implications.
 
 ## Submitted Paper
 
-- Envisioning global urban development with satellite imagery and generative AI. **Kailai Sun**, Yuebing Liang, Mingyi He, Yunhan Zheng, Alok Prakash, Shenhao Wang, Jinhua Zhao,  Alex “Sandy” Pentland.
-- SENSE: Satellite-based ENergy Synthesis for Sustainable Environment. **Kailai Sun**, Mingyi He, Heye Huang, Can Rong, Alok Prakash, Baoshen Guo, Shenhao Wang, Jinhua Zhao.
-- BRISS: Boundary-aware Remote Sensing Images Semantic Segmentation Network with Multi-scale Fusion. Yuexi Song,  **Kailai Sun**<sup>\*</sup>, Mingyi He, Shenhao Wang, Jinhua Zhao.
-- Experimental study on surveillance video-based indoor occupancy measurement with occupant-centric control. Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qingshan Jia,  Qianchuan Zhao.
-- Hierarchical Control Framework Integrating Large Language Models with Reinforcement Learning for Decarbonized HVAC Operation. Dianyu Zhong, Tian Xing, **Kailai Sun**<sup>\*</sup>, Xu Yang, Heye Huang, Irfan Qaisar, Tinggang Jia, Shaobo Wang, Qianchuan Zhao.
+- Envisioning global urban development with satellite imagery and generative AI. **Kailai Sun**, Yuebing Liang, Mingyi He, Yunhan Zheng, Alok Prakash, Shenhao Wang, Jinhua Zhao,  Alex “Sandy” Pentland. Nature sustainability.
+- SENSE: Satellite-based ENergy Synthesis for Sustainable Environment. **Kailai Sun**, Mingyi He, Heye Huang, Can Rong, Alok Prakash, Baoshen Guo, Shenhao Wang, Jinhua Zhao. KDD AI for Science Track.
+- BRISS: Boundary-aware Remote Sensing Images Semantic Segmentation Network with Multi-scale Fusion. Yuexi Song,  **Kailai Sun**<sup>\*</sup>, Mingyi He, Shenhao Wang, Jinhua Zhao. ECCV.
+- Experimental study on surveillance video-based indoor occupancy measurement with occupant-centric control. Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qingshan Jia,  Qianchuan Zhao. Advanced Engineering Informatics.
+- Hierarchical Control Framework Integrating Large Language Models with Reinforcement Learning for Decarbonized HVAC Operation. Dianyu Zhong, Tian Xing, **Kailai Sun**<sup>\*</sup>, Xu Yang, Heye Huang, Irfan Qaisar, Tinggang Jia, Shaobo Wang, Qianchuan Zhao. Applied Energy.
 - A computer vision-based construction housekeeping monitoring system: A two-stage object detection-then-classification approach.  Zherui Shao, **Kailai Sun**, Yang Miang Goh*, Jing Tian, Vincent J.L. Gan.
 
 ## Journal Paper
