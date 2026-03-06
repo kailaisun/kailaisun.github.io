@@ -29,9 +29,14 @@ I have published more than 15 first-author papers in top international journals,
 Aiming to solve practical challenges in the real world, most of my work is grounded in real-world datasets. 
 
 
+- ## Opening
+> 🚀 I am co-organizing and mentoring the [**MIT-UF-NEU 2026 Joint Summer Research Camp**](https://mobility.mit.edu/openings/).  
+> 📌 If you are interested, please submit the [application form](https://docs.google.com/forms/d/e/1FAIpQLSeR_9BLlmAteOmtoCWLLL2SY_55GQg1klLZzH345t4gmLho1w/viewform), list **Kailai Sun** under **Interested Mentors**, and apply by **April 17, 2026 (AOE)**.  
+
 
 
 # 🔥 News
+
 
 - *2026.02.17*: 🎉🎉 Our paper (**Corresponding author**) is accepted: [Leveraging Ordinal Information to Improve Thermal Comfort Prediction with Deep Learning Models](https://doi.org/10.1016/j.jobe.2026.115654). Chao Cen, Yingxian Zhai, **Kailai Sun**<sup>\*</sup>, Meng Liu,  Nyuk Hien Wong. *Journal of Building Engineering*  (**JOBE**). (2026).(**Top** , SCI,  JCR Q1, IF:**7.4**).(Acceptance Rate: **16**%)
   
