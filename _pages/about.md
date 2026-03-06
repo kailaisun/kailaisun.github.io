@@ -31,7 +31,7 @@ Aiming to solve practical challenges in the real world, most of my work is groun
 
 - ## Opening
 > 🚀 I am co-organizing and mentoring the [**MIT-UF-NEU 2026 Joint Summer Research Camp**](https://mobility.mit.edu/openings/).  
-> 📌 If you are interested, please submit the [application form](https://docs.google.com/forms/d/e/1FAIpQLSeR_9BLlmAteOmtoCWLLL2SY_55GQg1klLZzH345t4gmLho1w/viewform), list **Kailai Sun** under **Interested Mentors**, and apply by **April 17, 2026 (AOE)**.  
+> 📌 If you are interested, please submit the [application form](https://docs.google.com/forms/d/e/1FAIpQLSeR_9BLlmAteOmtoCWLLL2SY_55GQg1klLZzH345t4gmLho1w/viewform) before **April 17**, list **Kailai Sun** under **Interested Mentors**.  
 
 
 
