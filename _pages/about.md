@@ -29,11 +29,6 @@ I have published more than 15 first-author papers in top international journals,
 Aiming to solve practical challenges in the real world, most of my work is grounded in real-world datasets. 
 
 
-- ## Opening
-> 🚀 I am co-organizing and mentoring the [**MIT-UF-NEU 2026 Joint Summer Research Camp**](https://mobility.mit.edu/openings/). More [details](https://drive.google.com/file/d/1jLGllQTOZgo1-iMSoDSF43oy5dwBRYno/view).
-> 📌 If you are interested, please submit the [application form](https://docs.google.com/forms/d/e/1FAIpQLSeR_9BLlmAteOmtoCWLLL2SY_55GQg1klLZzH345t4gmLho1w/viewform) before **April 17**, list **Kailai Sun** under **Interested Mentors**.  
-
-
 
 # 🔥 News
 
