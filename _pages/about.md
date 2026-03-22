@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
 
-I am a postdoc at the SMART Centre, Massachusetts Institute of Technology (MIT), working with [Prof. Jinhua Zhao](https://mobility.mit.edu/people/jinhua-zhao). I was a Research Fellow in the Department of the Built Environment, National University of Singapore (NUS), where I worked with [Prof. Yangmiang Goh](https://discovery.nus.edu.sg/3499-yang-miang-goh). I received my Ph.D. degree in the Department of Automation, Tsinghua University (THU) in 2023. As a member of [CFINS](https://cfins.au.tsinghua.edu.cn/), I'm supervised by [Prof. Qianchuan Zhao](https://www.au.tsinghua.edu.cn/info/1173/2085.htm). 
+I am a postdoc at the SMART Centre, Massachusetts Institute of Technology (MIT), working with [Prof. Jinhua Zhao](https://mobility.mit.edu/people/jinhua-zhao). I was a Research Fellow in the College of Design and Engineering, National University of Singapore (NUS), where I worked with [Prof. Yangmiang Goh](https://discovery.nus.edu.sg/3499-yang-miang-goh). I received my Ph.D. degree in the Department of Automation, Tsinghua University (THU) in 2023. As a member of [CFINS](https://cfins.au.tsinghua.edu.cn/), I'm supervised by [Prof. Qianchuan Zhao](https://www.au.tsinghua.edu.cn/info/1173/2085.htm). 
 
 
 
@@ -78,11 +78,12 @@ Aiming to solve practical challenges in the real world, most of my work is groun
 
 # 📖 Educations
 - *2024 - present*, [Postdoctoral Associate](https://mobility.mit.edu/people/kailai-sun/), Smart centre, Massachusetts Institute of Technology (MIT). Prof. [Jinhua Zhao](https://mobility.mit.edu/people/jinhua-zhao).
-- *2023 - 2024*, Research Fellow, Department of the Built Environment, National University of Singapore. Prof. [Yang Miang Goh](https://discovery.nus.edu.sg/3499-yang-miang-goh/about)
+- *2023 - 2024*, Research Fellow, College of Design and Engineering, National University of Singapore. Prof. [Yang Miang Goh](https://discovery.nus.edu.sg/3499-yang-miang-goh/about)
 - *2018- 2023*, Ph.D., Department of Automation, Tsinghua University. [Prof. Qianchuan Zhao](https://www.au.tsinghua.edu.cn/info/1173/2085.htm)
-- *2022*, visiting student, Electrical & Computer Engineering, University of Illinois Urbana-Champaign.  [Prof. Tamer Basar](http://tamerbasar.csl.illinois.edu/)
-- *2015 - 2018*, Bachelor, Ye Peida lab, Beijing University of Posts and Telecommunications (BUPT).
+- *2022*, visiting student, Department of Electrical & Computer Engineering, University of Illinois Urbana-Champaign.  [Prof. Tamer Basar](http://tamerbasar.csl.illinois.edu/)
 - *2014 - 2018*, Bachelor, Department of Automation, Beijing University of Posts and Telecommunications (BUPT).
+- *2015 - 2018*, Bachelor, Ye Peida School of Innovation and Entrepreneurship, Beijing University of Posts and Telecommunications (BUPT).
+
 
 
 <!--
@@ -108,13 +109,13 @@ to ensure practical implications.
 
 ## Submitted Paper
 
-- Envisioning global urban development with satellite imagery and generative AI. **Kailai Sun**, Yuebing Liang, Mingyi He, Yunhan Zheng, Alok Prakash, Shenhao Wang, Jinhua Zhao,  Alex “Sandy” Pentland. **Nature sustainability.**
-- SENSE: Satellite-based ENergy Synthesis for Sustainable Environment. **Kailai Sun**, Mingyi He, Heye Huang, Can Rong, Alok Prakash, Baoshen Guo, Shenhao Wang, Jinhua Zhao. **KDD AI for Science Track**.
+- **Kailai Sun**, Yuebing Liang, Mingyi He, Yunhan Zheng, Alok Prakash, Shenhao Wang, Jinhua Zhao,  Alex “Sandy” Pentland. Envisioning global urban development with satellite imagery and generative AI. **Nature sustainability.**
+- **Kailai Sun**, Mingyi He, Heye Huang, Can Rong, Alok Prakash, Baoshen Guo, Shenhao Wang, Jinhua Zhao. SENSE: Satellite-based ENergy Synthesis for Sustainable Environment. **KDD AI for Science Track**.
 - An anonymous submission to **ECCV** about Semantic segmentation methods in remote sensing. (**Corresponding author**) 
 - An anonymous submission to **IEEE Transactions on Industrial Informatics** about Long-term affective processes and tracking.  (**First author**) 
-- Experimental study on surveillance video-based indoor occupancy measurement with occupant-centric control. Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qingshan Jia,  Qianchuan Zhao. **Advanced Engineering Informatics.**
-- Hierarchical Control Framework Integrating Large Language Models with Reinforcement Learning for Decarbonized HVAC Operation. Dianyu Zhong, Tian Xing, **Kailai Sun**<sup>\*</sup>, Xu Yang, Heye Huang, Irfan Qaisar, Tinggang Jia, Shaobo Wang, Qianchuan Zhao. **Advanced Engineering Informatics.**
-- A computer vision-based construction housekeeping monitoring system: A two-stage object detection-then-classification approach.  Zherui Shao, **Kailai Sun**, Yang Miang Goh*, Jing Tian, Vincent J.L. Gan.
+- Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qingshan Jia,  Qianchuan Zhao. Experimental study on surveillance video-based indoor occupancy measurement with occupant-centric control. **Advanced Engineering Informatics.**
+- Dianyu Zhong, Tian Xing, **Kailai Sun**<sup>\*</sup>, Xu Yang, Heye Huang, Irfan Qaisar, Tinggang Jia, Shaobo Wang, Qianchuan Zhao. Hierarchical Control Framework Integrating Large Language Models with Reinforcement Learning for Decarbonized HVAC Operation. **Advanced Engineering Informatics.**
+- Zherui Shao, **Kailai Sun**, Yang Miang Goh*, Jing Tian, Vincent J.L. Gan. A computer vision-based construction housekeeping monitoring system: A two-stage object detection-then-classification approach.  
 
 ## Journal Paper
 
