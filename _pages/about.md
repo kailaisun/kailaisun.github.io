@@ -109,11 +109,11 @@ to ensure practical implications.
 
 ## Submitted Paper
 
-- **Kailai Sun**, Yuebing Liang, Mingyi He, Yunhan Zheng, Alok Prakash, Shenhao Wang, Jinhua Zhao,  Alex “Sandy” Pentland. [Envisioning global urban development with satellite imagery and generative AI](https://arxiv.org/abs/2603.26831). **Nature sustainability.**
+- **Kailai Sun**, Yuebing Liang, Mingyi He, Yunhan Zheng, Alok Prakash, Shenhao Wang, Jinhua Zhao,  Alex “Sandy” Pentland. [Envisioning global urban development with satellite imagery and generative AI](https://arxiv.org/abs/2603.26831). **Nature Computational Science.**
 - **Kailai Sun**, Mingyi He, Heye Huang, Can Rong, Alok Prakash, Baoshen Guo, Shenhao Wang, Jinhua Zhao. SENSE: Satellite-based ENergy Synthesis for Sustainable Environment. **KDD AI for Science Track**.
 - An anonymous submission to **ECCV** about Semantic segmentation methods in remote sensing. (**Corresponding author**) 
 - An anonymous submission to **IEEE Transactions on Industrial Informatics** about Long-term affective processes and tracking.  (**First author**) 
-- Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qingshan Jia,  Qianchuan Zhao. [Experimental study on surveillance video-based indoor occupancy measurement with occupant-centric control](https://arxiv.org/abs/2603.26081). **Advanced Engineering Informatics.**
+- Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qingshan Jia,  Qianchuan Zhao. [Experimental study on surveillance video-based indoor occupancy measurement with occupant-centric control](https://arxiv.org/abs/2603.26081). **Energy**
 - Dianyu Zhong, Tian Xing, **Kailai Sun**<sup>\*</sup>, Xu Yang, Heye Huang, Irfan Qaisar, Tinggang Jia, Shaobo Wang, Qianchuan Zhao. [Hierarchical Control Framework Integrating Large Language Models with Reinforcement Learning for Decarbonized HVAC Operation](https://arxiv.org/abs/2603.26050). **Advanced Engineering Informatics.**
 - Zherui Shao, **Kailai Sun**, Yang Miang Goh*, Jing Tian, Vincent J.L. Gan. A computer vision-based construction housekeeping monitoring system: A two-stage object detection-then-classification approach.  
 
