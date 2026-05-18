@@ -32,6 +32,7 @@ Aiming to solve practical challenges in the real world, most of my work is groun
 
 # 🔥 News
 
+- *2026.05.18*: 🎉🎉🎉 My paper (**First author**) is accepted: SENSE: Satellite-based ENergy Synthesis for Sustainable Environment. **Kailai Sun**, Mingyi He, Heye Huang, Can Rong, Alok Prakash, Baoshen Guo, Shenhao Wang, Jinhua Zhao. *Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining*  (**KDD 2026**).(**Oral**)
 
 - *2026.02.17*: 🎉🎉 Our paper (**Corresponding author**) is accepted: [Leveraging Ordinal Information to Improve Thermal Comfort Prediction with Deep Learning Models](https://doi.org/10.1016/j.jobe.2026.115654). Chao Cen, Yingxian Zhai, **Kailai Sun**<sup>\*</sup>, Meng Liu,  Nyuk Hien Wong. *Journal of Building Engineering*  (**JOBE**). (2026).(**Top** , SCI,  JCR Q1, IF:**7.4**).(Acceptance Rate: **16**%)
   
@@ -110,10 +111,10 @@ to ensure practical implications.
 
 ## Submitted Paper
 
-- **Kailai Sun**, Yuebing Liang, Mingyi He, Yunhan Zheng, Alok Prakash, Shenhao Wang, Jinhua Zhao,  Alex “Sandy” Pentland. [Envisioning global urban development with satellite imagery and generative AI](https://arxiv.org/abs/2603.26831). **Nature Geoscience.**
-- **Kailai Sun**, Mingyi He, Heye Huang, Can Rong, Alok Prakash, Baoshen Guo, Shenhao Wang, Jinhua Zhao. SENSE: Satellite-based ENergy Synthesis for Sustainable Environment. **KDD AI for Science Track**.
+- **Kailai Sun**, Yuebing Liang, Mingyi He, Yunhan Zheng, Alok Prakash, Shenhao Wang, Jinhua Zhao,  Alex “Sandy” Pentland. [Envisioning global urban development with satellite imagery and generative AI](https://arxiv.org/abs/2603.26831). **Nature Machine Intelligence.**
+- **Kailai Sun**, Baoshen Guo, Can Rong, Alok Prakash, Shenhao Wang, Jinhua Zhao. A Vision-Enhanced Multimodal Framework for Accurate Building Energy Load Forecasting. **Applied Energy.**
 - An anonymous submission to **IEEE Transactions on Industrial Informatics** about Long-term affective processes and tracking.  (**First author**)
-- An anonymous submission to **Neurips2026** about World models and AI for Sustainability topic.  (**Corresponding author**) 
+- An anonymous submission to **Neurips2026** about World models and AI for Sustainability topic.  (**Corresponding author**)
 - Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qingshan Jia,  Qianchuan Zhao. [Experimental study on surveillance video-based indoor occupancy measurement with occupant-centric control](https://arxiv.org/abs/2603.26081). **Building and Environment**
 - Dianyu Zhong, Tian Xing, **Kailai Sun**<sup>\*</sup>, Xu Yang, Heye Huang, Irfan Qaisar, Tinggang Jia, Shaobo Wang, Qianchuan Zhao. [Hierarchical Control Framework Integrating Large Language Models with Reinforcement Learning for Decarbonized HVAC Operation](https://arxiv.org/abs/2603.26050). **Advanced Engineering Informatics.**
 
