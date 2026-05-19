@@ -24,7 +24,7 @@ I am a postdoc at the SMART Centre, Massachusetts Institute of Technology (MIT),
 
 
 My research interest lies in smart cities and buildings, including deep learning, occupancy measurement, computer vision, generative models, AIoT, remote sensing and AI for science. 
-I have published more than 15 first-author papers in top international journals, including *Cell Patterns, Building and Environment, Automation in Construction, Energy and Buildings*, etc. 
+I have published more than 15 first-author papers in top international journals and conferences, including *Cell Patterns, Building and Environment, Automation in Construction, Energy and Buildings, KDD*, etc. 
 
 Aiming to solve practical challenges in the real world, most of my work is grounded in real-world datasets. 
 
@@ -32,7 +32,7 @@ Aiming to solve practical challenges in the real world, most of my work is groun
 
 # 🔥 News
 
-- *2026.05.18*: 🎉🎉🎉 My paper (**First author**) is accepted: SENSE: Satellite-based ENergy Synthesis for Sustainable Environment. **Kailai Sun**, Mingyi He, Heye Huang, Can Rong, Alok Prakash, Baoshen Guo, Shenhao Wang, Jinhua Zhao. *Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining*  (**KDD 2026**).(**Oral**)
+- *2026.05.18*: 🎉🎉🎉 My paper (**First author**) is accepted: SENSE: Satellite-based ENergy Synthesis for Sustainable Environment. **Kailai Sun**, Mingyi He, Heye Huang, Can Rong, Alok Prakash, Baoshen Guo, Shenhao Wang, Jinhua Zhao. *Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining*  (**KDD 2026**).(**Oral**, Top 6%) 
 
 - *2026.02.17*: 🎉🎉 Our paper (**Corresponding author**) is accepted: [Leveraging Ordinal Information to Improve Thermal Comfort Prediction with Deep Learning Models](https://doi.org/10.1016/j.jobe.2026.115654). Chao Cen, Yingxian Zhai, **Kailai Sun**<sup>\*</sup>, Meng Liu,  Nyuk Hien Wong. *Journal of Building Engineering*  (**JOBE**). (2026).(**Top** , SCI,  JCR Q1, IF:**7.4**).(Acceptance Rate: **16**%)
   
