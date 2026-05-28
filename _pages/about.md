@@ -112,7 +112,7 @@ to ensure practical implications.
 ## Submitted Paper
 
 - **Kailai Sun**, Yuebing Liang, Mingyi He, Yunhan Zheng, Alok Prakash, Shenhao Wang, Jinhua Zhao,  Alex “Sandy” Pentland. [Envisioning global urban development with satellite imagery and generative AI](https://arxiv.org/abs/2603.26831). **Nature Machine Intelligence.**
-- **Kailai Sun**, Baoshen Guo, Can Rong, Alok Prakash, Shenhao Wang, Jinhua Zhao. A Vision-Enhanced Multimodal Framework for Accurate Building Energy Load Forecasting. **Applied Energy.**
+- **Kailai Sun**, Baoshen Guo, Can Rong, Alok Prakash, Shenhao Wang, Jinhua Zhao. A Vision-Enhanced Multimodal Framework for Accurate Building Energy Load Forecasting. **Building and Environment**
 - An anonymous submission to **IEEE Transactions on Industrial Informatics** about Long-term affective processes and tracking.  (**First author**)
 - An anonymous submission to **Neurips2026** about World models and AI for Sustainability topic.  (**Corresponding author**)
 - Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qingshan Jia,  Qianchuan Zhao. [Experimental study on surveillance video-based indoor occupancy measurement with occupant-centric control](https://arxiv.org/abs/2603.26081). **Building and Environment**
