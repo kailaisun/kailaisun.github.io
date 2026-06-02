@@ -89,7 +89,7 @@ Aiming to solve practical challenges in the real world, most of my work is groun
 
 <!--
 to ensure practical implications.
-- *2023.08 - present*, Research Fellow, Department of the Built Environment, National University of Singapore. Prof. [Yang Miang Goh](https://discovery.nus.edu.sg/3499-yang-miang-goh/about)
+- *2023.07 - present*, Research Fellow, Department of the Built Environment, National University of Singapore. Prof. [Yang Miang Goh](https://discovery.nus.edu.sg/3499-yang-miang-goh/about)
 - *2018.09 - 2023.06*, Ph.D., Department of Automation, Tsinghua University. [Prof. Qianchuan Zhao](http://cfins.au.tsinghua.edu.cn/personalhg/zhaoqc/)
 - *2022.05*, visiting student, Electrical & Computer Engineering, University of Illinois Urbana-Champaign.  [Prof. Tamer Basar](http://tamerbasar.csl.illinois.edu/)
 - *2015.09 - 2018.06*, Bachelor, Ye Peida lab, Beijing University of Posts and Telecommunications (BUPT).
