@@ -149,7 +149,7 @@ to ensure practical implications.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI 2025</div><img src='/images/paper/mifn1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- [Toward Pedestrian Head Tracking: A Benchmark Dataset and an Information Fusion Network](https://authors.elsevier.com/c/1lFRU3OWJ9CU6x). **Kailai Sun**, Xinwei Wang, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao<sup>\*</sup>, Gao Huang, Chang Liu. [Cchead dataset download](https://doi.org/10.34740/kaggle/ds/7494891).[Code link.](https://github.com/kailaisun/Cchead) *Engineering Applications of Artificial Intelligence*. (**EAAI**).(**Top** , SCI,  JCR Q1, IF:**8**). 
+- [Toward Pedestrian Head Tracking: A Benchmark Dataset and an Information Fusion Network](https://authors.elsevier.com/c/1lFRU3OWJ9CU6x). **Kailai Sun**, Xinwei Wang, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao<sup>\*</sup>, Gao Huang, Chang Liu. [Cchead dataset download](https://doi.org/10.34740/kaggle/ds/7494891).[Code link.](https://github.com/kailaisun/Cchead) *Engineering Applications of Artificial Intelligence*. (**EAAI**).(**Top** , SCI,  JCR Q1, IF:**9**). 
 - We collect and annotate a Chinese large-scale cross-scene dataset (Cchead) for crowded head tracking, including 10 diverse scenes of 50,528 frames with over 2,366,249 heads annotated. 
 - We present a novel solution and insight for head tracking by leveraging pseudo-multi-source information fusion, achieving SOTA performance.  [Visualization videos](https://drive.google.com/drive/folders/1BLmzCRx3MbOzVUITw0-RCpRqTHJ2JXYQ?usp=sharing).
   
@@ -160,7 +160,7 @@ to ensure practical implications.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIC 2025</div><img src='/images/paper/AIC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-- [Change Detection Network for Construction Housekeeping using Feature Fusion and Large Vision Models.](https://www.sciencedirect.com/science/article/pii/S0926580525000780) **Kailai Sun**, Zherui Shao, Yang Miang Goh<sup>\*</sup>, Jing Tian, Vincent J.L. Gan. [Code link.](https://github.com/NUS-DBE/Housekeeping-CD) *Automation in Construction*.(**AIC**). 2025. (**Top** , SCI,  JCR Q1, IF:**11.5**).(Acceptance Rate: **11**%)
+- [Change Detection Network for Construction Housekeeping using Feature Fusion and Large Vision Models.](https://www.sciencedirect.com/science/article/pii/S0926580525000780) **Kailai Sun**, Zherui Shao, Yang Miang Goh<sup>\*</sup>, Jing Tian, Vincent J.L. Gan. [Code link.](https://github.com/NUS-DBE/Housekeeping-CD) *Automation in Construction*.(**AIC**). 2025. (**Top** , SCI,  JCR Q1, IF:**12.6**).(Acceptance Rate: **11**%)
 - We propose a change detection dataset to mitigate housekeeping problems in construction sites. 
 - We designed a novel Housekeeping Change Detection Network (HCDN) with Large Vision Model (LVM) and more effective features fusion, achieving superior performance than existing SOTA methods.
 - We integrate HCDN into the proposed housekeeping detection system, which shows its potential in practical construction site situations. 
@@ -184,7 +184,7 @@ to ensure practical implications.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper/overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-- [A review of AI edge devices and lightweight CNN and LLM deployment](https://www.sciencedirect.com/science/article/pii/S0925231224015625?dgcid=author). **Kailai Sun**<sup>1,\*</sup>, Xinwei Wang<sup>1</sup>, Qianchuan Zhao. *Neurocomputing*. (2025). (SCI, JCR Q1, Top, IF:6.5).
+- [A review of AI edge devices and lightweight CNN and LLM deployment](https://www.sciencedirect.com/science/article/pii/S0925231224015625?dgcid=author). **Kailai Sun**<sup>1,\*</sup>, Xinwei Wang<sup>1</sup>, Qianchuan Zhao. *Neurocomputing*. (2025). (SCI, JCR Q1, Top, IF:6.7).
 - Many AI edge devices with AI accelerators (Nvidia Nano, TX2, Intel NCS2, Google Coral Dev Board, Coral USB,	Baidu Edgeboard FZ3, AMD Kria K2, etc) are compared and analyzed.
 - Lightweight CNN and large language models, neural network compression, and their deployment on AI edge devices for practical applications, are reviewed.
 </div>
@@ -220,7 +220,7 @@ to ensure practical implications.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> KBS 2025 </div><img src='/images/paper/over-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- [Overcoming Imbalanced Safety Data Using Extended Accident Triangle](https://doi.org/10.1016/j.knosys.2025.114120). **Kailai Sun**, Tianxiang Lan, Yang Miang Goh, Yueng-Hsiang Huang. *Knowledge-based systems*. (**KBS**).(**Top** , SCI,  JCR Q1, IF:**8.4**). [Code link.](https://github.com/NUS-DBE/accident) [Dataset Link](https://data.mendeley.com/datasets/m8rwjx67bk/1). [Axriv](https://arxiv.org/abs/2408.07094).
+- [Overcoming Imbalanced Safety Data Using Extended Accident Triangle](https://doi.org/10.1016/j.knosys.2025.114120). **Kailai Sun**, Tianxiang Lan, Yang Miang Goh, Yueng-Hsiang Huang. *Knowledge-based systems*. (**KBS**).(**Top** , SCI,  JCR Q1, IF:**8**). [Code link.](https://github.com/NUS-DBE/accident) [Dataset Link](https://data.mendeley.com/datasets/m8rwjx67bk/1). [Axriv](https://arxiv.org/abs/2408.07094).
 
 </div>
 </div>
@@ -255,7 +255,7 @@ to ensure practical implications.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAP 2023</div><img src='/images/paper/AAP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-- [An interpretable clustering approach to safety climate analysis: examining driver group distinction in safety climate perceptions](https://www.sciencedirect.com/science/article/pii/S0001457523004670).  **Kailai Sun**, Tianxiang Lan, Yang Miang Goh<sup>\*</sup>, Sufiana Safiena, Yueng-Hsiang Huang, Bailey Lytle, Yimin He. [Code link.](https://github.com/NUS-DBE/truck-driver-safety-climate) *Accident Analysis and Prevention*.(2023).(**Top** , SCI, JCR Q1,  IF:**6.2**).(Acceptance Rate: **13**%)
+- [An interpretable clustering approach to safety climate analysis: examining driver group distinction in safety climate perceptions](https://www.sciencedirect.com/science/article/pii/S0001457523004670).  **Kailai Sun**, Tianxiang Lan, Yang Miang Goh<sup>\*</sup>, Sufiana Safiena, Yueng-Hsiang Huang, Bailey Lytle, Yimin He. [Code link.](https://github.com/NUS-DBE/truck-driver-safety-climate) *Accident Analysis and Prevention*.(2023).(**Top** , SCI, JCR Q1,  IF:**7.4**).(Acceptance Rate: **13**%)
 
 - Five clustering and three interpretable algorithms were used to analyse 7,000 American truck drivers' safety climate perceptions.
 - Proposed an improved method to interpret partial dependent plots.
@@ -289,12 +289,12 @@ to ensure practical implications.
 - [Exploring large language models for indoor occupancy measurement in smart office buildings](https://www.sciencedirect.com/science/article/abs/pii/S0360132325013307). Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qianchuan Zhao. *Building and Environment* (**BAE**). (2025).(**Top** , SCI,  JCR Q1, IF:**8.4**).  (Acceptance Rate: **14**%)  (**Co-first and Corresponding author**)
 
   
-- [DLDC: A Dual Loop Data Cleaning Method for Fine-tuning Remote Sensing Image Generative Models](https://ieeexplore.ieee.org/document/11223686). Tian Xing, Hu Yan, Xinwei Wang, **Kailai Sun**<sup>\*</sup>, Han Yu, Pinjie Li, Qianchuan Zhao. *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* (2025).(SCI,  JCR Q1, IF:**5.3**).  
+- [DLDC: A Dual Loop Data Cleaning Method for Fine-tuning Remote Sensing Image Generative Models](https://ieeexplore.ieee.org/document/11223686). Tian Xing, Hu Yan, Xinwei Wang, **Kailai Sun**<sup>\*</sup>, Han Yu, Pinjie Li, Qianchuan Zhao. *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* (2025).(SCI,  JCR Q1, IF:**6.3**).  
   
 
 
 
-- [Predicting trucking accidents with truck drivers’ safety climate perception: An in-depth evaluation of the pretrain-then-finetune approach](https://www.sciencedirect.com/science/article/pii/S1369847824002080)  **Kailai Sun**, Tianxiang Lan, Say Hong Kam, Yang Miang Goh, Yueng-Hsiang Huang. *Transportation Research Part F: Traffic Psychology and Behaviour* (**TRF**). (2024).(SSCI, JCR Q1, IF:4.4).  [Code link.](https://github.com/NUS-DBE/Pretrain-Finetune-safety-climate)
+- [Predicting trucking accidents with truck drivers’ safety climate perception: An in-depth evaluation of the pretrain-then-finetune approach](https://www.sciencedirect.com/science/article/pii/S1369847824002080)  **Kailai Sun**, Tianxiang Lan, Say Hong Kam, Yang Miang Goh, Yueng-Hsiang Huang. *Transportation Research Part F: Traffic Psychology and Behaviour* (**TRF**). (2024).(SSCI, JCR Q1, IF:5).  [Code link.](https://github.com/NUS-DBE/Pretrain-Finetune-safety-climate)
 
 - [Indoor occupancy measurement by the fusion of motion detection and static estimation](https://www.sciencedirect.com/science/article/abs/pii/S037877882100877X). **Kailai Sun**, Qianchuan Zhao<sup>\*</sup>, Ziyou Zhang, and Xinyuan Hu. *Energy and Buildings* (**ENB**). 254 (2022): 111593.(**Top** , SCI, JCR Q1,  IF:**8**). (Acceptance Rate: **17**%)
 
@@ -306,11 +306,11 @@ to ensure practical implications.
 
 - [A Succinct Summary of Vision-based Building Occupancy Estimation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9GsK1_IAAAAJ&citation_for_view=9GsK1_IAAAAJ:Se3iqnhoufwC). Kailai Sun. Advancements in Civil Engineering & Technology 5 (3). (2023) (IF: 4.982)
 
-- [Multi-sensor Based Occupancy Prediction in a Multi-zone Office Building with Transformer](https://www.mdpi.com/2075-5309/13/8/2002).Irfan Qaisar<sup>1</sup> **Kailai Sun**<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>, Tian Xing, Hu Yan. *Buildings*. (2023).(SCI, IF:**3.324**).
+- [Multi-sensor Based Occupancy Prediction in a Multi-zone Office Building with Transformer](https://www.mdpi.com/2075-5309/13/8/2002).Irfan Qaisar<sup>1</sup> **Kailai Sun**<sup>1</sup>, Qianchuan Zhao<sup>\*</sup>, Tian Xing, Hu Yan. *Buildings*. (2023).(SCI, IF:**3.4**).
 
-- [Feature weights in contractor safety performance assessment: Comparative study of expert-driven and analytics-based approaches](https://www.sciencedirect.com/science/article/abs/pii/S0926580525001827). Say Hong Kam, Tianxiang Lan, **Kailai Sun**, Yang Miang Goh . *Automation in Construction* (**AIC**). (2025).(**Top** , SCI, JCR Q1, IF:**11.5**).
+- [Feature weights in contractor safety performance assessment: Comparative study of expert-driven and analytics-based approaches](https://www.sciencedirect.com/science/article/abs/pii/S0926580525001827). Say Hong Kam, Tianxiang Lan, **Kailai Sun**, Yang Miang Goh . *Automation in Construction* (**AIC**). (2025).(**Top** , SCI, JCR Q1, IF:**12.6**).
 
-- [Integrating Machine Learning and Mathematical Optimization for Job Shop Scheduling](https://ieeexplore.ieee.org/document/10227334). Anbang Liu, Peter B. Luh<sup>\*</sup>, **Kailai Sun**. *IEEE Transactions on Automation Science and Engineering* (**TASE**). (2022).(**Top** , SCI, JCR Q1, IF:6.636).
+- [Integrating Machine Learning and Mathematical Optimization for Job Shop Scheduling](https://ieeexplore.ieee.org/document/10227334). Anbang Liu, Peter B. Luh<sup>\*</sup>, **Kailai Sun**. *IEEE Transactions on Automation Science and Engineering* (**TASE**). (2022).(**Top** , SCI, JCR Q1, IF:7.9).
 
 - [MITP-Net: a Deep-learning Framework for Short-term Indoor Temperature Predictions in Multi-zone Buildings.](https://www.sciencedirect.com/science/article/pii/S0360132323004158) Tian Xing,**Kailai Sun**, Qianchuan Zhao<sup>\*</sup>.*Building and Environment* (**BAE**). (2023).(**Top** , SCI, JCR Q1, IF:**8.4**). (Acceptance Rate: **14**%)
 
