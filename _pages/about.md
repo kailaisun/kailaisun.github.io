@@ -111,13 +111,13 @@ to ensure practical implications.
 
 ## Submitted Paper
 
-- **Kailai Sun**, Yuebing Liang, Mingyi He, Yunhan Zheng, Alok Prakash, Shenhao Wang, Jinhua Zhao,  Alex “Sandy” Pentland. [Envisioning global urban development with satellite imagery and generative AI](https://arxiv.org/abs/2603.26831). **Nature Machine Intelligence.**
-- **Kailai Sun**, Baoshen Guo, Can Rong, Alok Prakash, Shenhao Wang, Jinhua Zhao. A Vision-Enhanced Multimodal Framework for Accurate Building Energy Load Forecasting. **Building and Environment**
-- An anonymous submission to **IEEE Transactions on Industrial Informatics** about Long-term affective processes and tracking.  (**First author**)
+- **Kailai Sun**, Yuebing Liang, Mingyi He, Yunhan Zheng, Alok Prakash, Shenhao Wang, Jinhua Zhao,  Alex “Sandy” Pentland. [Envisioning global urban development with satellite imagery and generative AI](https://arxiv.org/abs/2603.26831). **Nature Communication.**
+- **Kailai Sun**, Baoshen Guo, Can Rong, Alok Prakash, Shenhao Wang, Jinhua Zhao. A Vision-Enhanced Multimodal Framework for Accurate Building Energy Load Forecasting. **Building and Environment.**
 - An anonymous submission to **Neurips2026** about World models and AI for Sustainability topic.  (**Corresponding author**)
 - Yuexi Song,**Kailai Sun**<sup>\*</sup>, Zhuoyu Wang, Mingyi He, Paul Pu Liang, Shenhao Wang, Jinhua Zhao. BRISS: Boundary-aware Remote Sensing Images Semantic Segmentation Network with Multi-scale Fusion. 
 - Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qingshan Jia,  Qianchuan Zhao. [Experimental study on surveillance video-based indoor occupancy measurement with occupant-centric control](https://arxiv.org/abs/2603.26081). **Building and Environment**
 - Dianyu Zhong, Tian Xing, **Kailai Sun**<sup>\*</sup>, Xu Yang, Heye Huang, Irfan Qaisar, Tinggang Jia, Shaobo Wang, Qianchuan Zhao. [Hierarchical Control Framework Integrating Large Language Models with Reinforcement Learning for Decarbonized HVAC Operation](https://arxiv.org/abs/2603.26050). **Advanced Engineering Informatics.**
+- Yue Cui, Kailai Sun<sup>\*</sup>. GlucoImg: Image-Enhanced Learning for Continuous Glucose Forecasting. **Journal of Biomedical and Health Informatics.**
 
 ## Journal Paper
 
