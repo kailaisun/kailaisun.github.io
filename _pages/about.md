@@ -33,7 +33,7 @@ Aiming to solve practical challenges in the real world, most of my work is groun
 
 - **Kailai Sun**, Yuebing Liang, Mingyi He, Yunhan Zheng, Alok Prakash, Shenhao Wang, Jinhua Zhao,  Alex “Sandy” Pentland. [Envisioning global urban development with satellite imagery and generative AI](https://arxiv.org/abs/2603.26831). **Nature Communications.**
 - **Kailai Sun**, Baoshen Guo, Can Rong, Alok Prakash, Shenhao Wang, Jinhua Zhao. A Vision-Enhanced Multimodal Framework for Accurate Building Energy Load Forecasting. **Building and Environment.**
-- 	**Kailai Sun**,Zijie Gao, Can Rong, Mingyi He, Alok Prakash, Baoshen Guo, Shenhao Wang, Jinhua Zhao. DySENSE: Dynamic Spatiotemporal ENergy Synthesis and Emulation with Satellite Imagery. **KDD 2027 AI for Science.**
+- 	**Kailai Sun**, Zijie Gao, Can Rong, Mingyi He, Alok Prakash, Baoshen Guo, Shenhao Wang, Jinhua Zhao. DySENSE: Dynamic Spatiotemporal ENergy Synthesis and Emulation with Satellite Imagery. **KDD 2027 AI for Science.**
 - Dianyu Zhong, Tian Xing, **Kailai Sun**<sup>\*</sup>, Xu Yang, Heye Huang, Irfan Qaisar, Tinggang Jia, Shaobo Wang, Qianchuan Zhao<sup>\*</sup>. [Hierarchical Control Framework Integrating Large Language Models with Reinforcement Learning for Decarbonized HVAC Operation](https://arxiv.org/abs/2603.26050). **Advanced Engineering Informatics.**(**Corresponding author**)
 - An anonymous submission to **Neurips2026** about World models and AI for Sustainability topic.  (**Corresponding author**)
 - Xu Yang, **Kailai Sun**<sup>\*</sup>, Dianyu Zhong, Qianchuan Zhao<sup>\*</sup>.ThermoDiff: Physics-Aware Diffusion World Models for Season-Transferable HVAC Control. **KDD 2027 AI for Science.** (**Corresponding author**)
@@ -497,7 +497,6 @@ E-mail:  <skl24@mit.edu> &emsp;<skl.2018@tsinghua.org.cn> &emsp;<18813126518@163
 Irfan Qaisar (2022-present; Tsinghua Ph.D.)\
 Xu Yang (2025-present; Tsinghua Ph.D.)\
 Xiaofei Yu (2026-present; Renming University Ph.D.)\
-Zijie Gao (2026-present; NUS Master)\
 Dianyu Zhong (2023-2025; Tsinghua Ph.D.; now at QY lab)\
 Ruoyu Wang (2023-2024; Tsinghua Ph.D.)\
 Xinwei Wang  (2020-2024; Tsinghua Master; now at Gewu Tech, Xiaomi Company)\
@@ -508,7 +507,7 @@ Feng Ren Yeo (2025-2026: NTU Bachelor)\
 Zherui Shao (2023-2024; NUS Master)\
 Peng Liu (2021-2023; Tsinghua Master； now at STMA)\
 Zhou Yang (2021-2023; Tsinghua Master; now at BYD Company)\
-Guanyi Wang (2023-present; Tsinghua Master; now at Huawei Company)\
+Guanyi Wang (2023-2026; Tsinghua Master; now at Huawei Company)\
 Zhe Yu (2022-2023; Tsinghua Master)\
 Zaixian Han (2020; Tsinghua Bachelor; Korea)\
 Meiling Piao (2019; Tsinghua Bachelor; Korea)\
