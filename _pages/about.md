@@ -496,6 +496,8 @@ E-mail:  <skl24@mit.edu> &emsp;<skl.2018@tsinghua.org.cn> &emsp;<18813126518@163
 # 👨‍🏫 (Co-)supervised students :
 Irfan Qaisar (2022-present; Tsinghua Ph.D.)\
 Xu Yang (2025-present; Tsinghua Ph.D.)\
+Xiaofei Yu (2026-present; Renming University Ph.D.)\
+Zijie Gao (2026-present; NUS Master)\
 Dianyu Zhong (2023-2025; Tsinghua Ph.D.; now at QY lab)\
 Ruoyu Wang (2023-2024; Tsinghua Ph.D.)\
 Xinwei Wang  (2020-2024; Tsinghua Master; now at Gewu Tech, Xiaomi Company)\
