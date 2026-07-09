@@ -37,7 +37,7 @@ Aiming to solve practical challenges in the real world, most of my work is groun
 - Yuexi Song,**Kailai Sun**<sup>\*</sup>, Zhuoyu Wang, Mingyi He, Paul Pu Liang, Shenhao Wang, Jinhua Zhao. BRISS: Boundary-aware Remote Sensing Images Semantic Segmentation Network with Multi-scale Fusion. 
 - Dianyu Zhong, Tian Xing, **Kailai Sun**<sup>\*</sup>, Xu Yang, Heye Huang, Irfan Qaisar, Tinggang Jia, Shaobo Wang, Qianchuan Zhao<sup>\*</sup>. [Hierarchical Control Framework Integrating Large Language Models with Reinforcement Learning for Decarbonized HVAC Operation](https://arxiv.org/abs/2603.26050). **Advanced Engineering Informatics.**(**Corresponding author**)
 - An anonymous submission to **Neurips2026** about World models and AI for Sustainability topic.  (**Corresponding author**)
-- Xu Yang, **Kailai Sun**<sup>\*</sup>, Dianyu Zhong, Qianchuan Zhao<sup>\*</sup>.ThermoDiff: Physics-Aware Diffusion World Models for Season-Transferable HVAC Control. **KDD 2027 AI for Science.** (**Corresponding author**)
+- Xu Yang, **Kailai Sun**<sup>\*</sup>, Dianyu Zhong, Qianchuan Zhao<sup>\*</sup>. ADAPT: A Diffusion-based Adaptive Physics-aware Indoor Environmental World Model for Transferable HVAC Control. **KDD 2027 AI for Science.** (**Corresponding author**)
 - Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qingshan Jia,  Qianchuan Zhao. [Experimental study on surveillance video-based indoor occupancy measurement with occupant-centric control](https://arxiv.org/abs/2603.26081). **Building and Environment**(**Co-first and Corresponding author**)
 - Yue Cui, Kailai Sun<sup>\*</sup>. GlucoImg: Image-Enhanced Learning for Continuous Glucose Forecasting. **Journal of Biomedical and Health Informatics.**(**Corresponding author**)
 
