@@ -44,7 +44,7 @@ Aiming to solve practical challenges in the real world, most of my work is groun
 
 # 🔥 News
 
-- *2026.05.18*: 🎉🎉🎉 My paper (**First author**) is accepted: [SENSE: Satellite-based ENergy Synthesis for Sustainable Environment.](https://arxiv.org/abs/2605.18101) **Kailai Sun**, Mingyi He, Heye Huang, Can Rong, Alok Prakash, Baoshen Guo, Shenhao Wang, Jinhua Zhao. *Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining*  (**KDD 2026**).(**Oral**, Top 6%) 
+- *2026.05.18*: 🎉🎉🎉 My paper (**First author**) is accepted: [SENSE: Satellite-based ENergy Synthesis for Sustainable Environment.](https://dl.acm.org/doi/10.1145/3770855.3819041) **Kailai Sun**, Mingyi He, Heye Huang, Can Rong, Alok Prakash, Baoshen Guo, Shenhao Wang, Jinhua Zhao. *Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining*  (**KDD 2026**).(**Oral**, Top 6%) 
 
 - *2026.02.17*: 🎉🎉 Our paper (**Corresponding author**) is accepted: [Leveraging Ordinal Information to Improve Thermal Comfort Prediction with Deep Learning Models](https://doi.org/10.1016/j.jobe.2026.115654). Chao Cen, Yingxian Zhai, **Kailai Sun**<sup>\*</sup>, Meng Liu,  Nyuk Hien Wong. *Journal of Building Engineering*  (**JOBE**). (2026).(**Top** , SCI,  JCR Q1, IF:**8.1**).(Acceptance Rate: **16**%)
   
