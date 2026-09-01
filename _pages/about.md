@@ -34,15 +34,16 @@ Aiming to solve practical challenges in the real world, most of my work is groun
 - **Kailai Sun**, Yuebing Liang, Mingyi He, Yunhan Zheng, Alok Prakash, Shenhao Wang, Jinhua Zhao,  Alex “Sandy” Pentland. [Envisioning global urban development with satellite imagery and generative AI](https://arxiv.org/abs/2603.26831). **Nature Communications.**
 - **Kailai Sun**, Baoshen Guo, Can Rong, Alok Prakash, Shenhao Wang, Jinhua Zhao. A Vision-Enhanced Multimodal Framework for Accurate Building Energy Load Forecasting. **Building and Environment.**
 - **Kailai Sun**, Zijie Gao, Can Rong, Mingyi He, Alok Prakash, Baoshen Guo, Shenhao Wang, Jinhua Zhao. DySENSE: Dynamic Spatiotemporal ENergy Synthesis and Emulation with Satellite Imagery. **KDD 2027 AI for Science.**
+- **Kailai Sun**, Mingyi He, Heye Huang, Can Rong, Yuzhou Chen, Alok Prakash, Baoshen Guo, Shenhao Wang, Jinhua Zhao. Satellite-based Energy and Carbon Data Generation for Sustainable Cities. **IEEE Transactions on Geoscience and Remote Sensing**.
 - Yuexi Song, **Kailai Sun***<sup>\*</sup>, Zhuoyu Wang, Mingyi He, Paul Pu Liang, Shenhao Wang, Jinhua Zhao. [BASeg: Boundary-Aware Remote Sensing Segmentation with Structural Penalties.](https://arxiv.org/pdf/2608.15683) **AAAI 2027**.  (**Corresponding author**)
 - Dianyu Zhong, Tian Xing, **Kailai Sun**<sup>\*</sup>, Xu Yang, Heye Huang, Irfan Qaisar, Tinggang Jia, Shaobo Wang, Qianchuan Zhao<sup>\*</sup>. [Hierarchical Control Framework Integrating Large Language Models with Reinforcement Learning for Decarbonized HVAC Operation](https://arxiv.org/abs/2603.26050). **Advanced Engineering Informatics.**(**Corresponding author**)
 - An anonymous submission to **Neurips2026** about World models and AI for Sustainability topic.  (**Corresponding author**)
 - Xu Yang, **Kailai Sun**<sup>\*</sup>, Dianyu Zhong, Qianchuan Zhao<sup>\*</sup>. [ADAPT: A Diffusion-based Adaptive Physics-aware Indoor Environmental World Model for Transferable HVAC Control.](https://arxiv.org/abs/2608.19804) **KDD 2027 AI for Science.** (**Corresponding author**)
-
 - Yue Cui, Kailai Sun<sup>\*</sup>. GlucoImg: Image-Enhanced Learning for Continuous Glucose Forecasting. **Journal of Biomedical and Health Informatics.**(**Corresponding author**)
 
 
 # 🔥 News
+
 
 - *2026.08.31*: 🎉🎉 Our paper (**Corresponding author**) is accepted: [Experimental study on surveillance video-based indoor occupancy measurement with occupant-centric control](https://arxiv.org/abs/2603.26081). Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qingshan Jia,  Qianchuan Zhao. *Building and Environment* (**BAE**). (2026).(**Top** , SCI,  JCR Q1, IF:**8.4**).  (Acceptance Rate: **14**%)
   
