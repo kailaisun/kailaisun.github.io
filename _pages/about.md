@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
 
-I am a postdoc at the SMART Centre, Massachusetts Institute of Technology (MIT), working with [Prof. Jinhua Zhao](https://mobility.mit.edu/people/jinhua-zhao). I was a Research Fellow in the College of Design and Engineering, National University of Singapore (NUS), where I worked with [Prof. Yangmiang Goh](https://discovery.nus.edu.sg/3499-yang-miang-goh). I received my Ph.D. degree in the Department of Automation, Tsinghua University (THU) in 2023. As a member of [CFINS](https://cfins.au.tsinghua.edu.cn/), I'm supervised by [Prof. Qianchuan Zhao](https://www.au.tsinghua.edu.cn/info/1173/2085.htm). 
+I am a postdoc at the SMART Centre, Massachusetts Institute of Technology (MIT), working with [Prof. Jinhua Zhao](https://mobility.mit.edu/people/jinhua-zhao) in the [MIT JTL Urban Mobility Lab](https://mobility.mit.edu/). I was a Research Fellow in the College of Design and Engineering, National University of Singapore (NUS), where I worked with [Prof. Yangmiang Goh](https://discovery.nus.edu.sg/3499-yang-miang-goh). I received my Ph.D. degree in the Department of Automation, Tsinghua University (THU) in 2023. As a member of [CFINS](https://cfins.au.tsinghua.edu.cn/), I'm supervised by [Prof. Qianchuan Zhao](https://www.au.tsinghua.edu.cn/info/1173/2085.htm). 
 
 
 
@@ -500,12 +500,13 @@ E-mail:  <skl24@mit.edu> &emsp;<skl.2018@tsinghua.org.cn> &emsp;<18813126518@163
 Irfan Qaisar (2022-present; Tsinghua Ph.D.)\
 Xu Yang (2025-present; Tsinghua Ph.D.)\
 Xiaofei Yu (2026-present; Renming University Ph.D.)\
+Mingyi He (2025-present; MIT Ph.D.)\
 Dianyu Zhong (2023-2025; Tsinghua Ph.D.; now at QY lab)\
 Ruoyu Wang (2023-2024; Tsinghua Ph.D.)\
 Xinwei Wang  (2020-2024; Tsinghua Master; now at Gewu Tech, Xiaomi Company)\
 Yuexi Song (2025-present; NUS Bachelor; now at Georgia Institute of Technology)\
 Zhuoyu Wang (2025-2026; NUS Master; now at NUS Ubicomp Lab)\
-Zijie Gao (2026-present; NUS Master)\
+Zijie Gao (2026; NUS Master)\
 Feng Ren Yeo (2025-2026: NTU Bachelor)\
 Zherui Shao (2023-2024; NUS Master)\
 Peng Liu (2021-2023; Tsinghua Master； now at STMA)\
