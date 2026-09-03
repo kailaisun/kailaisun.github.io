@@ -38,6 +38,7 @@ Aiming to solve practical challenges in the real world, most of my work is groun
 - Yuexi Song, **Kailai Sun***<sup>\*</sup>, Zhuoyu Wang, Mingyi He, Paul Pu Liang, Shenhao Wang, Jinhua Zhao. [BASeg: Boundary-Aware Remote Sensing Segmentation with Structural Penalties.](https://arxiv.org/pdf/2608.15683) **AAAI 2027**.  (**Corresponding author**)
 - Dianyu Zhong, Tian Xing, **Kailai Sun**<sup>\*</sup>, Xu Yang, Heye Huang, Irfan Qaisar, Tinggang Jia, Shaobo Wang, Qianchuan Zhao<sup>\*</sup>. [Hierarchical Control Framework Integrating Large Language Models with Reinforcement Learning for Decarbonized HVAC Operation](https://arxiv.org/abs/2603.26050). **Advanced Engineering Informatics.**(**Corresponding author**)
 - An anonymous submission to **Neurips2026** about World models and AI for Sustainability topic.  (**Corresponding author**)
+- EmoCorrect: Scaling Early Intervention in Community Correction through AI-Driven Affective Monitoring.
 - Xu Yang, **Kailai Sun**<sup>\*</sup>, Dianyu Zhong, Qianchuan Zhao<sup>\*</sup>. [ADAPT: A Diffusion-based Adaptive Physics-aware Indoor Environmental World Model for Transferable HVAC Control.](https://arxiv.org/abs/2608.19804) **KDD 2027 AI for Science.** (**Corresponding author**)
 - Yue Cui, Kailai Sun<sup>\*</sup>. GlucoImg: Image-Enhanced Learning for Continuous Glucose Forecasting. **Journal of Biomedical and Health Informatics.**(**Corresponding author**)
 
