@@ -501,11 +501,10 @@ E-mail:  <skl24@mit.edu> &emsp;<skl.2018@tsinghua.org.cn> &emsp;<18813126518@163
 Irfan Qaisar (2022-present; Tsinghua Ph.D.)\
 Xu Yang (2025-present; Tsinghua Ph.D.)\
 Xiaofei Yu (2026-present; Renming University Ph.D.)\
-Mingyi He (2025-present; MIT Ph.D.)\
+Mingyi He (2025-present; MIT Ph.D.; U.S)\
 Dianyu Zhong (2023-2025; Tsinghua Ph.D.; now at QY lab)\
-Ruoyu Wang (2023-2024; Tsinghua Ph.D.)\
 Xinwei Wang  (2020-2024; Tsinghua Master; now at Gewu Tech, Xiaomi Company)\
-Yuexi Song (2025-present; NUS Bachelor; now at Georgia Institute of Technology)\
+Yuexi Song (2025-present; NUS Bachelor; Georgia Institute of Technology)\
 Zhuoyu Wang (2025-2026; NUS Master; now at NUS Ubicomp Lab)\
 Zijie Gao (2026; NUS Master)\
 Feng Ren Yeo (2025-2026: NTU Bachelor)\
