@@ -22,11 +22,21 @@ redirect_from:
 I am a postdoc at the SMART Centre, Massachusetts Institute of Technology (MIT), working with [Prof. Jinhua Zhao](https://mobility.mit.edu/people/jinhua-zhao) in the [MIT JTL Urban Mobility Lab](https://mobility.mit.edu/). I was a Research Fellow in the College of Design and Engineering, National University of Singapore (NUS), where I worked with [Prof. Yangmiang Goh](https://discovery.nus.edu.sg/3499-yang-miang-goh). I received my Ph.D. degree in the Department of Automation, Tsinghua University (THU) in 2023. As a member of [CFINS](https://cfins.au.tsinghua.edu.cn/), I'm supervised by [Prof. Qianchuan Zhao](https://www.au.tsinghua.edu.cn/info/1173/2085.htm). 
 
 
+My research interests lie in human-centric AI, in perception and decision-making systems. 
 
-My research interests lie in human-centric AI, social/physical world models and smart cities, including generative models, AIoT, remote sensing and AI for science. 
-I have published more than 15 first-author papers in top international journals and conferences, including *Cell Patterns, Building and Environment, Automation in Construction, Accident Analysis & Prevention, Energy and Buildings, KDD*, etc. 
+* **Physical intelligence:** Developing physical AI technologies that sense, generate, and control in smart systems, including smart cities, AIoT, remote sensing, and AI for science.
 
-Aiming to solve practical challenges in the real world, most of my work is grounded in real-world datasets. 
+* **Social intelligence:** Improving LLMs to model, understand and simulate people and society, including human behavior, mind, safety, augmentation and social collaboration.
+
+* **AI technologies:**  Physical/Social world models, Generative models, Multi-modal AI, Agentic AI.
+
+* **Data:** Aiming to solve practical challenges in the real world, most of my work is grounded in real-world datasets.
+
+  
+I have published more than 20 first-author papers in top international journals and conferences, including *Cell Patterns, Building and Environment, Automation in Construction, Accident Analysis & Prevention, Energy and Buildings, KDD*, etc. 
+
+
+
 
 
 ## Under review Paper
