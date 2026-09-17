@@ -23,8 +23,8 @@ I am a postdoc at the SMART Centre, Massachusetts Institute of Technology (MIT),
 
 
 
-My research interests lie in human-centric AI, social world models and smart cities, including generative models, AIoT, remote sensing and AI for science. 
-I have published more than 15 first-author papers in top international journals and conferences, including *Cell Patterns, Building and Environment, Automation in Construction, Energy and Buildings, KDD*, etc. 
+My research interests lie in human-centric AI, social/physical world models and smart cities, including generative models, AIoT, remote sensing and AI for science. 
+I have published more than 15 first-author papers in top international journals and conferences, including *Cell Patterns, Building and Environment, Automation in Construction, Accident Analysis & Prevention, Energy and Buildings, KDD*, etc. 
 
 Aiming to solve practical challenges in the real world, most of my work is grounded in real-world datasets. 
 
