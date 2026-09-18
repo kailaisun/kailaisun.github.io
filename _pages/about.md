@@ -166,7 +166,7 @@ to ensure practical implications.
 
 - [Envisioning global urban development with satellite imagery and generative AI](https://arxiv.org/abs/2603.26831). **Kailai Sun**, Yuebing Liang, Mingyi He, Yunhan Zheng, Alok Prakash, Shenhao Wang, Jinhua Zhao,  **Alex “Sandy” Pentland**.**Nature Communications.** (**Top**, SCI, JCR Q1, IF:**18.1**). Under Review.
 - This study presents a multi-modal generative AI framework to envision sustainable urban development at a global scale.
-- By integrating prompts and geospatial controls, our framework can generate high-fidelity, diverse, and realistic urban satellite imagery across the 500 largest metropolitan areas worldwide.
+- By integrating prompts and geospatial controls, it can generate high-fidelity, diverse, and realistic urban satellite imagery across the 500 largest metropolitan areas worldwide.
 - Human expert evaluation confirms that our generated urban images are comparable to real urban images. 
 
 </div>
