@@ -405,11 +405,12 @@ to ensure practical implications.
 - [Jinhua Zhao](https://mobility.mit.edu/people/jinhua-zhao)- Professor of Cities and Transportation, Massachusetts Institute of Technology.
 - [Jian Kang](https://profiles.ucl.ac.uk/66211-jian-kang) -  Professor, Bartlett School Env, Energy & Resources, University College London.
 - [Gao Huang](https://www.gaohuang.net/)-Associate Professor, Department of Automation, Tsinghua University.
+- [Shenhao Wang](https://dcp.ufl.edu/faculties/shenhao-wang/) - Assistant Professor, University of Florida.
+- [Paul Pu Liang](https://pliang279.github.io/) - Assistant Professor, MIT Media Lab and EECS, Massachusetts Institute of Technology.
 - [Shaobo Liu](https://its.whut.edu.cn/?jiaoshifengcai/853.html) - Associate Professor, Intelligent Transportation Systems Research Center, Wuhan University of Technology.
 - [Peter Luh](https://www.ee.uconn.edu/peter-b-luh/) - Professor, Board of Trustees Distinguished Professor Emeritus, University of Connecticut.
 - [Yueng-hsiang Huang](https://www.ohsu.edu/people/emily-yueng-hsiang-huang-phd)-Associate Professor, Oregon Institute of Occupational Health Sciences, Oregon Health and Sciences University.
-- [Xiaoteng Ma](https://xtma.github.io/) -  Postdoc, Department of Automation, Tsinghua University. 
-- [Anbang Liu](https://scholar.google.com/citations?user=L726TpwAAAAJ&hl=en) -  Ph.D., Department of Automation, Tsinghua University.
+- [Heye Huang](https://huangheye.github.io/) -  Assistant Professor, Department of Automation, KAIST. 
 
 
 
