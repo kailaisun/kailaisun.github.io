@@ -195,6 +195,16 @@ to ensure practical implications.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='/images/paper/fig1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- [SENSE: Satellite-based ENergy Synthesis for Sustainable Environment.](https://dl.acm.org/doi/10.1145/3770855.3819041) **Kailai Sun**, Mingyi He, Heye Huang, Can Rong, Alok Prakash, Baoshen Guo, Shenhao Wang, Jinhua Zhao. *Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining*  (**KDD 2026**).(**Oral**, Top 6%)
+- We propose a unified multi-modal GenAI framework that generates satellite imagery and corresponding urban building energy consumption and height maps.
+- We establish a global Multi-city Urban Satellite-Energy Dataset ([MUSE](https://huggingface.co/datasets/skl24/MUSE)) covering NYC, Boston, Lyon, and Busan.
+- Our generative data augmentation strategy with limited real data enhances downstream prediction performance globally.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIC 2025</div><img src='/images/paper/AIC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -206,16 +216,7 @@ to ensure practical implications.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='/images/paper/fig1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-- [SENSE: Satellite-based ENergy Synthesis for Sustainable Environment.](https://dl.acm.org/doi/10.1145/3770855.3819041) **Kailai Sun**, Mingyi He, Heye Huang, Can Rong, Alok Prakash, Baoshen Guo, Shenhao Wang, Jinhua Zhao. *Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining*  (**KDD 2026**).(**Oral**, Top 6%)
-- We propose a unified multi-modal GenAI framework that generates satellite imagery and corresponding urban building energy consumption and height maps.
-- We establish a global Multi-city Urban Satellite-Energy Dataset ([MUSE](https://huggingface.co/datasets/skl24/MUSE)) covering NYC, Boston, Lyon, and Busan.
-- Our generative data augmentation strategy with limited real data enhances downstream prediction performance globally.
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BAE 2022</div><img src='/images/paper/DBF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
