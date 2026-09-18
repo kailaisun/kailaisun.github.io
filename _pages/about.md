@@ -37,9 +37,12 @@ I have published more than 20 first-author papers in top international journals 
 
 
 
-## ![Remote research intern / collaboration](https://img.shields.io/badge/Remote%20research%20intern%20%2F%20collaboration-red)
+> **Remote research intern / collaboration**
+>
+> 🔵 I am continuously hiring remote research interns and am open to various forms of collaboration. You will have opportunities to collaborate with researchers and students from MIT, NUS, and Tsinghua University. Please drop me an email at [skl24@mit.edu](mailto:skl24@mit.edu).
+> 
 
-🔴 I am also continuously hiring remote research interns and am open to various forms of collaboration. You will have opportunities to collaborate with researchers and students from MIT, NUS, and Tsinghua University. Please drop me an email at [skl24@mit.edu](mailto:skl24@mit.edu).
+
 
 ## Under review Paper
 
