@@ -63,7 +63,9 @@ I have published more than 20 first-author papers in top international journals 
 
 - *2026.08.31*: 🎉🎉 Our paper (**Corresponding author**) is accepted: [Experimental study on surveillance video-based indoor occupancy measurement with occupant-centric control](https://www.sciencedirect.com/science/article/abs/pii/S0360132326010012). Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qingshan Jia,  Qianchuan Zhao. *Building and Environment* (**BAE**). (2026).(**Top** , SCI,  JCR Q1, IF:**8.4**).  (Acceptance Rate: **14**%)
   
-- *2026.05.18*: 🎉🎉🎉 My paper (**First author**) is accepted: [SENSE: Satellite-based ENergy Synthesis for Sustainable Environment.](https://dl.acm.org/doi/10.1145/3770855.3819041) **Kailai Sun**, Mingyi He, Heye Huang, Can Rong, Alok Prakash, Baoshen Guo, Shenhao Wang, Jinhua Zhao. *Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining*  (**KDD 2026**).(**Oral**, Top 6%) 
+- *2026.05.18*: 🎉🎉🎉 My paper (**First author**) is accepted: [SENSE: Satellite-based ENergy Synthesis for Sustainable Environment.](https://dl.acm.org/doi/10.1145/3770855.3819041) **Kailai Sun**, Mingyi He, Heye Huang, Can Rong, Alok Prakash, Baoshen Guo, Shenhao Wang, Jinhua Zhao. *Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining*  (**KDD 2026**).(**Oral**, Top 6%)
+
+- *2026.05*: 🎉🎉 The product we collaborated on is now live:[Sleepal](https://back.sleepal.ai/science).
 
 - *2026.02.17*: 🎉🎉 Our paper (**Corresponding author**) is accepted: [Leveraging Ordinal Information to Improve Thermal Comfort Prediction with Deep Learning Models](https://doi.org/10.1016/j.jobe.2026.115654). Chao Cen, Yingxian Zhai, **Kailai Sun**<sup>\*</sup>, Meng Liu,  Nyuk Hien Wong. *Journal of Building Engineering*  (**JOBE**). (2026).(**Top** , SCI,  JCR Q1, IF:**8.1**).(Acceptance Rate: **16**%)
   
