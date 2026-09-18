@@ -19,8 +19,8 @@ redirect_from:
 
 <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
 
-I am a postdoc at the SMART Centre, Massachusetts Institute of Technology (MIT), working with [Prof. Jinhua Zhao](https://mobility.mit.edu/people/jinhua-zhao) in the [MIT JTL Urban Mobility Lab](https://mobility.mit.edu/). I was a Research Fellow in the College of Design and Engineering, National University of Singapore (NUS), where I worked with [Prof. Yangmiang Goh](https://discovery.nus.edu.sg/3499-yang-miang-goh). I received my Ph.D. degree in the Department of Automation, Tsinghua University (THU) in 2023. As a member of [CFINS](https://cfins.au.tsinghua.edu.cn/), I'm supervised by [Prof. Qianchuan Zhao](https://www.au.tsinghua.edu.cn/info/1173/2085.htm). 
-
+I am a postdoc at the SMART Centre, Massachusetts Institute of Technology (MIT), working with [Prof. Jinhua Zhao](https://mobility.mit.edu/people/jinhua-zhao) in the [MIT JTL Urban Mobility Lab](https://mobility.mit.edu/). I was a Research Fellow in the College of Design and Engineering, National University of Singapore (NUS), where I worked with [Prof. Yangmiang Goh](https://discovery.nus.edu.sg/3499-yang-miang-goh). I was also a visiting student at UIUC, supervised by [Prof. Tamer Basar](http://tamerbasar.csl.illinois.edu/).
+ I received my Ph.D. degree in the Department of Automation, Tsinghua University (THU) in 2023. As a member of [CFINS](https://cfins.au.tsinghua.edu.cn/), I'm supervised by [Prof. Qianchuan Zhao](https://www.au.tsinghua.edu.cn/info/1173/2085.htm). 
 
 My research interests lie in human-centric AI, in perception and decision-making systems. 
 
