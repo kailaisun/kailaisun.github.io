@@ -63,7 +63,9 @@ I have published more than 20 first-author papers in top international journals 
 
 - *2026.08.31*: 🎉🎉 Our paper (**Corresponding author**) is accepted with a first-round revision: [Experimental study on surveillance video-based indoor occupancy measurement with occupant-centric control](https://www.sciencedirect.com/science/article/abs/pii/S0360132326010012). Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qingshan Jia,  Qianchuan Zhao. *Building and Environment* (**BAE**). (2026).(**Top** , SCI,  JCR Q1, IF:**8.4**).  (Acceptance Rate: **14**%)
   
-- *2026.05.18*: 🎉🎉🎉 My paper (**First author**) is accepted: [SENSE: Satellite-based ENergy Synthesis for Sustainable Environment.](https://dl.acm.org/doi/10.1145/3770855.3819041) **Kailai Sun**, Mingyi He, Heye Huang, Can Rong, Alok Prakash, Baoshen Guo, Shenhao Wang, Jinhua Zhao. *Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining*  (**KDD 2026**).(**Oral**, Top 6%)
+- *2026.05.18*: 🎉🎉🎉 My paper (**First author**) is accepted: [SENSE: Satellite-based ENergy Synthesis for Sustainable Environment.](https://dl.acm.org/doi/10.1145/3770855.3819041) **Kailai Sun**, Mingyi He, Heye Huang, Can Rong, Alok Prakash, Baoshen Guo, Shenhao Wang, Jinhua Zhao. *Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining*  (**KDD 2026**).(**Oral Top 6%**) [Code.](https://github.com/kailaisun/GenAI4Urban-Energy/) [MUSE](https://huggingface.co/datasets/skl24/MUSE)
+
+
 
 - *2026.05*: 🎉🎉 The product we collaborated on is now live:[Sleepal](https://back.sleepal.ai/science).
 
@@ -187,11 +189,21 @@ to ensure practical implications.
 - [Change Detection Network for Construction Housekeeping using Feature Fusion and Large Vision Models.](https://www.sciencedirect.com/science/article/pii/S0926580525000780) **Kailai Sun**, Zherui Shao, Yang Miang Goh<sup>\*</sup>, Jing Tian, Vincent J.L. Gan. [Code link.](https://github.com/NUS-DBE/Housekeeping-CD) *Automation in Construction*.(**AIC**). 2025. (**Top** , SCI,  JCR Q1, IF:**12.6**).(Acceptance Rate: **11**%)
 - We propose a change detection dataset to mitigate housekeeping problems in construction sites. 
 - We designed a novel Housekeeping Change Detection Network (HCDN) with Large Vision Model (LVM) and more effective features fusion, achieving superior performance than existing SOTA methods.
-- We integrate HCDN into the proposed housekeeping detection system, which shows its potential in practical construction site situations. 
+- We integrated our vision detection system into a startup, which shows practical value. 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='/images/paper/fig1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+- [SENSE: Satellite-based ENergy Synthesis for Sustainable Environment.](https://dl.acm.org/doi/10.1145/3770855.3819041) **Kailai Sun**, Mingyi He, Heye Huang, Can Rong, Alok Prakash, Baoshen Guo, Shenhao Wang, Jinhua Zhao. *Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining*  (**KDD 2026**).(**Oral**, Top 6%)
+- We propose a unified multi-modal GenAI framework that generates satellite imagery and corresponding urban building energy consumption and height maps.
+- We establish a global Multi-city Urban Satellite-Energy Dataset ([MUSE](https://huggingface.co/datasets/skl24/MUSE)) covering NYC, Boston, Lyon, and Busan.
+- Our generative data augmentation strategy with limited real data enhances downstream prediction performance globally.
+
+</div>
+</div>
+- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BAE 2022</div><img src='/images/paper/DBF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
