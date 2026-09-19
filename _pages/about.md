@@ -562,7 +562,7 @@ Zaixian Han (2020; Tsinghua Bachelor; Korea)\
 Meiling Piao (2019; Tsinghua Bachelor; Korea)\
 Xi Miao (2023-2025; Pennsylvania State University Bachelor; U.S)\
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=Fqedyl9HmwV-Dlk4qDHDO6LQ4CFJXYxYt-hyoZ2Zfq8&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=Fqedyl9HmwV-Dlk4qDHDO6LQ4CFJXYxYt-hyoZ2Zfq8&cl=ffffff&w=300"></script>
 
 <a href="https://clustrmaps.com/site/1c4m1" title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=fVBZ21Ffx6OGBSgycqpY2E5ZD1nJe1BVYmN0XxW1HtM&cl=ffffff"></a>
 
