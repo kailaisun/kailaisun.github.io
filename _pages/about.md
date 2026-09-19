@@ -436,7 +436,7 @@ to ensure practical implications.
 - [Shaobo Liu](https://its.whut.edu.cn/?jiaoshifengcai/853.html) - Associate Professor, Intelligent Transportation Systems Research Center, Wuhan University of Technology.
 - [Peter Luh](https://www.ee.uconn.edu/peter-b-luh/) - Professor, Board of Trustees Distinguished Professor Emeritus, University of Connecticut.
 - [Yueng-hsiang Huang](https://www.ohsu.edu/people/emily-yueng-hsiang-huang-phd)-Associate Professor, Oregon Institute of Occupational Health Sciences, Oregon Health and Sciences University.
-- [Heye Huang](https://huangheye.github.io/) -  Assistant Professor, Department of Automation, KAIST. 
+- [Heye Huang](https://huangheye.github.io/) -  Assistant Professor, KAIST. 
 
 
 
