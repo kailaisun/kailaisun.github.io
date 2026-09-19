@@ -549,7 +549,7 @@ Yanyu Mao (2026-present; NTU Bachelor)\
 Mingyi He (2025-present; MIT Ph.D.; U.S)\
 Dianyu Zhong (2023-2025; Tsinghua Ph.D.; now at QY lab)\
 Xinwei Wang  (2020-2024; Tsinghua Master; now at Gewu Tech, Xiaomi Company)\
-Yuexi Song (2025-present; NUS Bachelor; Georgia Institute of Technology)\
+Yuexi Song (2025-2026; NUS Bachelor; Georgia Institute of Technology)\
 Zhuoyu Wang (2025-2026; NUS Master; now at NUS Ubicomp Lab)\
 Zijie Gao (2026; NUS Master)\
 Feng Ren Yeo (2025-2026: NTU Bachelor)\
