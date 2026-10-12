@@ -47,7 +47,6 @@ I have published more than 20 first-author papers in top international journals 
 ## Under review Paper
 
 - **Kailai Sun**, Yuebing Liang, Mingyi He, Yunhan Zheng, Alok Prakash, Shenhao Wang, Jinhua Zhao,  Alex “Sandy” Pentland. [Envisioning global urban development with satellite imagery and generative AI](https://arxiv.org/abs/2603.26831). **Nature Communications.**
-- **Kailai Sun**, Baoshen Guo, Can Rong, Alok Prakash, Shenhao Wang, Jinhua Zhao. A Vision-Enhanced Multimodal Framework for Accurate Building Energy Load Forecasting. **Building and Environment.**
 - **Kailai Sun**, Zijie Gao, Can Rong, Mingyi He, Alok Prakash, Baoshen Guo, Shenhao Wang, Jinhua Zhao. DySENSE: Dynamic Spatiotemporal ENergy Synthesis and Emulation with Satellite Imagery. **KDD 2027 AI for Science.**
 - **Kailai Sun**, Mingyi He, Heye Huang, Can Rong, Yuzhou Chen, Alok Prakash, Baoshen Guo, Shenhao Wang, Jinhua Zhao. Satellite-based Energy and Carbon Data Generation for Sustainable Cities. **IEEE Transactions on Geoscience and Remote Sensing**.
 - Yuexi Song, **Kailai Sun***<sup>\*</sup>, Zhuoyu Wang, Mingyi He, Paul Pu Liang, Shenhao Wang, Jinhua Zhao. [BASeg: Boundary-Aware Remote Sensing Segmentation with Structural Penalties.](https://arxiv.org/pdf/2608.15683)  (**Corresponding author**)
@@ -60,8 +59,10 @@ I have published more than 20 first-author papers in top international journals 
 
 # 🔥 News
 
+- *2026.10.12*: 🎉🎉🎉 My paper (**First author**) is accepted with a first-round revision: A Vision-Enhanced Multimodal Framework for Accurate Building Energy Load Forecasting.  **Kailai Sun**, Baoshen Guo, Can Rong, Alok Prakash, Shenhao Wang, Jinhua Zhao. *Building and Environment* (**BAE**). (2026).(**Top** , SCI,  JCR Q1, IF:**8.4**).  (Acceptance Rate: **14**%)
+  
 
-- *2026.08.31*: 🎉🎉 Our paper (**Corresponding author**) is accepted with a first-round revision: [Experimental study on surveillance video-based indoor occupancy measurement with occupant-centric control](https://www.sciencedirect.com/science/article/abs/pii/S0360132326010012). Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qingshan Jia,  Qianchuan Zhao. *Building and Environment* (**BAE**). (2026).(**Top** , SCI,  JCR Q1, IF:**8.4**).  (Acceptance Rate: **14**%)
+- *2026.08.31*: 🎉🎉 Our paper (**Corresponding author**) is accepted: [Experimental study on surveillance video-based indoor occupancy measurement with occupant-centric control](https://www.sciencedirect.com/science/article/abs/pii/S0360132326010012). Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qingshan Jia,  Qianchuan Zhao. *Building and Environment* (**BAE**). (2026).(**Top** , SCI,  JCR Q1, IF:**8.4**).  (Acceptance Rate: **14**%)
   
 - *2026.05.18*: 🎉🎉🎉 My paper (**First author**) is accepted: [SENSE: Satellite-based ENergy Synthesis for Sustainable Environment.](https://dl.acm.org/doi/10.1145/3770855.3819041) **Kailai Sun**, Mingyi He, Heye Huang, Can Rong, Alok Prakash, Baoshen Guo, Shenhao Wang, Jinhua Zhao. *Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining*  (**KDD 2026**).(**Oral Top 6%**) [Code.](https://github.com/kailaisun/GenAI4Urban-Energy/) [MUSE](https://huggingface.co/datasets/skl24/MUSE).
 
