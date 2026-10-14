@@ -52,7 +52,7 @@ I have published more than 20 first-author papers in top international journals 
 - Yuexi Song, **Kailai Sun***<sup>\*</sup>, Zhuoyu Wang, Mingyi He, Paul Pu Liang, Shenhao Wang, Jinhua Zhao. [BASeg: Boundary-Aware Remote Sensing Segmentation with Structural Penalties.](https://arxiv.org/pdf/2608.15683)  (**Corresponding author**)
 - Dianyu Zhong, Tian Xing, **Kailai Sun**<sup>\*</sup>, Xu Yang, Heye Huang, Irfan Qaisar, Tinggang Jia, Shaobo Wang, Qianchuan Zhao<sup>\*</sup>. [Hierarchical Control Framework Integrating Large Language Models with Reinforcement Learning for Decarbonized HVAC Operation](https://arxiv.org/abs/2603.26050). **Advanced Engineering Informatics.**(**Corresponding author**)
 - **Kailai Sun**, Xinru Wang, Yue Cui, Guanyi Wang, Zijie Gao, Xinwei Wang, Qianchuan Zhao. EmoCorrect: Scaling Early Intervention in Community Correction through AI-Driven Affective Monitoring. The ACM CHI Conference 2027.
-- Towards Privacy-Preserving Thermal Human Perception from Dataset to Deployment
+- [Towards Privacy-Preserving Thermal Human Perception from Dataset to Deployment](https://arxiv.org/abs/2610.14846)
 - Xu Yang, **Kailai Sun**<sup>\*</sup>, Dianyu Zhong, Qianchuan Zhao<sup>\*</sup>. [ADAPT: A Diffusion-based Adaptive Physics-aware Indoor Environmental World Model for Transferable HVAC Control.](https://arxiv.org/abs/2608.19804) **KDD 2027 AI for Science.** (**Corresponding author**)
 - Yue Cui, Kailai Sun<sup>\*</sup>. GlucoImg: Image-Enhanced Learning for Continuous Glucose Forecasting. **Journal of Biomedical and Health Informatics.**(**Corresponding author**)
 
