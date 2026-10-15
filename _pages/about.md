@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
 
-I am a postdoc at the SMART Centre, Massachusetts Institute of Technology (MIT), working with [Prof. Jinhua Zhao](https://mobility.mit.edu/people/jinhua-zhao) in the [MIT JTL Urban Mobility Lab](https://mobility.mit.edu/). I was a Research Fellow in the College of Design and Engineering, National University of Singapore (NUS), where I worked with [Prof. Yangmiang Goh](https://discovery.nus.edu.sg/3499-yang-miang-goh). I was also a remote visiting student at UIUC, supervised by [Prof. Tamer Basar](http://tamerbasar.csl.illinois.edu/).
+I am a postdoc at the SMART Centre, Massachusetts Institute of Technology (MIT), working with [Prof. Jinhua Zhao](https://mobility.mit.edu/people/jinhua-zhao) in the [MIT JTL Urban Mobility Lab](https://mobility.mit.edu/). I was a Research Fellow in the College of Design and Engineering, National University of Singapore (NUS), where I worked with [Prof. Yangmiang Goh](https://discovery.nus.edu.sg/3499-yang-miang-goh). I was also a visiting student at UIUC, supervised by [Prof. Tamer Basar](http://tamerbasar.csl.illinois.edu/).
  I received my Ph.D. degree in the Department of Automation, Tsinghua University (THU) in 2023. As a member of [CFINS](https://cfins.au.tsinghua.edu.cn/), I'm supervised by [Prof. Qianchuan Zhao](https://www.au.tsinghua.edu.cn/info/1173/2085.htm). 
 
 My research interests lie in human-centric AI, in perception and decision-making systems. 
@@ -60,7 +60,8 @@ I have published more than 20 first-author papers in top international journals 
 # 🔥 News
 
 - *2026.10.12*: 🎉🎉🎉 My paper (**First author**) is accepted with a first-round revision: A Vision-Enhanced Multimodal Framework for Accurate Building Energy Load Forecasting.  **Kailai Sun**, Baoshen Guo, Can Rong, Alok Prakash, Shenhao Wang, Jinhua Zhao. *Building and Environment* (**BAE**). (2026).(**Top** , SCI,  JCR Q1, IF:**8.4**).  (Acceptance Rate: **14**%)
-  
+
+ - *2026.10.15*: 🎉🎉 Our paper (**Co-Corresponding author**) is accepted: AUV target perception in forward-looking sonar images: A low-pixel dataset and multi-frame segmentation network.  Jingfeng Yu<sup>\*</sup>, Chen Liang,  **Kailai Sun**<sup>\*</sup>, Jiugen Lin, Zhongju Sun, Ruiming Wang, Qianchuan Zhao. *Journal of Intelligent and Connected Vehicles* (**JICV**). (2026).(JCR Q1, IF:**6.3**).  
 
 - *2026.08.31*: 🎉🎉 Our paper (**Corresponding author**) is accepted: [Experimental study on surveillance video-based indoor occupancy measurement with occupant-centric control](https://www.sciencedirect.com/science/article/abs/pii/S0360132326010012). Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qingshan Jia,  Qianchuan Zhao. *Building and Environment* (**BAE**). (2026).(**Top** , SCI,  JCR Q1, IF:**8.4**).  (Acceptance Rate: **14**%)
   
