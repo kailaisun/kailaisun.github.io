@@ -43,7 +43,7 @@ I have published more than 20 first-author papers in top international journals 
 > 
 
 
-
+<!--
 ## Under review Paper
 
 - **Kailai Sun**, Yuebing Liang, Mingyi He, Yunhan Zheng, Alok Prakash, Shenhao Wang, Jinhua Zhao,  Alex “Sandy” Pentland. [Envisioning global urban development with satellite imagery and generative AI](https://arxiv.org/abs/2603.26831). **Nature Communications.**
@@ -56,8 +56,9 @@ I have published more than 20 first-author papers in top international journals 
 - [Towards Privacy-Preserving Thermal Human Perception from Dataset to Deployment](https://arxiv.org/abs/2610.14846)
 - Xu Yang, **Kailai Sun**<sup>\*</sup>, Dianyu Zhong, Qianchuan Zhao<sup>\*</sup>. [ADAPT: A Diffusion-based Adaptive Physics-aware Indoor Environmental World Model for Transferable HVAC Control.](https://arxiv.org/abs/2608.19804) **KDD 2027 AI for Science.** (**Corresponding author**)
 - Yue Cui, Kailai Sun<sup>\*</sup>. GlucoImg: Image-Enhanced Learning for Continuous Glucose Forecasting. **Journal of Biomedical and Health Informatics.**(**Corresponding author**)
+-->
 
-
+<!--
 # 🔥 News
 
 - *2026.10.12*: 🎉🎉🎉 My paper (**First author**) is accepted with a first-round revision: [A Vision-Enhanced Multimodal Framework for Accurate Building Energy Load Forecasting.](https://www.sciencedirect.com/science/article/pii/S0360132326011947)  **Kailai Sun**, Baoshen Guo, Can Rong, Alok Prakash, Shenhao Wang, Jinhua Zhao. *Building and Environment* (**BAE**). (2026).(**Top** , SCI,  JCR Q1, IF:**8.4**).  (Acceptance Rate: **14**%)
@@ -111,7 +112,7 @@ I have published more than 20 first-author papers in top international journals 
 - *2023.06*: 🎉🎉  Our abstract has been accepted by the [2023 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/phoenix2023/):Learn to Solve Large-scale Job Shop Scheduling by Integrating Machine Learning and Mathematical Optimization.
 - *2022.11*: 🎉🎉🎉  Cell Press reported our work.[Report link](https://mp.weixin.qq.com/s/jDRYjovXeBpyaED2dH1z2Q).
 - *2023.11*: I was recognized by ElsevierConnect as a top #OpenAccess contributor!  1 of my articles was linked to the United Nations Sustainable Development Goals. [link](https://drive.google.com/file/d/1ZND-tEO6bjRP42D0mZSvUoi-RW8dIjdS/view?usp=sharing)
-
+-->
 
 
 
@@ -543,7 +544,7 @@ Beijing, China, 100084 \
 -->
 E-mail:  <skl24@mit.edu> &emsp;<skl.2018@tsinghua.org.cn> &emsp;<18813126518@163.com> &emsp; <kailai.sun@smart.mit.edu> .
 
-
+<!--
 # 👨‍🏫 (Co-)supervised students :
 Irfan Qaisar (2022-present; Tsinghua Ph.D.)\
 Xu Yang (2025-present; Tsinghua Ph.D.)\
@@ -564,9 +565,11 @@ Zhe Yu (2022-2023; Tsinghua Master)\
 Zaixian Han (2020; Tsinghua Bachelor; Korea)\
 Meiling Piao (2019; Tsinghua Bachelor; Korea)\
 Xi Miao (2023-2025; Pennsylvania State University Bachelor; U.S)\
-
+-->
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=Fqedyl9HmwV-Dlk4qDHDO6LQ4CFJXYxYt-hyoZ2Zfq8&cl=ffffff&w=300"></script>
 
 <a href="https://clustrmaps.com/site/1c4m1" title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=fVBZ21Ffx6OGBSgycqpY2E5ZD1nJe1BVYmN0XxW1HtM&cl=ffffff"></a>
+
+
 
 
