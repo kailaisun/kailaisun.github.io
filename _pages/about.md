@@ -60,16 +60,18 @@ I have published more than 20 first-author papers in top international journals 
 <!--
 - **Kailai Sun**, Xinru Wang, Yue Cui, Guanyi Wang, Zijie Gao, Xinwei Wang, Qianchuan Zhao. EmoCorrect: Scaling Early Intervention in Community Correction through AI-Driven Affective Monitoring. The ACM CHI Conference 2027.
 
- - *2026.10.15*: 🎉🎉 Our paper (**Co-Corresponding author**) is accepted: AUV target perception in forward-looking sonar images: A low-pixel dataset and multi-frame segmentation network.  Jingfeng Yu<sup>\*</sup>, Chen Liang,  **Kailai Sun**<sup>\*</sup>, Jiugen Lin, Zhongju Sun, Ruiming Wang, Qianchuan Zhao. *Journal of Intelligent and Connected Vehicles* (**JICV**). (2026).(JCR Q1, IF:**6.3**).  [Data](https://doi.org/10.26599/ETSD.2026.9190036)
 
- - *2026.08.31*: 🎉🎉 Our paper (**Corresponding author**) is accepted: [Experimental study on surveillance video-based indoor occupancy measurement with occupant-centric control](https://www.sciencedirect.com/science/article/abs/pii/S0360132326010012). Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qingshan Jia,  Qianchuan Zhao. *Building and Environment* (**BAE**). (2026).(**Top** , SCI,  JCR Q1, IF:**8.4**).  (Acceptance Rate: **14**%)
-
- - *2025.11.28*: 🎉🎉 My paper (**Co-first and Corresponding author**) is accepted with a first-round revision: [OCC-Mamba: A Mamba-based deep learning approach for indoor occupancy prediction.](https://www.sciencedirect.com/science/article/abs/pii/S0360132325015513) Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Dianyu Zhong, Xu Yang, Xi Miao and Qianchuan Zhao. *Building and Environment* (**BAE**). (2025).(**Top** , SCI,  JCR Q1, IF:**8.4**).  (Acceptance Rate: **14**%)
 -->
 
 # 🔥 News
 
 - *2026.10.12*: 🎉🎉🎉 My paper (**First author**) is accepted with a first-round revision: [A Vision-Enhanced Multimodal Framework for Accurate Building Energy Load Forecasting.](https://www.sciencedirect.com/science/article/pii/S0360132326011947)  **Kailai Sun**, Baoshen Guo, Can Rong, Alok Prakash, Shenhao Wang, Jinhua Zhao. *Building and Environment* (**BAE**). (2026).(**Top** , SCI,  JCR Q1, IF:**8.4**).  (Acceptance Rate: **14**%)
+
+
+ - *2026.10.15*: 🎉🎉 Our paper (**Co-Corresponding author**) is accepted: AUV target perception in forward-looking sonar images: A low-pixel dataset and multi-frame segmentation network.  Jingfeng Yu<sup>\*</sup>, Chen Liang,  **Kailai Sun**<sup>\*</sup>, Jiugen Lin, Zhongju Sun, Ruiming Wang, Qianchuan Zhao. *Journal of Intelligent and Connected Vehicles* (**JICV**). (2026).(JCR Q1, IF:**6.3**).  [Data](https://doi.org/10.26599/ETSD.2026.9190036)
+
+ - *2026.08.31*: 🎉🎉 Our paper (**Corresponding author**) is accepted: [Experimental study on surveillance video-based indoor occupancy measurement with occupant-centric control](https://www.sciencedirect.com/science/article/abs/pii/S0360132326010012). Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Qingshan Jia,  Qianchuan Zhao. *Building and Environment* (**BAE**). (2026).(**Top** , SCI,  JCR Q1, IF:**8.4**).  (Acceptance Rate: **14**%)
+
 
   
 - *2026.05.18*: 🎉🎉🎉 My paper (**First author**) is accepted: [SENSE: Satellite-based ENergy Synthesis for Sustainable Environment.](https://dl.acm.org/doi/10.1145/3770855.3819041) **Kailai Sun**, Mingyi He, Heye Huang, Can Rong, Alok Prakash, Baoshen Guo, Shenhao Wang, Jinhua Zhao. *Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining*  (**KDD 2026**).(**Oral Top 6%**) [Code.](https://github.com/kailaisun/GenAI4Urban-Energy/) [MUSE](https://huggingface.co/datasets/skl24/MUSE).
@@ -80,7 +82,8 @@ I have published more than 20 first-author papers in top international journals 
   
 - *2026.01.08*: 🎉🎉 Our short paper is accepted: BRISS: Boundary-aware Remote Sensing Images Semantic Segmentation Network with Multi-scale Fusion. Yuexi Song,  **Kailai Sun**<sup>\*</sup>, Mingyi He, Shenhao Wang, Jinhua Zhao. *WACV* Computer Vision for Earth Observation (CV4EO)(2026).
 
-
+ - *2025.11.28*: 🎉🎉 My paper (**Co-first and Corresponding author**) is accepted with a first-round revision: [OCC-Mamba: A Mamba-based deep learning approach for indoor occupancy prediction.](https://www.sciencedirect.com/science/article/abs/pii/S0360132325015513) Irfan Qaisar<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Dianyu Zhong, Xu Yang, Xi Miao and Qianchuan Zhao. *Building and Environment* (**BAE**). (2025).(**Top** , SCI,  JCR Q1, IF:**8.4**).  (Acceptance Rate: **14**%)
+  
 -  *2025.11.17*: 🎉🎉 My short paper is accepted: UrbanControlNet: Reimaging Global Urban Development with Satellite Imagery. **Kailai Sun**, Yuebing Liang, Mingyi He, Yunhan Zheng, Shenhao Wang, Jinhua Zhao,  Alex “Sandy” Pentland. *AAAI* Workshop on AI for Urban Planning. (2025).
   
 - *2025.10.29*: 🎉🎉 Our paper (**Corresponding author**) is accepted: [DLDC: A Dual Loop Data Cleaning Method for Fine-tuning Remote Sensing Image Generative Models](https://ieeexplore.ieee.org/document/11223686). Tian Xing, Hu Yan, Xinwei Wang, **Kailai Sun**<sup>\*</sup>, Han Yu, Pinjie Li, Qianchuan Zhao. *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* (2025).(SCI,  JCR Q1, IF:**6.3**).  
