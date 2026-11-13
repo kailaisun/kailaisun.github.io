@@ -64,8 +64,8 @@ I have published more than 20 first-author papers in top international journals 
 
 # 🔥 News
 
-- *2026.11.12*: 🎉🎉🎉 My paper (**First author**) is accepted: **Kailai Sun**, Zijie Gao, Can Rong, Mingyi He, Alok Prakash, Baoshen Guo, Shenhao Wang, Jinhua Zhao. DySENSE: Dynamic Spatiotemporal ENergy Synthesis and Emulation with Satellite Imagery. *Proceedings of the 33nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining*  (**KDD 2027**). [Code.](https://github.com/kailaisun/DySENSE) [MUSE2](https://huggingface.co/datasets/skl24/MUSE2).
-- 
+- *2026.11.12*: 🎉🎉🎉 My paper (**First author**) is accepted: DySENSE: Dynamic Spatiotemporal ENergy Synthesis and Emulation with Satellite Imagery. **Kailai Sun**, Zijie Gao, Can Rong, Mingyi He, Alok Prakash, Baoshen Guo, Shenhao Wang, Jinhua Zhao. *Proceedings of the 33nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining*  (**KDD 2027**). [Code.](https://github.com/kailaisun/DySENSE) [MUSE2](https://huggingface.co/datasets/skl24/MUSE2).
+
 - *2026.10.12*: 🎉🎉🎉 My paper (**First author**) is accepted with a first-round revision: [A Vision-Enhanced Multimodal Framework for Accurate Building Energy Load Forecasting.](https://www.sciencedirect.com/science/article/pii/S0360132326011947)  **Kailai Sun**, Baoshen Guo, Can Rong, Alok Prakash, Shenhao Wang, Jinhua Zhao. *Building and Environment* (**BAE**). (2026).(**Top** , SCI,  JCR Q1, IF:**8.4**).  (Acceptance Rate: **14**%)
 
 
