@@ -47,24 +47,25 @@ I have published more than 20 first-author papers in top international journals 
 ## Under review Paper
 
 - **Kailai Sun**, Yuebing Liang, Mingyi He, Yunhan Zheng, Alok Prakash, Shenhao Wang, Jinhua Zhao,  Alex “Sandy” Pentland. [Envisioning global urban development with satellite imagery and generative AI](https://arxiv.org/abs/2603.26831). **Nature Communications.**
-- **Kailai Sun**, Zijie Gao, Can Rong, Mingyi He, Alok Prakash, Baoshen Guo, Shenhao Wang, Jinhua Zhao. DySENSE: Dynamic Spatiotemporal ENergy Synthesis and Emulation with Satellite Imagery. **KDD 2027 AI for Science.**
 - **Kailai Sun**, Mingyi He, Heye Huang, Can Rong, Yuzhou Chen, Alok Prakash, Baoshen Guo, Shenhao Wang, Jinhua Zhao. Satellite-based Energy and Carbon Data Generation for Sustainable Cities. **IEEE Transactions on Geoscience and Remote Sensing**.
-- Yuexi Song, **Kailai Sun***<sup>\*</sup>, Zhuoyu Wang, Mingyi He, Paul Pu Liang, Shenhao Wang, Jinhua Zhao. [BASeg: Boundary-Aware Remote Sensing Segmentation with Structural Penalties.](https://arxiv.org/pdf/2608.15683)  (**Corresponding author**)
+- Yuexi Song, **Kailai Sun***<sup>\*</sup>, Zhuoyu Wang, Mingyi He, Paul Pu Liang, Shenhao Wang, Jinhua Zhao. [BASeg: Boundary-Aware Remote Sensing Segmentation with Structural Penalties.](https://arxiv.org/pdf/2608.15683) **CVPR 2027** (**Corresponding author**)
 - Dianyu Zhong, Tian Xing, **Kailai Sun**<sup>\*</sup>, Xu Yang, Heye Huang, Irfan Qaisar, Tinggang Jia, Shaobo Wang, Qianchuan Zhao<sup>\*</sup>. [Hierarchical Control Framework Integrating Large Language Models with Reinforcement Learning for Decarbonized HVAC Operation](https://arxiv.org/abs/2603.26050). **Advanced Engineering Informatics.**(**Corresponding author**)
 - Xiaofei Yu<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Mao Yanyu, Baoshen Guo, Heye Huang, Yongcai Wang, Baotong Mi, Alok Prakash, Shenhao Wang, Jinhua Zhao. [AgenticCity-Bench: Longitudinal Multimodal Observations of Urban Dynamics with Agentic Reasoning.](https://arxiv.org/abs/2610.35293) **ICLR 2027**.(**Corresponding author**)
 - [Towards Privacy-Preserving Thermal Human Perception from Dataset to Deployment](https://arxiv.org/abs/2610.14846)
-- Xu Yang, **Kailai Sun**<sup>\*</sup>, Dianyu Zhong, Qianchuan Zhao<sup>\*</sup>. [ADAPT: A Diffusion-based Adaptive Physics-aware Indoor Environmental World Model for Transferable HVAC Control.](https://arxiv.org/abs/2608.19804) **KDD 2027 AI for Science.** (**Corresponding author**)
-- Yue Cui, Kailai Sun<sup>\*</sup>. GlucoImg: Image-Enhanced Learning for Continuous Glucose Forecasting. **Journal of Biomedical and Health Informatics.**(**Corresponding author**)
+- Xu Yang, **Kailai Sun**<sup>\*</sup>, Dianyu Zhong, Qianchuan Zhao<sup>\*</sup>. [ADAPT: A Diffusion-based Adaptive Physics-aware Indoor Environmental World Model for Transferable HVAC Control.](https://arxiv.org/abs/2608.19804) (**Corresponding author**)
+- Yue Cui, Kailai Sun<sup>\*</sup>. GlucoImg: Image-Enhanced Learning for Continuous Glucose Forecasting. (**Corresponding author**)
  
 
 <!--
-- **Kailai Sun**, Xinru Wang, Yue Cui, Guanyi Wang, Zijie Gao, Xinwei Wang, Qianchuan Zhao. EmoCorrect: Scaling Early Intervention in Community Correction through AI-Driven Affective Monitoring. The ACM CHI Conference 2027.
+- **Kailai Sun**, Xinru Wang, Yue Cui, Guanyi Wang, Zijie Gao, Xinwei Wang, Qianchuan Zhao. EmoCorrect: Scaling Early Intervention in Community Correction through AI-Driven Affective Monitoring.
 
 
 -->
 
 # 🔥 News
 
+- *2026.11.12*: 🎉🎉🎉 My paper (**First author**) is accepted: **Kailai Sun**, Zijie Gao, Can Rong, Mingyi He, Alok Prakash, Baoshen Guo, Shenhao Wang, Jinhua Zhao. DySENSE: Dynamic Spatiotemporal ENergy Synthesis and Emulation with Satellite Imagery. *Proceedings of the 33nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining*  (**KDD 2027**). [Code.](https://github.com/kailaisun/DySENSE) [MUSE2](https://huggingface.co/datasets/skl24/MUSE2).
+- 
 - *2026.10.12*: 🎉🎉🎉 My paper (**First author**) is accepted with a first-round revision: [A Vision-Enhanced Multimodal Framework for Accurate Building Energy Load Forecasting.](https://www.sciencedirect.com/science/article/pii/S0360132326011947)  **Kailai Sun**, Baoshen Guo, Can Rong, Alok Prakash, Shenhao Wang, Jinhua Zhao. *Building and Environment* (**BAE**). (2026).(**Top** , SCI,  JCR Q1, IF:**8.4**).  (Acceptance Rate: **14**%)
 
 
