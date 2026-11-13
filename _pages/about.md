@@ -436,9 +436,10 @@ to ensure practical implications.
 
 # 👨🏽‍🤝‍👨🏼 Collaborators
 - [Qianchuan Zhao](http://cfins.au.tsinghua.edu.cn/personalhg/zhaoqc/) -  Professor, Department of Automation, Tsinghua University.
-- [Yang Miang Goh](https://discovery.nus.edu.sg/3499-yang-miang-goh/about)－Associate Professor, Department of the Built Environment, National University of Singapore.
-- [Jinhua Zhao](https://mobility.mit.edu/people/jinhua-zhao)- Professor of Cities and Transportation, Massachusetts Institute of Technology.
-- [Jian Kang](https://profiles.ucl.ac.uk/66211-jian-kang) -  Professor, Bartlett School Env, Energy & Resources, University College London.
+- [Jinhua Zhao](https://mobility.mit.edu/people/jinhua-zhao)- Professor of Cities and Transportation, Head of Department, Massachusetts Institute of Technology.
+- [Jian Kang](https://profiles.ucl.ac.uk/66211-jian-kang) -  Professor, Bartlett School Env, Energy & Resources, University College London. Fellow of Royal Academy of Engineering, a Member of the Academy of Europe, and an International Member of the Chinese Academy of Engineering.
+- [Alex “Sandy” Pentland](https://www.media.mit.edu/people/sandy/overview/)- Professor, MIT Media Lab, Massachusetts Institute of Technology; HAI Fellow, Stanford University.  A member of the U.S. National Academy of Engineering.
+- [Yang Miang Goh](https://discovery.nus.edu.sg/3499-yang-miang-goh/about)－Professor, College of Design and Engineering, National University of Singapore.
 - [Gao Huang](https://www.gaohuang.net/)-Associate Professor, Department of Automation, Tsinghua University.
 - [Shenhao Wang](https://dcp.ufl.edu/faculties/shenhao-wang/) - Assistant Professor, University of Florida.
 - [Paul Pu Liang](https://pliang279.github.io/) - Assistant Professor, MIT Media Lab and EECS, Massachusetts Institute of Technology.
@@ -517,16 +518,16 @@ I received my Bachelor of Engineering degree from Department of Automation, Beij
 
 # ✒️ Reviewer
 
-Journal: Building and Environment, Safety Science, IEEE Transactions on Control Systems Technology, IEEE Internet of Things Journal, Energy and Building, Advanced Engineering Informatics, Measurement, Journal of Building Engineering, Results in Control and Optimizationm, , Knowledge-based systems, Results in Engineering, The Journal of Supercomputing, etc.
+Journal: Building and Environment, Safety Science, IEEE Transactions on Control Systems Technology, IEEE Internet of Things Journal, Energy and Building, Advanced Engineering Informatics, Measurement, Journal of Building Engineering, Energy and AI, Journal of Intelligent and Connected Vehicles, Results in Control and Optimizationm, Knowledge-based systems, Results in Engineering, The Journal of Supercomputing, etc.
 
 
-Conference: IEEE International Conference on Robotics and Automation, The World Congress of the International Federation of Automatic Control, KDD, ICCV, CVPR, AAAI, etc.
+Conference: IEEE International Conference on Robotics and Automation, The World Congress of the International Federation of Automatic Control, KDD, ICLR, ICCV, CVPR, AAAI, NeurIPS, etc.
 
 
 # ✒️ Editor
 
 Youth Editorial Board Members: [Journal of Building Design and Environment](https://sciexplor.com/jbde/editorial_board).
-Special Issue Editors: [Buildings](https://www.mdpi.com/journal/buildings/special_issues/79YFLGU6JD); [Frontiers in Built Environment](https://www.frontiersin.org/journals/built-environment).
+Special Issue Editors: [Remote Sensing](https://www.mdpi.com/journal/remotesensing/special_issues/ZM472LR4RL);[Buildings](https://www.mdpi.com/journal/buildings/special_issues/79YFLGU6JD); [Frontiers in Built Environment](https://www.frontiersin.org/journals/built-environment).
 
 # 📚 Book
 Participated in the translation of the book: Bertsekas, Dimitri. Convex optimization algorithms. Athena Scientific. 2015.
