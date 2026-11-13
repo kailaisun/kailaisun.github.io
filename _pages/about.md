@@ -549,17 +549,20 @@ Beijing, China, 100084 \
 -->
 E-mail:  <skl24@mit.edu> &emsp;<skl.2018@tsinghua.org.cn> &emsp;<18813126518@163.com> &emsp; <kailai.sun@smart.mit.edu> .
 
-<!--
+
 # 👨‍🏫 (Co-)supervised students :
 Irfan Qaisar (2022-present; Tsinghua Ph.D.)\
 Xu Yang (2025-present; Tsinghua Ph.D.)\
 Xiaofei Yu (2026-present; Renming University Ph.D.)\
 Yanyu Mao (2026-present; NTU Bachelor)\
 Mingyi He (2025-present; MIT Ph.D.; U.S)\
+Xiaochen Chang (2026-present; Chinese Academy of Social Sciences Ph.D.; now at Renlab; China)\
+Junkai Chen (2026-present; Chinese Academy of Sciences Ph.D.; now at Renlab; China)\
+Shengze Huang (2026-present; Tsinghua Master; now at Renlab; China)\
+Zhuoyu Wang (2025-present; NUS Master; now at NUS Ubicomp Lab and Renlab)\
 Dianyu Zhong (2023-2025; Tsinghua Ph.D.; now at QY lab)\
 Xinwei Wang  (2020-2024; Tsinghua Master; now at Gewu Tech, Xiaomi Company)\
 Yuexi Song (2025-2026; NUS Bachelor; Georgia Institute of Technology)\
-Zhuoyu Wang (2025-2026; NUS Master; now at NUS Ubicomp Lab)\
 Zijie Gao (2026; NUS Master)\
 Feng Ren Yeo (2025-2026: NTU Bachelor)\
 Zherui Shao (2023-2024; NUS Master)\
@@ -570,7 +573,7 @@ Zhe Yu (2022-2023; Tsinghua Master)\
 Zaixian Han (2020; Tsinghua Bachelor; Korea)\
 Meiling Piao (2019; Tsinghua Bachelor; Korea)\
 Xi Miao (2023-2025; Pennsylvania State University Bachelor; U.S)\
--->
+
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=Fqedyl9HmwV-Dlk4qDHDO6LQ4CFJXYxYt-hyoZ2Zfq8&cl=ffffff&w=300"></script>
 
 <a href="https://clustrmaps.com/site/1c4m1" title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=fVBZ21Ffx6OGBSgycqpY2E5ZD1nJe1BVYmN0XxW1HtM&cl=ffffff"></a>
