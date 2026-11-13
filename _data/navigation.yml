@@ -15,8 +15,6 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "Student"
+    url: "/#-(Co-)supervised students"
 
-  - title: "Internships"
-    url: "/#-internships"
