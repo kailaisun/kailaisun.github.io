@@ -556,10 +556,13 @@ Xu Yang (2025-present; Tsinghua Ph.D.)\
 Xiaofei Yu (2026-present; Renming University Ph.D.)\
 Yanyu Mao (2026-present; NTU Bachelor)\
 Mingyi He (2025-present; MIT Ph.D.; U.S)\
+Wenqi Bai (2026-present; Tsinghua Ph.D.)\
 Xiaochen Chang (2026-present; Chinese Academy of Social Sciences Ph.D.; now at Renlab; China)\
 Junkai Chen (2026-present; Chinese Academy of Sciences Ph.D.; now at Renlab; China)\
 Shengze Huang (2026-present; Tsinghua Master; now at Renlab; China)\
 Zhuoyu Wang (2025-present; NUS Master; now at NUS Ubicomp Lab and Renlab)\
+
+# Past (Co-)supervised students :
 Dianyu Zhong (2023-2025; Tsinghua Ph.D.; now at QY lab)\
 Xinwei Wang  (2020-2024; Tsinghua Master; now at Gewu Tech, Xiaomi Company)\
 Yuexi Song (2025-2026; NUS Bachelor; Georgia Institute of Technology)\
