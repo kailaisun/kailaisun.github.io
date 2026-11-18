@@ -49,7 +49,7 @@ I have published more than 20 first-author papers in top international journals 
 - **Kailai Sun**, Yuebing Liang, Mingyi He, Yunhan Zheng, Alok Prakash, Shenhao Wang, Jinhua Zhao,  Alex “Sandy” Pentland. [Envisioning global urban development with satellite imagery and generative AI](https://arxiv.org/abs/2603.26831). **Nature Communications.**
 - **Kailai Sun**, Mingyi He, Heye Huang, Can Rong, Yuzhou Chen, Alok Prakash, Baoshen Guo, Shenhao Wang, Jinhua Zhao. Satellite-based Energy and Carbon Data Generation for Sustainable Cities. **IEEE Transactions on Geoscience and Remote Sensing**.
 - Yuexi Song, **Kailai Sun***<sup>\*</sup>, Zhuoyu Wang, Mingyi He, Paul Pu Liang, Shenhao Wang, Jinhua Zhao. [BASeg: Boundary-Aware Remote Sensing Segmentation with Structural Penalties.](https://arxiv.org/pdf/2608.15683) **CVPR 2027** (**Corresponding author**)
-- Dianyu Zhong, Tian Xing, **Kailai Sun**<sup>\*</sup>, Xu Yang, Heye Huang, Irfan Qaisar, Tinggang Jia, Shaobo Wang, Qianchuan Zhao<sup>\*</sup>. [Hierarchical Control Framework Integrating Large Language Models with Reinforcement Learning for Decarbonized HVAC Operation](https://arxiv.org/abs/2603.26050). **Advanced Engineering Informatics.**(**Corresponding author**)
+
 - Xiaofei Yu<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Mao Yanyu, Baoshen Guo, Heye Huang, Yongcai Wang, Baotong Mi, Alok Prakash, Shenhao Wang, Jinhua Zhao. [AgenticCity-Bench: Longitudinal Multimodal Observations of Urban Dynamics with Agentic Reasoning.](https://arxiv.org/abs/2610.35293) **ICLR 2027**.(**Corresponding author**)
 - [Towards Privacy-Preserving Thermal Human Perception from Dataset to Deployment](https://arxiv.org/abs/2610.14846)
 - Xu Yang, **Kailai Sun**<sup>\*</sup>, Dianyu Zhong, Qianchuan Zhao<sup>\*</sup>. [ADAPT: A Diffusion-based Adaptive Physics-aware Indoor Environmental World Model for Transferable HVAC Control.](https://arxiv.org/abs/2608.19804) (**Corresponding author**)
@@ -63,6 +63,8 @@ I have published more than 20 first-author papers in top international journals 
 -->
 
 # 🔥 News
+
+- *2026.11.17*: 🎉🎉 Our paper (**Corresponding author**) is accepted:[Hierarchical Control Framework Integrating Large Language Models with Reinforcement Learning for Decarbonized HVAC Operation](https://arxiv.org/abs/2603.26050).  Dianyu Zhong, Tian Xing, **Kailai Sun**<sup>\*</sup>, Xu Yang, Heye Huang, Irfan Qaisar, Tinggang Jia, Shaobo Wang, Qianchuan Zhao<sup>\*</sup>. *Advanced Engineering Informatics* (**AEI**). (2026).(**Top** , SCI,  JCR Q1, IF:**11.5**).  
 
 - *2026.11.12*: 🎉🎉🎉 My paper (**First author**) is accepted: [DySENSE: Dynamic Spatiotemporal ENergy Synthesis and Emulation with Satellite Imagery.](https://arxiv.org/abs/2611.17878) **Kailai Sun**, Zijie Gao, Can Rong, Mingyi He, Alok Prakash, Baoshen Guo, Shenhao Wang, Jinhua Zhao. *Proceedings of the 33nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining*  (**KDD 2027**, CCF-A). [Code.](https://github.com/kailaisun/DySENSE) [MUSE2](https://huggingface.co/datasets/skl24/MUSE2).
 
