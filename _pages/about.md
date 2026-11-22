@@ -46,7 +46,7 @@ I have published more than 20 first-author papers in top international journals 
 
 ## Under review Paper
 
-- **Kailai Sun**, Yuebing Liang, Mingyi He, Yunhan Zheng, Alok Prakash, Shenhao Wang, Jinhua Zhao,  Alex “Sandy” Pentland. [Envisioning global urban development with satellite imagery and generative AI](https://arxiv.org/abs/2603.26831). **Nature Communications.**
+- **Kailai Sun**, Yuebing Liang, Mingyi He, Yunhan Zheng, Alok Prakash, Shenhao Wang, Jinhua Zhao, **Alex “Sandy” Pentland**. [Envisioning global urban development with satellite imagery and generative AI](https://arxiv.org/abs/2603.26831). **Nature Communications.**
 - **Kailai Sun**, Mingyi He, Heye Huang, Can Rong, Yuzhou Chen, Alok Prakash, Baoshen Guo, Shenhao Wang, Jinhua Zhao. Satellite-based Energy and Carbon Data Generation for Sustainable Cities. **IEEE Transactions on Geoscience and Remote Sensing**.
 - Yuexi Song, **Kailai Sun***<sup>\*</sup>, Zhuoyu Wang, Mingyi He, Paul Pu Liang, Shenhao Wang, Jinhua Zhao. [BASeg: Boundary-Aware Remote Sensing Segmentation with Structural Penalties.](https://arxiv.org/pdf/2608.15683) **CVPR 2027** (**Corresponding author**)
 
@@ -54,6 +54,7 @@ I have published more than 20 first-author papers in top international journals 
 - [Towards Privacy-Preserving Thermal Human Perception from Dataset to Deployment](https://arxiv.org/abs/2610.14846)
 - Xu Yang, **Kailai Sun**<sup>\*</sup>, Dianyu Zhong, Qianchuan Zhao<sup>\*</sup>. [ADAPT: A Diffusion-based Adaptive Physics-aware Indoor Environmental World Model for Transferable HVAC Control.](https://arxiv.org/abs/2608.19804) (**Corresponding author**)
 - Yue Cui, Kailai Sun<sup>\*</sup>. GlucoImg: Image-Enhanced Learning for Continuous Glucose Forecasting. (**Corresponding author**)
+- Xu Yang, Kailai Sun<sup>\*</sup>, Dianyu Zhong, Irfan Qaisar, Yu Yang, Qianchuan Zhao, **Jian Kang**. Improving Building Energy Efficiency with an Indoor Environmental World Model and Counterfactual Adaptive Learning. **Advanced Engineering Informatics** (**Corresponding author**)
  
 
 <!--
@@ -564,6 +565,7 @@ Xiaochen Chang (2026-present; Chinese Academy of Social Sciences Ph.D.; now at R
 Junkai Chen (2026-present; Chinese Academy of Sciences Ph.D.; now at Renlab; China)\
 Shengze Huang (2026-present; Tsinghua Master; now at Renlab; China)\
 Zhuoyu Wang (2025-present; NUS Master; now at NUS Ubicomp Lab and Renlab)\
+Hongjian Zhang (2026-present; CUHK Master; now at Renlab; China)\
 
 # Past (Co-)supervised students :
 Dianyu Zhong (2023-2025; Tsinghua Ph.D.; now at QY lab)\
