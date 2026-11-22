@@ -51,10 +51,11 @@ I have published more than 20 first-author papers in top international journals 
 - Yuexi Song, **Kailai Sun***<sup>\*</sup>, Zhuoyu Wang, Mingyi He, Paul Pu Liang, Shenhao Wang, Jinhua Zhao. [BASeg: Boundary-Aware Remote Sensing Segmentation with Structural Penalties.](https://arxiv.org/pdf/2608.15683) **CVPR 2027** (**Corresponding author**)
 
 - Xiaofei Yu<sup>1</sup>, **Kailai Sun**<sup>1,\*</sup>, Mao Yanyu, Baoshen Guo, Heye Huang, Yongcai Wang, Baotong Mi, Alok Prakash, Shenhao Wang, Jinhua Zhao. [AgenticCity-Bench: Longitudinal Multimodal Observations of Urban Dynamics with Agentic Reasoning.](https://arxiv.org/abs/2610.35293) **ICLR 2027**.(**Corresponding author**)
+- Xu Yang, **Kailai Sun**<sup>\*</sup>, Dianyu Zhong, Irfan Qaisar, Yu Yang, Qianchuan Zhao, **Jian Kang**. Improving Building Energy Efficiency with an Indoor Environmental World Model and Counterfactual Adaptive Learning. **Advanced Engineering Informatics** (**Corresponding author**)
 - [Towards Privacy-Preserving Thermal Human Perception from Dataset to Deployment](https://arxiv.org/abs/2610.14846)
 - Xu Yang, **Kailai Sun**<sup>\*</sup>, Dianyu Zhong, Qianchuan Zhao<sup>\*</sup>. [ADAPT: A Diffusion-based Adaptive Physics-aware Indoor Environmental World Model for Transferable HVAC Control.](https://arxiv.org/abs/2608.19804) (**Corresponding author**)
 - Yue Cui, Kailai Sun<sup>\*</sup>. GlucoImg: Image-Enhanced Learning for Continuous Glucose Forecasting. (**Corresponding author**)
-- Xu Yang, Kailai Sun<sup>\*</sup>, Dianyu Zhong, Irfan Qaisar, Yu Yang, Qianchuan Zhao, **Jian Kang**. Improving Building Energy Efficiency with an Indoor Environmental World Model and Counterfactual Adaptive Learning. **Advanced Engineering Informatics** (**Corresponding author**)
+
  
 
 <!--
